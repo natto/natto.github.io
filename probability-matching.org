@@ -1,0 +1,123 @@
+* background information
+
+** gambler's fallacy
+
+if a flipped coin comes up heads eight or nine times in a row, S is likely to decide that tails is "due" and so predict or bet on it on the next toss. This and similar sequential effects have been called the gambler's fallacy 
+
+
+
+* early
+
+** Decision-making behavior in a two-choice uncertain outcome situation
+
+*** tested 3 reward conditions:
+   1. no payoff :: no money made regardless of outcome
+   2. reward :: 5 cents reward on correct prediction, 0 otherwise
+   3. risk :: 5 cents reward on correct, 5 cents penalty if incorrect
+
+*** findings
+    
+    as predicted: probability matching greatest in no-reward (0.70) > reward (0.77) > risk (0.93)
+    
+    re-test of 4 subjects from each group a week later showed same ordering
+    
+*** quotes
+    
+    It would seem that Ss learn most rapidly under a condition of Risk
+    (increased reinforcement)
+    
+    The empirical fact that Ss' proportions of choices of the more
+    frequent event increase as reinforcement and risk are increased
+    seems to show that, in their choice behavior, Ss act as though
+    they were attempting to maxi- mize expected utility. If this is
+    the case we can designate the mixed strategy behavior, in the No
+    Payoff condition, as rational in that it will lead to the greatest
+    expected payoff in total satis- faction.
+
+** Effects of probability of misinformation and number of irrelevant dimensions upon concept identification
+   
+   
+   
+Factors influencing rate and extent of learning in the presence of misinformative feedback
+Information versus reward in binary choices
+Instructionally induced strategy and sequential information in probability learning
+Involvement and set as determinants of behavioral stereotypy
+Likelihood judgments and sequential effects in a two-choice probability learning situation
+Patterned predictions of chance events by children and adults
+Perception of the statistical structure of a random series of binary symbols
+Prediction of sequential two-choice decisions from event runs
+Probability learning and a negative recency effect in the serial anticipation of alternative symbols
+
+Relative and absolute strength of response as a function of frequency of reinforcement
+Sequential patterns and maximizing
+Some factors in probability matching
+The effects of response contingent probabilities which favor response change
+
+
+** Probability learning in 1000 trials
+
+   - subjects are basic airmen
+   - responses entered via cork sheet
+   - counterbalanced
+
+*** "probability following"
+
+    
+
+* cognitive
+
+An economist’s perspective on probability matching
+Banking on a bad bet: Probability matching in risky choice is linked to expectation generation
+Encouraging optimal responding in humans
+Glucose promotes controlled processing: Matching, maximizing, and root beer
+Irrational diversification in multiple decision problems
+Is probability matching smart? associations between probabilistic choices and cognitive ability
+Lateral prefrontal cortex contributes to maladaptive decisions
+Probability matching, accuracy maximization, and a test of the optimal classifier’s independence assumption in perceptual categorization
+Probability matching in choice under uncertainty: Intuition versus deliberation
+Probability matching involves rule-generating ability: A neuropsychological mechanism dealing with probabilities
+The effect of explanation in simple binary decision tasks
+The smart potential behind probability matching
+
+
+** Probability-matching in 10-month-old infants
+
+   observed 75% gaze to most common outcome in 100% deterministic setup, but only slightly above 50% (and not significantly different from chance) in the 70%/30% case.
+
+   -- I believe if anything this demonstrates a failure to learn/incorporate information under uncertainty, leading to near-chance expectation, unlike the authors's claim of seeing probability matching in the introduction.
+   
+** Probability learning in children
+   
+   
+   
+*** critique
+    
+    - effects of experiment III (pre-training game)
+      are argued as expectation of success
+      it can also be argued in terms of "priming the nondeterministic mindset".
+      also, the effort hypothesis (subjects who are encouraged to try harder will persist longer at a problem -- better solve a problem?). S in the 100% group effectively learn nothing, or, are over encouraged
+      
+*** impact
+    
+    should revisit the "time of day as proxy of education"; this may not be education-dependent at all. time of day may just as well be a proxy of something like available mental resources, where higher resources (or tendencies of pattern finding) leads to LESS maximization
+    
+    
+** Probability Matching in the Right Hemisphere
+
+*** method
+    
+    facial hair vs. non-facial hair
+    
+*** manipulation
+    
+    right hemisphere vs. left hemisphere
+    
+*** problem
+    
+    no information on how the left hemisphere perceived the faces
+    
+    the graph of LH shows basically 50/50 split in predictions throughout
+    
+    it is thus possible that LH simply did not perceive facial hair as facial hair
+    
+
