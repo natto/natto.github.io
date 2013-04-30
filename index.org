@@ -1,4 +1,5 @@
-
+# stuff to replace out
+# ’
 
 
 * topics
@@ -123,6 +124,76 @@ The graph is visually very impressive. The standard errors can be obtained from 
 
 For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It is better considered a group showing borderline significance above chance. Overall, it gives merit to the idea but I can't walk away convinced that this paper alone is enough to show it. Intruiging? Definitely.
 
+
+*** Atherton et al -- A Functional MRI Study of High-Level Cognition. I. The Game of Chess
+
+    [[doi:10.1016/S0926-6410(02)00207-0]]
+
+**** TODO retrieve images -- the ~-B~ comment needs context
+
+**** background quote
+
+     #+BEGIN_QUOTE
+     Cranberg and Albert hypothesized that chess ability is specialized in the right hemisphere, partly because they found high rates of left-handedness among serious players.     
+     #+END_QUOTE
+
+     - L.D. Cranberg, M.L. Albert, The chess mind, in: L. Kober, D. Fein (Eds.), The Exceptional Brain: Neuropsychology of Talent and Special Abilities, The Guilford Press, New York, 1988, pp. 156– 190.     
+
+**** methods
+
+     - 30s per block block-design
+
+***** game condition
+
+      #+BEGIN_QUOTE
+      Middlegame positions were selected from De Firmian and Korn by an experienced player who judged them to be of approximately equal complexity. The total number of pieces per board ranged from 25 to 30 with an average of 27.1 pieces per presentation. The total number of pieces was equal for each contemporaneous pair of game and random presentations. Subjects were asked to determine the next best move for White.
+      #+END_QUOTE
+
+      - N. De Firmian, W. Korn (Eds.), Modern Chess Openings: MCO-13, 13th Edition, David McKay, New York, 1990.      
+
+***** random condition
+
+      #+BEGIN_QUOTE
+      The placement of pieces in the middle of squares was avoided, because during pilot testing subjects indicated that such placement initiated thoughts of possible moves.
+      #+END_QUOTE
+      
+**** fmri results
+
+     surprising lack of hippocampus in -B conditions; but given that block was 30s, may have equalized
+
+
+**** discussion
+
+***** parietal lobes
+
+      #+BEGIN_QUOTE
+      areas of the parietal lobes are involved in numeric comparison [16] and approximation [6], as well as complex spatial tasks such as mental rotation [17].
+      #+END_QUOTE
+
+[6] S. Dehaene, E. Spelke, P. Pinel, R. Stanescu, S. Tsivkin, Sources of mathematical thinking: behavioral and brain-imaging evidence, Science 284 (1999) 970–974.
+
+[16] P. Pinel, S. Dehaene, D. Riviere, D. LeBihan, Modulation of parietal activation by semantic distance in a number comparison task, NeuroImage 14 (2001) 1013–1026.
+
+[17] W. Richter, K. Ugurbil, A. Georgopoulos, S. Kim, Time-resolved fMRI of mental rotation, NeuroReport 8 (1997) 3697–3702.
+
+
+***** spearman's g
+
+      #+BEGIN_QUOTE
+      Spearman's g, which is characterized as a single factor underlying performance on cognitive tasks (rather than drawing on a diverse set of skills)
+      #+END_QUOTE
+
+      sounds like an old fashioned view. is there an update?
+
+***** vs Go study
+
+      #+BEGIN_QUOTE
+      the main difference between the two studies was activation observed in area 44 for some of the Go subjects.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Another important result is the lack of significant hemispheric lateralization in the current study
+      #+END_QUOTE
 
 ** books
 
