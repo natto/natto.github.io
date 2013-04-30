@@ -210,3 +210,11 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
 
 [[file:probability-matching.org]]
 
+
+* assorted
+
+** voiceless velar fricative
+
+   http://en.wikipedia.org/wiki/Voiceless_velar_fricative
+
+   it lists Chinese "he2" as an example. I suspect this is region-specific and probably time-specific too.
