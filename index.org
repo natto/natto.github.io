@@ -195,6 +195,10 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
       Another important result is the lack of significant hemispheric lateralization in the current study
       #+END_QUOTE
 
+*** M. S. Harre et al -- The Aggregate Complexity of Decisions in the Game of Go
+
+    doi:10.1140/epjb/e2011-10905-8
+
 ** books
 
    Exit, Voice, and Loyalty
