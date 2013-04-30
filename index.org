@@ -130,6 +130,8 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
 
     [[doi:10.1016/S0926-6410(02)00207-0]]
 
+    this paper is interesting in that its cites the same group's GO paper in its dicsussion. it's an amusing cycle in the reference.
+
 **** TODO retrieve images -- the ~-B~ comment needs context
 
 **** background quote
@@ -199,6 +201,8 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
 *** M. S. Harre et al -- The Aggregate Complexity of Decisions in the Game of Go
 
     doi:10.1140/epjb/e2011-10905-8
+
+    this paper is interesting in that it cites the Chess paper in its discussion, an amusing cycle in the reference
 
 **** methods
 
