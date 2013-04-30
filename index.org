@@ -200,6 +200,57 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
 
     doi:10.1140/epjb/e2011-10905-8
 
+**** methods
+
+     #+BEGIN_QUOTE
+     Six male university students, all amateur players of GO with skill levels from level 1K to 1D (nonprofessional ranking) participated in the study.
+     #+END_QUOTE
+     
+***** random board condition
+
+      #+BEGIN_QUOTE
+      Subjects were instructed to search for the stones with low contrast dots among the 30 stones (visual search task).
+      #+END_QUOTE
+
+
+**** background quote
+
+     #+BEGIN_QUOTE
+     (1) the storage component of spatial working memory is biased in the right parietal areas [16,19]
+     #+END_QUOTE
+
+     - [16] E.E. Smith, J. Jonides, Working memory: A view from neuroimaging, Cogn. Psychol. 33 (1997) 5–42.
+     - [19] L.G. Ungerleider, S.M. Courtney, J.V. Haxby, A neural system for human visual working memory, Proc. Natl. Acad. Sci. USA 95 (1998) 883–890.
+
+
+     #+BEGIN_QUOTE
+     left BA44 / 45 is usually involved in language functions [2]
+     #+END_QUOTE
+     
+     - [2] R. Cabeza, L. Nyberg, Imaging cognition II: An empirical review of 275 PET and fMRI studies, J. Cogn. Neurosci. 12 (1) (2000) 1–47.
+
+     #+BEGIN_QUOTE
+     BA30 / 31, important for episodic memory retrieval [2], was active in the GO task.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The second issue is the involvement in GO playing of the so-called general intelligence ('g') areas recently roposed by Duncan and colleagues [6].
+     #+END_QUOTE
+
+     - [6] J. Duncan, R.J. Seitz, J. Kolodny et al., A neural basis for general intelligence, Science 289 (2000) 457–460.
+
+     #+BEGIN_QUOTE
+     more intelligent people often show less frontal activation when they are perform- ng analytical tasks [17].
+     #+END_QUOTE
+       
+     - [17] R.J. Sternberg, Cognition: The holey grail of general intelligence, Science 289 (2000) 399–401.
+
+**** results
+
+     #+BEGIN_QUOTE
+     The only noticeable difference between the two games is that playing GO may involve BA44 / 45 but playing chess may not.
+     #+END_QUOTE
+
 ** books
 
    Exit, Voice, and Loyalty
