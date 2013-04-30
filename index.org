@@ -3,6 +3,127 @@
 
 * topics
 
+** papers
+
+*** Similar brain activation patterns for writing logographic and phonetic symbols in Chinese
+
+    doi:10.1097/WNR.0b013e3282f0405b
+    
+*** human kin recognition
+
+    trying to understand the stats. can we replicate them?
+
+    based on Figure 2:
+
+#+TBLNAME: kin
+| type | question  | barcolor | expect | stderr | # self | N subjects | self / N |
+|------+-----------+----------+--------+--------+--------+------------+----------|
+| MZ   | sibling   | white    |     62 |      9 |     21 |       34.0 |       62 |
+| DZ   | sibling   | white    |     67 |      8 |     24 |       36.0 |       67 |
+| MZ   | emergency | gray     |     68 |      8 |     23 |       34.0 |       68 |
+| DZ   | emergency | gray     |     58 |      9 |     21 |       36.0 |       58 |
+#+TBLFM: $7=round($3*100/$6)
+
+with this, we've reproduced the bargraph values
+
+the conclusions are based on t-tests for those values
+
+
+This gives the first result (t_69 = 2.2, p = 0.030)
+
+#+BEGIN_SRC R :session rkin :var dkin=kin :results output
+t.test(c(rep(1, 44), rep(0, 26)), mu=0.5)
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+
+	One Sample t-test
+
+data:  c(rep(1, 44), rep(0, 26)) 
+t = 2.2103, df = 69, p-value = 0.0304
+alternative hypothesis: true mean is not equal to 0.5 
+95 percent confidence interval:
+ 0.5125278 0.7446151 
+sample estimates:
+mean of x 
+0.6285714
+#+end_example
+
+
+This gives the second result (t_69 = 2.5, p = 0.016)
+
+#+BEGIN_SRC R :session rkin :var dkin=kin :results output
+t.test(c(rep(1, 45), rep(0, 25)), mu=0.5)
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+
+	One Sample t-test
+
+data:  c(rep(1, 45), rep(0, 25)) 
+t = 2.4766, df = 69, p-value = 0.01572
+alternative hypothesis: true mean is not equal to 0.5 
+95 percent confidence interval:
+ 0.5277812 0.7579331 
+sample estimates:
+mean of x 
+0.6428571
+#+end_example
+
+I was first wondering whether using a binomial test would be more proper. e.g.,
+
+#+BEGIN_SRC R :session rkin :var dkin=kin :results output
+binom.test(44, n=70)
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+
+	Exact binomial test
+
+data:  44 and 70 
+number of successes = 44, number of trials = 70, p-value = 0.04139
+alternative hypothesis: true probability of success is not equal to 0.5 
+95 percent confidence interval:
+ 0.5047659 0.7411302 
+sample estimates:
+probability of success 
+             0.6285714
+#+end_example
+
+
+To replicate the first case. That's fine and all. Then it occured to me that
+
+DZ twins are essentially just identically aged-non-twins. They are actually collapsing across the MZ/DZ groups to get the results. Therefore, at best, we should look at the MZ group only.
+
+The highest detection group (gray = emergency) would be
+
+#+BEGIN_SRC R :session rkin :var dkin=kin :results output
+binom.test(23, n=34)
+#+END_SRC
+
+#+RESULTS:
+#+begin_example
+
+	Exact binomial test
+
+data:  23 and 34 
+number of successes = 23, number of trials = 34, p-value = 0.05761
+alternative hypothesis: true probability of success is not equal to 0.5 
+95 percent confidence interval:
+ 0.4947347 0.8261166 
+sample estimates:
+probability of success 
+             0.6764706
+#+end_example
+
+The graph is visually very impressive. The standard errors can be obtained from the t-test of say =t.test(c(rep(1, 21), rep(0, 13)), mu=0.5)= via =(0.7897572 - 0.4455369) * 100 / 3.92=, or 8.78.
+
+For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It is better considered a group showing borderline significance above chance. Overall, it gives merit to the idea but I can't walk away convinced that this paper alone is enough to show it. Intruiging? Definitely.
+
+
 ** books
 
    Exit, Voice, and Loyalty
