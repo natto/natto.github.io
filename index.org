@@ -244,7 +244,7 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      - [6] J. Duncan, R.J. Seitz, J. Kolodny et al., A neural basis for general intelligence, Science 289 (2000) 457–460.
 
      #+BEGIN_QUOTE
-     more intelligent people often show less frontal activation when they are perform- ng analytical tasks [17].
+     more intelligent people often show less frontal activation when they are performing analytical tasks [17].
      #+END_QUOTE
        
      - [17] R.J. Sternberg, Cognition: The holey grail of general intelligence, Science 289 (2000) 399–401.
