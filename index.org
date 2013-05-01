@@ -255,6 +255,49 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      The only noticeable difference between the two games is that playing GO may involve BA44 / 45 but playing chess may not.
      #+END_QUOTE
 
+
+*** Recall of rapidly presented random chess positions is a function of skill
+
+**** background
+
+     #+BEGIN_QUOTE
+     A classical result in the study of expertise is that experts
+are better than nonexperts at memorizing meaningful material from their domain of expertise, but lose their superiority when the material is randomized. This result was first obtained in the study of chess memory (Chase & Simon, 1973b; Jongman & Lemmens, cited in Vicente & De Groot, 1990) and has since been widely cited in cognitive psychology textbooks (see, e.g., Anderson, 1990;
+Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (Saariluoma, 1989).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Simon and Chase (1973) have proposed that 10,000h, or about 10 years, of intense practice and study are necessary to reach a high level of expertise.
+     #+END_QUOTE
+
+     on the topic of
+
+     #+BEGIN_QUOTE
+     the general view among students of expert memory has been that there is nodifference in recall with the standard presentation time of 5 sec
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     In all cases, except in Chase and Simon's (1973b) study, recall performance increases monotonically as a function of skill.
+     ...
+     the strongest skill group out performed the weakest in 12 cases out of 13.
+     #+END_QUOTE
+
+**** meta analysis
+
+     #+BEGIN_QUOTE
+     skill difference in recall with random positions is small (roughly one piece per additional 400 ELO points), much less than for the recall of game positions, where an increase of 400 ELO points typically yields an increase of about five pieces.
+     #+END_QUOTE
+     
+     (there's a plot here)
+
+**** best candidate explanation
+
+     #+BEGIN_QUOTE
+     a large database of chunks in LTM, occasionally allowing the recognition of stored patterns that occur by chance in random positions
+     #+END_QUOTE
+
+     an agreeable explanation
+
 ** books
 
    Exit, Voice, and Loyalty
