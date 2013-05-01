@@ -1,6 +1,8 @@
 # stuff to replace out
 # ’ -> '
 # ‘ -> '
+# “ -> "
+# ” -> "
 
 
 * topics
@@ -297,6 +299,67 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
 
      an agreeable explanation
+
+*** Perception in Chess
+
+    their interpretation of the results from de Groot 1965 & 1966 is nicely stated
+
+    #+BEGIN_QUOTE
+    Specifically, if a chess master can remember the location of 20 or more pieces on the board, but has space for only about five chunks in short-term memory, then each chunk must be composed of four or five pieces, organized in a single relational structure.
+    #+END_QUOTE
+
+    citations on prior studies involving eye movements wrt the chess board
+    
+    - de Groot, Adriaan D. "Perception and memory versus thought: Some old ideas and recent findings." Problem solving (1966): 19-50.
+    - Simon, Herbert A., and Michael Barenfeld. "Information processing analysis of perceptual processes in problem solving." Psychological Review 76.5 (1969): 473-483.
+    - Tikhomirov, O. K., and E. D. Poznyanskaya. "An investigation of visual search as a means of analyzing heuristics." Journal of Russian and East European Psychology 5.2 (1966): 3-15.
+    - Winikoff, Arnold W. Eye movements as an aid to protocol analysis of problem solving behavior. Diss. Carnegie-Mellon University, 1967.
+
+**** background information
+
+     #+BEGIN_QUOTE
+     Dansereau (1969), studying times of performance of mental arithmetic and related tasks, estimated that about 2 sec was needed to begin processing a chunk whose label was held in short-term memory, and only about 300 msec to transfer to short-term memory each successive element of the chunk. Intervals even shorter than 300 msec intervals are familiar from other experiments on the speed with which subjects can count down familiar lists (Landauer, 1962; Pierce & Karlin, 1957). 
+     #+END_QUOTE
+
+
+**** methods
+
+     3 subjects!
+
+     motivation
+
+     #+BEGIN_QUOTE
+     In the perception task, we ask chess players to reconstruct a chess position while it remains in plain view, and we use subjects' successive glances at the board as an index of chunking. The basic assumption is that, under the conditions of the experiment, the subject will encode only one chunk per glance while reconstructing the position.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     hypothesis that long pauses would correspond to boundaries between successive chunks, while short time intervals between pieces would indicate that the pieces belonged to the same chunk in memory. 
+     #+END_QUOTE
+
+**** results
+
+     #+BEGIN_QUOTE
+     from the within-glance relations, it appears that subjects are noticing the pawn structure, clusters of pieces of the same color, and attack and defense relations over small spatial distances. 
+     #+END_QUOTE
+
+     i.e., chunking is facilitated by spatial proximity. Not surprising, but speaks against the notion that if we have a master, they are chunking the board -- though, it could be possible, with a large enough repertoire. The point being that what's observed here is within expectation of skill mastery.
+
+     
+
+***** reconstruct the table?
+
+
+***** interview
+
+      #+BEGIN_QUOTE
+      M, when interviewed after the experiment, reported that he was troubled by positions that looked "unreasonable." He also reported difficulty with positions that were not quiet, complaining that he couldn't get the "sense" of the position when it was in the middle of an exchange. 
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      M recognized four of the nine new positions, and always within the first second of exposure
+      #+END_QUOTE
+
+      
 
 ** books
 
