@@ -384,16 +384,58 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
     Campitelli et al
 
-    
+**** background
+
+     #+BEGIN_QUOTE
+     [chess players] maintained their level of performance in memory tasks when less familiar symbols were used to represent the position (i.e., the use of the initial of the name of the chess piece on the board, instead of the normal symbol that represents the piece
+     #+END_QUOTE
+
+     that is citing Chase and Simon (1973)
+
+     #+BEGIN_QUOTE
+     The templates theory was implemented in a computer model—CHREST (Gobet & Jansen, 1994)—that contains a "mental eye," a short-term memory, and a long-term memory. The mental eye allows the formation of mental images, either from retina stimulation or from the activation of information in memory. The short-term memory is a vector with a capacity for 4 items, and the long-term memory contains a discrimination network in which chunks and templates are formed by means of familiarization and discrimination processes. This model has successfully simulated the performance of chess-players of different levels in memory tasks (Gobet & Simon, 2000), as well as the chess-players’ eye-movements (De Groot & Gobet, 1996). It has also simulated problem-solving in computer programmers (Lane, Cheng, & Gobet, 2001) and language acquisition (Gobet et al., 2001)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Nichelli and colleagues (1994) found brain activation in the left middle temporal lobe in a task that consisted of determining whether or not a move was legal. Onofrj et al. (1995) and Atherton, Zhuang, Bart, Hu, and Sheng (2003) studied chess-players who had to solve a chess problem while their brain activity was recorded. Onofrj et al. found brain activity in the nondominant superior frontal lobe and medial temporal lobe (that is, the right hemisphere in right-handed individuals and the left one in left-handed individuals). Atherton et al. found left hemisphere activation in the superior frontal lobe and cerebellum, and bilateral activation in the precuneus and posterior cingulate cortex. Lastly, Amizdic, Riehle, Fehr, Wienbruch, and Elbert, (2001) obtained brain images of chess-players while they played a game against a computer. They found a different distribution of brain activation in masters as compared with players of a lower level. The former showed a relatively more extended activation pattern in the frontal and parietal lobes than in medial temporal areas, whereas the lower level chess-players showed a relatively opposite distribution
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     tasks requiring a greater cognitive demand, such as solving a chess problem or playing a game of chess, tend to activate frontal and parietal areas (Amizdic et al., 2001; Atherton et al., 2003; Onofrj et al., 1995). Conversely, tasks that require the mere retrieval of relevant information, such as chess rules, tend to activate temporal areas (Nichelli et al., 1994)
+     #+END_QUOTE
+
+     
 
 **** method
 
      setup of the task is essentially a 1-back task. unfortunately there wasn't a "logically same" condition, which compares whether the trial condition is logically the same as the reference board (this would be tricky though; it would require something like 1. a logically same condition where all pieces are changed -- otherwise it would be the "identical" condition; 2. a rotation condition, with/without piece appearance changes, plus foil pieces such that a simple rotation would not sufficiently determine logical equality; then for 2. again, a contrast of mental rotation condition is a further requirement).
 
-     for the novices, a legal vs. illegal chess board would not carry as much "meaning" as it would for experts. the setup using 1-back then is a contrast of *automatized vs non-automatized* processes. for the novices, since chessboard processing is *non-automatized*, the 1-back task results should display activations like a visual comparison task (as in a pure visual process), a short term memory task (as in what should be expected in a standard 1-back task regardless of stimulus modality), a visual search task, and to a small extent a LTM retrieval task (matching pieces to rules/roles, especially in the position-scene condition).
+     for the novices, a legal vs. illegal chess board would not carry as much "meaning" as it would for experts. the setup using 1-back then is a contrast of *automatized vs non-automatized* processes. for the novices, since chessboard processing is *non-automatized*, the 1-back task results should display activations like a visual comparison task (as in a pure visual process), a short term memory task (as in what should be expected in a standard 1-back task regardless of stimulus modality), a visual search task (authors recognize the possibiilty of the delay period being a "visual review" in discussion), and to a small extent a LTM retrieval task (matching pieces to rules/roles, especially in the position-scene condition).
 
 
+**** results
 
+     anecdote on 2 master subjects on memorizing the geometric correspondence
+
+     #+BEGIN_QUOTE
+     The two masters commented to the experimenter that they easily memorized the correspondence of the geometric figures with chess pieces, and this was facilitated by the similarity between the figures and the pieces, and that during the experiment, they perceived the figures as if they were chess pieces.
+     #+END_QUOTE
+
+     unfortunately we can't tell how much the memorization of the correspondence was facilitated by the similarity of chess pieces. Though intuitively, maximal discruption could be achieved if we simply shuffled pieces for the mapping (e.g. Pawns to Rooks, Rooks to Kings, etc.). The interesting and unanswered case here is for a minimally disruptive but minimally informative mapping (say, blobs), how easy would the mapping be, and what happens on a correct mapping?
+
+     A possibility if we use random blobs is there's a mental burden of recalling the blob -> piece correspondence, which should be shared across novices and experts as a simple paired-associate learning task. The question is whether expert LTM of spatial arrangements and logical positions actually facilitates remembering. But that would be similar to say, decoding ROT13 (or any substitution cipher) for an average English speaker. Thus I'd believe that the geometric similarity is highly important. So the reference to Chase and Simon (1973), where they used the initials of the pieces, probably still demonstrates domain specific memory.
+     
+     regarding result of "brain activation in frontal areas of the novices but not in the masters":
+     
+     #+BEGIN_QUOTE
+     the masters' familiarity with the chess symbols resulted in their not generating any additional processing demand
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+      in contrast to the masters, the novices require high activation in frontal areas in the chess position condition, which suggests a switch in the masters’ type of processing, from anterior to posterior areas of the brain.
+     #+END_QUOTE
+     
+     
 ** books
 
    Exit, Voice, and Loyalty
