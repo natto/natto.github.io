@@ -492,14 +492,18 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The experts indicated that they could perceive all or most of the chess boards within 2 s. Several reported that random chess was more difficult to perceive than real chess. Novices reported that they could rarely perceive all of the pieces and none reported that they were aware that the random games were impossible according to the rules of chess, a distinction all experts readily reported.
      #+END_QUOTE
 
-     This is the only behavioral difference between experts and novices in this task.
-
      #+BEGIN_QUOTE
      The only significant group difference was that experts (M = 97.92%, SD = 3.23) were more accurate at detecting repeats of chess boards than novices (M = 87.50%, SD = 13.69).
      #+END_QUOTE
 
      #+BEGIN_QUOTE
      We directly compared the groups on the chess minus random chess contrast using a random-effects fMRI group analysis (uncorrected p < .001, 20 voxel minimum) (refer to Fig. 1B and C). Significant differences emerged with experts showing greater activation in the left orbitofrontal cortex (x = -4, y = 58, z = -2), in the left (x = -10, y = -50, z = 12) and right posterior cingulate (x = 14, y = -52, z = 2), and in the left anterior temporal cortex (x = -50, y = 8, z = -26). By contrast, the novices showed greater activation than experts in two distinct clusters in right parietal cortex (x = -32, y = -52, z = 40) and (x = -38, y = -54, z = 46).
+     #+END_QUOTE
+
+     The seemingly across-the-board lower activation in the left FFA for experts compared to novices (also Right FFA, though probably visually insignificant) is very curious. I don't see this being addressed directly in the paper but definitely looks worth digging into.
+
+     #+BEGIN_QUOTE
+     There may be instances in which face-sensitive areas respond to chess stimuli [21,24], but our results indicate that this does not reflect basic perceptual processing of the type that was examined in the present study and in most prior studies that have established the existence of the fusiform face area [13,18]
      #+END_QUOTE
 
      #+BEGIN_QUOTE
