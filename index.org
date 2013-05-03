@@ -380,6 +380,19 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       #+END_QUOTE
 
       
+*** Structure and Stimulus Familiarity A Study of Memory in Chess-Players with fMRI
+
+    Campitelli et al
+
+    
+
+**** method
+
+     setup of the task is essentially a 1-back task. unfortunately there wasn't a "logically same" condition, which compares whether the trial condition is logically the same as the reference board (this would be tricky though; it would require something like 1. a logically same condition where all pieces are changed -- otherwise it would be the "identical" condition; 2. a rotation condition, with/without piece appearance changes, plus foil pieces such that a simple rotation would not sufficiently determine logical equality; then for 2. again, a contrast of mental rotation condition is a further requirement).
+
+     for the novices, a legal vs. illegal chess board would not carry as much "meaning" as it would for experts. the setup using 1-back then is a contrast of *automatized vs non-automatized* processes. for the novices, since chessboard processing is *non-automatized*, the 1-back task results should display activations like a visual comparison task (as in a pure visual process), a short term memory task (as in what should be expected in a standard 1-back task regardless of stimulus modality), a visual search task, and to a small extent a LTM retrieval task (matching pieces to rules/roles, especially in the position-scene condition).
+
+
 
 ** books
 
