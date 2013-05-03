@@ -436,6 +436,91 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
      
      
+*** The neural organization of perception in chess experts
+
+    Krawczyk et al
+
+    doi:10.1016/j.neulet.2011.05.033
+
+**** background
+
+     #+BEGIN_QUOTE
+     the fusiform is considered to be a neural marker of visual expertise, as other studies have reported selective fusiform activity when car experts and bird experts perceive cars and birds and when radiologists examine scans [12,27,17].
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     A recent documentary film showed a neuroimaging clip with a chess expert and suggested that the face-selective fusiform can be "hijacked" to process chess patterns [23].
+     #+END_QUOTE
+
+     [23] K. Scott, (Producer/Director) My Brilliant Brain: Make Me a Genius [Television series episode]. London, 2007, Windfall Films
+
+     This is the show where they scanned Susan Polgar's brain
+
+     #+BEGIN_QUOTE
+     Words have been shown to produce highly specific neural effects that depend on specific configurations, such as the presence of vowels versus consonants [5].
+     #+END_QUOTE
+
+     [5] M. Carreiras, J.A. Du˜nabeitia, N. Molinaro, Consonants and vowels contribute differently to visual word recognition: ERPs of relative position priming, Cereb. Cortex 19 (2009) 2659–2670.
+     
+     #+BEGIN_QUOTE
+     Dehaene et al. [8] recently reported that reading experience shows evidence of domain general effects in V1, temporal, and fusiform cortex, as literacy increased overall neural responses in these areas.
+     #+END_QUOTE
+
+     [8] S. Dehaene, F. Pegado, L.W. Braga, P. Ventura, G.N. Filho, A. Jobert, G. Dehaene-Lambertz, R. Kolinsky, J. Morais, L. Cohen, How learning to read changes the cortical networks for vision and language, Science 330 (2010) 1359–1364
+
+**** methods
+
+     #+BEGIN_QUOTE
+     These subjects ranked within the top one percent of tournament players (five International Masters, one Grandmaster). Their expertise was substantiated by their com-petitive ratings (Elo range = 2447–2583; M = 2515), years playing (M = 16 years), and tournament activity (M = 17 per year)
+     #+END_QUOTE
+
+     The years playing is a potentially interesting confound; the mean age of participants here is 23; for the expert level subjects then the mean start age is around 7 years old. We should expect substantial plasticity during this age and resulting cortical reorganization that cannot be observed from training adults for the same duration.
+
+     #+BEGIN_QUOTE
+     Images were presented off-set from center to the right or left in an alternating sequence to avoid apparent motion effects in the chess conditions between non-matching items in sequence.
+     #+END_QUOTE
+
+     good idea.
+
+     #+BEGIN_QUOTE
+     chess minus random chess contrast between groups ... showed no significant clusters in novices. In experts, this contrast resulted in two clusters within the posterior cingulate (MNI coordinates: x = 32, y = 10, z = 12) and the right insula (x = 12, y = -50, z = 10).
+     #+END_QUOTE
+     
+**** results
+
+     #+BEGIN_QUOTE
+     The experts indicated that they could perceive all or most of the chess boards within 2 s. Several reported that random chess was more difficult to perceive than real chess. Novices reported that they could rarely perceive all of the pieces and none reported that they were aware that the random games were impossible according to the rules of chess, a distinction all experts readily reported.
+     #+END_QUOTE
+
+     This is the only behavioral difference between experts and novices in this task.
+
+     #+BEGIN_QUOTE
+     The only significant group difference was that experts (M = 97.92%, SD = 3.23) were more accurate at detecting repeats of chess boards than novices (M = 87.50%, SD = 13.69).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     We directly compared the groups on the chess minus random chess contrast using a random-effects fMRI group analysis (uncorrected p < .001, 20 voxel minimum) (refer to Fig. 1B and C). Significant differences emerged with experts showing greater activation in the left orbitofrontal cortex (x = -4, y = 58, z = -2), in the left (x = -10, y = -50, z = 12) and right posterior cingulate (x = 14, y = -52, z = 2), and in the left anterior temporal cortex (x = -50, y = 8, z = -26). By contrast, the novices showed greater activation than experts in two distinct clusters in right parietal cortex (x = -32, y = -52, z = 40) and (x = -38, y = -54, z = 46).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     we did not observe clear reductions in FFA activation either in chess experts or in chess novices. Such a finding would be consistent with neural plasticity dedifferentiating standard face expertise responses [8,22].
+     #+END_QUOTE
+
+     [22] B. Rossion, C.C. Kung, M.J. Tarr, Visual expertise with nonface objects leads to competition with the early perceptual processing of faces in the human occipitotemporal cortex, Proc. Natl. Acad. Sci. U.S.A. 101 (2004) 14521-14526.
+     
+**** conclusion
+
+     #+BEGIN_QUOTE
+     Our results are most consistent with the position that chess and face expertise are processed independently as measured by modulation of fusiform responses in experts ... cortical regions sensitive to face processing showed face selectivity without overlap with chess.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     There was some differential activation of the left parietal cortex in novices over experts associated with real game chess processing. The parietal lobes have been associated with spatial processing previously [3], suggesting that this activation may have been related to a greater level of visual location search than occurred for the expert group. The left temporo-parietal junction showed evidence of chess modulation in experts. This is an area that has been associated with integration of visual features, thus providing the clearest evidence of a perceptually driven neural change related to chess expertise.
+     #+END_QUOTE
+
+     [3] G. Campitelli, F. Gobet, K. Head, M. Buckley, A. Parker, Brain localization of memory chunks in chess players, Int. J. Neurosci. 117 (2007) 1641–1659
+
+
 ** books
 
    Exit, Voice, and Loyalty
