@@ -344,8 +344,28 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
      i.e., chunking is facilitated by spatial proximity. Not surprising, but speaks against the notion that if we have a master, they are chunking the board -- though, it could be possible, with a large enough repertoire. The point being that what's observed here is within expectation of skill mastery.
 
-     
+     from Chess Relations for Random Positions (table 3):
 
+     #+BEGIN_QUOTE
+     subjects are noticing the same kinds of structures in the random positions as in the game positions even though such structures are rare in the random positions.
+     #+END_QUOTE
+     
+     i.e. the same chunking strategies are being used when confronted with an unfamiliar setup.
+
+     Very nice: Figure 5 shows interpiece latencies vs. number of relations {A, P, C, S, D} between pairs.
+
+     #+BEGIN_QUOTE
+     For the middle-game positions, the average number of pieces per glance was 2.0, 2.8, and 2.0, respectively, for M, A, and B. For the memory experiment, however, the corresponding number of pieces per chunk was 2.5, 2.1, and 1.9, respectively. Thus, it appears that the chunks are about the same size in both tasks, but that chess skill is reflected in the speed with which chunks are perceived in the perception task and the size of the chunks in the memory task.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     M achieves his superior performance by recalling both more chunks and larger chunks.
+     #+END_QUOTE
+
+     (chunks are identified by "two or more pieces within 2 sec")
+
+     The general estimate of the vocabulary size for the master subject is something around a half dozen classic / stereotyped positions.
+     
 ***** reconstruct the table?
 
 
@@ -380,3 +400,33 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
    http://en.wikipedia.org/wiki/Voiceless_velar_fricative
 
    it lists Chinese "he2" as an example. I suspect this is region-specific and probably time-specific too.
+
+* A Conversation with Elon Musk
+
+  https://www.youtube.com/watch?v=vDwzmJpI4io
+
+** Mars Oasis concept
+
+17:18 the public responds to precedents and superlatives. So, we're the first life on mars, the farthest that life's ever traveled, and you have this money shot of green plants on a red background. So, that seemed like it would get people pretty excited.
+
+34:00 the nature of new technology adoption is it tends to follow an S-curve. so what usually happens is people underpredict in the beginning, because people tend to extrapolate on a straight line, and then they will overpredict it kind of at the midpoint because there's late adopters, and it will actually take longer than people think at the midpoint, but much shorter than people think at the beginning.
+
+** QA 1: on startups and profits
+
+   a lot of times people think creating companies is gonna be fun.
+
+   i would say it's really not that fun. there are periods of fun, and there are periods where it's just awful.
+
+   and particularly if you're the CEO of the company, you actually have a distillation of all the worst problems in the company. there's no point in spending your time on things that are going right, so you're only spending your time on things that are going wrong.
+
+   and there are things that are going wrong that other people can't take care of. so you have like the worst -- you have a filter for the crappest problems in the company. the most pernicious and painful problems.
+
+   
+
+** QA 2: on the hyperloop
+
+   so if we had something like the hyperloop, they would be like, cool!, you look forward to the day that that was working.
+   even if it were only in one place (LA to SFO, or NY to DC or something like that). it would be cool enough that it would be like a tourist attraction.
+   ... when you come up with a new technology, it should feel like that. if you told it to an objective person, would they look forward to the day that that thing became available.
+
+   
