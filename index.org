@@ -525,6 +525,79 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      [3] G. Campitelli, F. Gobet, K. Head, M. Buckley, A. Parker, Brain localization of memory chunks in chess players, Int. J. Neurosci. 117 (2007) 1641–1659
 
 
+*** Frontal Lobe Function in Chess Players
+
+    Nejati et al 2012
+
+    motivation is interesting from a training perspective
+    #+BEGIN_QUOTE
+    If chess players have higher performance in executive functions, chess could be suggested as a game for training cognitive functions and chess players might be trained with cognitive rehabilitation.
+    #+END_QUOTE
+
+**** background
+
+     #+BEGIN_QUOTE
+     The WCST is a neuropsychological test assumed to be sensitive to frontal lobe damage, (16) especially dorsolateral prefrontal cortex dysfunction (17)
+     #+END_QUOTE
+
+     [16] Heaton RK, Chelune GJ, Talley JL, Kay GG, Curtiss G. Resources; 1993.
+     
+     [17] Demakis GJ. A meta-analytic review of the sensitivity of the Wisconsin Card Sorting Test to frontal and lateralized frontal brain damage. Neuropsychology 2003;17(2):255-64.
+
+     #+BEGIN_QUOTE
+     [the total numbers of perseveration and the number of completed categories] on the WCST are generally the most sensitive to bilateral dorsolateral prefrontal cortex damage (16,18)
+     #+END_QUOTE
+
+     [18] Stuss DT, Levine B, Alexander MP, Hong J, Palumbo C, Hamer L, Murphy KJ, Izukawa D. Wisconsin Card Sorting Test performance in patients with focal frontal and posterior brain damage: effects of lesion location and test structure on separable cognitive processes. Neuropsychologia 2000;38(4):388-402.
+
+**** methods
+
+     there's an interestingly high gender imbalance (female favoring). I haven't seen anything on gender differences in neural mechanisms in high level board games. But there are certainly reasons that they may be different.
+
+     The Stroop task's results are surprising enough to make me doubt the results. The culprit is in the =Interference= condition, where for both =Player= and =non-Player=, the run times (presumably, since units are not labeled) are both /faster/ than either =Color= or =Color-word=.
+
+**** results
+
+     #+BEGIN_QUOTE
+     Based on our findings in the Stroop test, chess players don't have any preference in selective attention and inhibition
+     #+END_QUOTE
+
+     While the results are suspect, this is still a possibility (which would also be surprising).
+
+**** some more background studies regarding chess, problem solving, intelligence, and other psychometrics
+
+     #+BEGIN_QUOTE
+     Waters et al. found no association between chess skill and the Shape Memory test, as a measure of visual memory ability (8).
+     #+END_QUOTE
+
+     [8] Waters AJ, Gobet F, Leyden G. Visuospatial abilities of chess players. Br J Psychol 2002;93(Pt 4):557-65
+
+     #+BEGIN_QUOTE
+     Grabner et al. found no association between chess rating and intelligence (20). In another study (5), found no association between chess skill and the scores on the Raven's Progressive Matrices, Digit Span, and Corsi block-tapping test in chess players. 
+     #+END_QUOTE
+
+     [20] Grabner RH, Stern E, Neubauer AC. Individual differences in chess expertise: a psychometric investigation. Acta Psychol (Amst) 2007;124(3):398-420.
+
+     [5] Unterrainer JM, Kaller CP, Halsband U, Rahm B. Planning abilities and chess: a comparison of chess and non-chess players on the Tower of London task. Br J Psychol 2006;97(Pt 3):299-311
+
+     #+BEGIN_QUOTE
+     Gobet et al.stated in their article that they were not aware of a single study that has shown that more skilled chess players outperform less-skilled chess players on any psychometric test (21)
+     #+END_QUOTE
+
+     [21] Gobet F. Cognitive psychology of chess expertise. In: Smelser NJ, Baltes PB, editors. International Encyclopedia of Social and Behavioral Sciences. New York: Elsevier Science; 2001.
+
+     #+BEGIN_QUOTE
+     Frydman and Lynn tested 33 child tournament players with the Wechsler Intelligence Scale for Children (WISC), and reported that scores significantly above average for general intelligence (mean IQ=121) and the performance IQ (mean IQ=129) but not for verbal intelligence (mean IQ=109), and concluded that high-level chess playing requires a good general intelligence and strong visuospatial abilities (22)
+     #+END_QUOTE
+
+     [22] Frydman M, Lynn R. The general intelligence and spatial abilities of gifted young Belgian chess players. Br J Psychol 1992;83 (Pt 2):233-5.
+
+     #+BEGIN_QUOTE
+     Bilalic et al. highlights this unambiguous association between intelligence and chess skill (23)
+     #+END_QUOTE
+
+     [23] Bilalić M, McLeod P, Gobet F. Does chess need intelligence? A study with young chess players. Intelligence 2007;35(5):457-70. 
+     
 ** books
 
    Exit, Voice, and Loyalty
