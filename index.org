@@ -597,7 +597,56 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
 
      [23] Bilalić M, McLeod P, Gobet F. Does chess need intelligence? A study with young chess players. Intelligence 2007;35(5):457-70. 
+
+*** Chess Masters Show a Hallmark of Face Processing With Chess
+
+    Boggan, Bartlett, Krawczyk 2011
+
+**** background
+
+     #+BEGIN_QUOTE
+     composite paradigm (Young et al., 1987)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     as car expertise increased, the congruency effect grew relatively stronger for faces interleaved with transformed cars than for faces interleaved with normal cars. These findings, along with converging electrophysiological data, were interpreted as evidence that the congruency effect reflects "holistic" processing and that as car expertise increases, holistic processing of normal cars increases and comes to interfere with holistic processing of faces.
+     #+END_QUOTE
+
+
+     #+BEGIN_QUOTE
+     Supporting de Groot's holistic hypothesis, experts require fewer eye fixations to encode positions and tend to focus between, rather than on, individual pieces (de Groot & Gobet, 1996; Reingold & Charness, 2005)
+     #+END_QUOTE
+
+
+**** results
+
+     #+BEGIN_QUOTE
+     The practice estimates showed no reliable correlations, but starting age was reliably correlated with the face congruency effect, r(27) = .42, p = .03, CI [.048, .689], though not with the chess congruency effect, r = -.06, CI [-.43, .327]. 
+     #+END_QUOTE
+
+
+     #+BEGIN_QUOTE
+     a chunking and template-formation process involving integrated part-shape and part-spacing information is a strong candidate for what is common in face and chessboard processing among chess experts
+     #+END_QUOTE
      
+
+     The results also evidence congruency as interference in automaticity of processing
+
+
+*** The valuation system: A coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value.
+
+    Bartra, McGuire, & Kable (2013)
+
+
+    #+BEGIN_QUOTE
+    Both primary and monetary incentives elicited SV responses in the same brain regions. This aspect of our results aligns with an emerging consensus that a unitary neural system, including regions of striatum and VMPFC, represents SV across different categories of goods (Chib et al., 2009; Kim et al., 2011; Levy and Glimcher, 2011, 2012). We found no evidence for regions that encoded primary rewards exclusively.
+
+    The similarity of SV responses acrossmonetary and primary-reward outcomes is important because it suggests that a reward that is merely signaled (e.g., money) is evaluated similarly to one that is actually con-sumed (e.g., juice). This equivalence would not necessarily have been expected under a literal interpretation of standard economic models (Camerer et al., 2005)
+    #+END_QUOTE
+
+
+
+
 ** books
 
    Exit, Voice, and Loyalty
