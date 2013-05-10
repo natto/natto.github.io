@@ -632,6 +632,49 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
      The results also evidence congruency as interference in automaticity of processing
 
+*** Neural Substrates in Judgment Process While Playing Go_ A Comparison of Amateurs With Professionals
+
+    Ouchi et al 2005
+
+    
+
+**** background
+
+     #+BEGIN_QUOTE
+     neural substrates of cognitive processes involved in professional thinking [13,20,25]. In these studies, the contribution of the prefrontal and parietal cortices was reported to be of great importance. Specifically, the precuneus was remarkably activated during the execution of precise topographical memory recall for professional taxi drivers [20] and in visuospatial processing for abacus experts [13]
+     #+END_QUOTE
+
+     [13] T. Hanakawa, M. Honda, T. Okada, et al., Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study, Neuroimage 19 (2003) 296–307
+
+     [20] E.A. Maguire, R.S. Frackowiak, C.D. Frith, Recalling routes around London: activation of the right hippocampus in taxi drivers, J. Neurosci. 17 (1997) 7103–7110.
+
+     [25] M. Pesenti, L. Zago, F. Crivello, et al., Mental calculation in a prodigy is sustained by right prefrontal and medial temporal areas, Nat. Neurosci. 4 (2001) 103–107.
+
+**** methods
+
+     #+BEGIN_QUOTE
+     (Base) staring at the center of the go board without any thought.
+     #+END_QUOTE
+
+     I suspect due to automaticity, staring at the center of the board for experts vs. amateurs may yield significant activation differences
+
+     #+BEGIN_QUOTE
+     The amateurs performed similar tasks with easier contents designed for nonprofessionals.
+     #+END_QUOTE
+
+     they later compare visual analog scale (VAS) scores between amateurs and professionals and find no significant differences. With infinite resources however we would have liked to see both pros and amateurs do the exact same set, though it's likely that pros will hit ceiling in with the amateur problems, and amateurs hit floor with the professional problems. Nevertheless, the VAS correlation would be more informative that way.
+
+     They were clearly aware of this issue; e.g., in the Discussion:
+
+     #+BEGIN_QUOTE
+     The questionnaire after each session of PET scans revealed that some professionals had solved the problems early within the 60-s period and spent the remaining times verifying the answer.
+     #+END_QUOTE
+     
+**** discussion
+
+     authors suggest playing go as it would cause premotor activation, which would be especially valuable for Alzheimer's disease patients. Question is twofold: on what time scales does directed cortical use influence plasticity, and whether such use can stave off neurological deterioration.
+
+
 
 *** The valuation system: A coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value.
 
