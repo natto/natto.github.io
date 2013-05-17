@@ -689,13 +689,27 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 *** Robust Hyperlinks Cost Just Five Words Each
 
-    Thomas A Phelps
+    Thomas A Phelps & Robert Wilensky
 
     The takeaway is that a viable method for a robust hyperlink is by extracting the top 5 terms from TF-IDF. The interesting thing is this paper is from 2000, and uses Google, AltaVista, Yahoo, Hotbot, and Infoseek as test targets. At this point, the web is probably 100x as large, and only 2 of the 5 engines are of any relevance today, and have substantially smarter (and human-centric) algorithms behind them. Thus, even a robust hyperlink using 5 TF-IDF terms may not give the desired hit.
 
     A cursory search (< 1 minute) does not give anything recent which looks like immediate follow up work on this paper. The most amusing aspect now is that the "Robust Web Site" ( http://www.cs.berkeley.edu/~phelps/Robust/ ) is now 404 at Berkeley.
 
     It would have been cute if the paper was actually titled something like "Robust Hyperlinks: Just Five Words".
+
+*** Robust Intra-Document Locations
+
+    Phelps et al
+
+    This is the paper that describes the basic idea behind the MultiValent document viewer's "anchoring" method. It was very impressive when it was first demonstrated.
+
+    The most interesting method of anchoring is the /Context submethod/, although it is not the most preferred method (the best is /Unique identifier/, then /Tree path/). The /Context/ method is most human-like, which means that as match quality degrades, the kinds of errors we see would be more like a human's context searching method.
+
+    The algorithm given is the most straightforward heuristic:
+
+    #+BEGIN_QUOTE
+    the closest match to the original position is the preferred. A search is done forward and backward, with the nearer match chosen. If neither direction matches, more and more of the context is shed until a match is found, or until the length of the string used for the search drops below a threshold.
+    #+END_QUOTE
 
 ** books
 
