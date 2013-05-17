@@ -695,7 +695,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
     A cursory search (< 1 minute) does not give anything recent which looks like immediate follow up work on this paper. The most amusing aspect now is that the "Robust Web Site" ( http://www.cs.berkeley.edu/~phelps/Robust/ ) is now 404 at Berkeley.
 
-    
+    It would have been cute if the paper was actually titled something like "Robust Hyperlinks: Just Five Words".
 
 ** books
 
