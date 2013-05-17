@@ -687,8 +687,15 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
     The similarity of SV responses acrossmonetary and primary-reward outcomes is important because it suggests that a reward that is merely signaled (e.g., money) is evaluated similarly to one that is actually con-sumed (e.g., juice). This equivalence would not necessarily have been expected under a literal interpretation of standard economic models (Camerer et al., 2005)
     #+END_QUOTE
 
+*** Robust Hyperlinks Cost Just Five Words Each
 
+    Thomas A Phelps
 
+    The takeaway is that a viable method for a robust hyperlink is by extracting the top 5 terms from TF-IDF. The interesting thing is this paper is from 2000, and uses Google, AltaVista, Yahoo, Hotbot, and Infoseek as test targets. At this point, the web is probably 100x as large, and only 2 of the 5 engines are of any relevance today, and have substantially smarter (and human-centric) algorithms behind them. Thus, even a robust hyperlink using 5 TF-IDF terms may not give the desired hit.
+
+    A cursory search (< 1 minute) does not give anything recent which looks like immediate follow up work on this paper. The most amusing aspect now is that the "Robust Web Site" ( http://www.cs.berkeley.edu/~phelps/Robust/ ) is now 404 at Berkeley.
+
+    
 
 ** books
 
