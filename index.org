@@ -711,6 +711,53 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
     the closest match to the original position is the preferred. A search is done forward and backward, with the nearer match chosen. If neither direction matches, more and more of the context is shed until a match is found, or until the length of the string used for the search drops below a threshold.
     #+END_QUOTE
 
+
+*** The Effect of Sleep Onset on Event Related Potentials With Rapid Rates of Stimulus Presentation
+
+    de Lugt et al
+
+**** background
+
+     #+BEGIN_QUOTE
+     A variety of sensory and cognitive evoked potentials have been recorded during actual sleep. The early latency exogenous potentials (typically those occurring within the first 10 ms following stimulus presentation) are unaltered (Amadeo and Shagass, 1973; Osterhammel et al., 1985; Campbell and Bartoli, 1986; Erwin and Buchwald, 1986; Deacon-Elliot et al., 1987; Bastuji et al., 1988) or show only relatively small changes during sleep (Stelmack et al., 1993).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The auditory P1-N1-P2 'vertex' complex is the most frequently studied. N1, peaking between 75 and 150 ms, is greatly attenuated during NREM sleep (Näätänan and Picton, 1987; Campbell et al., 1988; Nielsen-Bohlman et al., 1991; Bastuji et al., 1995). The reduction in the amplitude of N1 has been found regardless of stimulus intensity, ranging from 60 to 100 dB (Campbell et al., 1988), or the inter stimulus interval (ISI), ranging from 1 to 12 s (Armitage et al., 1990). N1 (or subcomponents which overlap it in time and space) has also been found to vary with the subject's level of attention (Näätänan and Picton, 1987; Näätänan, 1990). At sleep onset, N1 gradually declines in amplitude (Noldy et al, 1988; Ogilvie et al., 1991; Bastuji et al., 1995), possibly due to a decrease in the subject's level of attention. The decrease in the amplitude of N1 is paralleled by a slowing of the behavioral reaction time (Noldy et al., 1988; Ogilvie et al., 1991).
+     #+END_QUOTE     
+
+     #+BEGIN_QUOTE
+     It has been known for some time that it is exceedingly difficult to ignore stimuli that are presented slowly. For example, differences in the amplitude of P1-N1-P2 peak deflections due to manipulation of the subject's level of attention, become much smaller as the rate of stimulus presentation is slowed (Schwent et al., 1976; Näätänan, 1990). This may explain some of the inconsistencies in ERP results at sleep onset. Even when differences have been reported, they do not typically emerge until relatively late in the sleep onset period, perhaps because stimuli presented slowly intrude into conscious awareness, thus delaying sleep.
+     #+END_QUOTE
+
+**** methods
+
+     #+BEGIN_QUOTE
+     Single trial ERPs were sorted into five different sleep/wake stages: Alert Wakefulness (AW, the reading condition), Relaxed Wakefulness (RW, lights out with eyes closed), Stage 1 sleep (S1), Stage 2 sleep (S2), and Slow Wave Sleep (SWS, combined Stages 3 and 4 sleep). RW was defined by a predominance (>50%) of low voltage alpha EEG activity (8-12 Hz), and occasional rapid eye movements or blinking. S1 sleep was defined by relatively low voltage, mixed frequency EEG activity (2-7 Hz), and the presence of slow rolling eye movements (Rechtschaffen and Kales, 1968). Stages 2, 3 and 4 were also defined by the standard Rechtschaffen and Kales scoring criteria. Single trial ERPs were sorted and averaged within each sleep/wake stage. Data were then collapsed across all sleep onset periods.
+     #+END_QUOTE
+
+**** discussion
+
+     #+BEGIN_QUOTE
+     The finding that the progression from Alert Wakefulness to Slow Wave Sleep is associated with a gradual and significant reduction in the amplitude of the N1 confirms previous findings (Noldy et al., 1988; Nielsen-Bohlman et al., 1991; Ogilvie et al., 1991). N1 tended to invert in polarity at the mastoid during the waking and sleeping states. Thus, although N1 latency was prolonged during sleep onset, its scalp distribution suggests that the intracranial generators are similar in each condition. In addition, a parallel increase in the amplitude of P1 and P2 was observed. Thus, when peak-to-peak amplitudes (P1-N1 and N1-P2) were measured, no significant differences emerged. It is, therefore, not N1 per se that is affected by sleep onset. Rather, it would appear that a slow negative wave that overlaps the P1-N1-P2 waking waveform is removed at sleep onset.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The essence of this argument appears to be centered on whether the subject is inhibiting processing during the sleep state or whether actively enhancing processing during the waking state. This controversy is similar to the one surrounding selective attention (see Näätänan, 1990): is there additional processing of the attended channel (reflected by the addition of a negative slow wave) or inhibition of processing of the unattended channel (reflected by the addition of a positive slow wave).
+     #+END_QUOTE
+     
+     #+BEGIN_QUOTE
+     Stage 2 is used by many laboratories as point of sleep onset (Johnson, 1973; Salisbury et al., 1992). Stage 1 is considered to be a transition between the waking and sleeping states (Rechtschaffen and Kales, 1968; Ogilvie and Wilkinson, 1984; Ogilvie et al., 1991). This is because at least some subjects can make behavioral responses to external stimuli (presented at slow rates) during Stage 1 sleep
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Näätänan (1990) has suggested that N1 may act as a transient-detector system that triggers an internal attentional system. N1 may subserve 'conscious perception of auditory stimuli in general', and furthermore, 'without indicating what the stimulus is or what its precise features are' (p. 212).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     gradual decrement in N1 amplitude has also been observed during anesthetic-induced loss of consciousness (Plourde and Picton, 1991; van Hooff et al., 1995). 
+     #+END_QUOTE
+     
 ** books
 
    Exit, Voice, and Loyalty
