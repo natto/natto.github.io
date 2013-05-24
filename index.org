@@ -3,7 +3,9 @@
 # ‘ -> '
 # “ -> "
 # ” -> "
-
+# ϭ -> =
+# Ϫ -> -
+# Ͻ -> <
 
 * topics
 
@@ -758,6 +760,118 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      gradual decrement in N1 amplitude has also been observed during anesthetic-induced loss of consciousness (Plourde and Picton, 1991; van Hooff et al., 1995). 
      #+END_QUOTE
      
+*** Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study
+
+    Takashi Hanakawa et al
+
+**** introduction
+
+     Stigler 1984 discusses abacus experts calculating with numbers often > 10 digits
+
+     #+BEGIN_QUOTE
+      Linguistic processing is suggested to play an essential role in exact mental calculation in adults on one hand (Dehaene et al., 1999);
+     #+END_QUOTE
+
+**** methods
+
+     subjects
+
+     #+BEGIN_QUOTE
+     All had experienced greater than 17 years of almost daily abacus training for the purpose of competition.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     All abacus experts considered the task with three-digit numbers most essential since they were the most frequently used number unit or abacus "width" for practice. 
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     For the between-group comparisons, an explicit mask image was used for each contrast in the two-sample t test (experts minus controls or controls minus experts) to limit the search volume to brain areas showing task-related activity in each group (from second-level one-sample t test, P < 0.005, uncorrected). This was to avoid detecting between-group differences due to "deactivations" greater in a control group than a group of interest since there are still many unsolved issues in interpreting deactivations in neuroimaging studies (Gusnard and Raichle, 2001)
+     #+END_QUOTE
+
+**** results
+
+     #+BEGIN_QUOTE
+     For the abacus experts, the numeral mental-operation task induced activity in the frontal operculum, superior precentral sulcus (SPcS), posterior parietal cortex including intraparietal sulcus areas (IPS), and posterior superior parietal cortex/precuneus, fusiform gyrus, and cerebellar hemisphere. This activity was bilaterally symmetrical. For the controls, the numeral mental-operation task activated the prefrontal cortex, Broca's area, medial frontal areas including the anterior cingulate cortex and presupplementary motor area (pre-SMA), and lateral parietal area. Nonexperts also showed activity in the areas observed during the numeral task for experts (i.e., frontal operculum, SPcS, IPS, posterior parietal cortex, fusiform gyrus, and cerebellar hemisphere); however, this calculation-related activity for controls was strongly lateralized to the left hemisphere. This pattern of activity during mental calculation was consistent with previous neuroimaging studies (de Jong et al., 1996; Dehaene et al., 1996; Rueckert et al., 1996; Burbaud et al., 1999; Rickard et al., 2000; Gruber et al., 2001; Pesenti et al., 2001; Zago et al., 2001).
+     The spatial mental-operation task induced symmetrical bilateral activity of the frontal operculum, SPcS, IPS, posterior superior parietal cortex, precuneus, and visual association areas. This activity was very similar between the two groups; moreover, the activity in the premotor and parietal cortices during the spatial task for both groups was almost identical to that observed during mental calculation for experts. During the verbal mental-operation task, experts and nonexperts both exhibited activity primarily in the medial frontal areas (anterior cingulate cortex and pre-SMA), SPcS, lateral parietal areas, and IPS. This activity was predominantly in the left hemisphere in the two groups, although the experts tended to exhibit more activity of the right hemisphere.
+     #+END_QUOTE
+     
+     #+BEGIN_QUOTE
+     Nonparametric statistics revealed that the laterality of activity was different between the two groups only during the numeral mental-operation task (U test, P = 0.039 for SPcS and P = 0.029 for IPS) (Fig. 2B).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     There was a number-size-dependent, monotonous increase in activity in IPS (x, y, z = -34, -52, 56 on the left; x, y, z = 40, -58, 56 on the right), posterior superior parietal cortex/precuneus (x, y, z = -18, -66, 60 on the left; x, y, z = 14, -66, 64 on the right), left frontal operculum (x, y, z = -48, 6, 28), SPcS (x, y, z = -28, -4, 46 on the left; x, y, z = 24, -4, 50 on the right), and left fusiform gyrus (x, y, z = -46, -62, -18).
+     #+END_QUOTE
+
+     between-group interesting ROIs
+
+     - left posterior superior parietal cortex/precuneus
+     - right IPS
+
+**** discussion
+
+     #+BEGIN_QUOTE
+     more involvement of visuospatial strategy for abacus experts and more involvement of linguistic strategy for non-experts.
+     #+END_QUOTE
+
+     Presenti et al. 2001 studied a calculation prodigy
+
+     #+BEGIN_QUOTE
+     well-trained subject studied by Pesenti et al. had developed an original calculation strategy, which strongly relied on episodic memory
+     #+END_QUOTE
+
+
+
+
+
+***** number size effect
+
+      #+BEGIN_QUOTE
+      number size effect in mental calculation, although the comparison was very limited (problems with operands ranged from 1 to 5 versus operands ranged from 5 to 9) (Stanescu-Cosson et al., 2000), which revealed number size effect in the frontal operculum and the middle potion of IPS
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      experts in the present study revealed remarkable number size effect in the SPcS region and posterior superior parietal cortex/precuneus
+      #+END_QUOTE
+
+***** right frontoparietal overactivity
+
+      #+BEGIN_QUOTE
+      relative significance of right hemisphere for mental abacus operation (Hatta and Ikeda, 1988)
+      #+END_QUOTE
+
+***** laterality
+
+      #+BEGIN_QUOTE
+      Formisano and colleagues (Formisano et al., 2002) reported neuroimaging findings that indicate functional segregation between the left and right parietal cortices. They suggested that the left parietal cortex would be involved in the generation of spatial mental images while the right parietal cortex would be engaged in the manipulation and comparison of such images.
+      #+END_QUOTE
+
+***** parietal lobe
+
+      #+BEGIN_QUOTE
+      Judging from this property and anatomic location, this parietal subdivision might correspond to the parietal area V6a in nonhuman primates (Rosa and Tweedale, 2001). It is suggested that, as opposed to object-motion detected by V5, V6a functions to detect self-motion. This is consistent with an a priori hypothesis that enhanced motor imagery subserves mental arithmetic for abacus experts. Area V6a also has a putative role in directing skeletomotor activity to extrapersonal space, which again requires vector-type computation.
+      #+END_QUOTE
+
+***** Frontal cortex
+
+      #+BEGIN_QUOTE
+      SPcS and posterior superior parietal regions seem to conjointly function in both nonmotor mental operations and visuomotor control. This may explain the fact that simultaneous performance of motor tasks interferes with mental abacus operations (Stigler, 1984), which may most vividly characterize the difference between abacus and nonabacus calculation strategies.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      The part of the lateral frontal area is suggested to play a role in nonabacus mental arithmetic (Burbaud et al., 1995; Rickard et al., 2000). Also, there is a patient report of acalculia after a lesion involving lateral frontal cortex (Tohgi et al., 1995).
+      #+END_QUOTE
+
+***** Other areas
+
+      #+BEGIN_QUOTE
+      The fusiform gyrus is shown to represent visual word form (Cohen et al., 2000b). One interesting question regards whether this area also represents visual form of an abacus
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      activity during mental calculation of abacus experts was characterized by overactivity in the posterior superior parietal cortex/precuneus and more involvement of frontoparietal areas in the right hemisphere. These differences were interpreted as reflecting more visuospatial/visuomotor imagery processing for mental calculation of abacus experts in comparison with nonexperts. Among these areas, the posterior superior parietal overactivity likely reflected spatial information processing in 2-dimensional space, which would be a characteristic of mental abacus operations.
+      #+END_QUOTE
+
 ** books
 
    Exit, Voice, and Loyalty
