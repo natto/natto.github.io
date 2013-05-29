@@ -872,6 +872,14 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       activity during mental calculation of abacus experts was characterized by overactivity in the posterior superior parietal cortex/precuneus and more involvement of frontoparietal areas in the right hemisphere. These differences were interpreted as reflecting more visuospatial/visuomotor imagery processing for mental calculation of abacus experts in comparison with nonexperts. Among these areas, the posterior superior parietal overactivity likely reflected spatial information processing in 2-dimensional space, which would be a characteristic of mental abacus operations.
       #+END_QUOTE
 
+** paper topics
+
+*** TODO what's the state of colored sheets and dyslexia?
+
+    what's the interpretation related to the visual afterimage and possible connections there?
+
+    what kind of research has been done on the cognitive effects of the visual afterimag?
+
 ** books
 
    Exit, Voice, and Loyalty
