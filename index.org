@@ -872,6 +872,79 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       activity during mental calculation of abacus experts was characterized by overactivity in the posterior superior parietal cortex/precuneus and more involvement of frontoparietal areas in the right hemisphere. These differences were interpreted as reflecting more visuospatial/visuomotor imagery processing for mental calculation of abacus experts in comparison with nonexperts. Among these areas, the posterior superior parietal overactivity likely reflected spatial information processing in 2-dimensional space, which would be a characteristic of mental abacus operations.
       #+END_QUOTE
 
+*** Self-Control in Decision-Making Involves Modulation of the vmPFC Valuation System
+
+    Todd A. Hare et al, /Science/ 2009
+
+    4 main hypotheses
+
+**** H1 vmPFC activity should correlate with S's goal values regardless of self-control
+
+     #+BEGIN_QUOTE
+     We tested the first prediction by estimating a general linear model (GLM) of blood oxygen level–dependent activity that included a parametric regressor for goal values at the time of evaluation. Activity in vmPFC was correlated with goal values for all participants regardless of the amount of self-control exercised (Fig. 2, A and B; fig. S1; and table S2). The areas of vmPFC identified largely overlap with regions that have been associated with valuation in other tasks that require no self-control (11–15) (Fig. 2C)
+     #+END_QUOTE
+
+**** H2 vmPFC activity should reflect health ratings for SC but NSC groups
+
+     #+BEGIN_QUOTE
+     To test the second prediction, we estimated a new GLMthat included parametric regressors for health and taste ratings. The beta values for both parametric regressors were extracted from the voxels in vmPFC that exhibited the strongest correlation with goal values for each participant. In the SC group, vmPFC activity was modulated by both health (t18 = 4.20,P< 0.001) and taste (t18= 3.31,P< 0.005) (Fig. 2D), whereas in the NSC group it was only modulated by taste (t17 = 7.28, P< 0.001). We tested this relationship further by estimating a linear regression of the impact of health ratings on each participant’sbehavioragainst a measure of the impact of health ratings on the participant’s vmPFC activity (regression coefficient = 0.847,t35 =5.57,P< 0.001) (Fig. 2E)
+     #+END_QUOTE
+
+**** H3 DLPFC activation in self control trials > failed self-control trials
+
+     #+BEGIN_QUOTE
+     We tested the third prediction by comparing the neural responses during the decision period in three different types of trials: those in which self-control was not needed, those inwhich self-control was successfully deployed, and those in which participants failed to use self-control. We found greater left DLPFC activity [inferior frontal gyrus (IFG) and Brodmann’s area (BA) 9 (IGF/BA9)] in the SC group than in the NSC group during successful self-control trials (Fig. 3Aand table S3). However, both groups had greater activity in this region for successful self-control trials compared with that of failed self-control trials (SCgroupt14= 2.29, NSC groupt13 =2.62,P<0.05) (Fig.3B)
+     #+END_QUOTE
+
+
+**** H4 DLPFC and vmPFC should exhibit functional connectivity during self-control trials
+
+     #+BEGIN_QUOTE
+     We tested the fourth prediction by performing a linear regression of left DLPFC activity during self-control trials on the response of vmPFC to the presentation of liked-but-unhealthy food items (regression coefficient =–0.688,t17=–2.26;P< 0.05) (Fig. 3C). Self-control in this type of trial requires ramping down the weight given to taste in computing the goal value. A similar decrease in vmPFC activity was seen in gamblers who chose not to gamble in losing conditions (25).
+     #+END_QUOTE
+
+**** DLPFC may modulate vmPFC via IFG/BA46
+
+     #+BEGIN_QUOTE
+     This area was of particular interest because it is involved in working memory and goal maintenance (21, 22), it has anatomical connections to vmPFC (26), and pre-vious studies have shown that IFG/BA46 activity is correlated with goal values (11, 13) 
+     #+END_QUOTE
+
+     via PPI analysis,
+
+     #+BEGIN_QUOTE
+     vmPFC was functionally con-nected to the left DLPFC through a two-node network (Fig. 4, B and C)
+     #+END_QUOTE
+
+     their reading:
+
+     #+BEGIN_QUOTE
+     We specu-late that the vmPFC originally evolved to forecast the short-term value of stimuli and that humans developed the ability to incorporate long-term considerations into values by giving structures such as the DLPFC the ability tomodulate the basic value signal
+     #+END_QUOTE
+
+**** more background on the DLPFC regions they report
+
+     #+BEGIN_QUOTE
+     found to play a role in self-control are similar to areas that are at work in cognitive control (27, 28) and in emotional regulation (23, 29).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     sends signals to other brain regions to promote task-relevant processing and suppress irrelevant activity (20)
+     #+END_QUOTE
+
+**** on DLPFC's role in valuation
+
+     ref. McClure et al, Kable and Glimcher
+
+     - McClure: vmPFC is shortsighted valuation system, DLPFC is system with foresight
+     - Kable & Glimcher: vmPFC-strata is common valuation system regardless of self control
+
+     this paper supports DLPFC as self control and not valuation.
+       
+     #+BEGIN_QUOTE
+     we show that this is not because an alternative value signal is encoded in DLPFC, which in our experiment would require a nonexistent correlation between activity in this area and the health ratings (fig. S5). Instead, the DLPFC influences self-control by modulating the value signal encoded in vmPFC.
+     #+END_QUOTE
+
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
