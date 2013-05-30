@@ -945,6 +945,48 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
 
 
+*** Superior digit memory of abacus experts
+
+    Tanaka et al, NeuroReport 2002
+
+    brain activity in abacus experts during the memory-retention period of a digit span memory task involved the bilateral frontal–parietal area
+
+**** background
+
+     #+BEGIN_QUOTE
+     Hatano and Osawa demonstrated that abacus experts can remember sequences of 16 digits forward and 14 digits backward [2]. From evidence showing that their digit memory was disrupted more by concurrent visuo-spatial tasks than verbal tasks, the authors suggested that abacus experts utilize a visuo-spatial mental representation of the abacus in working memory [2–4]
+     #+END_QUOTE
+
+     [2] Hatano G and Osawa K. Cognition 15, 95–110 (1983)
+
+     #+BEGIN_QUOTE
+     In [15], five groups of abacus operators differing in expertise were compared using a digit span task. The authors found that a concurrent verbal task had a greater confounding effect on the memory performance in less skilled subjects than in experts, while a concurrent visuo-spatial task had a greater confounding effect in experts than in less skilled subjects.
+     #+END_QUOTE
+
+     [15] Hatano G, Amaiwa S and Shimizu K. Dev Psychol 23, 832–838 (1987)
+
+     #+BEGIN_QUOTE
+     Pesenti et al. studied a calculating prodigy using positron emission tomography and reported that his calculation ability involves brain areas related to long-term memory, such as the right prefrontal and medial temporal areas [16]
+     #+END_QUOTE
+
+     [16] Pesenti M, Zago L, Crivello F et al. Nature Neurosci 4, 103–107 (2001).
+
+
+**** digit span task
+
+     #+BEGIN_QUOTE
+     a random sequence of digits from 1 to 9 was simultaneously presented on a computer screen for 3 s, and after a delay of 15 s, the subject was asked to recall and report the digit sequence orally. 
+     #+END_QUOTE
+
+**** activation results
+
+     #+BEGIN_QUOTE
+     In controls, activity was observed in the left inferior frontal cortex (Broca’s area: BA44, 45), medial frontal cortex (BA32), and insula (BA13); bilaterally in the ventral prefrontal cortex (BA47) and inferior parietal lobule (BA40); and more predominately in the right cerebellum. The active region including Broca’s area extended to the precentral gyrus (BA6). In contrast, in experts, activity was observed bilaterally in the superior frontal sulcus (BA6), inferior parietal lobule (BA40), superior parietal lobule (BA7), and cingulate gyrus (BA24)
+     #+END_QUOTE
+
+     
+
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
