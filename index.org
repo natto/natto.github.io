@@ -987,6 +987,68 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      
 
 
+*** Neural Correlates of Serial Abacus Mental Calculation in Children
+
+    Feiyan Chen et al
+
+**** background
+
+***** representations for number
+
+****** language-based vs. language independent
+
+       S. Dehaene, E. Spelke, P. Pinel, R. Stanescu, S. Tsivkin, Sources of mathematical thinking: behavioral and brain-imaging evidence, Science 284 (1999) 970–974.
+
+       #+BEGIN_QUOTE
+       [language-based representation] used to store tables of exact arithmetic knowledge ... [language-independent representation] for quantity manipulation and approximation relying on visuospatial networks (Dehaene et al, Science, 1999)
+       #+END_QUOTE
+
+****** triple-code model
+
+       S. Dehaene, L. Cohen, Towards an anatomical and functional model of number processing, Mathem. Cogn. 1 (1995) 83–120.
+
+       #+BEGIN_QUOTE
+       depending on the task three distinct systems (quantity, verbal and visual) of representation may be recruited
+       #+END_QUOTE
+
+****** 3 parietal circuits + bilateral HIPS for number domain specificity
+
+       HIPS = horizontal segment of intraparietal sulcus
+
+       S. Dehaene, M. Piazza, P. Pinel, L. Cohen, Three parietal circuits for number processing, Cogn. Neuropsychol. 20 (2003) 487–506.
+
+       #+BEGIN_QUOTE
+       bilateral PSPL is considered to support attentional orientation on the mental number line
+       #+END_QUOTE
+       
+**** results
+
+     I suspect the activation should be similar in the case of e.g. master tetris players
+
+***** experts
+
+      #+BEGIN_QUOTE
+      For the experts, the SSA task induced activation in the right lateral premotor cortex (LPMC) and bilateral posterior temporal areas. Activation was also observed in the left LPMC, but it did not reach significant level. The CSA task induced activation bilaterally in the LPMC, posterior superior parietal lobule (PSPL), and parahippocampal gyrus.
+      #+END_QUOTE
+
+***** non-experts
+
+      #+BEGIN_QUOTE
+      for the controls, simple and complex tasks induced almost the same activation areas. Activities were found in the bilateral inferior parietal lobule (LPi), left LPMC and right supplementary motor area (SMA) including the anterior cingulated cortex (ACC) in both SSA and CSA tasks. Moreover, significant activation was also found in the left inferior frontal gyrus (GFi) (BA 9, 45, 46) in CSA; and the region in LPi including HIPS extending anteriorly to the postcentral gyrus and laterally into the angular gyrus (AG). During CSA versus SSA task, both experts and controls showed activation areas primarily in the LPMC and PSPL (including the vicinity of precuneus). However, the occipital areas (BA 17, 18, 19) were significantly activated in experts while the GFi, ACC and cuneus showed increasing activation in controls. In auditory stimuli, the brain activation mapping closely corresponded to the similar activation in visual stimuli except that superior temporal cortices were significantly observed in CSA against SSA task contrast (Fig. 3). In this contrast, as Fig. 3 illustrated, there was no between-hemisphere difference in terms of the comparison of the peak activations obtained for both hemispheres in both stimuli.
+      #+END_QUOTE
+
+**** conclusions
+
+     #+BEGIN_QUOTE
+     Based on the sound analysis, our results suggest that in complex abacus mental calculation, the HIPS is not the potential candidates for number domain specificity, while the PSPL is the crucial one, indicating imagery abacus and reflecting the visuospatial processing.
+     #+END_QUOTE
+
+     This is a strong assumption that was not well-addressed here
+
+     #+BEGIN_QUOTE
+     how can we convince people that experts perform additions using an imaginary aba- cus rather than other usual direct ways?
+     #+END_QUOTE
+     
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
