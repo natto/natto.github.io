@@ -1106,3 +1106,95 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
    ... when you come up with a new technology, it should feel like that. if you told it to an objective person, would they look forward to the day that that thing became available.
 
    
+* Jen-Hsun Huang - Stanford student and Entrepreneur
+
+  this talk is FANTASTIC
+  
+  https://www.youtube.com/watch?v=Xn1EsFe7snQ
+
+** perspective, vision matters
+   
+   16:28
+   
+   We were in 1993 the only consumer 3D graphics company in the world.
+   
+   Silicon Graphics up the street was the professional -- if you will -- 3D graphics company. By the end of a couple of years or so -- 1995 -- there were probably 50, 70 startups doing exactly the same thing that we were trying to do. And over time, we competed without about 200 companies. NVidia today is the only surviving computer graphics company in the world. And so the question is then, what happened?
+
+   Competition is intense. Everybody has smart people. Everybody has money.
+
+   ...
+
+   I would argue that 300 companies, armed with exactly the same technology, armed with exactly the same people, the company that wins... and lets say the all execute. And they did. With 300 companies, 50% of them were gonna execute at any given point in time. And so the question is, why does one survive.
+
+   Well, I think it matters to have perspective.
+
+   ...
+
+   I always believed that you need to understand the reason why your business works. What is the essence of your business? Why does it work?
+
+   
+
+** Moore's law
+
+   "is a law of setting pace"
+   
+** when your customers all tell you not to do something... what do you do?
+
+   because we had this unique perspective that 3D graphics was insatiable, and Moore's Law was our friend, therefore, we should make our graphics processesors twice as good every year.
+
+   "we're going to ignore customers"
+
+   -- the customers don't know the nature of the business. there's no common sense
+
+** what happens when your product becomes "good enough"
+
+   22:03
+
+   "The programmable shader"
+
+   3d graphics was not going to be sustainable as a accelerator, or fixed function device, that renders texture maps and polygons on the screen.
+
+   we had to change the company to make the 3d graphics processors programmable to be an artistic medium of expression
+
+   24:00
+   
+   the crossing from one generation of technology to the next generation almost killed the company
+
+** dying at the rate of Moore's Law
+
+   when you're in a technology industry, when the technology moves this fast, the if you're not reinventing yourself, you're just slowly dying, unfortunately, at the rate of Moore's Law.
+
+** cannibalizing your own products
+
+   so we have a product that's generating a lot of money, and it's very successful, how do you cannibalize it?
+
+** developing a tolerance for failure
+
+   I don't believe you can fundamentally say that you want, as a CEO, to nurture the spirit of innovation, to encourage innovation, unless you have a culture of risk taking
+
+   we have to encourage our engineers, our marketing people, all of our employees, to take calculated risks. In order to encourage them to take calculated risks, first of all you have to teach them. that's a skill. a matter of skill. then the second part is a matter of courage.
+
+   
+
+** you must keep reinventing the company
+
+   the biggest challenge with building a company is the reinvention of the company.
+
+   every successful thing needs to be torn down at some point and be rebuilt. it
+   is unfortunate but true. and the reason for that is because the technology
+   either gets good enough, and therefore you have to reinvent. and sometimes the
+   invention process is disruptive. sometimes it is in fact destructive. it could
+   destroy what you have built in the past.
+
+** as the ceo
+
+   you're either making money, saving money, or raising money
+
+   
+
+** the definition of a startup
+
+   as a startup you're always going out of business. that's the definition of a startup! an enterprise that is nearly out of business all the time.
+
+   
+   
