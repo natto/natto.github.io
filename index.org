@@ -1049,6 +1049,164 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      how can we convince people that experts perform additions using an imaginary aba- cus rather than other usual direct ways?
      #+END_QUOTE
      
+*** Neural Bases of Selective Attention in Action Video Game Players
+
+    D. Bavelier et al
+
+**** background
+
+     #+BEGIN_QUOTE
+     It was first demonstrated that VGPs outperform NVGPs in selective attention by using the Useful Field of View (UFOV) paradigm initially developed by Ball and collaborators. This task requires subjects to distribute their attention widely over the screen and locate a peripheral target while ignoring irrelevant distractors (Feng, Spence, & Pratt, 2007; Green & Bavelier, 2003; Sekuler & Ball, 1986; Spence et al., 2009). Enhanced spatial selective attention in gamers has been shown more recently using different types of search tasks, such as the Swimmer task (West et al., 2008) or difficult visual search tasks (Hubert-Wallander, Green, & Bavelier, 2010; but see Castel, Pratt, & Drummond, 2005 for a different result)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     a number of VGPs exhibiting no blink whatsoever, indicating that their attention recovers more quickly over time (Green & Bavelier, 2003)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Under these high load conditions, VGPs and NVGPs similarly processed the attended streams, but VGPs more efficiently suppressed the unattended streams. Notably, this greater suppression was associated with faster reaction times. Greater distractor suppression may be a possible mechanism for more efficient executive and attentional control (Clapp et al., 2011 in older adults; Serences et al., 2004; Toepper et al., 2010)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     As proposed by Lavie and collaborators (Lavie, 2005), irrelevant, peripheral moving distractors tend to produce greater MT/MST activation when they receive more attentional resources
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     distractors typically receive more processing resources in VGPs as exemplified by a greater impact of distractor identity on the main task reaction times in VGPs (Dye, Green, & Bavelier, 2009b; Green & Bavelier, 2006a).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     when using distractors that are task-relevant and thus either compatible or incompatible with the target response, greater compatibility effects are typically observed from central as compared to peripheral distractors.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Recent studies suggest the anterior cingulate gyrus to be involved in stimulus driven shifts of attention and selective target processing (Hopfinger, Buonocore, & Mangun, 2000; Shulman et al., 2009, 2010)
+     #+END_QUOTE
+
+**** methods
+
+     remember both groups did training to attain >90% accuracy before scanning! thus the results cannot be easily explained away by task familiarity
+
+     #+BEGIN_QUOTE
+     size of the patches were scaled according to the nasal cortical magnification factor as calculated by Romano and Virsu (1979)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Along with the behavioral performance, we will see that the brain imaging data show that the subjects were centrally fixated. Indeed, activity along the calcarine sulcus related to the distractors (central/peripheral) was as one might predict and only possible if the subjects were centrally fixating
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The co-efficient of contrasts was computed using the fixed effects model by forcing the random effects variance to zero with FLAME (FMRIB’s Local Analysis of Mixed Effects) (Beckmann, Jenkinson, & Smith, 2003; Woolrich et al., 2004)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     extracted the results from anatomically-defined regions of interest (ROIs) based on the work of Tzourio-Mazoyer et al. (2002).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+      ROIs from each hemisphere included frontal areas -- the superior frontal sulcus encompassing the frontal eye field, the middle frontal gyrus, the inferior frontal gyrus, the supplementary mo-tor area, and the dorsal anteriors cingulate cortex; parietal areas -- superior parietal cortex including the dorsal part of the intra-parietal sulcus, the intra-parietal sulcus proper, and the cuneus and precuneus; occipital areas -- superior, middle and inferior occipital cortices, as well as the cerebellum and basal ganglia structures (see Tables 1 and 2)
+     #+END_QUOTE
+
+**** results
+
+     #+BEGIN_QUOTE
+     NVGPs were slightly less accurate under the peripheral condition whereas VGPs were equally accurate under both conditions (NVGP_Peripheral = 95.2%, NVGP_Central = 96.15%; VGP_Peripheral = 96.5%; VGP_Central = 96.05% -- Fig. 3).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     faster RTs in the low load than in the high load condition as well as faster RTs inVGPs as compared to NVGPs (Fig. 3).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     differential effects of load and group as a function of eccentricity (Fig. 3)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     NVGPs showed activation in a network of fronto-parietal areas as load increased (Table 1)
+     #+END_QUOTE
+     
+     #+BEGIN_QUOTE
+     both midline and lateral frontal areas showed greater recruitment as task difficulty was increased. Parietal activations were seen bilaterally in the inferior parietal cortex, the superior parietal cortex extending medially to the cuneus/precuneus.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Although a similar network of areas was recruited in VGPs as task difficulty increased (Table 1), the recruitment of the fronto-parietal network was much less marked. Of note, there was no significant activation in frontal areas (medial or lateral, seeFig. 4). Bilateral parietal activation was restricted to a smaller region in the inferior and superior parietal lobules. The bulk of the activation in the VGPs was limited to visual areas including superior and middle occipital gyri bilaterally, and the left inferior temporal gyrus
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     between-group analyses confirmed significantly greater recruitment of the fronto-parietal network in NVGPs than in VGPs as task difficulty increased (Table 2;Fig. 5). This difference was especially marked in frontal areas including the superior frontal cortex, inferior and middle frontal gyri, as well as the SMA, and the dorsal anterior cingulate cortex. Greater activation in NVGPs was also noted in parietal areas and especially the right superior parietal lobe and its extension to the right cuneus and precuneus. Finally, visual areas (occipital lobe) themselves were also more active in NVGPs than VGPs as illustrated by the significantly greater activation in right superior and middle occipital gyri. Greater activation in NVGPs was also noted in the right insula and the right putamen
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     activation along the calcarine fissure was observed and showed a more posterior focus for central than peripheral distractor conditions as expected (Fig. 6). Activation was also noted bilaterally in the lingual gyrus. In the case of the central distractors, the activation also extended laterally covering part of the middle and inferior occipital sulcus in both the left and right hemisphere. These analyses confirmed all expected patterns of activation given the known retinotopic organization of visual cortices
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Across groups, greater activation for central distractors was noted more posteriorly along the calcarine sulcus, whereas greater activation for peripheral distractors was observed more anteriorly, as predicted by the known retinotopic organization of early visual areas.
+     #+END_QUOTE
+
+**** takeaways
+
+     #+BEGIN_QUOTE
+     irrelevant motion in the visual periphery is more disrupting in NVGPs than VGPs. None of the other effects were significant; in particular therewas no interaction between load and group (p> .8), eccentricity and group (p> .9) or load by eccentricity (p> .7).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     faster RTs in VGPs than NVGPs in the face of comparable accuracy replicating past reports on how action game play affects speed and accuracy (Dye, Green, & Bavelier, 2009a; Green, Pouget, & Bavelier, 2010). In addition, increasing the search difficulty from the low to high load displays increased reaction times by about 70 ms in both VGPs and NVGPs indicating equal increase in difficulty from low to high load in the two populations compared.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Despite this matched increase in attentional difficulty, we observed a significantly lesser recruitment of the fronto-parietal attentional network in VGPs as compared to NVGPs
+     #+END_QUOTE
+
+     Interesting whether this is observable in chaotic situations (like in FPS) vs. calm situations:
+
+     #+BEGIN_QUOTE
+     note that VGPs showed lesser recruitment ofMT/MST thanNVGPs during taskperformance, whereas no difference in activation was noted during the MT/MST localizer. This confirms that the decreased activation in VGPs does not reflect a generalized baseline difference between the two populations. Lesser activation in VGPs suggests that they may suppress irrelevant motion distractors more efficiently than NVGPs.
+     #+END_QUOTE
+     
+     #+BEGIN_QUOTE
+     [in this task] motion distractors were not task-relevant, and thus could not compete for responses.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Forster and Lavie (2007)in which these authors document that a sure way to equate performance across groups that differ in their re-sources is to use a high perceptual load for all
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     unlike the condition with peripheral distractors, activation triggered by central distractorswas notmodulated by the resources consumedby theprimary task.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Itmay be that peripheral resources deplete before central ones, and that given an even more challenging target task, a modulation of central distractors by perceptual load would also be observed
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Despite this behavioral similarity [in slowing down on the high load task], marked differences in brain activation were noted across groups as load increased
+     #+END_QUOTE
+
+**** hypothesis of attention area activation vs. attention control
+
+     #+BEGIN_QUOTE
+     A working hypothesis for future work is that lesser recruitment of attention-related areas is a signature of greater attentional control. A similar proposal was advanced byBrefczynski-Lewis et al. (2007) in a study of the neural bases of meditation, a state known to enhance attention regulation (Jha, Krompinger, & Baime, 2007; Lutz et al., 2008; Tang & Posner, 2009).
+     #+END_QUOTE
+
+**** connectivity analysis between VGPs and NVGPs
+
+     #+BEGIN_QUOTE
+     Seeding from parietal areas revealed no major differences in functional connectivity between VGPs and NVGPs. However, seeding from frontal areas (e.g., dorsal anterior cingulate and right middle frontal gyrus) revealed enhanced functional connectivity inVGPs toadistinctivenetworkof areas. A largelyoverlapping network of areas was observed to be functionally connected to the dorsal anterior cingulate and middle frontral gyrus in VGPs and NVGPs. These included, in addition to the two seed areas, the superior parietal cortex, the supra-marginal gyrus, the SMA, the pre-central gyrus, the insular cortex, and interestingly the anterior prefrontal cortex. Alongwith the superior parietal cortex, the insula and the pre-central gyrus, this anterior prefrontal area showed significantly greater connectivity with the anterior cingulate and the middle frontal gyrus in VGPs than inNVGPs
+     #+END_QUOTE
+
+**** automatization
+
+     #+BEGIN_QUOTE
+     automatization of the resource allocation process, resulting in lesser recruitment of the fronto-parietal network that mediates such attention allocation.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     behavioral literature on action gamers that documents enhanced performance in tasks that require primarily efficient and flexible allocation of attentional resources (Hubert-Wallander et al., 2010) and indicate that such behavioral enhancement may be mediated through greater automatization of resource allocation and in turn more efficient suppression of irrelevant or distracting information in VGPs.
+     #+END_QUOTE
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
@@ -1198,3 +1356,4 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
    
    
+
