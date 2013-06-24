@@ -1208,6 +1208,55 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      behavioral literature on action gamers that documents enhanced performance in tasks that require primarily efficient and flexible allocation of attentional resources (Hubert-Wallander et al., 2010) and indicate that such behavioral enhancement may be mediated through greater automatization of resource allocation and in turn more efficient suppression of irrelevant or distracting information in VGPs.
      #+END_QUOTE
 
+*** Neural correlates of pre-performance routines in expert and novice archers
+
+    Jingu Kim et al
+
+**** background
+
+     #+BEGIN_QUOTE
+     A recent fMRI study examining expert vs. novice golfers revealed significant differences in network activations during the planning phase of a pre-shot routine [25]. Novice golfers exhibited dominant patterns of activation in the posterior cingulate, amygdala–forebrain complex and basal ganglia, while patterns of activation in experts were observed in the superior parietal lobe, the dorsal-lateral-premotor area and regions within the occipital cortex.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The additional task-irrelevant networks engaged by novices imply an inability to inhibit (filter) that which is not relevant to the task at hand. In this regard, activations seen in components of the emotion system during PPR in novices infer decreased emotion regulatory capabilities [6].
+     #+END_QUOTE
+
+     [6] R.J. Davidson, What does the prefrontal cortex "do" in affect: perspectives on frontal EEG asymmetry research, Biol. Psychol. 67 (2004) 219-233.
+
+     #+BEGIN_QUOTE
+     Ross et al. [32] reported decreased supplementary motor area (SMA) and cerebellar activa-tion with increasing skill level (more practice) in golfers. Jäncke et al.[20]revealed increased skill level in pianists was accompanied by decreased activations in both primary and secondary motor regions, along with increased activation in local processing areas, specific to fine motor control of the hands; and Tracy et al.[38] showed increased activation in components of the limbic system (posterior cingulate) in novice vs. expert suggesting an undevel-oped ability to filter out task irrelevant stimuli in service of a more efficient information search strategy/process. 
+     #+END_QUOTE
+
+     [32] J.S. Ross, J. Tkach, P.M. Ruggieri, M. Lieber, E. Lapresto, The mind's eye: functional MR imaging evaluation of golf motor imagery, Am. J. Neuroradiol. 25 (2003) 1036-1044.
+     
+     [20] L. Jäncke, N.J. Shah, M. Peters, Cortical activation in primary and secondary motor areas for complex bimanual movements in professional pianists, Cognit. Brain Res. 10 (2000) 177-183.
+
+     [38] J. Tracy, A. Flanders, S. Madi, J. Laskas, E. Stoddard, A. Pyrros, P. Natale, N. DelVecchio, Regional brain activation associated with different performance patterns during learning of a complex motor skill, Cereb. Cortex. 13 (2003) 904-910.
+
+     #+BEGIN_QUOTE
+     anterior cingulate cor-tex (ACC), as an indicator of focused attention, would be activated in the expert archers and not in the novices [7].
+     #+END_QUOTE
+
+     [7] M. Doppelmayr, T. Finkenzeller, P. Sauseng, Frontalmidline theta in the pre-shot phase of rifle shooting: differences between experts and novices, Neuropsychologia 46 (2008) 1463–1467.
+
+**** methods
+
+     #+BEGIN_QUOTE
+     In all cases, the threshold was set at p<0.01 (uncorrected for multiple comparisons), and corrected at 50 voxels
+     #+END_QUOTE
+
+     This explains the very spotty looking activation maps they show. They end up speculating based on selected clusters, which probably won't surivive Bonferroni. Without Bonferroni on the other hand, Fig. 3 shows comparably strong activations dangerously on the edge of the brain (-85, -80, -75), and finally, (0, +5, +10) in the ventricle.
+
+**** results is a bunch of areas, return and compile?
+
+**** conclusion
+
+     #+BEGIN_QUOTE
+     In summary, the resultsof this study found that theexpert group showed more activation of the visual association cortex of the left occipital lobeandACCthanthenovicegroup. Inaddition, thenovice group showed higher activation of the frontal area than the expert group. Activation of the posterior cingulate gyrus and cerebellar tonsil was seen in novices but not in experts. In particular, BA 6 is known to plan complex and coordinated movements, while BA 7 plays a role in the converging the sense of vision and proprioception. Moreover, according to Gerardin et al.[12] and Grafton et al.[14], BA 44 and BA 45 are involved in behavior recognition, and these areas were activated in the novice group during the process of recognizing arrow shooting. Thus, for the experts in this experiment, their advanced experience, long-term practice, motor coordination, emotional regulation, and task adaptation appeared to result in less frontal cortical activity when challenged with specific task demands.
+     #+END_QUOTE
+
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
