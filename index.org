@@ -1257,6 +1257,54 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
 
 
+*** An fMRI study of music sight-reading
+
+    Scho:n et al
+
+**** on their task validity
+
+     it uses a 5-key keyboard (right hand only) in task
+
+     #+BEGIN_QUOTE
+     in music, the pitch of the notes is coded by their position, while letters and numbers are coded according to their form. 
+     #+END_QUOTE
+
+**** ROI motivations
+
+     #+BEGIN_QUOTE
+     patients with musical disturbances associated with word and/or number disturbances [5–7]. Musicians with alexia for words but not for music have also been described [8–11], and the reverse pattern (preserved language reading with impaired music reading) has been reported recently [12]. Interestingly, Cappelletti et al. [12] described a patient who, following a left posterior–temporal lobe lesion and a small right occipito-temporal lesion, showed selective impairments in reading, writing and understanding musical notation, without major disturbances in reading or writing letters, words or numbers. 
+     #+END_QUOTE
+
+     - 5 :: Dissociation in Musical Reading: A Musician Affected by Alexia without Agraphia
+     - 6 :: Music alexia in a patient with mild pure alexia: disturbed visual perception of nonverbal meaningful figures
+     - 7 :: Cerebral Localization of the Center for Reading and Writing Music.
+
+**** right occipital temporal junction
+
+     #+BEGIN_QUOTE
+     same focus was found by Nakada et al. [17]. These authors compared the activation pattern associated with music score reading with that associated with language reading (English and Japanese). An area within the right occipital cortex (adjacent to the occipital sulcus) was identified as being specifically activated by reading music scores. However, the reading task used by the authors was again not clearly specified, and we are confronted with the same interpretative problem as mentioned for the Sergent study [16]. Nonetheless, this region of the right occipital cortex seems to be important since Cappelletti’s et al. [12] patient, who was completely unable to read music, also had a small right occipito-temporal lesion. 
+     #+END_QUOTE
+
+     oddly enough, 2 of the 3 authors in the Sergent paper have misspelt last names in the references section.
+
+     - 16 :: Distributed Neural Network Underlying Musical Sight-Reading and Keyboard Performance
+     - 17 :: 'Musical brain' revealed by high-field (3 Tesla) functional MRI
+
+**** intraparietal sulcus (IPS)
+
+     #+BEGIN_QUOTE
+     IPS has been found to mediate the processing of sensorimotor integration of precisely tuned finger movements in humans [25] and to control for the endogenous allocation and maintenance of visuospatial attention [26].
+     #+END_QUOTE
+
+     - 25 :: Human anterior intraparietal area subserves prehension: A combined lesion and functional MRI activation study
+     - 26 :: Neural Systems for Visual Orienting and Their Relationships to Spatial Working Memory
+     
+     #+BEGIN_QUOTE
+     right-sided lateralization of the foci described in the occipito-temporal and parietal cortex might be linked to the right lateralization often described for auditory music processing [27].
+     #+END_QUOTE
+
+     - 27 :: Structure and function of auditory cortex: music and speech
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
