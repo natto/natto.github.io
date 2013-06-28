@@ -1383,6 +1383,42 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 ***** TODO what's the deal with beat deafness
 
+*** Correlation between Heart Rate, Electrodermal Activity and Player Experience in First-Person Shooter Games
+
+    Anders Drachen et al
+
+**** The In-Game Experience Questionnaire
+
+     #+BEGIN_QUOTE
+     (iGEQ) is a short self-report scale for exploration of player experience during playing a digital game [IJsselsteijn et al. 2008]. The iGEQ has been tested multiple times under various experimental conditions together with psychophysiological measures, such as EMG, [e.g., Nacke and Lindley 2009; Nacke 2009]. It contains 14-items, all rated on a Likert-type scale scored from 0-4, distributed in pairs between seven dimensions of player experience: 1) Immersion (sensory and imaginative), 2) Flow, 3) Competence, 4) Tension, 5) Challenge, 6) Negative affect and 7) Positive affect.
+     #+END_QUOTE
+     
+**** hardcore gamers report higher enjoyment
+
+     #+BEGIN_QUOTE
+     Comparing the experience level of players with iGEQ data, indicates that the positive dimensions of the survey are rated highest by the hardcore gamers, whereas the negative dimensions are rated the lowest. In comparison, novice gamers rate the negative dimensions of the iGEQ survey higher, and positive dimensions lower (see Figure 4). Given that hardcore gamers play
+     #+END_QUOTE
+
+**** lower heart rate and higher reported flow state
+
+     #+BEGIN_QUOTE
+     strong negative correlation between minimum HR, average HR and maximum HR and the Immersion dimension. In essence, the lower the minimal HR of the participant during a 5-minute measurement interval, the higher the reported feeling of Immersion, Competence, Flow, Challenge and Positive Affect – the positive dimensions in the iGEQ survey.
+     #+END_QUOTE
+
+     interested to see how this works in a horror game. Flow vs. suspense
+
+     indeed they observe,
+
+     #+BEGIN_QUOTE
+     different games may have different relationships between psychophysiological signals and self-reported UX
+     #+END_QUOTE
+
+     but this is in the context of comparing their study against Mandryk et al. (2007), which used a 2-player game, and here they used a 1-player game, so "the player could directly control the pace of the game."
+
+**** an important flaw in the iGEQ
+
+     they note that ~I felt challenged~ and ~I felt stimulated~ may be confusing. We can probably expect a revision.
+     
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
