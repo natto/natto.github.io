@@ -1305,6 +1305,84 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
      - 27 :: Structure and function of auditory cortex: music and speech
 
+*** Predictors of Music Sight-Reading Ability in High School Wind Players
+    
+    Joyce Eastlund Gromko
+
+    #+BEGIN_QUOTE
+    music intelligence may indeed be a composite intelligence
+    #+END_QUOTE
+
+**** "near-transfer theory" (Salomon & Perkins, 1989)
+
+     a theory of cross-domain skill transfer. *TODO*. Is it a claim of possibility, or a mechanism?
+
+**** prior clues
+
+***** clapping the music rhythm beforehand enhances sight-reading performance
+
+      #+BEGIN_QUOTE
+      Boyle (1970) conducted an experimental study with junior high wind players in which the experimental groups practiced reading rhythms by clapping rhythmic patterns and tapping the beat prior to playing.
+      #+END_QUOTE
+      
+      ... ok I need to read this now: what are the patterns? The complicated ones? Similar ones?
+
+      continued:
+      
+      #+BEGIN_QUOTE
+      After 14 weeks, the experimental group showed significantly greater improvement on music sight-reading ability as measured by the /Watkins-Farnum Performance Scale/ (Watkins & Farnum, 1954) when compared to a control group
+      #+END_QUOTE
+
+      Ok, is this is evidencing improvement in /rhythm perception/? or /sight reading/ per se? We need to find out.
+
+***** music as a composite performance measure
+
+      #+BEGIN_QUOTE
+      With an expanded set of variables that included measures of reading in other symbol systems besides music, Ciepluch (1988) found significant correlations between music sight-reading as measured by the /Watkins-Farnum Performance Scale/ and instrumentalists' aural perception, math and reading achievement scores, field-independent cognitive style, written word sensory mode preference, and grade point average (Ciepluch, 1988; Weerts, 1992)
+      #+END_QUOTE
+
+      citing Sergent et al. (1992):
+      
+      #+BEGIN_QUOTE
+      The cerebral network shown to be active during music sight-reading is one that "parallels the neural substrages of verbal processing but is distinct from it"
+      #+END_QUOTE
+
+      in results, again citing Sergent:
+
+      #+BEGIN_QUOTE
+      This finding suggests that reading music is a spatial process that may be like the reading of two-dimensional architectural drawings that are comprehended as three-dimensional objects. In other words, when skilled musicians read musical notation, they may mentally represent the sound as an image with spatial and temporal dimensions.
+      #+END_QUOTE
+
+**** measures used
+
+     1. Watkins-Farnum Performance Scale (AMMA, 1989)
+     2. visual field articulation (Schematizing Test, Holzman, Gordon, 1989)
+     3. spatial orientation and visualization (Kit of Factor-Referenced Cognitive Tests, Ekstrom et al., 1976)
+     4. academic achievement in math concepts and reading comprehension (Iowa Tests of Educational Development, 2003)
+
+**** stepwise regression yields a 4-variable model
+
+     1. reading comprehension (24% of variance)
+     2. rhythmic audiation (10%) ("audiation" is essentially the auditory counterpart of "imagination")
+     3. field articulation (8%)
+     4. spatial orientation (6%)
+
+    in conclusion, in the cohort of 98 students from 4 midwestern high schools:
+
+    #+BEGIN_QUOTE
+    music sight-reading ability can be predicted by a combination of cognitive abilities
+    #+END_QUOTE
+
+**** Boyle 1970's study
+
+     without reading the paper, this makes sense from a priming perspective: relevant information was seeded in memory, even if lacking context, before the main learning task.
+
+     what is interesting here is the seeded information is temporal in nature and not factual.
+
+     we can look at a few analogous situations. a beginning golfer going through swinging motions first (kinesthetic, procedural), fire drills (likewise), reading a book's table of contents (mostly declarative). rhythm however, is almost completely temporal. indeed, the clapping motion is dissociated from the actual motions of playing a non-percussive instrument. the system we're seeding here should thus be a system that specializes in temporal understanding.
+
+***** TODO what's the deal with beat deafness
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
