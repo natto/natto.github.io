@@ -1313,6 +1313,24 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
     what kind of research has been done on the cognitive effects of the visual afterimag?
 
+*** TODO concentration, attention, focus etc.
+
+    
+*** pitch and rhythm in music reading                                 :music:
+
+**** Musical Alexia for Rhythm Notation: A Discrepancy Between Pitch and Rhythm
+
+     Akira Midorikawa, Mitsuru Kawamura & Machiko Kezuka
+     
+     case of musical alexia and agraphia with Wernicke’s aphasia. An in-depth assessment of the subject’s musical reading ability showed that her musical alexia was restricted to unfamiliar melodies. When a melody was divided into rhythm elements and pitch elements, pitch reading was preserved, but rhythm reading was severely disturbed.
+
+     DOI:10.1076/neur.9.3.232.15558
+
+
+**** Neural correlates of motor imagery for elite archers
+
+     DOI: 10.1002/nbm.1600
+
 ** books
 
    Exit, Voice, and Loyalty
