@@ -1430,6 +1430,126 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
      they note that ~I felt challenged~ and ~I felt stimulated~ may be confusing. We can probably expect a revision.
 
+*** Dissociating the Role of the Dorsolateral Prefrontal and Anterior Cingulate Cortex in Cognitive Control
+
+    MacDonald III et al, /Science/ 2000
+
+    *12 subjects*. So again this was a time that studies at the forefront was still using tiny sample sizes... not that current sizes are all that much bigger.
+
+**** prior work on DLPFC + ACC function
+
+     #+BEGIN_QUOTE
+     both the DLPFC and ACC activate when participants are required to hold increasingly long sequences of items in working memory or when two tasks are performed at once, compared to when they are performed one at a time [fn:cohenetal1997] [fn:courtneyetal1997] [fn:desposito1995]. 
+     #+END_QUOTE
+
+[fn:cohenetal1997] J. D. Cohen et al., Nature 386, 604 (1997)
+
+[fn:courtneyetal1997] S. M. Courtney, L. Petit, J. Ma. Maisog, L. G. Ungerleider, J. V. Haxby, Science 279, 1347 (1997)
+
+[fn:despositoetal1995] M. D'Esposito, J. A. Detra, D. C. Alsop, R. K. Shin, Nature 378, 279 (1995).
+
+     #+BEGIN_QUOTE
+     DLPFC activity in the absence of ACC activity has been found for tasks that require maintenance and manipulation of information in working memory [fn:bakeretal1996] [fn:fletcheretal1998]. For example, the DLPFC is active when a simple cue has to be maintained over a delay [fn:barchetal1997]. ACC activity has been more consistently observed than DLPFC activity when tasks require divided attention, novel or open-ended responses, or the overcoming of a prepotent response [fn:dehaeneetal1994] [fn:devinsky1995] [fn:carteretal1998].
+     #+END_QUOTE
+
+[fn:bakeretal1996] S. C. Baker, C. D. Frith, R. S. Frackowiak, Cereb. Cortex 6, 612 (1996)
+
+[fn:fletcheretal1998] P. C. Fletcher, T. Shallice, R. J. Dolan, Brain 121, 1239 (1998).
+
+[fn:barchetal1997] D. M. Barch et al., Neuropsychologia 35, 1373 (1997).
+     
+[fn:dehaeneetal1994] S. Dehaene, M. I. Posner, D. M. Tucker, Psychol. Sci. 5, 303 (1994)
+
+[fn:devinsky1995] O. Devinsky, M. J. Morrell, B. A. Vogt, Brain 118, 279 (1995)
+
+[fn:carteretal1998] C. S. Carter et al., Science 280, 747 (1998).
+
+
+**** ACC activity in stroop task
+
+     #+BEGIN_QUOTE
+     slower to name the color in the incongruent condition, which is also when greater ACC activation is observed [fn:pardoetal1990]
+     #+END_QUOTE
+
+[fn:pardoetal1990] J. V. Pardo, P. J. Pardo, K. W. Janer, Proc. Natl. Acad. Sci. U.S.A. 87, 256 (1990).
+
+**** results
+
+     #+BEGIN_QUOTE
+     activity was observed within the DLPFC in response to instructions to name the color but not read the word. 
+     #+END_QUOTE
+
+     supposedly this is because reading color is the less automatized action, so DLPFC holds the rule that the "less-expected" action should be taken. In this way the top-down control hypothesis is consistent. But their main takeaway
+
+     #+BEGIN_QUOTE
+     DLPFC provides top-down support of task-appropriate behaviors, whereas other components, such as the ACC, are likely to be involved in evaluative processes indicating when control needs to be more strongly engaged.
+     #+END_QUOTE
+
+     suggests they didn't actually restrict the interpretation to "less-expected" rule maintenance (and the expected rule takes little effort to maintain)
+
+     #+BEGIN_QUOTE
+     No instruction-related activity was observed in the ACC. 
+     #+END_QUOTE
+
+     replication of stroop findings
+
+     #+BEGIN_QUOTE
+     within the right ACC, greater activity was observed for incongruent, compared to congruent, color-naming trials, consistent with a role in conflict monitoring
+     #+END_QUOTE
+
+     in the footnote they also report, for =incongruent > congruent=, *right precentral* (BA 6, which could also be *primary motor cortex*) and *thalamus*. Less interesting in this context, fair enough.
+
+**** interpretation of dissociation of activity between DLPFC and ACC
+
+     #+BEGIN_QUOTE
+     This is consistent with a role in the implementation of control, by representing and actively maintaining the attentional demands of the task. In contrast, the ACC was selectively activated during the response period, more for incongruent than for congruent color-naming trials. This is consistent with a role in conflict monitoring
+     #+END_QUOTE
+
+     one must see how this melds with prediction error literature involving both regions later on
+
+     
+
+**** DLPFC lesion studies
+
+     #+BEGIN_QUOTE
+     lesions to this region result in an inability to use complex information stored in working memory [fn:goldmanrakicetal1993] [fn:petrides1993]
+     #+END_QUOTE
+
+[fn:goldmanrakicetal1993] P. S. Goldman-Rakic, in Psychopathology and the Brain, B. J. Carrol and J. E. Barrett, Eds. (Raven, New York, 1991), pp. 1–23
+
+[fn:petrides1993] M. Petrides, J. Neurosci. 15, 359 (1993).
+
+
+**** why the ACC is supposed to be distinct in this study
+
+     their assumption:
+
+     #+BEGIN_QUOTE
+     Regions implementing control should be negatively correlated with the amount of conflict (i.e., more control, less conflict).
+     #+END_QUOTE
+
+     which is supported by:
+
+     #+BEGIN_QUOTE
+     This pattern was observed in the DLPFC, but the correlation between ACC activity and conflict was in a positive direction
+     #+END_QUOTE
+
+     the inference is fine, but should the assumption be? if it were prediction error, then the greater the conflict, the greater the region implementing control should activate (violation of expectation), such as in OFC in value judgment. taking time into account however, sure this makes sense. More control now, less conflict (error) later. But ACC activation occurs at the response phase, whereas DLFPC at the rule maintenace phase. So this assumption is ok but a bit lax.
+
+     one subject could find rule encoding very difficult, expend a lot of energy on DLPFC activation, and suck at the stroop task afterwards, and experience conflict and increased ACC activation. Then we expect DLPFC up + ACC up in incongruence > congruence. A first vs. second half interaction analysis here would have been a good addition, as well as whether there was some kind of resource competition between the regions. The next interesting question is, assuming there is competition, how the delay period between first vs. second halves alters the response. That would be a cognitive load Stroop task. So, DLPFC up, something down, then ACC up...
+
+     #+BEGIN_QUOTE
+     ACC activity increases when top-down control is low, whether control is reduced from trial to trial or across a number of trials [fn:botvinicketal1999] [fn:carteretal2000]
+     #+END_QUOTE
+     
+[fn:botvinicketal1999] M. Botvinick, L. E. Nystrom, K. Fissell, C. S. Carter, J. D. Cohen, Nature 402, 179 (1999)
+
+[fn:carteretal2000] C. S. Carter et al., Proc. Natl. Acad. Sci. U.S.A. 97, 1944 (2000).
+
+     this is better support for the dissociation in this case
+
+**** TODO what's the interplay between DLPFC + ACC on cognitive load Stroop tasks
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
