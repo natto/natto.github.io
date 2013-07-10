@@ -396,7 +396,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      that is citing Chase and Simon (1973)
 
      #+BEGIN_QUOTE
-     The templates theory was implemented in a computer model—CHREST (Gobet & Jansen, 1994)—that contains a "mental eye," a short-term memory, and a long-term memory. The mental eye allows the formation of mental images, either from retina stimulation or from the activation of information in memory. The short-term memory is a vector with a capacity for 4 items, and the long-term memory contains a discrimination network in which chunks and templates are formed by means of familiarization and discrimination processes. This model has successfully simulated the performance of chess-players of different levels in memory tasks (Gobet & Simon, 2000), as well as the chess-players’ eye-movements (De Groot & Gobet, 1996). It has also simulated problem-solving in computer programmers (Lane, Cheng, & Gobet, 2001) and language acquisition (Gobet et al., 2001)
+     The templates theory was implemented in a computer model—CHREST (Gobet & Jansen, 1994)—that contains a "mental eye," a short-term memory, and a long-term memory. The mental eye allows the formation of mental images, either from retina stimulation or from the activation of information in memory. The short-term memory is a vector with a capacity for 4 items, and the long-term memory contains a discrimination network in which chunks and templates are formed by means of familiarization and discrimination processes. This model has successfully simulated the performance of chess-players of different levels in memory tasks (Gobet & Simon, 2000), as well as the chess-players' eye-movements (De Groot & Gobet, 1996). It has also simulated problem-solving in computer programmers (Lane, Cheng, & Gobet, 2001) and language acquisition (Gobet et al., 2001)
      #+END_QUOTE
 
      #+BEGIN_QUOTE
@@ -435,7 +435,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
 
      #+BEGIN_QUOTE
-      in contrast to the masters, the novices require high activation in frontal areas in the chess position condition, which suggests a switch in the masters’ type of processing, from anterior to posterior areas of the brain.
+      in contrast to the masters, the novices require high activation in frontal areas in the chess position condition, which suggests a switch in the masters' type of processing, from anterior to posterior areas of the brain.
      #+END_QUOTE
      
      
@@ -888,13 +888,13 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 **** H2 vmPFC activity should reflect health ratings for SC but NSC groups
 
      #+BEGIN_QUOTE
-     To test the second prediction, we estimated a new GLMthat included parametric regressors for health and taste ratings. The beta values for both parametric regressors were extracted from the voxels in vmPFC that exhibited the strongest correlation with goal values for each participant. In the SC group, vmPFC activity was modulated by both health (t18 = 4.20,P< 0.001) and taste (t18= 3.31,P< 0.005) (Fig. 2D), whereas in the NSC group it was only modulated by taste (t17 = 7.28, P< 0.001). We tested this relationship further by estimating a linear regression of the impact of health ratings on each participant’sbehavioragainst a measure of the impact of health ratings on the participant’s vmPFC activity (regression coefficient = 0.847,t35 =5.57,P< 0.001) (Fig. 2E)
+     To test the second prediction, we estimated a new GLMthat included parametric regressors for health and taste ratings. The beta values for both parametric regressors were extracted from the voxels in vmPFC that exhibited the strongest correlation with goal values for each participant. In the SC group, vmPFC activity was modulated by both health (t18 = 4.20,P< 0.001) and taste (t18= 3.31,P< 0.005) (Fig. 2D), whereas in the NSC group it was only modulated by taste (t17 = 7.28, P< 0.001). We tested this relationship further by estimating a linear regression of the impact of health ratings on each participant'sbehavioragainst a measure of the impact of health ratings on the participant's vmPFC activity (regression coefficient = 0.847,t35 =5.57,P< 0.001) (Fig. 2E)
      #+END_QUOTE
 
 **** H3 DLPFC activation in self control trials > failed self-control trials
 
      #+BEGIN_QUOTE
-     We tested the third prediction by comparing the neural responses during the decision period in three different types of trials: those in which self-control was not needed, those inwhich self-control was successfully deployed, and those in which participants failed to use self-control. We found greater left DLPFC activity [inferior frontal gyrus (IFG) and Brodmann’s area (BA) 9 (IGF/BA9)] in the SC group than in the NSC group during successful self-control trials (Fig. 3Aand table S3). However, both groups had greater activity in this region for successful self-control trials compared with that of failed self-control trials (SCgroupt14= 2.29, NSC groupt13 =2.62,P<0.05) (Fig.3B)
+     We tested the third prediction by comparing the neural responses during the decision period in three different types of trials: those in which self-control was not needed, those inwhich self-control was successfully deployed, and those in which participants failed to use self-control. We found greater left DLPFC activity [inferior frontal gyrus (IFG) and Brodmann's area (BA) 9 (IGF/BA9)] in the SC group than in the NSC group during successful self-control trials (Fig. 3Aand table S3). However, both groups had greater activity in this region for successful self-control trials compared with that of failed self-control trials (SCgroupt14= 2.29, NSC groupt13 =2.62,P<0.05) (Fig.3B)
      #+END_QUOTE
 
 
@@ -982,7 +982,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 **** activation results
 
      #+BEGIN_QUOTE
-     In controls, activity was observed in the left inferior frontal cortex (Broca’s area: BA44, 45), medial frontal cortex (BA32), and insula (BA13); bilaterally in the ventral prefrontal cortex (BA47) and inferior parietal lobule (BA40); and more predominately in the right cerebellum. The active region including Broca’s area extended to the precentral gyrus (BA6). In contrast, in experts, activity was observed bilaterally in the superior frontal sulcus (BA6), inferior parietal lobule (BA40), superior parietal lobule (BA7), and cingulate gyrus (BA24)
+     In controls, activity was observed in the left inferior frontal cortex (Broca's area: BA44, 45), medial frontal cortex (BA32), and insula (BA13); bilaterally in the ventral prefrontal cortex (BA47) and inferior parietal lobule (BA40); and more predominately in the right cerebellum. The active region including Broca's area extended to the precentral gyrus (BA6). In contrast, in experts, activity was observed bilaterally in the superior frontal sulcus (BA6), inferior parietal lobule (BA40), superior parietal lobule (BA7), and cingulate gyrus (BA24)
      #+END_QUOTE
 
      
@@ -1104,7 +1104,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+END_QUOTE
 
      #+BEGIN_QUOTE
-     The co-efficient of contrasts was computed using the fixed effects model by forcing the random effects variance to zero with FLAME (FMRIB’s Local Analysis of Mixed Effects) (Beckmann, Jenkinson, & Smith, 2003; Woolrich et al., 2004)
+     The co-efficient of contrasts was computed using the fixed effects model by forcing the random effects variance to zero with FLAME (FMRIB's Local Analysis of Mixed Effects) (Beckmann, Jenkinson, & Smith, 2003; Woolrich et al., 2004)
      #+END_QUOTE
 
      #+BEGIN_QUOTE
@@ -1291,7 +1291,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 **** right occipital temporal junction
 
      #+BEGIN_QUOTE
-     same focus was found by Nakada et al. [fn:nakadaetal1998]. These authors compared the activation pattern associated with music score reading with that associated with language reading (English and Japanese). An area within the right occipital cortex (adjacent to the occipital sulcus) was identified as being specifically activated by reading music scores. However, the reading task used by the authors was again not clearly specified, and we are confronted with the same interpretative problem as mentioned for the Sergent study [fn:sergentetal1992]. Nonetheless, this region of the right occipital cortex seems to be important since Cappelletti’s et al. [ 12] patient, who was completely unable to read music, also had a small right occipito-temporal lesion. 
+     same focus was found by Nakada et al. [fn:nakadaetal1998]. These authors compared the activation pattern associated with music score reading with that associated with language reading (English and Japanese). An area within the right occipital cortex (adjacent to the occipital sulcus) was identified as being specifically activated by reading music scores. However, the reading task used by the authors was again not clearly specified, and we are confronted with the same interpretative problem as mentioned for the Sergent study [fn:sergentetal1992]. Nonetheless, this region of the right occipital cortex seems to be important since Cappelletti's et al. [ 12] patient, who was completely unable to read music, also had a small right occipito-temporal lesion. 
      #+END_QUOTE
 
      oddly enough, 2 of the 3 authors in the Sergent paper have misspelt last names in the references section.
@@ -1742,7 +1742,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 **** /conjuctive/ and /elemental/ representations
 
      #+BEGIN_QUOTE
-     The hippocampus supports explicit memorization of the conjunction of each stimulus pair (AB, BC, etc.) by automatically and rapidly binding together individual elements of the event (Atallah, Frank, & O’Reilly, 2004; Davachi & Wagner, 2002; Frank et al., 2003; O’Reilly & Rudy, 2001). In parallel, the basal ganglia–dopamine system learns an implicit elemental reinforcement value for each stimulus depending on how often its selection is associated with positive versus negative reinforcement (Frank, 2005; Frank, Rudy, et al., 2005; Frank et al., 2004). 
+     The hippocampus supports explicit memorization of the conjunction of each stimulus pair (AB, BC, etc.) by automatically and rapidly binding together individual elements of the event (Atallah, Frank, & O'Reilly, 2004; Davachi & Wagner, 2002; Frank et al., 2003; O'Reilly & Rudy, 2001). In parallel, the basal ganglia–dopamine system learns an implicit elemental reinforcement value for each stimulus depending on how often its selection is associated with positive versus negative reinforcement (Frank, 2005; Frank, Rudy, et al., 2005; Frank et al., 2004). 
      #+END_QUOTE
 
 ***** learning relative valuations and performing comparitive judgments without logic and declarative memory
@@ -1782,12 +1782,114 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 ***** A superbly written section on the reasoning for the ANOVA analysis
 
      #+BEGIN_QUOTE
-     Our hypothesis that the hippocampus is important for rapidly memorizing stimulus conjunctions leads to additional predictions for learning patterns during the training phases of both tasks. In the TI task, the anchor pairs AB and DE are the easiest to learn because stimulus A is always correct and stimulus E is always incorrect. The middle pairs (BC and CD) are more difficult and may benefit from explicit memorization of stimulus conjunctions to prevent interference. We hypothesized that midazolam should impair memorization of stimulus conjunctions and would be associated with worse performance on the middle pairs than in the saline condition. In contrast, the tendency for participants to rely on reinforcement learning systems under midazolam was expected to lead to better performance on the anchor pairs than in the saline condition. We further hypothesized that these effects would be apparent very early in training, given the known role of the hippocampus in automatically and rapidly encoding stimulus conjunctions in very few trials (O’Reilly & Rudy, 2001). After multiple training trials, the differential reinforcement values learned for stimulus items A through E should be sufficient for good performance on all pairs.
+     Our hypothesis that the hippocampus is important for rapidly memorizing stimulus conjunctions leads to additional predictions for learning patterns during the training phases of both tasks. In the TI task, the anchor pairs AB and DE are the easiest to learn because stimulus A is always correct and stimulus E is always incorrect. The middle pairs (BC and CD) are more difficult and may benefit from explicit memorization of stimulus conjunctions to prevent interference. We hypothesized that midazolam should impair memorization of stimulus conjunctions and would be associated with worse performance on the middle pairs than in the saline condition. In contrast, the tendency for participants to rely on reinforcement learning systems under midazolam was expected to lead to better performance on the anchor pairs than in the saline condition. We further hypothesized that these effects would be apparent very early in training, given the known role of the hippocampus in automatically and rapidly encoding stimulus conjunctions in very few trials (O'Reilly & Rudy, 2001). After multiple training trials, the differential reinforcement values learned for stimulus items A through E should be sufficient for good performance on all pairs.
      #+END_QUOTE
 
       #+BEGIN_QUOTE
       results support the hypothesis that midazolam administration leads to increased reliance on reinforcement learning about individual stimuli (as evidenced by better anchor-pair performance than in the saline condition), together with reduced ability to rapidly bind together stimulus elements into conjunctive pairs (as evidenced by impaired middle-pair performance). 
       #+END_QUOTE
+
+*** The neural basis of first and second language processing
+
+    Daniela Perani et al
+
+    a short review paper
+
+    the reference notation has dots, 1 dot meaning "of special interest", 2 dots meaning "of outstanding interest"
+
+**** =Ullman's differential hypothesis= is not well-supported
+
+     #+BEGIN_QUOTE
+     A recent theory claims that the processing of L2 acquired late in life depends upon different cognitive mechanisms and cerebral structures from L1 [fn:ullman2001]. Following this view, grammatical knowledge for L2 is declarative rather than implicit, as is the case for L1 grammar. By contrast, lexical knowledge is represented in the declarative memory system for both L1 and L2. Because implicit and declarative knowledge are mediated by distinct neural systems (a left frontal-basal ganglia circuit for implicit knowledge and left temporal language areas for declarative knowledge), Ullman's differential hypothesis claims that L2 acquisition in adulthood could not depend on the same brain mechanisms that are used to process the native language [fn:ullman2001].
+     #+END_QUOTE
+
+[fn:ullman2001] Ullman MT: A neurocognitive perspective on language: the declarative/procedural model. Nat Rev Neurosci 2001, 2:717-726
+
+     #+BEGIN_QUOTE
+     The results have so far contradicted Ullman's hypothesis [fn:wartenburgeretal2003] [fn:briellmannetal2004] [fn:sakaietal2004]
+     #+END_QUOTE
+
+[fn:wartenburgeretal2003] Wartenburger I, Heekeren HR, Abutalebi J, Cappa SF, Villringer A, Perani D: Early Setting of Grammatical Processing in the Bilingual Brain. Neuron 2003, 37:159-170.
+
+[fn:briellmannetal2004] Briellmann RS, Saling MM, Connell AB, Waites AB, Abbott DF, Jackson GD: A high-field functional MRI study of quadrilingual subjects. Brain Lang 2004, 89:531-542.
+
+[fn:sakaietal2004] Sakai KL, Miura K, Narafu N, Muraishi Y: Correlated functional changes of the prefrontal cortex in twins induced by classroom education of second language. Cereb Cortex 2004, 14:1233-1239.
+
+**** late acquisition L2
+
+     #+BEGIN_QUOTE
+     grammatical processing is particularly deficient when L2 is learned later in life [fn:johnsonetal1989].
+     #+END_QUOTE
+
+[fn:johnsonetal1989] Johnson JS, Newport EL: Critical period effects in second language learning: the influence of maturational state on the acquisition of English as a second language. Cognit Psychol 1989, 21:60-99
+
+     #+BEGIN_QUOTE
+     The dependence of grammatical processing upon these age effects was confirmed by early ERP studies [fn:weberfoxetal1996] and by recent functional brain imaging studies [fn:wartenburgeretal2003]. In particular, Wartenburger et al. [fn:wartenburgeretal2003] observed no differences in brain activations for grammar in L1 and L2 in very early (from birth) proficient bilinguals. Conversely, late (L2 acquisition after age 6) but highly proficient bilinguals were in need of additional neural resources to achieve a comparable native-like performance in grammatical tasks (Figure 1). The same did not apply to lexical–semantic processing, for which the only difference in the pattern of brain activity in bilinguals appeared to depend upon the level of attained proficiency [fn:wartenburgeretal2003]
+     #+END_QUOTE
+
+[fn:weberfoxetal1996] Weber-Fox CM, Neville HJ: Maturational constraints on functional specialization for language processing: ERP and behavioral evidence in bilingual speakers. J Cogn Neurosci 1996, 8:231-256.
+
+     #+BEGIN_QUOTE
+     Notably, the additional brain activity during grammatical processing in these late bilinguals (as compared with the very early bilinguals) was only found in language-related regions, such as Broca's area.
+     #+END_QUOTE
+
+**** role of Broca's area
+
+     #+BEGIN_QUOTE
+     Musso et al. [fn:mussoetal2003] highlighted Broca's area as a crucial structure in the acquisition of rules from a foreign language, but not for rules that are inconsistent with natural languages. 
+     #+END_QUOTE
+
+[fn:mussoetal2003] Musso M, Moro A, Glauche V, Rijntjes M, Reichenbach J, Buechel C, Weiller C: 'Broca's area and the language instinct'. Nat Neurosci 2003, 6:774-781.
+
+**** dependency on L1 neural substrates and its disappearance               :mental crutch:
+
+     #+BEGIN_QUOTE
+     According to psycholinguistics, during the early stages of L2 acquisition there might be a dependency on L1 to mediate access to meaning for L2 lexical items [fn:krolletal1994]. As L2 proficiency grows, this dependency disappears.
+     #+END_QUOTE
+
+[fn:krolletal1994] Kroll JF, Stewart E: Category interference in translation and picture naming: evidence for asymmetric connections between bilingual memory representations. Journal of Language and Memory 1994, 33:149-174.
+
+     in a more general sense, what we really want to know is how the disappearance of such "mental crutches" happens
+
+**** Green's =convergence hypothesis=
+
+     #+BEGIN_QUOTE
+     any qualitative differences between native and L2 speakers disappear as proficiency increases. [fn:greenetal2003]
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The convergence hypothesis claims that the acquisition of L2 arises in the context of an already specified, or partially specified, system, and that L2 will receive convergent neural representation within the representations of the language learned as L1
+     #+END_QUOTE
+
+[fn:greenetal2003] Green DW: The neural basis of the lexicon and the grammar in L2 acquisition. In The Interface Between Syntax and the Lexicon in Second Language Acquisition. Edited by van Hout R, Hulk A, Kuiken F, Towell R. John Benjamins; 2003:197-208.
+
+***** shared activation in L2 and L1 processing
+
+      #+BEGIN_QUOTE
+      Whether word or sentence production, or word completion, were used as experimental tasks, neuroimaging studies reported common activation in the left hemisphere when the degree of L2 proficiency was comparable with that for L1 [fn:cheeetal1999] [fn:kleinetal1999]. This happened irrespective of the differences in orthography, phonology and syntax among languages [fn:cheeetal1999]. Conversely, bilinguals with low proficiency in L2 engaged additional brain activity, mostly in prefrontal areas [fn:briellmannetal2004] [fn:debleseretal2003].
+      #+END_QUOTE
+
+[fn:cheeetal1999] Chee MWL, Tan EWL, Thiel T: Mandarin and English single word processing studied with functional magnetic resonance imaging. J Neurosci 1999, 19:3050-3056.
+
+[fn:kleinetal1999] Klein D, Milner B, Zatorre RJ, Zhao V, Nikelski J: Cerebral organization in bilinguals: a PET study of Chinese–English verb generation. Neuroreport 1999, 10:2841-2846.
+
+[fn:debleseretal2003] De Bleser R, Dupont P, Postler J, Bormans G, Speelman D, Mortelmans L, Debrock M: The organisation of the bilingual lexicon: a PET study. J of Neurolinguistics 2003, 16:439-456.
+
+***** L2 activation in prefrontal cortex
+
+      #+BEGIN_QUOTE
+      experience and practice on language task performance might result in decreased neural activity within the left prefrontal cortex [fn:thompsonschilletal1999].
+      #+END_QUOTE
+
+[fn:thompsonschilletal1999] Thompson-Schill SL, D’Esposito M, Kan IP: Effects of repetition and competition on activity in left prefrontal cortex during word generation. Neuron 1999, 23:513-522.
+
+***** can L2 replace L1
+
+      #+BEGIN_QUOTE
+      Pallier et al. [fn:pallieretal2003] addressed the question of whether or not L2 can replace L1 in Korean subjects adopted during childhood. These subjects had not been exposed to their L1 from infancy; behavioral and fMRI findings in a speech perception task suggested that indeed L2 might replace L1.
+      #+END_QUOTE
+
+[fn:pallieretal2003] Pallier C, Dehaene S, Poline JB, LeBihan D, Argenti AM, Dupoux E, Mehler J: Brain imaging of language plasticity in adopted adults: can a second language replace the first? Cereb Cortex 2003, 13:155-161.
 
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
@@ -1811,7 +1913,7 @@ Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cogni
 
      Akira Midorikawa, Mitsuru Kawamura & Machiko Kezuka
      
-     case of musical alexia and agraphia with Wernicke’s aphasia. An in-depth assessment of the subject’s musical reading ability showed that her musical alexia was restricted to unfamiliar melodies. When a melody was divided into rhythm elements and pitch elements, pitch reading was preserved, but rhythm reading was severely disturbed.
+     case of musical alexia and agraphia with Wernicke's aphasia. An in-depth assessment of the subject's musical reading ability showed that her musical alexia was restricted to unfamiliar melodies. When a melody was divided into rhythm elements and pitch elements, pitch reading was preserved, but rhythm reading was severely disturbed.
 
      DOI:10.1076/neur.9.3.232.15558
 
