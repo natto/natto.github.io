@@ -1550,6 +1550,124 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 **** TODO what's the interplay between DLPFC + ACC on cognitive load Stroop tasks
 
+*** Functional Anatomy of the Attentional Modulation of Time Estimation
+
+    Coull et al, /Science/ 2004
+
+**** prior work on subjective duration depending on cognitive load
+
+     #+BEGIN_QUOTE
+     When subjects perform two competing tasks simultaneously, the subjective duration of stimulus presentation is increasingly shortened the more subjects attend to nontemporal stimulus features, such as form, color [fn:hicksetal1976], or semantic meaning [fn:macaretal1994].
+     #+END_QUOTE
+
+[fn:hicksetal1976] R. E. Hicks, G. W. Miller, G. Gaes, K. Bierman, Am. J. Psychol. 89, 719 (1976).
+
+[fn:macaretal1994] 2. F. Macar, S. Grondin, L. Casini, Mem. Cognit. 22, 673 (1994).
+
+
+     #+BEGIN_QUOTE
+     Areas most consistently implicated in timing thus far have been the supplementary motor area (SMA), premotor cortex, frontal operculum, basal ganglia, and cerebellum [fn:macaretal2002]
+     #+END_QUOTE
+
+[fn:macaretal2002] F. Macar et al., Exp. Brain Res. 142, 475 (2002).
+
+**** in this task: shortening of time perception
+
+     #+BEGIN_QUOTE
+     Errors in time trials were more likely to be underestimates rather than overestimates (i.e., subjects perceived durations as shorter, not longer, than actual) [t(39) = 4.27, P < 0.001], in accordance with previous dual-task data [fn:hicksetal1976]. 
+     #+END_QUOTE
+
+[fn:brownetal1997] S. W. Brown, Percept. Psychophys. 59, 1118 (1997)
+
+***** TODO tasks that lengthen subjective duration
+
+**** in this task: color perception
+
+     #+BEGIN_QUOTE
+     In color trials, subjects more often misperceived the stimulus as bluer, rather than redder, than actual [t(39) = -3.99, P < 0.001].
+     #+END_QUOTE
+
+     there's no citation here. uninteresting, or novel?
+
+***** TODO how does this relate to the color perception mechanism, neuroanatomy, and maybe relate to the study about language and color perception?
+
+**** V4 activity modulation by attention
+
+     #+BEGIN_QUOTE
+     Activity in area V4 increased as attention to color increased [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988] (Fig. 2A). 
+     #+END_QUOTE
+
+     and later,
+
+     #+BEGIN_QUOTE
+     these data demonstrate that attentional modulation of area V4 is not a simple on/off mechanism [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988]. Rather, activity in this area varies paramet- rically with increasingly greater attentional demands. 
+     #+END_QUOTE
+
+[fn:corbettaetal1990] M. Corbetta, F. M. Miezin, S. Dobmeyer, G. L. Shulman, S. E. Petersen, Science 248, 1556 (1990).
+
+[fn:chawlaetal1999] D. Chawla, G. Rees, K. J. Friston, Nature Neurosci. 2, 671 (1999).
+
+[fn:spitzeretal1988] H. Spitzer, R. Desimone, J. Moran, Science 240, 338 (1988).
+
+
+**** conclusions
+
+     they're trying to find the mental metronome here
+
+***** preSMA
+
+      #+BEGIN_QUOTE
+      Together these results suggest that the preSMA is involved in invoking an imaginary ordinal scale or time line against which elements of a sequence, or "beats" in a duration, can be aligned and quantified.
+      #+END_QUOTE
+
+***** frontal operculum
+
+      #+BEGIN_QUOTE
+      Frontal operculum has previously been implicated in perceptual sequencing of auditory [fn:plateletal1997] stimuli, as well as being involved in selective attention to time [fn:coulletal2000] [fn:coulletal2003] and in time estimation itself [fn:schubotzetal2001] [fn:lewisetal2003]. Activation of right frontal operculum in the present study confirms the latter reports.
+      #+END_QUOTE
+
+[fn:plateletal1997] H. Platel et al., Brain 120, 229 (1997).
+
+[fn:coulletal2000] J. T. Coull, C. D. Frith, C. Büchel, A. C. Nobre, Neuropsychologia 38, 808 (2000).
+
+[fn:coulletal2003] J. T. Coull, V. Walsh, C. D. Frith, A. C. Nobre, Cognit. Brain Res. 17, 368 (2003).
+
+[fn:schubotzetal2001] R. I. Schubotz, D. Y. von Cramon, Cognit. Brain Res. 11, 97 (2001).
+
+[fn:lewisetal2003] P. A. Lewis, R. C. Miall, Neuropsychologia 41, 1583 (2003).
+
+      #+BEGIN_QUOTE
+      In addition, simultaneous activation of dorsal premotor cortex and basal ganglia in both our own and the aforementioned fMRI study of sequencing [fn:schubotzetal2001] suggests that these areas constitute a frontostriatal functional loop for invoking a relative time scale for duration estimation in either the motor or sensory domain.
+      #+END_QUOTE
+
+[fn:schubotzetal2001] R. I. Schubotz, D. Y. von Cramon, Cereb. Cortex 11, 210 (2001).
+
+***** striatum
+
+      #+BEGIN_QUOTE
+      The striatum, and the putamen in particular, have been consistently activated in functional imaging studies of timing, including those using nonmotor perceptual tasks (e.g., [fn:raoetal2001] [fn:aletal2003]). Recently, the striatum has been proposed as the neural substrate for the "beat frequency" model of timing [fn:matelletal2000] [fn:mialletal1989]. Each duration is thought to have a unique neural "time stamp," which the striatum detects. We suggest that the role of the putamen within the aforementioned frontostriatal functional loop is to detect the target duration within the invoked time scale.
+      #+END_QUOTE
+
+[fn:raoetal2001] S. M. Rao, A. R. Mayer, D. L. Harrington, Nature Neurosci. 4, 317 (2001).
+
+[fn:aletal2003] I. Nenadic et al., Exp. Brain Res. 148, 238 (2003).
+
+[fn:matelletal2000] M. S. Matell, W. H. Meck, Bioessays 22, 94 (2000).
+
+[fn:mialletal1989] C. Miall, Neural Comput. 1, 359 (1989).
+
+
+***** left parietal cortex
+
+      #+BEGIN_QUOTE
+      activation of left parietal cortex in our perceptual timing task complements earlier studies demonstrating its role in orienting attention to timed motor responses ([fn:coulletal2000], [fn:coulletal1998]) or to motor acts ([fn:rushworthetal1997]), suggesting that this region is involved in the tim- ing, as well as the motor, aspects of temporal attentional orienting.
+      #+END_QUOTE
+
+[fn:coulletal1998] J. T. Coull, A. C. Nobre, J. Neurosci. 18, 7426 (1998).
+
+[fn:rushworthetal1997] M. F. Rushworth, P. D. Nixon, S. Renowden, D. T. Wade, R. E. Passingham, Neuropsychologia 35, 1261 (1997).
+
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
