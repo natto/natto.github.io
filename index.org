@@ -1668,6 +1668,20 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 [fn:rushworthetal1997] M. F. Rushworth, P. D. Nixon, S. Renowden, D. T. Wade, R. E. Passingham, Neuropsychologia 35, 1261 (1997).
 
 
+*** Effects of bizarre and interacting imagery on learning and retrieval of the aged
+    
+    Leonard W. Poon & Leslie Walsh-sweeney
+
+    doi:10.1080/03610738108259786
+
+    Fascinating title but the abstract is less exciting. Though not seeing the paper, we can't tell whether there were different effects over long-term recall
+
+**** abstract
+
+     #+BEGIN_QUOTE
+     The effects of bizarre and interacting imagery on the acquistion and retrieval of 20 paired associates (PA) were examined using 30 young and 27 (out of 38) elderly who successfully learned the PAs to criterion. Interacting imagery facilitated acquisition, especially for the elderly, but did not benefit retrieval. There was no evidence that bizarre imageries were superior than logical ones in facilitating acquistion or retrieval. Furthermore, the elderly tended to resist using bizarre imagery, and both young and elderly subjects tended to use imagery that was more congruent with non-bizarre life experiences and events.
+     #+END_QUOTE
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
