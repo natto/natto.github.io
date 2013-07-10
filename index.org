@@ -1682,6 +1682,113 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The effects of bizarre and interacting imagery on the acquistion and retrieval of 20 paired associates (PA) were examined using 30 young and 27 (out of 38) elderly who successfully learned the PAs to criterion. Interacting imagery facilitated acquisition, especially for the elderly, but did not benefit retrieval. There was no evidence that bizarre imageries were superior than logical ones in facilitating acquistion or retrieval. Furthermore, the elderly tended to resist using bizarre imagery, and both young and elderly subjects tended to use imagery that was more congruent with non-bizarre life experiences and events.
      #+END_QUOTE
 
+*** When Memory Fails, Intuition Reigns
+
+    Frank et al, /Psychological Science/ 2006
+
+    #+BEGIN_QUOTE
+    basal ganglia and hippocampus make distinct contributions to memory. Finally, our observation that midazolam actually enhanced TI performance suggests that disengagement of the hippocampal explicit memory system may lead to enhanced basal ganglia learning
+    #+END_QUOTE
+
+    #+BEGIN_QUOTE
+    the hippocampus may be required for humans to quickly transfer newly learned associations to novel situations (e.g., Myers et al., 2003), but it is not required for transfer when associations are ingrained habitually over multiple experiences (Bayley et al., 2005). 
+    #+END_QUOTE
+
+**** what is midazolam and why does it selectively disrupt hippocampus related learning
+
+     #+BEGIN_QUOTE
+     midazolam, which has potent amnestic properties and transiently deactivates the hippocampus (Hirshman, Passannante, & Arndt, 2001; Ko- bayashi, Fujito, Matsuyama, & Aoki, 2004; Kristiansen & Lambert, 1996; Poncer, Durr, Gahwiler, & Thompson, 1996; Rovira & Ben-Ari, 1993; Thomas-Anterion, Koenig, Navez, & Laurent, 1999). 
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     midazolam, by acting on gamma-aminobutyric acid-A (GABA-A) receptors densely expressed in the hippocampus (Montpied et al., 1988), transiently but profoundly impairs explicit memory processes while leaving implicit memory intact (Thomas-Anterion et al., 1999).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     midazolam impairs learning of configurations in a visual search task (Park, Quinlan, Thornton, & Reder, 2004). 
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Midazolam is a benzodiazepene that increases the binding of GABA to GABA-A receptors. Although GABA-A receptors are expressed throughout the brain, the GABA-A/benzodiazepene receptors are particularly densely expressed in the hippocampus, in far greater numbers than in striatum (Montpied et al., 1988). It has been shown that midazolam increases inhibitory currents in the CA1 and CA3 regions of the hippocampus (Kobayashi et al., 2004; Kristiansen & Lambert, 1996; Poncer et al., 1996; Rovira & Ben-Ari, 1993) and inhibits hippocampal long-term potentiation (Evans & Viola-McCabe, 1996). In addition, various lines of evidence suggest that midazolam impairs hippocampal-dependent explicit memory processes, while sparing other forms of memory (Arndt, Passannante, & Hirshman, 2004; Hirshman, Fisher, Henthorn, Arndt, & Passannante, 2002; Hirshman et al., 2001; Park et al., 2004; Thomas-Anterion et al., 1999). Positron emission tomography studies have shown that midazolam decreases blood flow to the hippocampus and left prefrontal cortex, which interact with each other in explicit memory and reasoning processes, and that midazolam has no effect on striatal areas (Bagary et al., 2000; Reinsel et al., 2000).
+     #+END_QUOTE
+
+
+**** how the hippocampus deals with combinations of learned material
+
+     #+BEGIN_QUOTE
+     neuroimaging studies show that the hippocampus is activated more by conjunctive items that have been studied together than by two individually studied items that are recombined (Giovanello, Schnyer, & Verfaeillie, 2004), suggesting that it is more involved in binding elements together than in flexibly recombining them. 
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     both rats and humans with hippocampal damage perform normally in a novelty transfer task designed to test for representational flexibility (Bayley, Frascino, & Squire, 2005; Driscoll, Sutherland, Prusky, & Rudy, 2004)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     pigeons with hippocampal damage showed intact transitive responding in a TI task (Strasser et al., 2004). 
+     #+END_QUOTE
+
+***** explicit logical reasoning
+
+      #+BEGIN_QUOTE
+      neuroimaging studies of humans performing explicit logical reasoning in TI tasks consistently implicate the hippocampus and prefrontal cortex (Acuna, Eliassen, Donoghue, & Sanes, 2002; Heckers, Zalesak, Weiss, Ditman, & Titone, 2004; Nagode & Pardo, 2002).
+      #+END_QUOTE
+
+**** transitive inference task
+
+     #+BEGIN_QUOTE
+     four pairs are presented: A+B-, B+C-, C+D-, and D+E- (the plus and minus signs indicate the reinforced and nonreinforced choice, respectively). After learning the correct choices, participants are presented with the novel test pairs AE and BD. Successful AE performance is trivial, because A was always reinforced during training, and E was never reinforced. In contrast, because B and D were reinforced equally often during training, the selection of B over D is taken to indicate that an inference has been made
+     #+END_QUOTE
+
+**** /conjuctive/ and /elemental/ representations
+
+     #+BEGIN_QUOTE
+     The hippocampus supports explicit memorization of the conjunction of each stimulus pair (AB, BC, etc.) by automatically and rapidly binding together individual elements of the event (Atallah, Frank, & O’Reilly, 2004; Davachi & Wagner, 2002; Frank et al., 2003; O’Reilly & Rudy, 2001). In parallel, the basal ganglia–dopamine system learns an implicit elemental reinforcement value for each stimulus depending on how often its selection is associated with positive versus negative reinforcement (Frank, 2005; Frank, Rudy, et al., 2005; Frank et al., 2004). 
+     #+END_QUOTE
+
+***** learning relative valuations and performing comparitive judgments without logic and declarative memory
+
+      #+BEGIN_QUOTE
+      participants may choose B over D simply because B has a higher dopamine reinforcement value; they do not have to explicitly perform any logical reasoning. This mechanism explains why participants can respond transitively even when they are prevented from becoming explicitly aware of logical structure (Frank, Rudy, et al., 2005; Greene, Spellman, Dusek, Eichenbaum, & Levy, 2001) and is consistent with the effects of dopaminergic manipulation on learning in a TI task (Frank et al., 2004). 
+      #+END_QUOTE
+
+***** dissociation of basal ganglia vs hippocampus driven learning
+
+      #+BEGIN_QUOTE
+      basal ganglia and hippocampal memory systems interact competitively (Atallah et al., 2004; Packard & McGaugh, 1996; Poldrack et al., 2001; Poldrack & Packard, 2003; Seger & Cincotta, 2005)
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      learning about conjunctive hippocampal representations can actually block learning of elemental associations (Frank et al., 2003). 
+      #+END_QUOTE
+      
+**** probabilistic selection task
+
+     #+BEGIN_QUOTE
+     In 80% of AB trials, a choice of stimulus A leads to positive feedback and a choice of B leads to negative feedback (feedback is reversed for the remaining 20% of trials). Stimulus C is correct in 70% of CD trials, and E is correct in 60% of EF trials. Over the course of training, participants learn to choose stimuli A, C, and E more often than B, D, or F. 
+     #+END_QUOTE
+
+     this is in other words a multi-armed bandit task with the same uniform distribution, but different mean values, on each arm, presented iteratively in pairs. It is interesting that they suggest that subjects choose the "correct" arms ~more often~ instead of deterministically selecting the higher-valued arm.
+
+***** TODO what is the connection between probability matching and this pairwise multi-armed bandit task?
+
+***** TODO what drives the learning behind probability matching here and why aren't they expected to maximize?
+
+**** results
+
+     #+BEGIN_QUOTE
+     results are consistent with the proposals that (a) midazolam impairs explicit memory processes that depend on the hippocampus, (b) the hippocampus is not necessary and actually hinders transitive responding in associative learning tasks. and (c) the hippocampus is not critically involved in probabilistic learning. 
+     #+END_QUOTE
+
+***** A superbly written section on the reasoning for the ANOVA analysis
+
+     #+BEGIN_QUOTE
+     Our hypothesis that the hippocampus is important for rapidly memorizing stimulus conjunctions leads to additional predictions for learning patterns during the training phases of both tasks. In the TI task, the anchor pairs AB and DE are the easiest to learn because stimulus A is always correct and stimulus E is always incorrect. The middle pairs (BC and CD) are more difficult and may benefit from explicit memorization of stimulus conjunctions to prevent interference. We hypothesized that midazolam should impair memorization of stimulus conjunctions and would be associated with worse performance on the middle pairs than in the saline condition. In contrast, the tendency for participants to rely on reinforcement learning systems under midazolam was expected to lead to better performance on the anchor pairs than in the saline condition. We further hypothesized that these effects would be apparent very early in training, given the known role of the hippocampus in automatically and rapidly encoding stimulus conjunctions in very few trials (O’Reilly & Rudy, 2001). After multiple training trials, the differential reinforcement values learned for stimulus items A through E should be sufficient for good performance on all pairs.
+     #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      results support the hypothesis that midazolam administration leads to increased reliance on reinforcement learning about individual stimuli (as evidenced by better anchor-pair performance than in the saline condition), together with reduced ability to rapidly bind together stimulus elements into conjunctive pairs (as evidenced by impaired middle-pair performance). 
+      #+END_QUOTE
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
