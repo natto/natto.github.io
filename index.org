@@ -1047,7 +1047,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      This is a strong assumption that was not well-addressed here
 
      #+BEGIN_QUOTE
-     how can we convince people that experts perform additions using an imaginary aba- cus rather than other usual direct ways?
+     how can we convince people that experts perform additions using an imaginary abacus rather than other usual direct ways?
      #+END_QUOTE
      
 *** Dynamic Spread of Happiness in a Large Social Network: Longitudinal Analysis Over 20 Years
