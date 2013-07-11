@@ -7,6 +7,7 @@
 # Ϫ -> -
 # Ͻ -> <
 # – -> --
+# — -> --
 
 * topics
 
@@ -1948,6 +1949,64 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      first-letter mnemonic, where the first letters of several pieces of to-be-remembered information are fit together to form a word, has turned out empirically to be a flop (e.g., Carlson, Glover, & Zimmer, 1981) -- likely as a result of the insufficient retrieval cues afforded simply by single letters.
      #+END_QUOTE
 
+
+*** Winners Love Winning and Losers Love Money
+
+    Kassam et al, /Psychological Science/ 2011
+
+    #+BEGIN_QUOTE
+    some threshold of negative affect must be reached before rationalization is engaged, and that rationalization requires cognitive resources. 
+    #+END_QUOTE
+
+**** happiness by relative valuations
+
+     #+BEGIN_QUOTE
+     Increasing one person's income relative to that of others raises that person's happiness, but increasing everyone's income (i.e., changes in a country's gross domestic product) does not affect happiness (Clark, Frijters, & Shields, 2008). Standards of comparison -- whether past outcomes (Strack, Schwarz, & Gschneidinger, 1985), other people's outcomes (Strack, Schwarz, Chassein, Kern, & Wagner, 1990), or counterfactual outcomes (Larsen, McGraw, Mellers, & Cacioppo, 2004; Roese, 1994) -- —have a significant effect on people's happiness.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     people tend to compare themselves with others who are less fortunate (Pyszczynski, Greenberg, & LaPrelle, 1985; Taylor, Wood, & Lichtman, 1983), to avoid comparing themselves with others who are more fortunate (Lyubomirsky & Ross, 1997; Shepperd & Taylor, 1999), to compare themselves with others on those dimensions on which they are more fortunate (Kruger, 1999), to perpetuate misfortune for the people with whom they compare themselves (Tesser & Smith, 1980), to exaggerate how unfortunate they once were (Wilson & Ross, 2001), and so on.
+     #+END_QUOTE
+
+**** experiment 1
+
+     297 pedestrians chose 1 out of 2 tickets. Upon choice, both values revealed, with the chosen ticket being the payoff..
+
+     pairs were (1, 3), (3, 5), (5, 7) dollars. Measure self-reported happiness. Predicts winners won't be sensitive to absolute amount, but losers will. Hypothesis confirmed; Figure 1 is very clear, could be worth pasting here.
+
+     positive-affect index increases monotonically for all groups, significant only for loser group. Also, max. affect for losers (on $5) is less than min. affect for winners (on $3).
+
+***** TODO paste figures?
+
+**** experiment 2
+
+     29 (after 2 exclusions) people, probably not pedestrians but lab participants, completed 4 rounds of 2-alternative forced choices by this matrix of combinations:
+
+     | digits \ payoff | $5           | $3          |
+     |               8 | highN, high$ | lowN, high$ |
+     |               2 | lowN, high$  | lowN, low$  |
+     
+All choices are lose trials, i.e., if payoff is $5, you were at the end shown the other choice would have been >$5; probably $7. Also note they had a $5 participation fee.
+
+digits are to be memorized during choice, acts as cognitive load manipulation. Prediction is high load saps cognitive resources so relative comparision (against higher value alternative) is harder, thus happiness across high vs. low in high-load conditions should be similar, but in low load it should be higher for high payoff.
+
+Looks like affect was measured after every choice, thus there are =4 * 29 = 116= data points, which they do repeated measures ANOVA on. Figure 2 is fairly clear. The significances are all 0.05 range, the interaction of =load*amount= is 0.08. I guess we can expect a fairly good fit if we fit a plane in 3d if a bunch of (win value, lose value, affect) values were given.
+
+**** ancillary experiment
+
+     people basically did experiment 1 but hypothetically, and had to predict their happiness.
+
+     #+BEGIN_QUOTE
+     Participants correctly anticipated that if they won, they would not be sensitive to the amount of the cash prize, t(134) = 0.05, p = .96, but failed to anticipate that if they lost, they would be sensitive to the amount of the cash prize, t(134) = 0.84, p = .40.
+     #+END_QUOTE
+     
+     i.e., they failed to foresee the asymmetry in value perception (albeit the subjective reported value) upon loss.
+
+**** related theories
+     
+     #+BEGIN_QUOTE
+     results fit well with decision affect theory (DAT; Mellers, Schwartz, Ho, & Ritov, 1997), as well as regret theory (Loomes & Sugden, 1982), in that they suggest that affective reactions depend not only on obtained outcomes, but also on unobtained alternatives. 
+     #+END_QUOTE
 
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
