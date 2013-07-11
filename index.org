@@ -1439,7 +1439,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 **** prior work on DLPFC + ACC function
 
      #+BEGIN_QUOTE
-     both the DLPFC and ACC activate when participants are required to hold increasingly long sequences of items in working memory or when two tasks are performed at once, compared to when they are performed one at a time [fn:cohenetal1997] [fn:courtneyetal1997] [fn:desposito1995]. 
+     both the DLPFC and ACC activate when participants are required to hold increasingly long sequences of items in working memory or when two tasks are performed at once, compared to when they are performed one at a time [fn:cohenetal1997] [fn:courtneyetal1997] [fn:despositoetal1995]. 
      #+END_QUOTE
 
 [fn:cohenetal1997] J. D. Cohen et al., Nature 386, 604 (1997)
