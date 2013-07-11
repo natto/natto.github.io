@@ -1841,7 +1841,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 [fn:mussoetal2003] Musso M, Moro A, Glauche V, Rijntjes M, Reichenbach J, Buechel C, Weiller C: 'Broca's area and the language instinct'. Nat Neurosci 2003, 6:774-781.
 
-**** dependency on L1 neural substrates and its disappearance               :mental crutch:
+**** dependency on L1 neural substrates and its disappearance  :mental_crutch:
 
      #+BEGIN_QUOTE
      According to psycholinguistics, during the early stages of L2 acquisition there might be a dependency on L1 to mediate access to meaning for L2 lexical items [fn:krolletal1994]. As L2 proficiency grows, this dependency disappears.
