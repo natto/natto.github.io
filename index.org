@@ -1891,6 +1891,64 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 [fn:pallieretal2003] Pallier C, Dehaene S, Poline JB, LeBihan D, Argenti AM, Dupoux E, Mehler J: Brain imaging of language plasticity in adopted adults: can a second language replace the first? Cereb Cortex 2003, 13:155-161.
 
+
+*** Mnemonic Strategies and Classroom Learning: A Twenty-Year Report Card 
+
+    Joel R. Levin
+
+**** why 20-year
+
+     #+BEGIN_QUOTE
+     Much of the impetus for modern-day research on educational mnemonic strategies came from Richard Atkinson's 1975 American Psychologist article, "Mnemotechnics in Second-Language Learning."
+
+     ...
+
+     Thus, for present purposes, 1973 marks the beginning of controlled studies of educationally based mnemonic strategies
+     #+END_QUOTE
+
+**** Levin's 3 Rs
+
+     #+BEGIN_QUOTE
+     The mnemonic components of *Recoding* and *Relating* make the task of *Retrieving* the desired definition a straightforward and systematic "three R" process (Levin, 1983)
+     #+END_QUOTE
+
+**** Grade A methods
+
+     basically a specific and well-applied mnemonic...
+
+     #+BEGIN_QUOTE
+     specially designed mnemonic materials such as those in Figure 1 typically yield more uniformly high returns.
+     #+END_QUOTE
+
+     Figure 1 is a elaborate illustration of a kool-aid party to help memorize the definition of "accolade". It certainly has a stickiness to it, but 1. cannot be universal (as Levin mentions himself later in the ethnicity section) 2. has a high production cost. One might argue this is a one-time cost, which is true, but the real utility of a mnemonic system should be a highly versatile set of tools that one can employ nearly on-the-fly, as needed. Levin also addresses this somewhat, in the Grade B section, i.e., how the burden is placed too heavily on students (to use their own creativity, varying levels of effectiveness from learning curves etc.), but that's part of the whole issue.
+     
+***** pegword method
+
+      #+BEGIN_QUOTE
+      the numbers 1 through 10 are transformed into concrete rhyming words (e.g., 1 is a bun, 2 is a shoe, ..., 10 is a hen).
+      #+END_QUOTE
+
+***** keyword method
+
+      #+BEGIN_QUOTE
+      For example, for the mineral crocoite,with a hardness level of 2, the crocodile was related to the keywordshoe in a of a crocodile pegword picturewearing (two pairs of) shoes.
+      #+END_QUOTE
+
+**** research on long-term retention?
+
+     #+BEGIN_QUOTE
+     long-term retention of previously learned information (e.g., Rosenheck et al., 1989) and recall of unfamiliar names and terminology, in addition to familiar definitions (e.g., Carney & Levin, 1991; Pressley & Levin, 1981). 
+     #+END_QUOTE
+
+     - Rosenheck, M. B., Levin, M. E., & Levin, J. R. (1989). Learning botany concepts mnemonically: Seeing the forest and the trees. Journal of Educational Psychology, 81, 196-203
+
+**** acronym (first-letter) based mnemonics don't work
+
+     #+BEGIN_QUOTE
+     first-letter mnemonic, where the first letters of several pieces of to-be-remembered information are fit together to form a word, has turned out empirically to be a flop (e.g., Carlson, Glover, & Zimmer, 1981) -- likely as a result of the insufficient retrieval cues afforded simply by single letters.
+     #+END_QUOTE
+
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
