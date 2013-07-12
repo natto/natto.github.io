@@ -2026,6 +2026,30 @@ Looks like affect was measured after every choice, thus there are =4 * 29 = 116=
 
 **** TODO paste figure 1. The region highly specific
 
+*** Changes in grey matter induced by training
+
+    Draganski et al /Nature/ 2004
+
+    Apparently this was an early paper showing evidence of structural neural changes in response to training:
+
+    #+BEGIN_QUOTE
+    traditionally held view that the anatomical structure of the adult human brain does not alter, except for changes in morphology caused by ageing or pathological conditions.
+    #+END_QUOTE
+
+**** juggling training
+
+     #+BEGIN_QUOTE
+     Subjects in the juggler group were given 3 months to learn a classic three-ball cascade juggling routine. A second brain scan was performed when they had become skilled performers (that is, when they could sustain juggling for at least 60 seconds). A third scan was carried out 3 months later; during the intervening period, none of the jugglers practised or attempted to extend their skills -- for example, by learning a four-ball or a reverse cascade. In fact, most subjects were no longer fluent in three-ball cascade juggling by the time of the third scan.
+     #+END_QUOTE
+
+**** changes in hMT/V5
+
+     #+BEGIN_QUOTE
+     In the longitudinal analysis, the juggler group demonstrated a significant (44 d.f., P<0.05) transient bilateral expansion in grey matter in the mid-temporal area (hMT/V5) and in the left posterior intraparietal sulcus between the first and the second scans. This expansion decreased in the third scan (Fig. 1). We found a close relationship in these regions between the transient structural grey-matter changes and the juggling performance. These findings were specific to the training stimulus, as the nonjugglers showed no change in grey matter over the same period.
+     #+END_QUOTE
+
+     authors believe this is more indicative of a spatiovisual / motion-perception related change rather than say motor coordination.
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
