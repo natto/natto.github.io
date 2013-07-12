@@ -8,6 +8,8 @@
 # Ͻ -> <
 # – -> --
 # — -> --
+# ǃ -> =
+# ǁ -> -
 
 * topics
 
@@ -2007,6 +2009,22 @@ Looks like affect was measured after every choice, thus there are =4 * 29 = 116=
      #+BEGIN_QUOTE
      results fit well with decision affect theory (DAT; Mellers, Schwartz, Ho, & Ritov, 1997), as well as regret theory (Loomes & Sugden, 1982), in that they suggest that affective reactions depend not only on obtained outcomes, but also on unobtained alternatives. 
      #+END_QUOTE
+
+*** Structural plasticity in the bilingual brain
+
+    Mechelli et al, /Nature/ 2004
+
+    brain structure is altered by the experience of acquiring a second language
+
+    #+BEGIN_QUOTE
+    Voxel-based morphometry revealed that grey-matter density in the inferior parietal cortex was greater in bilinguals than monolinguals (Fig. 1a). This effect was significant in the left hemisphere (x=-45, y=-59, z=48; Z-score=7.1; P<0.05, corrected for multiple comparisons across the whole brain) and a trend was also evident in the right hemisphere (x=56,y=-53,z=42;Z-score=3.4; P<0.001, uncorrected). Although increased grey-matter density in the inferior parietal cortex was common to both early and late bilinguals, the effect was greater in the early bilinguals in the left (x=-48, y=-62, z=44; Z-score=3.5; P<0.001, uncorrected) and right (x=45, y=-65, z=47; Z-score=3.5; P<0.001, uncorrected) hemispheres. No other significant effects were detected in either grey or white matter.
+    #+END_QUOTE
+
+    #+BEGIN_QUOTE
+    VBM revealed that second-language proficiency correlated with grey-matter density in exactly the same left inferior parietal region that we had already identified (x=-48, y=-59, z=46; Z-score=4.1; P<0.05,corrected after 10-mm small-volume correction; Fig. 1b). In addition, grey-matter density in this region correlated negatively with the age of acquisition of the second language (x=-50, y=-58, z=42; Z-score=3.2; P<0.05, corrected after 10-mm small-volume correction; Fig. 1c)
+    #+END_QUOTE
+
+**** TODO paste figure 1. The region highly specific
 
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
