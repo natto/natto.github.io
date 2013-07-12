@@ -2050,6 +2050,36 @@ Looks like affect was measured after every choice, thus there are =4 * 29 = 116=
 
      authors believe this is more indicative of a spatiovisual / motion-perception related change rather than say motor coordination.
 
+*** inducing cognitive biases in rats via manipulation of affect
+
+    titled ~Cognitive bias and affective state~, Harding et al /Nature/ 2004; it followed the Draganski article
+
+    Rats are separated into "predictable" and "unpredictable" housing, the unpredictable housing basically induces a state in the rats analogous to depressive or anxious states in humans.
+
+    #+BEGIN_QUOTE
+    Overall, rats in unpredictable housing were slower to respond and tended to show fewer responses to ambiguous tones close to the positive tone and to this tone itself.
+    #+END_QUOTE
+
+    i.e., rats were trained to respond to 2 tones, 1 is rewarding, the other is punishing.
+
+    After housing, rats are presented with tones ambiguous between the 2, and authors look at the switching point. In short, anxious rats shift the criterion location away from the positive.
+    
+    For humans,
+
+    #+BEGIN_QUOTE
+    findings for depressed or anxious humans, who also have reduced expectation of positive events [fn:macleodetal1996] [fn:wrightetal1992] and interpret ambiguous stimuli negatively [fn:eysencketal1991].
+    #+END_QUOTE
+
+[fn:macleodetal1996] MacLeod, A. K. & Byrne, A. J. Abnorm. Psychol. 105, 286–289 (1996)
+
+[fn:eysencketal1991] Eysenck, M. W. et al. J. Abnorm. Psychol. 100, 144–150 (1991).
+
+[fn:wrightetal1992] Wright, W. F. & Bower, G. H. Organiz. Behav. Hum. Decis. Process 62, 276–291 (1992).
+
+    It seems like this would have interesting effects on perceptions of rewarded likelihoods in general, i.e., affective state should affect probability matching behavior.
+
+**** TODO prior work tying affective state to probability matching or probability learning
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
