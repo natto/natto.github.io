@@ -2116,6 +2116,177 @@ Looks like affect was measured after every choice, thus there are =4 * 29 = 116=
 
 **** TODO prior work tying affective state to probability matching or probability learning
 
+*** Learning Botany Concepts Mnemonically: Seeing the Forest and the Trees
+
+    Rosenheck et al 1989
+
+    motivation:
+
+    #+BEGIN_QUOTE
+    If the instructional goal is to enable students to remember an overall structure as well as specific facts, then it may be possible to devise a mnemonic strategy that focuses on both types of information.
+    #+END_QUOTE
+
+
+**** Levin's /three Rs/
+
+     #+BEGIN_QUOTE
+     Levin (1983) has termed the three Rs: recoding, relating, and retrieving. Recoding involves transforming unfamiliar, abstract stimuli into familiar, concrete representations. These concrete proxies are then related to their referents via an interactive picture, thereby establishing a systematic retrieval path from the stimulus to its referent.
+     #+END_QUOTE
+
+**** keyword method
+
+     #+BEGIN_QUOTE
+     using the mnemonic keyword method (Atkinson, 1975) to remember that the Spanish word for duck is /pato/, one could recode the Spanish word into a concrete English keyword that is acoustically similar, such as /pot/. The next step is to relate the keyword pot to the meaning, /duck/. This could be accomplished by picturing a duck inside a pot. In this way, a direct retrieval path is formed that links the foreign word pato with its English meaning, /duck/.
+     #+END_QUOTE
+
+**** pictorial method
+
+     #+BEGIN_QUOTE
+     pictorial mnemonic strategy was superior to a competing technique that involved instruction in organization, summarization, and teacher-provided "fact maps." Levin et al.'s (1986)
+     #+END_QUOTE
+
+**** mnemonics focus on micropropositions, not macrostructures
+
+     #+BEGIN_QUOTE
+     Both Eylon and Reif (1984) and Brooks and Dansereau (1983) developed instructional methods that facilitated students' acquisition of the macrostructure but not of the micropropositions. Mnemonic instruction, on the other hand, has typically been targeted at improving students' acquisition of micropropositions only.
+     #+END_QUOTE
+
+**** specificity of mnemonic advantage
+
+     #+BEGIN_QUOTE
+     results of a recently completed study suggest that mnemonic subjects' advantage on the taxonomy-use task resides in their being better able to determine whether two terms are on the same branch of the taxonomy, and not in their ability to determine which of two terms is higher (Levin & Levin, 1989). 
+     #+END_QUOTE
+
+**** TODO different mnemonic efficacy in abstract vs. concrete relationships? concepts?
+
+
+**** methods
+
+     unexpected retesting after 2 days, and 2 months
+
+     #+BEGIN_QUOTE
+     *taxonomic subjects* were encouraged to use the blank paper that was provided for note taking.
+     #+END_QUOTE
+
+     that's some kind of aided/diligent student situation
+
+     #+BEGIN_QUOTE
+     Games-Howell unequal-N adaptation of Tukey's method with a familywise Type I error probability of .05 (Kirk, 1982).
+     #+END_QUOTE
+
+***** definition of taxonomy recall /efficiency/
+
+      #+BEGIN_QUOTE
+      The subject's score was determined by subtracting the number of incorrect responses from the number of correct responses, based on the total number of items attempted. Because not all subjects were able to complete all items in the time allotted, this combined measure of speed and accuracy may be regarded as /efficiency/ of taxonomy use.
+      #+END_QUOTE
+
+**** results
+
+***** table 1
+
+#+CAPTION: Mean Performance on Each Measure by Condition
+| test period | condition  |  N | stat | taxonomy production | taxonomy: efficiency | taxonomy: number correct | definitions | problem solving |
+|-------------+------------+----+------+---------------------+----------------------+--------------------------+-------------+-----------------|
+| immediate   | mnemonic   | 20 | mean |               29.30 |                25.45 |                    25.95 |       13.48 |           13.30 |
+| immediate   | mnemonic   | 20 | sd   |                7.55 |                12.36 |                     7.90 |        2.96 |           10.31 |
+| immediate   | taxonomic  | 22 | mean |               22.64 |                15.32 |                    24.09 |       10.52 |           10.41 |
+| immediate   | taxonomic  | 22 | sd   |                8.82 |                10.97 |                     7.44 |        4.52 |           11.70 |
+| immediate   | free study | 21 | mean |               17.48 |                10.62 |                    23.43 |       10.69 |            4.33 |
+| immediate   | free study | 21 | sd   |                8.99 |                 8.51 |                     5.22 |        3.63 |           10.04 |
+| 2-day       | mnemonic   | 20 | mean |               29.30 |                30.30 |                    34.20 |       13.32 |           14.30 |
+| 2-day       | mnemonic   | 20 | sd   |                8.31 |                13.28 |                     8.54 |        3.38 |            8.07 |
+| 2-day       | taxonomic  | 22 | mean |               26.04 |                18.64 |                    28.14 |        9.14 |            6.04 |
+| 2-day       | taxonomic  | 22 | sd   |                7.75 |                14.26 |                     8.52 |        4.35 |           11.05 |
+| 2-day       | free study | 21 | mean |               23.14 |                19.43 |                    28.67 |        8.83 |            2.00 |
+| 2-day       | free study | 21 | sd   |                6.84 |                11.44 |                     6.74 |        4.15 |            8.62 |
+| 2-month     | mnemonic   | 19 | mean |               25.58 |                27.84 |                    33.84 |        6.08 |            4.58 |
+| 2-month     | mnemonic   | 19 | sd   |                8.66 |                12.41 |                     6.27 |        3.35 |            8.90 |
+| 2-month     | taxonomic  | 20 | mean |               17.85 |                12.15 |                    25.25 |        4.00 |           -0.20 |
+| 2-month     | taxonomic  | 20 | sd   |                8.22 |                13.01 |                     7.57 |        2.58 |            8.16 |
+| 2-month     | free study | 19 | mean |               16.16 |                11.90 |                    25.95 |        3.66 |           -4.78 |
+| 2-month     | free study | 19 | sd   |                5.60 |                 9.83 |                     4.92 |        2.60 |            6.62 |
+
+****** max possible scores
+Maximum possible score
+
+| taxonomy production | taxonomy: efficiency | taxonomy: number correct | definitions | problem solving |
+|---------------------+----------------------+--------------------------+-------------+-----------------|
+|                  34 |                   40 |                       40 |          16 | 24              |
+
+       
+****** notes (for completeness sake)...
+
+       - 1 subject dropped from /free study : 2-month : problem solving/ for making no attempts
+       - maximum possible score on 2-day delayed test was 23
+
+***** TODO reconstruct graph of table 1
+
+      SD in taxonomy production is lower in the beginning. Close to ceiling effect; in other words, it works very well. Largest SD in free study groups reflects differences in efficacies of individual strategies.
+
+      Over time though, the SD in the mnemonic group becomes the highest. This reflects individual differences in memory decay. The decay in the free study group is surprisingly slow in taxonomy reproduction. (for definitions, it is unsurprising)
+
+***** on the jump in recall 
+
+      #+BEGIN_QUOTE
+      An explanation for this seemingly unusual result is that subjects could have capitalized on the second reading of the passage, which immediately followed the two initial tests, to consolidate (restudy) information that they were initially unable to remember. That is, the second reading of the passage, with directions to focus on distinguishing characteristics, may not just have helped subjects learn those characteristics but also may have provided both a review of the taxonomic information and a chance for subjects to check the accuracy of their performance on the first two tests. Note as well, that in Table 1 no similar performance improvements occurred between Times 2 and 3, during which time (in addition to the between test interval being longer) no rereading opportunity was provided.
+      #+END_QUOTE
+
+***** differences in process of recall failure
+
+      #+BEGIN_QUOTE
+      In the process of scoring the taxonomy-production task, it became apparent that subjects in the mnemonic condition were not guessing as often, but rather preferred to omit a term when they were not certain of where it should be placed in the taxonomy. In contrast, subjects in the two other conditions produced many incorrect placements.
+      #+END_QUOTE
+
+***** difference in retrieval pathway
+
+      #+BEGIN_QUOTE
+      An important methodological point worth mentioning is that because of the consistent "All (lower terms) are (higher terms)" wording of items in the taxonomy-use task, the present mnemonic subjects may have had a unique advantage over subjects in the other two experimental conditions. Mnemonic subjects could readily determine an answer simply by "seeing" whether the recoded term was in the picture grouping or not.
+      #+END_QUOTE
+
+***** differences in mnemonic strategy guided attention
+
+      both taxonomic and control subjects noticed common suffixes, but:
+
+      #+BEGIN_QUOTE
+      Mnemonic subjects, on the other hand, were less likely to notice the suffixes because their keywords were derived from the word prefixes (e.g., angel, pan, arrow). It is likely that the taxonomy-production scores of mnemonic subjects would have been even higher if this uniformity-of-suffix information had been brought to their attention.
+      #+END_QUOTE
+
+***** TODO prefixed recall vs suffixed recall?
+      
+***** learning task enjoyment and ease of recall
+
+      for mnemonic group,
+
+      #+BEGIN_QUOTE
+      Of the subjects in the mnemonic condition, 11 (55%) rated their strategy as very enjoyable
+      #+END_QUOTE
+      
+      other groups not notable
+
+      #+BEGIN_QUOTE
+      "The pictures made this so easy to remember" and "I just flashed up the pictures in my mind and saw the answer"
+      #+END_QUOTE
+
+      others:
+
+      #+BEGIN_QUOTE
+      "I kept getting the words confused" or "There wasn't enough time to learn this stuff."
+      #+END_QUOTE
+
+      picture-based encoding incentivizes novel image combinations and preferably, something with a visceral or emotional connection, humor included (the paper's own example is an angel with a leash on dinosaur. However: yes, I can remember angiosperm is above the dino-like-word in the hierarchy, but i cannot remember the dino-like-word on first reading. FYI, it's "dicotyledon"). thus it promotes an entertaining aspect to it. *does this impact the process of deep, deliberative learning?*
+
+      arguably though, if the material is dry, then recall should take priority, as consolidation will first occur subconsciously. build connections first, and the pathways are accessed automatically later on. *question is what's the difference of depth between these 2 learning strategies?*
+      
+**** takeaways
+
+     #+BEGIN_QUOTE
+     the mnemonic strategy seemed to produce a more intact knowledge structure against which subjects could check the accuracy of their recall.
+     #+END_QUOTE
+      
+     "reproduce", not "produce": correct structure is a consequence of correct recall of association. in other words, the recall does not depend on *comprehension* of the structure.
+
+     
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
