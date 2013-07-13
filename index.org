@@ -11,6 +11,42 @@
 # ǃ -> =
 # ǁ -> -
 
+#+BEGIN_SRC emacs-lisp :results silent :export none
+
+  ;; should rewrite this to allow independent special char replacement without newline replacement
+
+  (defun unwrap-and-unformat-pasted-paragraph (beg end)
+    "merge multiple lines in region into single line, and replace special chars with non-special chars"
+    (interactive "r")
+    (save-restriction 
+      (narrow-to-region beg end)
+      (dolist (pair '(
+                      ("’" . "'")
+                      ("‘" . "'")
+                      ("“" . "\"")
+                      ("”" . "\"")
+                      ("ϭ" . "=")
+                      ("Ϫ" . "-")
+                      ("Ͻ" . "<")
+                      ("–" . "--")
+                      ("—" . "--")
+                      ("ǃ" . "=")
+                      ("ǁ" . "-")
+                      
+                      ("- \n" . "")
+                      ("-\n" . "")
+                      ("\n" . " ")
+                      ))
+        (let ((src (car pair))
+              (tgt (cdr pair)))
+          (goto-char (point-min))
+          (while (search-forward src nil t) (replace-match tgt nil t))))))
+
+#+END_SRC
+
+
+
+
 * topics
 
 ** papers
