@@ -2275,7 +2275,72 @@ Maximum possible score
       
      "reproduce", not "produce": correct structure is a consequence of correct recall of association. in other words, the recall does not depend on *comprehension* of the structure.
 
-     
+*** The Mnemonic Keyword Method
+
+    Pressley et al 1982
+
+**** TODO Atkinson 1975
+
+     This is the work credited with sparking a slew of mnemonics related research
+
+***** the keyword method
+
+      #+BEGIN_QUOTE
+      one first derives a keyword, which is an English word (preferably a concrete noun) that sounds like part of the foreign word
+      #+END_QUOTE
+
+**** the different kinds of mnemonic mechanisms reported to date (1982)
+
+***** imagery
+
+      #+BEGIN_QUOTE
+      When subject-generated, interactive images of the keyword and definition referents are involved
+      #+END_QUOTE
+
+***** imposed imagery
+
+      i.e. experimenter/instructor-provided
+
+      #+BEGIN_QUOTE
+      when learners are provided with interactive illustrations
+      #+END_QUOTE
+
+***** verbal
+
+      #+BEGIN_QUOTE
+      When subjects construct sentences or phrases containing the keyword and definition
+      #+END_QUOTE
+
+***** imposed verbal
+
+      instructor-provided verbal keyword-definition
+     #+BEGIN_QUOTE
+
+***** imagery + verbal
+
+      #+BEGIN_QUOTE
+      subjects were permitted to use either imagery or verbal keyword variations
+      #+END_QUOTE
+
+***** keywords
+
+      either ~provided~ by instructors or ~generated~ by subjects
+
+***** repetition control
+
+      i.e. rote learning
+
+      #+BEGIN_QUOTE
+      subjects learned the vocabulary words by repeating them to themselves
+      #+END_QUOTE
+
+***** control, i.e. no-strategy
+
+      #+BEGIN_QUOTE
+      subjects left to their own devices to learn the words
+      #+END_QUOTE
+
+
 
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
