@@ -1,3 +1,5 @@
+#+TITLE: norto
+
 # stuff to replace out
 # ’ -> '
 # ‘ -> '
@@ -11,7 +13,7 @@
 # ǃ -> =
 # ǁ -> -
 
-#+BEGIN_SRC emacs-lisp :results silent :export none
+#+BEGIN_SRC emacs-lisp :results silent :exports none
 
   ;; should rewrite this to allow independent special char replacement without newline replacement
 
