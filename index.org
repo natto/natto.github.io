@@ -2314,7 +2314,6 @@ Maximum possible score
 ***** imposed verbal
 
       instructor-provided verbal keyword-definition
-     #+BEGIN_QUOTE
 
 ***** imagery + verbal
 
