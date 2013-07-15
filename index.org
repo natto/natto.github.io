@@ -2340,7 +2340,142 @@ Maximum possible score
       subjects left to their own devices to learn the words
       #+END_QUOTE
 
+**** keyword method facilitation
 
+     #+BEGIN_QUOTE
+     it has long been known that in learning lists of nonsense syllables, people often are inclined to transform the unfamiliar syllable (the "nominal" stimulus) into a more easily encoded form (the "functional" stimulus), such as into a familiar word (see Underwood & Schulz, 1960).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Ott, Butler, Blake, and Ball (1973) presented adults with one-syllable, German nouns and adjectives to learn.
+     ...
+     four conditions: imposed imagery/keyword provided, imagery/keyword provided, no-strategy control, and repetition
+control.
+     #+END_QUOTE
+
+     immediate, 8-minute delayed, 2-week delayed tests
+
+     #+BEGIN_QUOTE
+     clear evidence that imagery-mnemonic interventions could facilitate foreign vocabulary learning
+     #+END_QUOTE
+
+***** atkinson 1975
+
+      #+BEGIN_QUOTE
+      Atkinson and Raugh (1975) had university students learn the definitions of Russian vocabulary words. Before presentation of the definitions, both imagery + verbal/keyword provided and no-strategy control subjects were exposed to the keywords for the items. Subjects then were instructed according to their experimental condition and were given 3 sets of 40 vocabulary words to learn (a different set on each of 3 consecutive days). Each day the subjects were tested for their definition recall of that day's words. On the fourth day a test on all 120 vocabulary words was given. Finally, 30 to 60 days later subjects retook the comprehensive test. Atkinson and Raugh (1975) found that keyword method users outperformed control subjects on all of the definition recall tests.
+      #+END_QUOTE
+
+      effects replicated using Spanish vocabulary
+
+**** how does the keyword method interact with ability
+
+***** aptitude-by-treatment interactions (ATIs) (Cronbach & Snow, 1977)
+
+      Delaney (1978), using Malay words
+
+      #+BEGIN_QUOTE
+      Half the words had definitions with concrete referents and half had definitions with abstract referents.
+      #+END_QUOTE
+      
+      imagery/keyword, verbal/keyword, no-strategy groups; for keyword group:
+      
+      #+BEGIN_QUOTE
+      Subjects were instructed to use either a verbal keyword strategy or a graphemic matching strategy
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      no significant performance difference between the optional verbal/keyword generated and the imagery/keyword generated conditions, and definition recall in both conditions was superior to performance in the no-strategy control condition. The optional verbal/keyword generated instruction was not effective for subjects of low verbal fluency, however, in that they performed at the same low level on the translation recall task as did low-verbal fluency, no-strategy control subjects. In contrast, the imagery/keyword generated strategy was effective regardless of verbal fluency or spatial ability. In addition, the overall facilitating effects of the keyword instructions did not depend on whether the definition referent was concrete or abstract. (The latter result was recently replicated with children by Pressley, Levin, & Miller, in press a.)
+      Delaney's (1978) major findings (keyword method facilitation and interaction of keyword variation with processing ability) did not generalize, however, to a sample of experienced foreign language learners in a recent study (Delaney & Starr, Note 2).
+      ... no overall superiority relative to a no-strategy control condition was observed.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Mullis (1977) examined whether the method be more effective with mightcreative women than with less creative women. In general, the hypothesis was not confirmed.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Rohwer, Raines, Eoff, and Wagner (1977) found that good associative learners did not benefit from instructions to generate intrapair relationships, presumably because they were generating effective associations spontaneously. In contrast, average and poor associative learners did benefit, presumably because these learners did not generate effective associations spontaneously. Pressley, Levin, Nakamura, Hope, Bispo, and Toye (1980) anticipated that the same kind of interaction observed by Rohwer et al. (1977) might be obtained in keyword-method research. These authors first identified samples of good and poor Latin vocabulary learners on the basis of a pretest. Then, the subjects were randomly assigned to imagery/keyword provided and no-strategy control conditions, and were asked to learn a second (longer) list of Latin words. Contrary to the predicted pattern of results, use of the keyword method produced comparably positive effects for both good and poor vocabulary learners.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      McGivern ... less able learners need more external support when attempting to execute cognitive strategies.
+      ...
+      the advantage of the fully imposed over the fully induced condition was far greater for the subjects with lower vocabulary levels than for subjects with higher vocabulary levels.
+      #+END_QUOTE
+
+**** how does the keyword method interact with language
+
+     Is the keyword method more useful with some languages than with others?
+
+     Delaney and Raney (Note 4) experimented using Russian, Hebrew, Navajo
+
+     #+BEGIN_QUOTE
+     degree of facilitation resulting from keyword method usage did not depend on the foreign language involved
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Pressley, Levin, and Miller (in press b) presented to college students low-frequency English words to learn
+     #+END_QUOTE
+
+     involved imagery/keyword, verbal/keyword
+
+     #+BEGIN_QUOTE
+     None of the nonkeyword sentence conditions was superior to the control condition according to any of the recall criteria
+     #+END_QUOTE
+
+     thus the keyword methods
+
+     #+BEGIN_QUOTE
+     proving to be superior to vocabulary-learning techniques held in high regard by reading researchers and theorists (see, e.g., Dale & Reichart, 1957).
+     #+END_QUOTE
+
+***** keyword vs. use of other semantic facilitators ("adjuncts")
+
+     #+BEGIN_QUOTE
+     Pressley, Levin, Kuiper, Bryant, and Michener (Note 5). In that experiment, performance in an imagery keyword condition was contrasted with performance in a semantic context condition in which subjects were provided: (1) a meaningful sentence using the
+vocabulary word, (2) a more detailed definition of the word than the subjects actually had to learn, (3) a list of synonyms for the vocabulary word, and (4) a picture of the definition referent. Even with all of these semantic adjuncts, subjects in the semantic context condition did not perform at the same high level as keyword subjects.
+     #+END_QUOTE
+
+***** Johnson's theory
+
+      #+BEGIN_QUOTE
+      if subjects were instructed to perform activities directed at processing the meanings of the vocabulary words, their learning might equal or surpass that resulting from use of the keyword method.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Pressley et al. (Note 5) recently have conducted several experiments designed to test Johnson's processing notions
+      ...
+      Definition recall in the keyword conditions was superior to recall in all of the conditions designed to increase meaningful processing of the vocabulary words.
+      #+END_QUOTE
+
+      
+**** keyword method interaction with age
+
+     #+BEGIN_QUOTE
+     reliable differences in keyword method effects have been found to be associated with one important individual differences variable, namely the learner's age
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The keyword method is effective for children and, in fact, the magnitude of effects typically is greater with children than with adults. 
+     #+END_QUOTE     
+
+     the theory is generally that children are less strategic about making associations
+
+     #+BEGIN_QUOTE
+     although keyword method benefits can be obtained with children as young as 3 years, obtain ing benefits inyoung children requires that a greater amount of support be provided by the experimenter. 
+     #+END_QUOTE
+
+     facilitation in young students is less interesting as their memory traces should -- over several years -- be stronger than those of adults undergoing the same duration of study of the same topic, presumably all starting from a rudimentary level. for non-rudimentary levels, well, then the starting age is presumably much older and memory much more calcified.
+
+     authors conclude,
+
+     #+BEGIN_QUOTE
+     keyword method effects are pervasive and of impressive magnitude. 
+     #+END_QUOTE
+
+**** Atkinson's Questions
+
+     
 
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
