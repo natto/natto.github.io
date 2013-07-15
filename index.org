@@ -2010,9 +2010,12 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
      29 (after 2 exclusions) people, probably not pedestrians but lab participants, completed 4 rounds of 2-alternative forced choices by this matrix of combinations:
 
-     | digits \ payoff | $5           | $3          |
-     |               8 | highN, high$ | lowN, high$ |
-     |               2 | lowN, high$  | lowN, low$  |
+     | ndigit | ndollar | condname     |
+     |--------+---------+--------------|
+     |      2 |       3 | loadLO.payLO |
+     |      2 |       5 | loadLO.payHI |
+     |      8 |       3 | loadHI.payLO |
+     |      8 |       5 | loadHI.payHI |
      
 All choices are lose trials, i.e., if payoff is $5, you were at the end shown the other choice would have been >$5; probably $7. Also note they had a $5 participation fee.
 
