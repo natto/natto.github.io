@@ -2508,6 +2508,12 @@ Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cogni
 
      DOI: 10.1002/nbm.1600
 
+*** TODO Warlpiri rampaku
+
+    via [[http://www.nytimes.com/2013/07/16/science/linguist-finds-a-language-in-its-infancy.html?smid%3Dpl-share][Linguist Finds a Language in Its Infancy]]
+
+    original paper: doi:10.1353/lan.2013.0025
+
 ** books
 
    Exit, Voice, and Loyalty
