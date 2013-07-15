@@ -1711,6 +1711,18 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The effects of bizarre and interacting imagery on the acquistion and retrieval of 20 paired associates (PA) were examined using 30 young and 27 (out of 38) elderly who successfully learned the PAs to criterion. Interacting imagery facilitated acquisition, especially for the elderly, but did not benefit retrieval. There was no evidence that bizarre imageries were superior than logical ones in facilitating acquistion or retrieval. Furthermore, the elderly tended to resist using bizarre imagery, and both young and elderly subjects tended to use imagery that was more congruent with non-bizarre life experiences and events.
      #+END_QUOTE
 
+*** cf. above: Experiencia en La Mnemotecnia Y Aprendizaje Incidental Con Imágenes Normales Y Raras
+
+    ~Mnemotechnic experience and incidental learning with normal and bizarre imagery~
+
+    Alfredo Campos et al 2008
+
+**** abstract
+
+     #+BEGIN_QUOTE
+     This study sought to evaluate the effects of the use of imagery in immediate recollection, at the end of one day and at the end of the week, according to the type of imagery employed: no images, normal image, unusual image and mixed image. For this test, 198 subjects were selected with an average age of 14.4 years, randomly assigned to one of four experimental groups: 1) group with no mental images, 2) group which used normal mental images, 3) group which used unusual images and 4) mixed group. A set of 16 sentences was shown to the groups, each of which contained three words written in block capitals. The subjects had to indicate the relationship between the three words (in the group without any image), or the intensity of the image provoked by each sentence (groups with images). We subsequently conducted an evaluation of the recollection, recognition, false recognition, access to the sentence, the items recalled by sentence and the number of sentences completely recollected. The subjects were also questioned about their experiences in the use of the images. It was ascertained that the experience in the use of the images influenced, at the end of the day and of the week, the recollection, recognition, the number of sentences completely recalled and the access to the sentence. After a week, the groups which were shown unusual or mixed images demonstrated better results in all the dependent variables (with the exception of the items recollected by sentence) than the groups which were shown normal mental images, or no images at all.
+     #+END_QUOTE
+
 *** When Memory Fails, Intuition Reigns
 
     Frank et al, /Psychological Science/ 2006
@@ -2557,7 +2569,27 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
      #+END_QUOTE
 
      Pressley et. al believe that those results were confounded because ~subjects had no foreknowledge that spelling accuracy was important and later would be assessed~. But unlike the pronunciation route above, I find orthographic interference here to be much more plausible. At the same time, orthographic reproduction (writing) is second to phonological reproduction (speaking) in language acquisition.
+
+*** Music training and rate of presentation as mediators of text and song recall
+
+    Kilgour et. al 2000
+
+**** past research on increased recall of text when paired with melody
+
+     #+BEGIN_QUOTE
+     under certain circumstances, text paired with melody (in the form of songs) is better remembered than spoken text alone (e.g., Boker, 1976; Jellison, 1976; Wallace, 1994; Yalch, 1991). It has been suggested that this effect is due to the integration of melody and text in memory (Morrongiello & Roes, 1990; Serafine, Crowder, & Repp, 1984; Serafine, Davidson, Crowder, & Repp, 1986). This integration is thought to provide a larger pool of components that can be triggered with appropriate memory cues, thereby increasing the likelihood of better recall for the material.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Wallace (1994) ... found that pairing melody and text did improve subjects' recall performance (Experiment 1), but only if the melody was sufficiently or easily learned (Experiments 3 and 4). Providing strong rhythmic intonation and beat in spoken presentation of the text (as opposed to melodic contour) did not facilitate recall performance (Experiment 2). Wallace concluded that, in order to learn and recall text associated with melody, one needs to learn enough of the melodic form to (1) provide information about line and syllable length, (2) chunk text together appropriately, and (3) extract rhythmical information.
+     #+END_QUOTE
      
+     #+BEGIN_QUOTE
+     past research showing that individuals who have had formal music training perceive musical structure that is unnoticed by those with no music training (Beal, 1985; Morrongiello, 1992) and employ superior encoding strategies with respect to musical material (e.g., Huntsinger & Jose, 1991; Mikumo, 1992).
+     #+END_QUOTE
+
+     is this because of neural encoding efficiency driven by learning (of music). i.e., is "noticing the musical structure" a result of freeing of cognitive resources due to training (thus greater processing efficiency of the complex stimuli), or because novel pattern recognition structures have developed? These are not mutually exclusive, but the critical features are different: if this were the former (trained efficiency), then the effect should be modulated by cognitive load, such that comparing musically-trained individuals under load to novices with a brief training period without load should yield possibly similar results of pattern detection; if the latter, then the effect should resemble e.g. inabilities to discern subtle differences in accent for late L2 learners vs early L2 learners.
+
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
