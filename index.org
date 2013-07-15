@@ -2279,7 +2279,8 @@ Maximum possible score
 
     Pressley et al 1982
 
-**** TODO Atkinson 1975
+**** DONE Atkinson 1975 (acquired)
+     CLOSED: [2013-07-15 Mon 10:52]
 
      This is the work credited with sparking a slew of mnemonics related research
 
