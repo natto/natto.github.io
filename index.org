@@ -2605,7 +2605,7 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
      presented 4 times, asked to recall as much as possible after presentation 1, 2, and 4.
 
      #+BEGIN_QUOTE
-     After the fourth presentation and subsequent recall, the participants completed a number search task during a IS-min retention interval. This task was chosen for the retention interval because, being of a nonverbal nature, it would not directly interfere with memory for the verses but would prevent rehearsal. At the end of this interval, the participants gave one final verbatim recall. 
+     After the fourth presentation and subsequent recall, the participants completed a number search task during a 15-min retention interval. This task was chosen for the retention interval because, being of a nonverbal nature, it would not directly interfere with memory for the verses but would prevent rehearsal. At the end of this interval, the participants gave one final verbatim recall. 
      #+END_QUOTE
 
 **** results
