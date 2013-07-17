@@ -2590,6 +2590,132 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
 
      is this because of neural encoding efficiency driven by learning (of music). i.e., is "noticing the musical structure" a result of freeing of cognitive resources due to training (thus greater processing efficiency of the complex stimuli), or because novel pattern recognition structures have developed? These are not mutually exclusive, but the critical features are different: if this were the former (trained efficiency), then the effect should be modulated by cognitive load, such that comparing musically-trained individuals under load to novices with a brief training period without load should yield possibly similar results of pattern detection; if the latter, then the effect should resemble e.g. inabilities to discern subtle differences in accent for late L2 learners vs early L2 learners.
 
+**** past research on musical training influencing aptitude in other domains
+
+     #+BEGIN_QUOTE
+     music training bears a positive association between abilities such as aural discrimination (Moog, 1981) and temporal processing (Hurwitz et aI., 1975)
+     #+END_QUOTE
+     
+**** experiment 1 methods
+
+     #+BEGIN_QUOTE
+     Half of the participants had very little or no music training (mean, 0.8 years; SD = 1.1; range, 0-2 years of training) ... remaining participants were musically trained (at least Royal Conservatory Grade VIII level; I mean, 10.8 years; SD = 2.7).
+     #+END_QUOTE
+
+     presented 4 times, asked to recall as much as possible after presentation 1, 2, and 4.
+
+     #+BEGIN_QUOTE
+     After the fourth presentation and subsequent recall, the participants completed a number search task during a IS-min retention interval. This task was chosen for the retention interval because, being of a nonverbal nature, it would not directly interfere with memory for the verses but would prevent rehearsal. At the end of this interval, the participants gave one final verbatim recall. 
+     #+END_QUOTE
+
+**** results
+
+     unsurprisingly, melody groups had better overall recall
+
+***** TODO figure 1. Recall performance improved steadily over trials
+
+      if there isn't an analysis of trial-to-trial marginal benefit, we should reconstruct it
+
+      authors did look for a quadratic fit (didn't find it) in a later section. but I don't recall the marginal benefit discussed. The ANOVA may have been enough and I glossed over it. The interesting question is the how musical background moderates the curve of acquisition over time (i.e. number of presentations in this study). This could hint at what mechanisms are being used, since authors are pointing in a "sensitivity" direction: similarly shaped curves suggest optimization of similar regions; differently shaped curves suggest recruitment of other regions. It's not that simple, but something to look out for later on.
+
+***** musically-trained participants had superior recall even without melody
+
+      #+BEGIN_QUOTE
+      recall performance of participants in the three conditions did not differ significantly on the first recall trial, but began to diverge on Trial 2. By Trial 3, the recall performance of the participants in both of the conditions involving melody was superior to that of the participants in the spoken condition. 
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Under all three conditions, however, trained musicians outperformed those without music training [F(1,72) = 15.87, p < .001; see Figure 1].
+      #+END_QUOTE
+
+***** whether the recall is attributable to melody
+
+      #+BEGIN_QUOTE
+      Yalch (1991) found that the music must be compatible with the lyrics phonetically to be an effective mnemonic-that is, the number of notes in the melody should reasonably match the number of syllables in the lyrics. In addition, Wallace argued that if the music is not relatively simple and easily learned, it not only will be useless as a memory aid, but will detract attention from the text and hinder recall.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      (contrary to prediction) even subjects with music training required several exposures to the melody before it was able to serve as a useful mnemonic. Thus, having an opportunity to listen to the full piano accompaniment once before hearing the text sung did not substantially improve performance over simply hearing the text sung
+      #+END_QUOTE
+
+***** confound of presentation speed
+
+      #+BEGIN_QUOTE
+      sung renditions (each approximately 73 sec in duration)taking about 35% longer to deliver than the spoken ren-dition (completed in 54 sec). ...  slower presentation rates allow rehearsal
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      [longer rehearsal leads to] better immediate recall of word lists (Posner, 1963). In addition, Murray (1968) has shown that rate ofpresentation affects rate of recall, which in turn may affect accuracy of recall.
+      #+END_QUOTE
+      
+**** experiments 2
+
+     40 subjects, also half/half in training
+
+     equalizes /sung/ and /spoken/ condition presentation times
+
+***** IQ estimated by KBIT (Kaufman & Kaufman, 1990)
+
+      #+BEGIN_QUOTE
+      IQ as measured by the KBIT is highly correlated with Full Scale IQ on the Wechsler Adult Intelligence Scale-Revised (r = .88; Gregory, 1996). 
+      #+END_QUOTE
+
+***** results
+      
+      IQ relation
+
+      #+BEGIN_QUOTE
+      significant correlation between KBIT score and recall performance [p(38) = .33, p = .04], but not between KBIT scores and years ofmusic training [p(38) = .15,p = .4]. 
+      #+END_QUOTE
+
+***** spoken group has higher recall
+
+      #+BEGIN_QUOTE
+      In contrast to the results of Experiment 1, however, those participants who heard the spoken rendition had significantly higher recall scores than those who heard the sung rendition [F(1,36) = 7.21,p = .011]. 
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Although Experiment 2 utilized a different song than Experiment 1, superior recall performance of musically trained participants was replicated ... This suggests that the well-documented memory advantage for sung over spoken lyrics (e.g., Boker, 1976; Jellison, 1976; Wallace, 1994; Yalch, 1991) may be an artifact of the (typically) slower presentation rates of sung materials.
+      #+END_QUOTE
+
+**** experiment 3
+
+     120 subjects, also half/half
+
+***** verbal/nonverbal discrepancy on the KBIT test
+
+      #+BEGIN_QUOTE
+      A verbal/nonverbal discrepancy is apparent when an individual's general ability is based more heavily on verbal ability or nonverbal ability. For example, an individual may have a Full Scale IQ of 110 that is composed ofa Verbal IQ of 121 and a Performance IQ of 97. This pattern of scores reflects the individual's superior verbal ability, which is accompanied by an average nonverbal ability. For adults 20 years of age and older, a nine-point difference between Verbal and Performance IQ signifies statistical significance.
+      #+END_QUOTE
+
+***** results
+
+      #+BEGIN_QUOTE
+      data indicate that musicians do not have a systematic advantage, as measured by the KBIT, in either verbal or nonverbal ability domains when compared with individuals without music training, as well as showing no systematic advantage in general intellectual ability.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      participants with music training demonstrated superior recall, relative to those without training, under all the conditions.
+
+      ...
+
+      A main effect for music training [F(1,107) = 18.34, p < .0001] indicated that musically trained participants outperformed their untrained counterparts even when KBIT score was controlled for.
+      #+END_QUOTE
+
+**** in sum: a negative finding on melody being beneficial (!)
+
+     #+BEGIN_QUOTE
+     Melody did not appear to serve as a useful mnemonic in the present study. Indeed, provided that sung and spoken materials were presented at an equal rate, there was a small but consistent recall advantage for the spoken materials. 
+     #+END_QUOTE
+
+     though, this is somewhat confounded due to lyrics having an internal rhyming structure, as the authors observe ~Our materials were poetic lyrics with distinct phrasing and rhyme patterns.~ While significant, finding of musical training being a mediator is striking.
+
+***** robust advantage for musically trained subjects
+
+      #+BEGIN_QUOTE
+      There was no evidence that musically trained participants derived any special benefit from the melody. Rather, their recall advantage extended to all experimental conditions, including those in which the lyrics alone were presented.
+      #+END_QUOTE
+      
 ** "brain training"
 Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
