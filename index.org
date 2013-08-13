@@ -2717,9 +2717,101 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
       #+END_QUOTE
       
 ** "brain training"
-Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
 
-"the results are very disppointing"
+   Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
+   
+   "the results are very disppointing"
+     
+*** Reading and solving arithmetic problems improves cognitive functions of normal aged people: a randomized controlled study
+
+    Shinya Uchida & Ryuta Kawashima
+
+    #+BEGIN_QUOTE
+    age-related decline in a wide variety of cognitive measures begins at the ages of 20s or 30s (Salthouse 2006), but most people become aware of losses in cognitive functions when they are in their 60s (Fillit et al. 2002; Ritchie et al. 2001). The exception to this pattern is for variables with a large knowledge component, such as measures of vocabulary (Salthouse 2006).
+    #+END_QUOTE
+
+**** prior effects of training on aged populations
+
+     #+BEGIN_QUOTE
+     Willis and colleagues performed a randomized controlled study named ACTIVE (Advanced Cognitive Training for Independent and Vital Elderly) with the largest sample size. In their study, 2,832 independently living persons were asked to perform ten sessions of memory, reasoning, or processing speed tasks, and four sessions of booster training 11 and 35 months after the initial training. They found that targeted cognitive functions improved with each session (Ball et al. 2002), that such an improved performance continued until, at least, 5 years later (Willis et al. 2006), and that only the training reasoning resulted in less functional decline in self-reported instrumental activities of daily living (Willis et al. 2006).
+     #+END_QUOTE
+
+**** measurements
+
+     - mini-mental state examination (MMSE)
+     - frontal assessment battery at bed side (FAB)
+     - and digit-symbol substitution test (DST) of WAIS-R;
+       #+BEGIN_QUOTE
+       Studies examining correlations between DST score and those of neuropsychological measurements suggested that
+       perceptual speed is the key function for executing DST (Joy et al. 2003; Kreiner and Ryan 2001) and working
+       memory also plays a subsidiary role (Joy et al. 2003)
+       #+END_QUOTE
+       
+**** interventions
+
+specifically they want to target frontal regions;
+
+#+BEGIN_QUOTE
+Results of brain imaging studies indicate that reading sentences or words aloud (Hagoort et al. 1999; Herbster et al. 1997; Miura et al. 2003, 2005; Price et al. 1994; Wingfield and Grossman 2006) and simple arithmetic operations (Burbaud et al. 1995; Dehaene et al. 1996; Kawashima et al. 2004; Menon et al. 2000; Rickard et al. 2000; Roland and Friberg 1985; Rueckert et al. 1996) activate the three association cortices, including the dorsolateral prefrontal cortex, of the bilateral hemispheres of humans.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+We prepared two tasks in arithmetic and Japanese language, which were systematized basic problems in arithmetic and reading, respectively, for daily training.
+#+END_QUOTE
+
+***** arithmetic
+
+      #+BEGIN_QUOTE
+      the lowest level of difficulty was single-digit addition, and the highest level was three-digit division.
+      #+END_QUOTE
+
+***** reading
+
+      #+BEGIN_QUOTE
+      As for the Japanese language problems, the lowest level of difficulty was reading and writing simple sentences, and the highest level was reading fairy tales aloud.
+      #+END_QUOTE
+
+**** subjects
+     
+     N=62 in experimental group, N=62 in control group, single blind, no social contact
+     
+     #+BEGIN_QUOTE
+     The inclusion criteria were a mini-mental state examination (MMSE) (Folstein et al. 1975) score greater than 23 and a Geriatric Depression Scale (GDS) score less than 15
+     #+END_QUOTE
+
+**** conclusion
+
+     graphs show some more =p < 0.05= changes in the experimental group vs. the control group. broadly speaking, the
+     claim of "an improvement was observed" is supported. Importantly, a difference favoring the experimental group was
+     found at a 6-month post-intervention followup with no social contact in between.
+
+     #+BEGIN_QUOTE
+     The results of this single-blind randomized controlled trial showed convincing immediate beneficial effects of a daily training program involving reading and solving arithmetic problems on the speed of processing (as measured by DST) and executive function (as measured by FAB) that are not directly tied to the intervention. Such improvements were maintained 6 months after the training.
+     #+END_QUOTE
+
+     By changes in the DST, they conclude:
+
+     #+BEGIN_QUOTE
+     Since perceptual speed and working memory are not directly trained by our intervention, our results support evidence of the improvement in non-targeted cognitive functions
+     #+END_QUOTE
+
+     I am not yet familiar with the DST. It is plausibly a DLPFC-targeting task. This conclusion is flawed though,
+     because working memory maintenance does involve DLPFC.
+
+     The other problem with this investigation is that while the findings are fine, the intervention is essentially the
+     same as "keeping an active mind". What we see here gives support to the folk belief mentioned in the intro,
+
+     #+BEGIN_QUOTE
+     People generally believe the so-called mental-exercise hypothesis, that is, the age-related decline in cognitive function is less pronounced for people who are mentally active, yet there is insufficient scientific evidence supporting this hypothesis.
+     #+END_QUOTE
+
+     which is a good thing. However, the purported transfer effects are much more restricted than ~cognitive functions~
+     leads the casual reader to thing. Simple arithmetic, aside of working memory, is highly predicated on a "table
+     lookup" task, akin to an object naming task. Arguing that observing more efficient frontal control associated with
+     that kind of table lookup is evidence of cognitive transfer is highly suspect.
+
+     One can just as validly claim that this study supports the use of first grade homework as mental stimulation
+     exercises for the elderly. It is much worse of a paper heading, but is just as true.
      
 ** paper topics
 
