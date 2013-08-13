@@ -2727,8 +2727,11 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
     Shinya Uchida & Ryuta Kawashima
 
     #+BEGIN_QUOTE
-    age-related decline in a wide variety of cognitive measures begins at the ages of 20s or 30s (Salthouse 2006), but most people become aware of losses in cognitive functions when they are in their 60s (Fillit et al. 2002; Ritchie et al. 2001). The exception to this pattern is for variables with a large knowledge component, such as measures of vocabulary (Salthouse 2006).
+    age-related decline in a wide variety of cognitive measures begins at the ages of 20s or 30s [fn:salthouse2006], but most people become aware of losses in cognitive functions when they are in their 60s (Fillit et al. 2002; Ritchie et al. 2001). The exception to this pattern is for variables with a large knowledge component, such as measures of vocabulary [fn:salthouse2006].
     #+END_QUOTE
+
+[fn:salthouse2006] Timothy A. Salthouse. Mental Exercise and Mental Aging. Evaluating the Validity of the "Use It or
+Lose It" Hypothesis, Perspectives on Psychological Science (2006)
 
 **** prior effects of training on aged populations
 
