@@ -2916,7 +2916,11 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
 [fn:sakaietal2002] Sakai, K., & Inui, T. (2002). A feature-segmentation model of shortterm visual memory. Perception, 31, 579-589. 
 
 
-***** TODO there is a more recent paper on this topic, 2010, 2011, or 2012, from MIT
+also see: Brady, T. F., Konkle, T., Alvarez, G. A. and Oliva, A. (2008). /Visual long-term memory has a massive storage
+capacity for object details/. Proceedings of the National Academy of Sciences, USA, 105 (38),
+14325-14329. Abstract. Open Access on PNAS website. Project Website (includes stimuli and demos). PDF.
+
+And tbrady's website: http://timbrady.org/research.html
 
 **** results support the /redundant-representation hypothesis/
 
