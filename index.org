@@ -2816,6 +2816,141 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
      One can just as validly claim that this study supports the use of first grade homework as mental stimulation
      exercises for the elderly. It is much worse of a paper heading, but is just as true.
      
+*** Visual short-term memory is not improved by training
+
+    Olson & Jiang 2004
+    
+**** VSTM is highly limited in capacity
+
+     #+BEGIN_QUOTE
+     only approximately four simple objects such as colored circles [fn:lucketal1997] [fn:raffoneetal2001],
+     letters [fn:pashler1988], and six spatial locations [fn:irwin1992] [fn:jiangetal2000] can be retained. Items in
+     VSTM are represented allocentrically, as a visual configuration encoded with reference to one
+     another [fn:boretal2001] [fn:jiangetal2000] [fn:santa1977].
+     #+END_QUOTE
+
+[fn:lucketal1997] Luck, S. J., & Vogel, E. K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 309, 279-281.
+
+[fn:raffoneetal2001] Raffone, A., & Wolters, G. (2001). A cortical mechanism for binding in visual working memory. Journal of Cognitive Neuroscience, 13, 766-785.
+
+[fn:pashler1988] Pashler, H. (1988). Familiarity and visual change detection. Perception & Psychophysics, 44, 369-378.
+
+[fn:irwin1992] Irwin, D. (1992). Memory for position and identity across eye movements. Journal of Experimental Psychology: Learning, Memory, & Cognition, 18, 307-317.
+
+[fn:boretal2001] Bor, D., Duncan, J., & Owen, A. M. (2001). The role of spatial configuration in tests of working memory explored by functional neuroimaging. Scandinavian Journal of Psychology, 42, 217-224.
+
+[fn:santa1977] Santa, J. L. (1977). Spatial transformations of words and pictures. Journal of Experimental Psychology: Human Learning & Memory, 3, 418-427. 
+
+     #+BEGIN_QUOTE
+     Whether or not the items are familiar has little effect (e.g., for faces; [fn:buttleetal2003]) or none at all (e.g., for letters; [fn:pashler1988]).
+     #+END_QUOTE
+
+[fn:buttleetal2003] Buttle, H., & Raymond, J. E. (2003). High familiarity enhances visual change detection for face stimuli. Perception & Psychophysics, 65, 1296-1306.
+
+
+     #+BEGIN_QUOTE
+     the memory capacity of approximately 3-4 for distinct objects is observed for infants as young as 12 months [fn:roseetal2001] and is also seen in adults [fn:lucketal1997]
+     #+END_QUOTE
+
+[fn:roseetal2001] Rose, S. A., Feldman, J. F., & Jankowski, J. J. (2001). Visual short-term memory in the first year of life: Capacity and recency effects. Developmental Psychology, 37, 539-549.
+
+     #+BEGIN_QUOTE
+     VSTM capacity is lower for shapes than for locations [fn:jiangetal2000].
+     #+END_QUOTE
+
+[fn:jiangetal2000] Jiang, Y., Olson, I. R., & Chun, M. M. (2000). Organization of visual short-term memory. Journal of Experimental Psychology: Learning, Memory, & Cognition, 26, 683-702.
+
+
+**** VLTM
+
+***** has high capacity
+      
+      #+BEGIN_QUOTE
+      After seeing thousands of pictures of natural scenes only once, humans can sort them out from new pictures with
+      high accuracy [fn:nickerson1968] [fn:standingetal1970].
+      #+END_QUOTE
+
+[fn:nickerson1968] Nickerson, R. S. (1968). A note on long-term recognition memory for pictorial material. Psychonomic Science, 11, 58.
+
+[fn:standingetal1970] Standing, L., Conezio, J., & Haber, R. N. (1970). Perception and memory for pictures: Single-trial learning of 2500 visual stimuli. Psychonomic Science, 19, 73-74. 
+
+***** is rapidly formed even outside awareness
+
+      #+BEGIN_QUOTE
+      repetition of memory displays containing the same shapes in the same spatial organization, a procedure that has
+      been shown to create an LTM trace that is accessible to implicit measures [fn:chunetal1998].
+      #+END_QUOTE
+
+[fn:chunetal1998] Chun, M. M. (2000). Contextual cueing of visual attention. Trends in Cognitive Sciences, 4, 170-178.
+
+***** is highly detailed
+
+      #+BEGIN_QUOTE
+      Psychophysical studies of memory for low-level visual features such as spatial frequency, orientation, and speed
+      suggest that basic visual attributes are maintained in VSTM with great
+      precision [fn:magnussenetal1996] [fn:hollingworthetal2002]. VSTM for high-level, realistic visual stimuli --
+      scenes -- also appears to be quite precise because subtle changes to the scene, such as a change in the
+      orientation of a chair in a bedroom, are detected quite accurately [fn:hollingworthetal2002].
+
+      Recent findings from scene memory studies suggest that VLTM retains detailed representations of visual
+      scenes [fn:hollingworthetal2002] such that people can remember the visual details of hundreds of individual
+      objects [fn:hollingworth2004].
+      #+END_QUOTE
+
+[fn:magnussenetal1996] Magnussen, S., Greenlee, M. W., & Thomas, J. P. (1996). Parallel processing in visual short-term memory. Journal of Experimental Psychology: Human Perception & Performance, 22, 202-212.
+
+[fn:hollingworthetal2002] Hollingworth, A., & Henderson, J. M. (2002). Accurate visual memory for previously attended objects in natural scenes. Journal of Experimental Psychology: Human Perception & Performance, 28, 113-136. 
+
+[fn:hollingworth2004] Hollingworth, A. (2004). Constructing visual representations of natural scenes: The roles of short- and long-term memory. Journal of Experimental Psychology: Human Perception & Performance, 30, 519-537.
+
+
+***** may have different decay characteristics for different stimulus types
+
+      #+BEGIN_QUOTE
+      memory for novel shapes and spatial frequency shows no decay over retention intervals of 8--10 sec but decay after
+      that, whereas memory for contrast decreases linearly with retention
+      interval [fn:magnussenetal1996] [fn:sakaietal2002]. These findings suggest that the decay, and hence the fidelity,
+      of memory representations are stimulus dependent.
+      #+END_QUOTE
+
+[fn:sakaietal2002] Sakai, K., & Inui, T. (2002). A feature-segmentation model of shortterm visual memory. Perception, 31, 579-589. 
+
+
+***** TODO there is a more recent paper on this topic, 2010, 2011, or 2012, from MIT
+
+**** results support the /redundant-representation hypothesis/
+
+     #+BEGIN_QUOTE
+     LTM may not modulate VSTM performance, because visual information that is retained in LTM is completely redundant with--or inferior to--the information that can be extracted on the fly.
+     #+END_QUOTE
+
+     contrasts with the /nonredundant-representation hypothesis/, which says that having multiple cues coming from LTM
+     and STM should improve STM recognition performance
+
+**** null result galore, end of story
+
+     #+BEGIN_QUOTE
+     The lack of correlation between training benefits and recognition performance further suggests that the ability to retrieve a display from VLTM does not lead to an enhanced ability to detect changes on that display. 
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The redundant-representation hypothesis is made more compelling by findings showing that the resolution of VSTM is better than the resolution of VLTM.
+     #+END_QUOTE
+
+**** facilitative effects may be possible via directed attention
+
+     #+BEGIN_QUOTE
+     Semantic properties of simpler displays, such as displays containing familiar faces (e.g., faces of movie stars) as
+     compared with unfamiliar faces, may also enhance VSTM performance [fn:buttleetal2003].
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     if the item that changes on the probe display is always the same item, display repetition will lead to an LTM trace
+     that guides attention to the potential change, enhancing VSTM performance (Olson et al., 2005)
+     #+END_QUOTE
+
+[fn:olsonetal2005] Olson, I. R., Jiang, Y., & Sledge, K. (2005). Associative Learning Improves Visual Working Memory Performance. Journal of Experimental Psychology: Human Perception and Performance, 31, 889-900
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
