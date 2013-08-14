@@ -3145,3 +3145,39 @@ And tbrady's website: http://timbrady.org/research.html
    space, then it isn't a correction in accent. Nevertheless, rapid correction of an error that has reached habit
    status is likely a fundamentally different kind of memory change than a mere paired associate of orthography to
    phonology.
+
+** TODO comprehension of text involving cross-modal conversion
+
+   where modality is not simply a description of a sensory mode, but 1. varying levels of abstraction; 2. varying
+   cognitive pathways.
+
+   a very clear case of this is the mapping of pure verbal descriptions to pure math. i.e., describing a formula in
+   plain text: "the performance score is a function of time spent, such that each 3 second increment in time spent
+   leads to a 1 percent increase in score". This is more concisely, and clearly, stated as
+   
+   =score.point = 1/3 * second.spent=
+
+   there is no more to be gained from any linguistic embellishment of the concept, though one could arbitrarily
+   embellish the concept and elongate its reading time.
+
+   another example is the description of information presented in a tabular form. "R = bell right or shock right", etc.
+   this case is obvious becuase the description is devoid of context until one sees the table.
+
+   another example is spatial description. John sits to the right of Charles, who is 2 seats away from Sally, etc. This
+   engages visuospatial processes. This is often quite easy, but is possible that this depends very highly on
+   facilitation based on personal experiences. E.g., if one is familiar with groups sitting at round or rectangular
+   tables, it may be easier; it is easier, because one efficiently accesses relevant memories, and subconsciously uses
+   the method of loci in processing the text. Aside of that though, the speed of invocation of the method of loci here
+   is of interest.
+
+   So we want list all different kinds of conversions in text. Then categorize them on axes of abstractness and
+   modality, and find out what predicts difficulty. Another interesting question is how to characterize these
+   sentences, because some may not have a modality before successful decoding of the text post-orthography, like a garden
+   path sentence, where each word is deciphered, but the sentence has little meaning until it is fully deciphered, THEN
+   we have a modality. So modality is a higher level process, but it probably has the greatest variance.
+
+   
+
+   
+   
+   
