@@ -2716,6 +2716,110 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
       There was no evidence that musically trained participants derived any special benefit from the melody. Rather, their recall advantage extended to all experimental conditions, including those in which the lyrics alone were presented.
       #+END_QUOTE
       
+*** The Function of Electric Shock for Right and Wrong Responses in Human Subjects
+
+    Karl F. Muenzinger, 1934
+
+**** The California Experiment (Tolman, Hall, Bretnall 1932), an experiment with college students
+
+     #+BEGIN_QUOTE
+     Tolman, Hall and Bretnall recently claimed [fn:tolmanetal1932] to have found, among other things, that the addition of electric shock to a bell signal for the wrong response is less effective (not more) than the bell signal alone; and that the addition of electric shock to a bell signal for the right response is neither more nor less effective than the bell signal alone.
+     #+END_QUOTE
+
+[fn:tolmanetal1932] Tolman, E. C., Hall, C. S. and Bretnall, E. P., A disproof of the law of effect and a substitution of the laws of emphasis, motivation and disruption, J. Exper. Psychol., 1932, 15, 601-614.
+
+**** experiment with rats
+
+     #+BEGIN_QUOTE
+     similar experiment with white rats in which we obtained results that were exactly the reverse of those of the California experiment at least as far as the effect of electric shock was concerned. We found [fn:muenzinger1934] that electric shock for the right response was as effective as shock for the wrong response and that either was decidedly more effective (not less) than learning without shock.
+     #+END_QUOTE
+
+     summary of the task:
+
+     #+BEGIN_QUOTE
+     we trained three groups of white rats to learn a black-white discrimination habit. One group was given food for the correct response. The second group was rewarded in the same way and shocked for the wrong response. These two control groups showed the usual differences, the first group acquiring the habit much more slowly than the group that was shocked for the wrong response. The critical ratio for the difference between the means of the errors for the first 100 trials was 14.8.
+     #+END_QUOTE
+
+[fn:muenzinger1934] Muenzinger, K. F., Motivation in learning: I. Electric shock for correct response in the visual
+discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
+
+**** The Colorado Experiment (this paper)
+
+     variation on the California experiment setup, using buttons instead of a stylus; shock was a single shock, instead
+     of a succession of shocks. Intuition says aside of the shock difference, the stylus vs. button is inconsequential.
+
+     #+BEGIN_QUOTE
+     The contact plates of one hole in each of the thirty pairs was connected with an electric circuit so that when the stylus was introduced it rang a buzzer or, in the case of some groups, gave an electric shock plus the ringing of the buzzer. . . . The wiring was so arranged that when the stylus made contact with the plate at the back of the hole it . . . caused an electric shock to pass through the subject by way of the stylus in his one hand and the electrode in his other" ([fn:tolmanetal1932], pp. 601-603). The shock came from the secondary of an induction coil, and each "subject was asked to regulate the inductorium to give the maximum amount of electric current which he felt he could stand. An attempt to offset the factor of adaptation was made by increasing the strength after each trial" ([fn:tolmanetal1932], p. 605).
+     #+END_QUOTE
+
+     interesting whether the buzzer sound is emotionally pleasant or not, even if it doesn't have a physical sensation component
+
+**** Critical ratio analysis
+
+     #+BEGIN_QUOTE
+     Critical Ratio = difference between means divided by the probable error of the difference. A positive value indicates that the mean for the first condition is higher than that for the second, or that the first condition is less effective; a negative value indicates the opposite.
+     #+END_QUOTE
+
+     The general conclusion is that no interesting differences were found. Max critical ratio is 3.8, min is -2.2. This
+     is out of 20 trials (of executing a 30-item button sequence), and 26 subjects per group, where the total errors for
+     20 trials spans 116.1 to 145.2. So we're looking at a ~2% difference between groups. A time course would have been
+     interesting, but the deviation is so small that this experiment or manipulation is likely not sensitive enough.
+     
+     #+BEGIN_QUOTE
+     this problem is bound to yield more significant results with animals than with human adults as subjects since the latter are so completely motivated in the usual laboratory situation that the addition of shock cannot produce an accelerating effect upon learning
+     #+END_QUOTE
+
+***** comment on comparison between shocks for right vs wrong
+
+      #+BEGIN_QUOTE
+      Since the critical ratios in all these cases are rather small -- none above 2 -- our conclusion must be that the addition of shock in these cases produces only insignificant differences. For the four conditions named here the critical ratios of the differences between the means of the errors for the first twenty trials are 0.2, 1.2, 1.3, and 1.9 respectively
+      #+END_QUOTE
+
+      again, my mental image of the "bell", which is a "buzzer" is a very displeasing reaction
+
+***** what about the effect observed for rats?
+
+      #+BEGIN_QUOTE
+      Must we therefore assume different laws for human and animal learning?
+      
+      The experimental group of rats was also rewarded with food but shocked for the right response.
+      ...
+      In the experiment with human subjects the group shocked for the right response did not show any such difference. 
+      #+END_QUOTE
+
+      Muenzinger makes a distinction on motivation:
+
+      #+BEGIN_QUOTE
+      The behavior of a human subject is imbedded in a tension produced by 'laboratory instructions-perception of goal,'
+      that is, the consent to follow instructions takes the place of the hunger drive in the rat and in place of food as
+      the goal we have the mere achievement of reaching the goal. We consider it superfluous to use food, say in the
+      form of candy, which would not add to the tension which is probably near its maximum strength in the usual
+      laboratory situation. For the same reason we need not expect any increase in tension if we use punishment in the
+      form of electric shock. In other words, we suspect that human subjects in a laboratory situation are so well
+      motivated already that the addition of electric shock has no effect upon their learning efficiency.
+      #+END_QUOTE
+
+      But there's more to it than that. One must also discuss dual-processes, i.e., for the human, the shock carries
+      beyond a visceral component, a cognitive component ("you are wrong" or "you are right").
+
+      One interesting thing about the motivation-based interpretation above is how it relates to the historical research
+      climate. The interpretation is perfectly valid, but how much of it was the "easy" interpretation due to the tint
+      of the spectacles popular at the time?
+      
+***** shock as a disrupter
+
+      #+BEGIN_QUOTE
+      The California experimenters indorse the report of other investigators that electric shock has a 'disrupting
+      effect,' that it tends 'to hinder learning wherever it is introduced' ([fn:tolmanetal1932], p. 612).
+      #+END_QUOTE
+
+      ... probably by means of unpleasant distraction, like reading next to a periodically crying baby
+
+      under this interpretation, learning disruption due to unwanted distraction is not the same as disruption due to
+      punishment
+
+      
+      
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
