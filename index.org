@@ -2921,7 +2921,7 @@ his car/ (sensible) followed by the cue, for example, "objects," to which the su
 
      - ~Comprehension appears to be significantly correlated with working memory span, hence replicating D&C~
 
-     - reading spans here had correlations ~close to their observed correlations with a more general measure of comprehension, namely SAT scores where correlations ranged from .49 to .59 [fn:danemanetal1980].~
+     - reading spans here had correlations ~close to their observed correlations with a more general measure of comprehension, namely SAT scores where correlations ranged from .49 to .59~ [fn:danemanetal1980]
        
      - ~The two letter matching tasks are also correlated with comprehension, the name match condition (r = .401) being a somewhat better predictor than that requiring physical matching (r = .260).~
 
