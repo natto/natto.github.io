@@ -2852,9 +2852,9 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
 **** Jackson and McClelland 1979
 
     #+BEGIN_QUOTE
-    [fn:jacksonetal1979] ... compared the performance on a range of tasks of two groups of college students selected as being particularly good or poor readers within the college population. Tasks included the perception of briefly presented individual letters, the matching of visual patterns, auditory memory span for letter sequences and a number of reaction time tasks in which subjects were required to categorize items as the same or different. These ranged from deciding whether two letters were or were not physically identical, (e.g., AA vs Aa), whether they had the same name (e.g., Aa vs Ab), whether words had the same meaning (e.g., /large-great/ vs /large-hot/), and whether two words had a similar sound (e.g., /read-reed/ vs /read-raid/).
+    Jackson & McClelland ... compared the performance on a range of tasks of two groups of college students selected as being particularly good or poor readers within the college population. Tasks included the perception of briefly presented individual letters, the matching of visual patterns, auditory memory span for letter sequences and a number of reaction time tasks in which subjects were required to categorize items as the same or different. These ranged from deciding whether two letters were or were not physically identical, (e.g., AA vs Aa), whether they had the same name (e.g., Aa vs Ab), whether words had the same meaning (e.g., /large-great/ vs /large-hot/), and whether two words had a similar sound (e.g., /read-reed/ vs /read-raid/).
     ...
-    good and poor readers were found not to differ on purely sensory tests. The faster readers did, however, have faster reaction times on the various categorization tests, the size of their advantage roughly increasing with the complexity of the task.
+    good and poor readers were found not to differ on purely sensory tests. The faster readers did, however, have faster reaction times on the various categorization tests, the size of their advantage roughly increasing with the complexity of the task. [fn:jacksonetal1979]
     #+END_QUOTE
 
 [fn:jacksonetal1979] Jackson, M. D., & McClelland, J. J. (1979). Processing determinants of reading speed. Journal of Experimental Psychology: General, 108, 151-181.
