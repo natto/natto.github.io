@@ -2820,6 +2820,158 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
 
       
       
+*** Components of Fluent Reading
+
+    Baddeley, Logie, Nimmo-Smith, Brereton 1985
+
+    from experiment 1: ~pattern of correlation observed is therefore consistent with the view that working memory span presents a composite of a range of subskills.~
+
+    #+BEGIN_QUOTE
+    Both the pseudohomophone effect and the physical versus name match difference came through strongly in our data, but neither of these effects was predictive of reading comprehension. In this respect, our data do not support the suggestion of Hunt et al. that the physical/name match difference will be a powerful predictor of speed of access to verbal memory, and as such a predictor of reading skill. Our results are more consistent with the view that all these tasks have some common component, possibly simply information processing speed, a component that overlaps to some extent with reading comprehension, but is not the principal determinant.
+    #+END_QUOTE
+
+    from experiment 2: ~the analyses suggest that both vocabulary and the sentence span measure of working memory contribute quite substantially and separately to the prediction of reading comprehension. Counting span contributes much more weakly; furthermore, the variance accounted for by counting span can equally well be accounted for by the sentence span measure.~
+
+    Our two experiments concur in suggesting a reliable correlation in the order of .5 between performance on the
+    Daneman and Carpenter working memory span task and reading comprehension as measured by a standard test.
+
+**** earlier span measures and reading
+
+     #+BEGIN_QUOTE
+     digit or word span is only weakly correlated with reading ability (Perfetti & Lesgold. 1977)
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Daneman and Carpenter observed correlations ranging from .72 to .90 between working memory span and a task involving reading prose paragraph  and answering subsequent questions
+     #+END_QUOTE
+
+**** Jackson and McClelland 1979
+
+    #+BEGIN_QUOTE
+    Jackson and McClelland (1979) ... compared the performance on a range of tasks of two groups of college students selected as being particularly good or poor readers within the college population. Tasks included the perception of briefly presented individual letters, the matching of visual patterns, auditory memory span for letter sequences and a number of reaction time tasks in which subjects were required to categorize items as the same or different. These ranged from deciding whether two letters were or were not physically identical, (e.g., AA vs Aa), whether they had the same name (e.g., Aa vs Ab), whether words had the same meaning (e.g., /large-great/ vs /large-hot/), and whether two words had a similar sound (e.g., /read-reed/ vs /read-raid/).
+    ...
+    good and poor readers were found not to differ on purely sensory tests. The faster readers did, however, have faster reaction times on the various categorization tests, the size of their advantage roughly increasing with the complexity of the task.
+    #+END_QUOTE
+
+**** An early recorded use of the "reading efficiency" measure
+     
+     #+BEGIN_QUOTE
+     score used was the speed of reading multiplied by the percentage of sentences correct.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     stepwise multiple-regression analysis indicated that a combination of the listening comprehension score and speed of letter matching accounted for 77% of the variance. Jackson and McClelland argued that reading is dependent on two main factors, general comprehension ability and "speed of accessing overlearned memory codes for visually presented letters" (Jackson & McClelland. 1979, p. 151).
+     #+END_QUOTE
+
+
+**** experiment 1 tests
+
+     1. Reading (Nelson-Denny reading test)
+     2. Vocabulary (Mill Hill vocabulary test (Raven, 1943)) -- ~select a synonym for each test word from 6 alternatives~
+     3. Letter matching.
+        
+        #+BEGIN_QUOTE
+        Subjects were given response sheets containing 80 pairs of letters. Their task was to tick the pairs that were
+        identical and place a cross by those that were different. One condition involved a match based on physical
+        identity; in this condition, the letters in each pair were both either uppercase or lowercase, hence examples of
+        "yes" items might be AA or bb, while pairs like ab or AB should provoke a "no" response. A second condition
+        involved a name match. In this condition, all letter pairs comprised a mixture of upper and lowercase. Examples
+        of "yes" responses here would be Aa and Bb, while negative items might be Ab Ba (Posner & Mitchell. 1967). 
+        
+        ...
+        
+        60 seconds to complete as many items as possible on any given sheet.
+        #+END_QUOTE
+     4. Lexical decision. 100 words, 100 nonwords.
+        #+BEGIN_QUOTE
+        at least 30 per 100,000 based on the Thorndike-Lorge norms. Of the 100 nonwords, half were pseudohomophones
+        (e.g., /frute/) and half were nonhomophonic, but were matched to an individual pseudohomophone by changing one
+        letter (e.g. /fruke/)
+        #+END_QUOTE
+        
+        #+BEGIN_QUOTE
+        It has been shown that homonymous words consistently slow down performance on this task (Rubenstein. Lewis. & Rubenstein, 1971).
+        #+END_QUOTE
+     5. Working memory span, adapted from Daneman & Carpenter 1980.
+        #+BEGIN_QUOTE
+        The subject heard a series of short sentences, each involving a person, a verb, and an object for example, /The
+policeman ate the apple/.
+        ...
+        required to categorize each sentence on the basis of whether or not it made sense. Half the sentences were sensible and
+half were absurd, an example being /The girl sang the water/. Hence, a test sequence of length 2 might go as follows:
+/The sailor beat the idea/ (to which the subject should respond by ticking a box marked "nonsense") -- /The banker saw
+his car/ (sensible) followed by the cue, for example, "objects," to which the subject should respond /idea/ and /car/.
+        #+END_QUOTE
+
+**** experiment 1 results
+
+     
+     - ~The magnitude of the difference between physical and name judgements in the Posner task was rather greater, 199 milliseconds, and the effect rather more robust.~
+
+     - ~Comprehension appears to be significantly correlated with working memory span, hence replicating D&C~
+
+     - reading spans here had correlations ~close to their observed correlations with a more general measure of comprehension, namely SAT scores where correlations ranged from .49 to .59 (Daneman & Carpenter. 1980).~
+       
+     - ~The two letter matching tasks are also correlated with comprehension, the name match condition (r = .401) being a somewhat better predictor than that requiring physical matching (r = .260).~
+
+     - ~difference between time to make a physical letter match and to make a match based on a name code is not a good predictor of reading comprehension (r -.015).~
+
+***** differences in lexical decision task correlations
+
+      ~substantial correlation with performance on the standard lexical decision task (r = .511); when the negative items in the lexical decision task are pseudohomophones the correlation is less strong (r = .254).~
+
+      is this driven by faster phonological access in better readers? If so, ~there should be a clear correlation between comprehension score and the size of the pseudohomophone effect as indicated by the difference between the two lexical decision scores. This was significant, but not large enough to support this interpretation strongly.~
+      
+***** stepwise regression
+
+      #+BEGIN_QUOTE
+      Entering working memory span first in this fashion accounted for 21.4% of the variance, while performance on
+      standard lexical decision added 15.3% and vocabulary a further 7.1%. Entering standard lexical decision
+      performance first accounted for 16.1%, to which working memory span added 10.6% and vocabulary again a further
+      7.1%. Additional variables did not add substantially ...
+      #+END_QUOTE
+
+**** experiment 2
+
+***** counting span task by Case, Kurland, and Goldberg (1982)
+
+      #+BEGIN_QUOTE
+      involves the presentation of a series of slides, each containing a number of dots which the subject is required to count. As each new slide appears, the subject must remember the number of dots that have occurred on previous slides while counting the dots on the new slide.
+      #+END_QUOTE
+
+      this appears to be just a digit span with a subitizing component. The usage of dots above 5 or 6 will then
+      start taxing a perceptual process; if there's a lapse in attention, then at say 9 dots, there may be some
+      frontal interference, but on the surface this is a very simple task. Authors do note that this was devised
+      ~to study the development of working memory in children.~ In this study, dots go from 2 to 9.
+
+      indeed, authors later conclude ~we should consider the further possibility that our counting span is simply not a good measure of general working memory capacity.~
+
+***** other tests
+
+      - Synonym Selection from the Mill Hill vocabulary test
+      - Daneman and Carpenter reading span, using 2 to 5 sentences (vs 2~4 in experiment 1)
+      
+**** experiment 2 results
+
+     #+BEGIN_QUOTE
+     The sentence span task ... correlates rather more healthily with comprehension (r = .485) and in this case quite highly with reading speed (r = .409) but not with vocabulary. Regression analysis indicates that vocabulary alone accounts for 23.2% of the variance, the sentence span task alone for 23.5% and the counting span task for 7.8%. Both vocabulary and sentence span both contribute substantially to the variance.
+     #+END_QUOTE
+
+     
+**** on the role of vocabulary and lexical access
+
+
+     #+BEGIN_QUOTE
+     a number of separable components of fluent reading. One of these is vocabulary score: not surprisingly, the richer a subject's vocabulary the better his comprehension of written prose. A second could be termed /lexical access/; it is reflected in both the standard lexical decision task and in the Posner name matching task, and probably represents the speed with which a graphemic stimulus can access a phonological, lexical, or semantic code.
+     #+END_QUOTE
+
+     Like Jackson & McClelland (1979), results
+
+     #+BEGIN_QUOTE
+     indicate a general relationship between reading and the performance of [tasks involving processing of visually presented
+lexical material], but give little support to the attempt to relate comprehension to the hypothetical task subcomponents such as phonological versus lexical access.
+     #+END_QUOTE
+
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
