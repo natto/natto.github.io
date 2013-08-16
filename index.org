@@ -2827,8 +2827,10 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
     from experiment 1: ~pattern of correlation observed is therefore consistent with the view that working memory span presents a composite of a range of subskills.~
 
     #+BEGIN_QUOTE
-    Both the pseudohomophone effect and the physical versus name match difference came through strongly in our data, but neither of these effects was predictive of reading comprehension. In this respect, our data do not support the suggestion of Hunt et al. that the physical/name match difference will be a powerful predictor of speed of access to verbal memory, and as such a predictor of reading skill. Our results are more consistent with the view that all these tasks have some common component, possibly simply information processing speed, a component that overlaps to some extent with reading comprehension, but is not the principal determinant.
+    Both the pseudohomophone effect and the physical versus name match difference came through strongly in our data, but neither of these effects was predictive of reading comprehension. In this respect, our data do not support the suggestion of Hunt et al. [fn:huntetal1973] that the physical/name match difference will be a powerful predictor of speed of access to verbal memory, and as such a predictor of reading skill. Our results are more consistent with the view that all these tasks have some common component, possibly simply information processing speed, a component that overlaps to some extent with reading comprehension, but is not the principal determinant.
     #+END_QUOTE
+
+[fn:huntetal1973] Hunt, Earl, Nancy Frost, and Clifford Lunneborg. "Individual differences in cognition: A new approach to intelligence." The psychology of learning and motivation 7 (1973): 87-122.
 
     from experiment 2: ~the analyses suggest that both vocabulary and the sentence span measure of working memory contribute quite substantially and separately to the prediction of reading comprehension. Counting span contributes much more weakly; furthermore, the variance accounted for by counting span can equally well be accounted for by the sentence span measure.~
 
@@ -2838,8 +2840,10 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
 **** earlier span measures and reading
 
      #+BEGIN_QUOTE
-     digit or word span is only weakly correlated with reading ability (Perfetti & Lesgold. 1977)
+     digit or word span is only weakly correlated with reading ability [fn:perfettietal1977]
      #+END_QUOTE
+
+[fn:perfettietal1977] Perfetti, C. A., & Lesgold, A. M. (1977). Discourse comprehension and sources of individual differences. In M.A. Just & P. A. Carpenter (eds.), Cognitive processes in Comprehension. Hillsdate, N.J.; Erlbaum
 
      #+BEGIN_QUOTE
      Daneman and Carpenter observed correlations ranging from .72 to .90 between working memory span and a task involving reading prose paragraph  and answering subsequent questions
@@ -2848,10 +2852,12 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
 **** Jackson and McClelland 1979
 
     #+BEGIN_QUOTE
-    Jackson and McClelland (1979) ... compared the performance on a range of tasks of two groups of college students selected as being particularly good or poor readers within the college population. Tasks included the perception of briefly presented individual letters, the matching of visual patterns, auditory memory span for letter sequences and a number of reaction time tasks in which subjects were required to categorize items as the same or different. These ranged from deciding whether two letters were or were not physically identical, (e.g., AA vs Aa), whether they had the same name (e.g., Aa vs Ab), whether words had the same meaning (e.g., /large-great/ vs /large-hot/), and whether two words had a similar sound (e.g., /read-reed/ vs /read-raid/).
+    [fn:jacksonetal1979] ... compared the performance on a range of tasks of two groups of college students selected as being particularly good or poor readers within the college population. Tasks included the perception of briefly presented individual letters, the matching of visual patterns, auditory memory span for letter sequences and a number of reaction time tasks in which subjects were required to categorize items as the same or different. These ranged from deciding whether two letters were or were not physically identical, (e.g., AA vs Aa), whether they had the same name (e.g., Aa vs Ab), whether words had the same meaning (e.g., /large-great/ vs /large-hot/), and whether two words had a similar sound (e.g., /read-reed/ vs /read-raid/).
     ...
     good and poor readers were found not to differ on purely sensory tests. The faster readers did, however, have faster reaction times on the various categorization tests, the size of their advantage roughly increasing with the complexity of the task.
     #+END_QUOTE
+
+[fn:jacksonetal1979] Jackson, M. D., & McClelland, J. J. (1979). Processing determinants of reading speed. Journal of Experimental Psychology: General, 108, 151-181.
 
 **** An early recorded use of the "reading efficiency" measure
      
@@ -2860,7 +2866,7 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
      #+END_QUOTE
 
      #+BEGIN_QUOTE
-     stepwise multiple-regression analysis indicated that a combination of the listening comprehension score and speed of letter matching accounted for 77% of the variance. Jackson and McClelland argued that reading is dependent on two main factors, general comprehension ability and "speed of accessing overlearned memory codes for visually presented letters" (Jackson & McClelland. 1979, p. 151).
+     stepwise multiple-regression analysis indicated that a combination of the listening comprehension score and speed of letter matching accounted for 77% of the variance. Jackson and McClelland argued that reading is dependent on two main factors, general comprehension ability and "speed of accessing overlearned memory codes for visually presented letters" ([fn:jacksonetal1979], p. 151).
      #+END_QUOTE
 
 
@@ -2876,7 +2882,7 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
         identity; in this condition, the letters in each pair were both either uppercase or lowercase, hence examples of
         "yes" items might be AA or bb, while pairs like ab or AB should provoke a "no" response. A second condition
         involved a name match. In this condition, all letter pairs comprised a mixture of upper and lowercase. Examples
-        of "yes" responses here would be Aa and Bb, while negative items might be Ab Ba (Posner & Mitchell. 1967). 
+        of "yes" responses here would be Aa and Bb, while negative items might be Ab Ba [fn:posneretal1967]. 
         
         ...
         
@@ -2890,7 +2896,7 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
         #+END_QUOTE
         
         #+BEGIN_QUOTE
-        It has been shown that homonymous words consistently slow down performance on this task (Rubenstein. Lewis. & Rubenstein, 1971).
+        It has been shown that homonymous words consistently slow down performance on this task [fn:rubinsteinetal1971].
         #+END_QUOTE
      5. Working memory span, adapted from Daneman & Carpenter 1980.
         #+BEGIN_QUOTE
@@ -2903,6 +2909,11 @@ half were absurd, an example being /The girl sang the water/. Hence, a test sequ
 his car/ (sensible) followed by the cue, for example, "objects," to which the subject should respond /idea/ and /car/.
         #+END_QUOTE
 
+[fn:posneretal1967] Posner, Michael I., and Ronald F. Mitchell. "Chronometric analysis of classification." Psychological Review 74.5 (1967): 392.
+
+[fn:rubinsteinetal1971] Rubenstein, Herbert, Spafford S. Lewis, and Mollie A. Rubenstein. "Homographic entries in the internal lexicon: Effects of systematicity and relative frequency of meanings." Journal of Verbal Learning and Verbal Behavior 10.1 (1971): 57-62.
+
+
 **** experiment 1 results
 
      
@@ -2910,11 +2921,13 @@ his car/ (sensible) followed by the cue, for example, "objects," to which the su
 
      - ~Comprehension appears to be significantly correlated with working memory span, hence replicating D&C~
 
-     - reading spans here had correlations ~close to their observed correlations with a more general measure of comprehension, namely SAT scores where correlations ranged from .49 to .59 (Daneman & Carpenter. 1980).~
+     - reading spans here had correlations ~close to their observed correlations with a more general measure of comprehension, namely SAT scores where correlations ranged from .49 to .59 [fn:danemanetal1980].~
        
      - ~The two letter matching tasks are also correlated with comprehension, the name match condition (r = .401) being a somewhat better predictor than that requiring physical matching (r = .260).~
 
      - ~difference between time to make a physical letter match and to make a match based on a name code is not a good predictor of reading comprehension (r -.015).~
+
+[fn:danemanetal1980] Daneman, Meredyth, and Patricia A. Carpenter. "Individual differences in working memory and reading." Journal of verbal learning and verbal behavior 19.4 (1980): 450-466.
 
 ***** differences in lexical decision task correlations
 
@@ -2965,7 +2978,7 @@ his car/ (sensible) followed by the cue, for example, "objects," to which the su
      a number of separable components of fluent reading. One of these is vocabulary score: not surprisingly, the richer a subject's vocabulary the better his comprehension of written prose. A second could be termed /lexical access/; it is reflected in both the standard lexical decision task and in the Posner name matching task, and probably represents the speed with which a graphemic stimulus can access a phonological, lexical, or semantic code.
      #+END_QUOTE
 
-     Like Jackson & McClelland (1979), results
+     Like [fn:jacksonetal1979], results
 
      #+BEGIN_QUOTE
      indicate a general relationship between reading and the performance of [tasks involving processing of visually presented
