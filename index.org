@@ -2985,6 +2985,266 @@ his car/ (sensible) followed by the cue, for example, "objects," to which the su
 lexical material], but give little support to the attempt to relate comprehension to the hypothetical task subcomponents such as phonological versus lexical access.
      #+END_QUOTE
 
+*** Decoding the Neural Substrates of Reward-Related Decision Making With Functional MRI
+
+    Hampton & O'Doherty
+
+**** neurally decoding the decision process
+
+     #+BEGIN_QUOTE
+     Neural signals have been found that relate to but do not directly reflect this process, such as those pertaining to the expected value or utility of the available actions [fn:plattetal1999] [fn:sugrueetal2004]
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     responses signaling errors in those predictions [fn:schultzetal1997]
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     encoding the value of outcomes received [fn:odohertyetal2001]
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     and responses related to monitoring or evaluation of a previously executed action [fn:cohenetal2000] [fn:gehringetal2000] [fn:kernsetal2004]
+     #+END_QUOTE
+
+[fn:plattetal1999] Platt ML, Glimcher PW (1999) Nature 400:233-238.
+
+[fn:sugrueetal2004] Sugrue LP, Corrado GS, Newsome WT (2004) Science 304:1782-1787.
+
+[fn:schultzetal1997] Schultz W, Dayan P, Montague PR (1997) Science 275:1593-1599.
+
+[fn:odohertyetal2001] O'Doherty J, Kringelbach ML, Rolls ET, Hornak J, Andrews C (2001) Nat Neurosci 4:95-102.
+
+[fn:cohenetal2000] Cohen JD, Botvinick M, Carter CS (2000) Nat Neurosci 3:421-423.
+
+[fn:gehringetal2000] Gehring WJ, Knight RT (2000) Nat Neurosci 3:516-520.
+
+[fn:kernsetal2004] Kerns JG, Cohen JD, MacDonald AW, III, Cho RY, Stenger VA, Carter CS (2004) Science 303:1023-1026.
+
+
+**** MVPA benefits when global signal cannot differentiate
+
+     #+BEGIN_QUOTE
+     previous studies have used locally distributed variations in activity to decode visual percepts, under situations where the global mean signals in a given region may show no significant differences between conditions. [fn:haxbyetal2001] [fn:kamitanietal2005] [fn:haynesetal2005] [fn:polynetal2005] [fn:pessoaetal2005]
+     #+END_QUOTE
+
+[fn:haxbyetal2001] Haxby JV, Gobbini MI, Furey ML, Ishai A, Schouten JL, Pietrini P (2001) Science 293:2425-2430.
+
+[fn:kamitanietal2005] Kamitani Y, Tong F (2005) Nat Neurosci 8:679-685.
+
+[fn:haynesetal2005] Haynes JD, Rees G (2005) Nat Neurosci 8:686-691.
+
+[fn:polynetal2005] Polyn SM, Natu VS, Cohen JD, Norman KA (2005) Science 310:1963-1966.
+
+[fn:pessoaetal2005] Pessoa L, Padmala S (2005) Proc Natl Acad Sci USA 102:5612-5617.
+     
+
+     #+BEGIN_QUOTE
+     Local signals (Fig. 2 A Right) defined [independently and voxelwise within a region] do not survive classical fMRI analysis (Fig. 2B) and can only be studied by using signal analysis techniques sensitive to spatially distributed signals
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     recently it has been shown that information about task processes can be obtained from considering local spatially
+     distributed variations in voxel activity [fn:kamitanietal2005] [fn:haynesetal2005]
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     at least in the context of the present reversal learning task, the presence of global and local information
+     relevant to behavioral decision making strongly covaries within areas. This is in contrast to results observed in
+     the visual system, where in some instances local signals convey information pertaining to visual perception even
+     when global signals do not. Local fMRI signals in visual cortex have been argued to relate to the columnar
+     organization in this area of the brain.
+     #+END_QUOTE
+
+**** experiment: 2-arm bandit task
+
+     #+BEGIN_QUOTE
+     On each trial, subjects are presented with two fractal stimuli and asked to select one (Fig. 1A), with the objective of accumulating as much money as possible. After making a choice, subjects receive either a monetary gain or a monetary loss. However, one choice is "correct" in that choosing that stimulus leads to a greater probability of winning money and hence to an accumulating monetary gain, whereas the other choice is "incorrect" in that choosing that stimulus leads to a greater probability of losing money and hence to an accumulating monetary loss. After a time, the contingencies reverse so that what was the correct choice becomes the incorrect choice and vice versa. To choose optimally, subjects need to work out which stimulus is correct and continue to choose that stimulus until they determine that the contingencies have reversed, in which case they should switch their choice of stimulus.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     One stimulus is designated the correct stimulus, in that choosing that stimulus leads to a monetary reward on 70%
+     of occasions and a monetary loss 30% of the time. The other stimulus is "incorrect," in that choosing that stimulus
+     leads to a reward 40% of the time and a punishment 60% of the time. After subjects choose the correct stimulus on
+     four consecutive occasions, the contingencies reverse with a probability of 0.25 on each successive trial.
+     #+END_QUOTE
+
+**** ROI selection
+
+     mPFC, mOFC, LOFC, Amygdala, ventral striatum, dorsal striatum, DLPFC, insula, ACC
+
+     #+BEGIN_QUOTE
+     Nine regions of interest were specified a priori (see Materials and Methods), based on previous literature implicating these regions in reward-related decision making. These include the medial and lateral orbitofrontal cortex and adjacent mPFC.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     These regions have been shown to encode expected reward values, as well as the reward value of outcomes [fn:odohertyetal2001] [fn:knutsonetal2005] [fn:hamptonetal2006].
+     Moreover, signals in these regions have been found to relate to behavioral choice, whereby activity increases in mPFC on trials when subjects maintain their current choices on subsequent trials compared with when they switch [fn:odohertyetal2003]
+     #+END_QUOTE
+
+[fn:knutsonetal2005] Knutson B, Taylor J, Kaufman M, Peterson R, Glover G (2005) J Neurosci 25:4806-4812.
+
+[fn:hamptonetal2006] Hampton AN, Bossaerts P, O'Doherty JP (2006) J Neurosci 26:8360-8367.
+
+[fn:odohertyetal2003] O'Doherty J, Critchley H, Deichmann R, Dolan RJ (2003) J Neurosci 23:7931-7939.
+
+***** ACC
+
+      - ~engaged when subjects switch their choice of stimulus on reversal learning tasks~ [fn:bushetal2002] [fn:odohertyetal2003]
+      - ~monitoring action-outcome associations~ [fn:waltonetal2004]
+      - ~mediate action selection under situations involving conflict between competing responses~ [fn:kernsetal2004]
+      - mediate ~action selection between responses with different reward contingencies~ [fn:williamsetal2004]
+      - ~suggested to play a role in monitoring errors in behavioral responding or even in decoding when these errors might occur~ [fn:brownetal2005]
+        
+[fn:bushetal2002] Bush G, Vogt BA, Holmes J, Dale AM, Greve D, Jenike MA, Rosen BR (2002) Proc Natl Acad Sci USA 99:523-528.
+
+[fn:waltonetal2004] Walton ME, Devlin JT, Rushworth MFS (2004) Nat Neurosci 7:1259-1265.
+
+[fn:williamsetal2004] Williams ZM, Bush G, Rauch SL, Cosgrove GR, Eskandar EN (2004) Nat Neurosci 7:1370-1375.
+
+[fn:brownetal2005] Brown JW, Braver TS (2005) Science 307:1118-1121.
+
+***** insular cortex
+
+      
+      - ~respond during uncertainty in action choice, as well as under situations involving risk or
+        ambiguity~ [fn:critchleyetal2001] [fn:hsuetal2005] [fn:huetteletal2006]
+      - ~neural activity in this region on a previous trial correlated with whether subjects will make a risk-seeking or
+        risk-averse choice in a risky decision-making paradigm~ [fn:kuhnenetal2005]
+
+
+
+[fn:critchleyetal2001] Critchley HD, Mathias CJ, Dolan RJ (2001) Neuron 29:537-545.
+
+[fn:hsuetal2005] Hsu M, Bhatt M, Adolphs R, Tranel D, Camerer CF (2005) Science 310:1680-1683.
+
+[fn:huetteletal2006] Huettel SA, Stowe CJ, Gordon EM, Warner BT, Platt ML (2006) Neuron 49:765-775.
+
+[fn:kuhnenetal2005] Kuhnen CM, Knutson B (2005) Neuron 47:763--770. 
+
+***** striatum
+
+      #+BEGIN_QUOTE
+      ventral striatum, where activity is linked to errors in prediction of future reward, and dorsal striatum, which is argued to mediate stimulus-response learning and goal-directed action selection [fn:delgadoetal2003] [fn:o'dohertyetal2003] [fn:o'dohertyetal2004] [fn:yinetal2005]
+      #+END_QUOTE
+
+[fn:delgadoetal2003] Delgado MR, Locke HM, Stenger VA, Fiez JA (2003) Cognit Affect Behav Neurosci 3:27. 
+
+[fn:o'dohertyetal2003] O'Doherty JP, Dayan P, Friston K, Critchley H, Dolan RJ (2003) Neuron 38:329--337. 
+
+[fn:o'dohertyetal2004] O'Doherty JP, Dayan P, Schultz J, Deichmann R, Friston K, Dolan RJ (2004) Science 304:452--454. 
+
+[fn:yinetal2005] Yin HH, Ostlund SB, Knowlton BJ, Balleine BW (2005) Eur J Neurosci 22:513--523. 
+
+***** amygdala
+
+      - ~which has been implicated in learning of stimulus-reward or stimulus-punisher associations~ [fn:gottfriedetal2003] [fn:schoenbaumetal2003] [fn:hollandetal2004]
+
+[fn:gottfriedetal2003] Gottfried JA, O'Doherty J, Dolan RJ (2003) Science 301:1104--1107. 
+
+[fn:schoenbaumetal2003] Schoenbaum G, Setlow B, Saddoris MP, Gallagher M (2003) Neuron 39:855--867. 
+
+[fn:hollandetal2004] Holland PC, Gallagher M (2004) Curr Opin Neurobiol 14:148--155. 
+
+**** separating global & local spatial signals relevant to behavioral choice
+
+     #+BEGIN_QUOTE
+     separating fMRI signals in each region into spatially local and spatially global signals, thus disambiguating results that correspond to classic fMRI approaches (global signals), with results that can only be obtained by using multivariate fMRI decoding techniques (local signals).
+     ...
+     we separated the original fMRI data into global signals with a spatial scale bigger than 8 mm and local signals with a spatial scale smaller than 8 mm
+     #+END_QUOTE
+
+
+     #+BEGIN_QUOTE
+     1. The activity in each voxel was scaled such that the variance of the BOLD activity over all trials in a session was equalized across all voxels.
+     2. The fMRI data were spatially smoothed by using a Gaussian kernel with a full width at half maximum of 8 mm, to capture global changes in signal.
+     3. fMRI data containing only locally distributed spatial signals were then extracted by subtracting the smoothed
+        fMRI data (obtained in =2=), from the non-spatially smoothed fMRI data (obtained in =1=)
+        
+     This procedure adopts the assumption that BOLD activity is a function of the underlying neuronal activity that is identical across neighboring voxels, except for a scaling constant. Furthermore, =1= estimates and eliminates the scaling differences across voxels, but errors in the estimation of this scaling could lead to an incomplete dissociation between local and global signals. The procedure also assumes that if local encodings exist, they will have the same scaling characteristics across all brain regions.
+     #+END_QUOTE
+
+**** classifier definition + training
+
+     #+BEGIN_QUOTE
+     Four classifiers were trained and tested for each subject by using four-fold cross validation, where each classifier is trained by using three of the sessions (210 trials) and then tested on the session that is left out (70 trials).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Decoding accuracy derived from global and local signals was comparable within each region of interest, suggesting that local and global signals strongly covary in each of the regions studied
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     we examined the signal-to-noise ratio in each region by analyzing responses elicited by the main effect of receiving an outcome compared with rest.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     built regional classifiers using a multivariate approach that takes into account interactions between multiple
+     regions of interest when decoding decisions (see Fig. 1B). This approach optimally combines both local and global
+     signals from each region of interest. To determine which subset of regions to include in our classifier, we
+     performed a hierarchical analysis whereby we started with the most accurate individual region and then iteratively
+     built multiregion classifiers by adding one region at a time. At each step in this iterative process, we added the
+     region that increased the multiregion classifier's accuracy the most (out of the remaining regions)
+     #+END_QUOTE
+
+**** classifier accuracy
+
+     #+BEGIN_QUOTE
+     When combining both local and global signals and evaluating decoding accuracy for each region alone, we find that each region can decode better than chance whether a subject is going to switch or not (Fig. 3B), with the highest accuracies being obtained by ACC (64%), anterior insula (62%), and DLPFC (60%).
+     #+END_QUOTE
+
+***** ACC + mPFC + ventral striatum = accounted for maximum accuracy
+
+      #+BEGIN_QUOTE
+      a classifier with only three of these areas (ACC, mPFC, and ventral striatum) achieved an overall decoding accuracy
+      of 67 +- 2%, a significantly better decoding accuracy of subject's choice than that provided by each region alone
+      (for example, compared with ACC at P < 0.01)
+
+      ...
+
+      when in the hierarchical analysis we added more than four regions, the combined classifier's accuracy gradually decreased again (Fig. 3C), perhaps because of over-fitting of the training data
+      #+END_QUOTE
+
+**** conclusions
+
+     #+BEGIN_QUOTE
+     The results of this study demonstrate that it is possible to decode, with a high degree of accuracy, reward-related decisions or the consequence of those decisions (in terms of initiating a change in response choice) in human subjects on the basis of neural activity measured with fMRI before the specific physical action involved is either planned or executed
+     #+END_QUOTE
+
+     on temporal relation between neural response vs. decision implementation
+
+     #+BEGIN_QUOTE
+     the decision to switch or maintain current response set may be initiated as soon as the information needed to compute the decision is available, rather than being implemented only when required on the subsequent trial.
+     #+END_QUOTE
+
+     this is interesting, because in "classical" event related analysis, there is an assumption that the decision point
+     is adequately detectable by a given onset plus an HRF time lag. while it is known that this is a weak assumption,
+     and indeed, HRFs vary by region and process, it is still assumed that by enough examples, an effect should be
+     detectable. not that the finding here invalidates current methodology, but it would even be interesting to
+     challenge the notion that the decision point actually /doesn't happen at the decision point/, but at some possibly
+     fixed (again, with the "enough examples" assumption) lag after some kind of information input.
+
+     suppose we have a task that involves 2 steps: a cue indicating if the question will be "A or B" or "1 or 2", then
+     the actual choice. we'd expect the actual choice to be modeled at the 2nd epoch, but the choice clearly starts
+     before that. since the classification here is above chance but weak (67%), there may well be some non-uniform lag
+     and continuous signal integration that would take a larger and varying time window to capture.
+
+***** role of dorsal ACC and the non-discriminating DLPFC
+
+      #+BEGIN_QUOTE
+      previously implicated in diverse cognitive functions, including response conflict and error detection [fn:kernsetal2004] [fn:brownetal2005]. However, a recent theoretical account has proposed a more general role for this region in guiding action selection for reward [fn:bushetal2002] [fn:waltonetal2004] [fn:williamsetal2004]
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      Some of the regions [e.g.] DLPFC may contribute to task or cognitive-set switching more generally [fn:macdonaldetal2000] [fn:brassetal2004] [fn:diasetal1996] and are unlikely to be uniquely involved in reward-related decision making.
+      #+END_QUOTE
+
+[fn:macdonaldetal2000] MacDonald AW, Cohen JD, Stenger VA, Carter CS (2000) Science 288:1835-1838.
+
+[fn:brassetal2004] Brass M, von Cramon DY (2004) J Neurosci 24:8847-8852.
+
+[fn:diasetal1996] Dias R, Robbins TW, Roberts AC (1996) Nature 380:69-72.
+
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
