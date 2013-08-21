@@ -2,11 +2,10 @@
 
 # stuff to replace out
 #+BEGIN_SRC emacs-lisp :results silent :exports none
-
+  
   ;; should rewrite this to allow independent special char replacement without newline replacement
-
-  (defun unwrap-and-unformat-pasted-paragraph (beg end)
-    "merge multiple lines in region into single line, and replace special chars with non-special chars"
+  
+  (defun tokubestu-moji-wo-replace (beg end)
     (interactive "r")
     (save-restriction 
       (narrow-to-region beg end)
@@ -22,6 +21,20 @@
                       ("—" . "--")
                       ("ǃ" . "=")
                       ("ǁ" . "-")
+                      ("ﬂ" . "fl")
+                      ))
+        (let ((src (car pair))
+              (tgt (cdr pair)))
+          (goto-char (point-min))
+          (while (search-forward src nil t) (replace-match tgt nil t))))))
+  
+  (defun unwrap-and-unformat-pasted-paragraph (beg end)
+    "merge multiple lines in region into single line, and replace special chars with non-special chars"
+    (interactive "r")
+    (tokubestu-moji-wo-replace beg end)
+    (save-restriction 
+      (narrow-to-region beg end)
+      (dolist (pair '(
                       
                       ("- \n" . "")
                       ("-\n" . "")
@@ -31,7 +44,7 @@
               (tgt (cdr pair)))
           (goto-char (point-min))
           (while (search-forward src nil t) (replace-match tgt nil t))))))
-
+  
 #+END_SRC
 
 
