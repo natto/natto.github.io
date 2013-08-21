@@ -3245,6 +3245,175 @@ lexical material], but give little support to the attempt to relate comprehensio
 
 [fn:diasetal1996] Dias R, Robbins TW, Roberts AC (1996) Nature 380:69-72.
 
+*** What Relationships Do the Efficiencies of Phonological Coding and Lexical Access Have with Reading Comprehension for Japanese Learners of English?
+
+    Nobuyoshi Miyasako and Shigenobu Takatsuka 2004
+
+    #+BEGIN_QUOTE
+    Phonological coding means converting written information into phonological form so that it is held in the
+    phonological store for further processing such as lexical access and syntactic parsing [fn:baddeley2000]. Since the
+    representation in the phonological store decays in about 2 seconds without articulatory
+    rehearsal [fn:baddeleyetal1998], the efficiency of phonological coding, which is often automatic for fluent readers,
+    matters to the processing of written information.
+    #+END_QUOTE
+
+[fn:baddeley2000] Baddeley, A. D. (2000). The episodic buffer: a new component of working memory? Trends in Cognitive
+Science, 4, 417-423.
+
+[fn:baddeleyetal1998] Baddeley, A. D., Gathercole, R. & Papagno, C. (1998). The phonological loop as a language learning device. Psychological Review, 105, 158-173.
+
+    #+BEGIN_QUOTE
+    Lexical access means retrieving the meaning of written information through phonological coding or directly from the
+visual information [fn:grabeetal1999] [fn:stanovich2000]. Whether fluent readers may take the direct route or may access
+meanings though automatic phonological coding, it has been consented that non-fluent readers usually depend on the
+lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal1993] [fn:stanovich2000].
+    #+END_QUOTE
+
+[fn:grabeetal1999] Grabe, W. (1999). Developments in reading research and their implications for computer-adaptive reading assessment. Issues in computer-adaptive testing of reading proficiency, 10, 11-47.
+
+[fn:stanovich2000] Stanovich, K. E. (2000). Progress in understanding reading: Scientific foundations and new frontiers. Guilford Publications, Inc., Dept. 3R, 72 Spring St., New York, NY 10012 (Catalog no. 0565: $38).
+
+[fn:carver1998] Carver, R. P. (1998). Predicting reading level in grades 1 to 6 from listening level and decoding level: Testing theory relevant to the simple view of reading. Reading and Writing, 10(2), 121-154.
+
+[fn:gathercoleetal1993] Gathercole, S. E., & Baddeley, A. D. (1993). Working memory and language. Lawrence Erlbaum Associates, Inc.
+
+    #+BEGIN_QUOTE
+    the efficiency of phonological coding, measured as the speed of oral reading, can be improved by oral reading
+    practice for senior high school students. [fn:miyasako2002] [fn:suzuki1998] [fn:watanabe1990]
+    #+END_QUOTE
+
+[fn:miyasako2002] 宮迫靖靜 (2002). 高校生の音読と英語力は関係があるか？STEP Bulletin, 14, 14-25.
+
+[fn:suzuki1998] 鈴木寿一 (1998). 音声教材中のポーズがリーディングスピードに及ぼす影響に関する実証的研究. 「ことばの心理
+と学習」, 311-326. ことばの科学研究会.
+
+[fn:watanabe1990] 渡辺浩行. (1990) 音読再考―黙読の速度化を促す音読指導の意義と在り方. Leo, 19, 101-130．東京学芸大学大学院英語研究会
+
+**** "mastery" of orthographic processing
+
+     #+BEGIN_QUOTE
+     orthographic processing, which we judged the participants had already mastered, was excluded from the experiment.
+     #+END_QUOTE
+     
+     unfortunately, the criteria of "mastery" is not mentioned.
+
+**** measurements
+
+***** efficiency of phonological coding, measured by articulating speed (AS)
+
+     - English AS = 116 (syllables in 40 words) x 2.0 / time for articulating 40 words (sec.)
+     - Japanese AS = 197 (moras in 40 words) x 2.0 / time for articulating 40 words (sec.)
+
+***** efficiency of lexical access, measured by Stroop interference
+
+      ~The gap in time between the participants' visual accessing of the colors and their lexical accessing of the words was measured as Stroop interference~ [fn:dyer1971]
+
+[fn:dyer1971] Dyer, F. N. (1971). Color-naming interference in monolinguals and bilinguals. Journal of Verbal Learning and Verbal Behavior, 10(3), 297-302.
+
+      ~the kinds of stimuli were color patches (red, blue, yellow and green), Kanji words ("赤", "青", "黄", "緑"), Kana words ("あか", "あお", "き", "みどり") and English words ("red", "blue", "yellow" and " green")~
+
+      =Stroop IF = (color-naming time for a word card) - (color-naming time for the patch card)=
+
+***** reading comprehension, measured by reading section score from /Assessment of Communicative English/
+
+      (ACE; Association for English Language Proficiency Assessment)
+
+**** results
+
+     - mean Japanese =AS=: 16.798
+     - mean English =AS=: 5.969
+
+     #+BEGIN_QUOTE
+     There was a significant difference in the means between the three interferences, F(2, 141)=3.297, p<.05. However,
+     the stringent Scheffe's post hoc test showed just a tendency that the interference from Kana words was greater than
+     that from English words, p<.10.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The correlation matrix shows that ACE had a significant correlation with English articulating speed (r=.438, p<.01), but no significant correlation with English Stroop interference
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The upper English articulating-speed group had a greater mean of ACE than the lower group
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     there was not much difference in the means of ACE between the upper and lower English-Stroop-interference groups (upper=10.500, lower=9.933; Table 6), which was statistically confirmed, F(1, 29)=.194, ns.
+     #+END_QUOTE
+
+**** interpretations
+
+     the most surprising part of the paper is the connection made between how ~there was no significant correlation
+     between the efficiency of lexical access measured as English Stroop interference and reading comprehension~ and the
+     interpretation that ~there is no role of lexical access in reading comprehension~. This is /not/ their final
+     interpretation, but is a strange addition to the discussion.
+
+     More suitably interpreting the dominance of the phonological measures in predicting comprehension,
+
+     #+BEGIN_QUOTE
+     efficiency of phonological coding means not only better processing of written information but also sparing processing resources in the working memory for higher-level processing like comprehension (Nicholson, 1999; Stanovich, 2000).
+     #+END_QUOTE
+
+     And more suitably on the lack of Stroop interference,
+
+     #+BEGIN_QUOTE
+     One interpretation is that Stoop tasks are to measure the automaticity of lexical access, not the efficacy
+     #+END_QUOTE
+
+     but then,
+
+     #+BEGIN_QUOTE
+     Another is that the color words used as stimuli in the tasks were too easy and more difficult stimuli would have measured the efficiency more properly. Thus, the relationship between the efficiency of lexical access and reading comprehension should be re-examined by adopting revised Stroop tasks with more difficult stimuli, e.g., color-associated words such as blood, ocean and forest, or by other measures of lexical access.
+     #+END_QUOTE
+
+     The proposal is weak, because Stroop measures a composite of the access time of orthographic recognition, lexical
+     access, and in this this design, phonological production. /Each/ of these steps involve an automaticity
+     assumption. Increasing the difficulty of the words impacts the orthographical and lexical access components, but
+     still will not cleanly test the question of whether this is an automaticity or efficacy task. As a thought
+     experiment, suppose a stroop effect is found for "incongruent" cases such as "ocean" printed in red, "blood"
+     printed in green, "sky" printed in yellow. The word-color association here is secondary (by LTM retrieval of the
+     object prototype, then LTM coactivation of a color property of the prototype, /then/ possibly a concept-level
+     interference; remember again the Stroop color task assumes a one-step retrieval between color word and color
+     concept!). If the assumption is that /lexical efficacy/ is fast enough for some students so it causes concept-level
+     interference before speech production of a /color word/, that would imply the incongruent color's access time was
+     somehow interfered by a 2-step-removed LTM access process. Possible, but unlikely to be cleanly detected by such a
+     modified Stroop task.
+
+     #+BEGIN_QUOTE
+     results are congruous to those for the first research question and confirm the favorable effect of efficient phonological coding and little effect of efficient lexical access on reading comprehension for the participants.
+     #+END_QUOTE
+
+     This is a surprising conclusion, but also plausible in this context. There are potential concerns about whether the
+     measures are appropriate: English AS is about 1/3 of Japanese. Is this slow for ESL? Mean of the =ACE= score is
+     around 50%. Is this a low score? Do we observe stable Stroop effects for both Japanese and English at this possibly
+     low level of fluency? Does this mean =ACE= in particular is not sensitive to Stroop-implicated lexical access?
+
+     According to Athanassios et al 2007, Stroop loads highly on word form encoding efficiency. It's quite possible the
+     results here reflect that the overhead induced by L2 access is not actually reflective of less efficiency in
+     lexical acecss (i.e., we're seeing a floor effect on lexical access speed for both languages), which supports the
+     interpretation by the authors that the bottleneck is more of a phonological (or other) nature.
+
+     Note we aren't talking generally about how important phonological access is in comprehension; results here
+     underline its importance, but it doesn't encompass e.g. a case where /every subject scores 20 on the ACE
+     test/. That is much more interesting.
+     
+**** words used for measuring articulating speed
+
+     citing [fn:tamai2001], unpublished at the time of this paper (2004), published in book form in (2005)
+
+[fn:tamai2001] 玉井健. (2001). リスニング指導法としてのシャドーイングの効果に関する研究. 風間書房, 2005.
+
+***** English
+
+      someone, difficult, yesterday, communicate, airplane, grandfather, beautiful,
+question, hometown, computer, welcome, language, Christmas, newspaper, Spanish,
+international, remember, elephant, baseball, yourself, usually, Vegetable, Japanese, Southeast,
+hamburger, important, American, birthplace, difference, Indonesia, dictionary, mountain,
+Halloween, restaurant, however, tomorrow, breakfast, overseas, understand, December
+
+***** Japanese
+
+      名人　動物園　博物館　連勝　一般的　冒険小説　西洋医学　記憶力　剣道　空想　フェスティバル　結果　じゅうたん　原子炉　ドイツ語　心理学　少額　共産主義　大統領　奇数　天然記念物　将棋　駐車場　友愛　同盟　宇宙船　太平洋　焼き肉　大衆の面前　増悪　オムライス　競艇　ソーラん節　地下鉄　林業　臓器移植　満足　脱力感　肉体　優勝
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
