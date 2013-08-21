@@ -3138,14 +3138,14 @@ lexical material], but give little support to the attempt to relate comprehensio
 ***** striatum
 
       #+BEGIN_QUOTE
-      ventral striatum, where activity is linked to errors in prediction of future reward, and dorsal striatum, which is argued to mediate stimulus-response learning and goal-directed action selection [fn:delgadoetal2003] [fn:o'dohertyetal2003] [fn:o'dohertyetal2004] [fn:yinetal2005]
+      ventral striatum, where activity is linked to errors in prediction of future reward, and dorsal striatum, which is argued to mediate stimulus-response learning and goal-directed action selection [fn:delgadoetal2003] [fn:odohertyetal2003] [fn:odohertyetal2004] [fn:yinetal2005]
       #+END_QUOTE
 
 [fn:delgadoetal2003] Delgado MR, Locke HM, Stenger VA, Fiez JA (2003) Cognit Affect Behav Neurosci 3:27. 
 
-[fn:o'dohertyetal2003] O'Doherty JP, Dayan P, Friston K, Critchley H, Dolan RJ (2003) Neuron 38:329--337. 
+[fn:odohertyetal2003] O'Doherty JP, Dayan P, Friston K, Critchley H, Dolan RJ (2003) Neuron 38:329--337. 
 
-[fn:o'dohertyetal2004] O'Doherty JP, Dayan P, Schultz J, Deichmann R, Friston K, Dolan RJ (2004) Science 304:452--454. 
+[fn:odohertyetal2004] O'Doherty JP, Dayan P, Schultz J, Deichmann R, Friston K, Dolan RJ (2004) Science 304:452--454. 
 
 [fn:yinetal2005] Yin HH, Ostlund SB, Knowlton BJ, Balleine BW (2005) Eur J Neurosci 22:513--523. 
 
@@ -3364,8 +3364,10 @@ lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal199
      More suitably interpreting the dominance of the phonological measures in predicting comprehension,
 
      #+BEGIN_QUOTE
-     efficiency of phonological coding means not only better processing of written information but also sparing processing resources in the working memory for higher-level processing like comprehension (Nicholson, 1999; Stanovich, 2000).
+     efficiency of phonological coding means not only better processing of written information but also sparing processing resources in the working memory for higher-level processing like comprehension [fn:nicholson1999] [fn:stanovich2000].
      #+END_QUOTE
+
+[fn:nicholson1999] Nicholson, T. (1999). Reading comprehension processes.
 
      And more suitably on the lack of Stroop interference,
 
@@ -3892,3 +3894,4 @@ And tbrady's website: http://timbrady.org/research.html
    
    
    
+* TODO fix footnote citation key format (author duplicates)
