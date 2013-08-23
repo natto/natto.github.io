@@ -3429,6 +3429,266 @@ Halloween, restaurant, however, tomorrow, breakfast, overseas, understand, Decem
 ***** Japanese
 
       名人　動物園　博物館　連勝　一般的　冒険小説　西洋医学　記憶力　剣道　空想　フェスティバル　結果　じゅうたん　原子炉　ドイツ語　心理学　少額　共産主義　大統領　奇数　天然記念物　将棋　駐車場　友愛　同盟　宇宙船　太平洋　焼き肉　大衆の面前　増悪　オムライス　競艇　ソーラん節　地下鉄　林業　臓器移植　満足　脱力感　肉体　優勝
+*** Reading at "Impossible" Speeds
+
+    G. Harry McLaughlin
+
+    the crux: ~Speed reading is as impossible as ... going to the moon~
+    
+    ~The fact that the normal reader fixates every single word one after the other is as irrelevant as the fact that in the Dark Ages a normal reader always moved his lips.~
+
+    #+BEGIN_QUOTE
+    Spache insisted: "It is impossible to read faster than 800 to 900 words per minute" [fn:spache1962].
+    #+END_QUOTE
+
+[fn:spache1962] Spache, George D. "Is This a Break-throughin Reading?" The Reading Teacher, 15 (January 1962), 258-263. 
+
+    #+BEGIN_QUOTE
+    Neisser ([fn:neisser1967], p. 137) is surely correct when he remarks, "Rapid reading represents an achievement as impossible in theory as it is commonplace in practice."
+    #+END_QUOTE
+
+[fn:neisser1967] Neisser, Ulric. Cognitive Psychology. Appleton-Century-Crofts,  1967.
+
+    #+BEGIN_QUOTE
+    Spache simply quoted other researchers' data on the time required for the shortest effective fixation in reading (166
+milliseconds), the time required for the saccade to the next fixation (33 milliseconds), and "the maximum number of
+words that the eye can possibly see with a single fixation during continuous reading (probably 2.5 to 3 words)." Thus,
+it appears, we can see only three words every fifth of a second, and, because there are 300 such intervals in a minute,
+we can see only 3 x 300 = 900 words per minute. This must be the upper limit because it is difficult to sustain the rate
+of five fixations a second.
+    #+END_QUOTE
+
+    #+BEGIN_QUOTE
+    In a recent series of experiments [fn:neisseretal1965] subjects searched through a list of words, each three to six
+letters long, in order to find one which denoted an animal. All that the subjects had to do was establish enough of the
+word's meaning to determine whether it belonged to the target class. Yet, even with practice, scanning rates hardly
+exceeded five words per second, i.e. 5 x 60 = 300 words per minute.
+    #+END_QUOTE
+    
+[fn:neisseretal1965] Neisser, Ulric, and H. K. Beller. "Searching through Word Lists," British Journal of Psychology, 56 (1965), 349-358
+    
+    #+BEGIN_QUOTE
+    "at reading distance only words within a span of one inch (2.5 or 3 words) are seen with greater than 50 percent acuity"
+    #+END_QUOTE
+    
+    #+BEGIN_QUOTE
+    letters presented in the far periphery can be resolved [fn:saugstadetal1964]
+    #+END_QUOTE
+    
+[fn:saugstadetal1964] Saugstad, P., and I. Lie. "Training of Peripheral Visual Acuity," Scandinavian Journal of Psychology, 5 (1964), 218-224.
+
+    #+BEGIN_QUOTE
+    when a nonsense word is fixated at the center, letters in the periphery are often recognized more easily than the central ones [fn:legrand1967]
+    #+END_QUOTE
+    
+[fn:legrand1967] leGrand, Yves. Form and Space Vision. Bloomington: Indiana University Press, 1967.
+ 
+    #+BEGIN_QUOTE
+    any reduction of the number of words visible in peripheral vision increases errors in word recognition [fn:poulton1962].
+    #+END_QUOTE
+
+[fn:poulton1962] Poulton, E. L. "Peripheral Vision, Refractorinessand Eye Movements in Fast Oral Reading,"British Journal of Psychology, 53 (1962), 409-419.
+
+    
+    #+BEGIN_QUOTE
+    Yarbus [fn:yarbus1967], show that when people inspect pictures their saccadic movementsare nearly alwaysmade to points of maximum information value, and that the points fixated are much more often than not those which were in the extreme periphery of vision during the previous fixation, yet saccadic movement is so swift and accurate that the position of each fixation must have been decided (unconsciously of course) with great exactness during the preceding fixation. [fn:llewellynthomasetal1967].
+    #+END_QUOTE
+
+[fn:yarbus1967] Yarbus, Alfred L. Eye Movements and Vision. New York: Plenum, 1967.
+
+[fn:llewellynthomasetal1967] Llewellyn-Thomas,Edward, and Henry O'Beirne. "Curvaturein the Saccadic Movement," Archives of Ophthalmology, 11 (January 1967), 105-109.
+
+
+**** candidates investigated
+
+     ~four subjects who believed that they could attain the 10,000 words-a-minute target, but only one actually managed it.~
+
+***** Subject X: a 15 year old boy with IQ of 165
+
+      yes, reads fast, but questionable on comprehension
+
+***** Subject J: young lady with a doctorate who teaches at the University of Toronto
+
+      absorbed little when reading > 1200 wpm
+
+***** Subject K: university student of theology who gives public demonstrations for Reading Dynamics, Inc.
+      
+      #+BEGIN_QUOTE
+      he had been conditioned to pace himself by looking above his fingertip as he made it snake down the page, and the screen was too far away to permit this. 
+      #+END_QUOTE
+
+      the trademark hand motion that people like Howard Berg are known for using.
+      
+      #+BEGIN_QUOTE
+      Mr. K, like other subjects, made quite ordinary fixations lasting from 200 to 400 milliseconds. The only difference between his technique and that of a normal readerwas that after each fixation he would make a saccade to the point his finger had just reached.
+      #+END_QUOTE
+
+****** TODO find a video of the trademark hand motion
+
+****** TODO the point of subject K's fixation times warrants some discussion about the dynamics behind the hand motion
+
+***** Subject L: a unversity graduate with an IQ of 140
+
+      #+BEGIN_QUOTE
+      Miss L believes that she was never taught to read. At the age of three she watched while her five-year-old sister laboriously deciphered the words of a reader, probably by some phonic system. Little Miss L learned the words by heart and thus, she claims,came to associate word shapesdirectlywith their meanings
+      #+END_QUOTE
+
+**** instruments
+
+     from the *technical notes*
+
+***** electro-oculograph
+
+      #+BEGIN_QUOTE
+      The human eyeball appears to be charged electrically so that the retina is more negative than the cornea. By placing bipolar electrodes on the temples, it is possible to detect these charges and to use them for measuring horizontal eye movements (4). Thus, for example, when the eyes turn to the right, the electrode on the right temple becomes more positive and the left electrode becomes more negative. The potential change is reasonably proportional to angular movement of the eyeball. When the electrodes are connected to a suitable chart recorder, a graph showing horizontal eye movements plotted against time is obtained.
+      Similarly, by placing bipolar electrodes just above and below one eye, it is possible to measure vertical eye movements. However, the vertical recording usually contains more noise and artifacts than the horizontal recording. A blink causes a strong vertical artifact, and the sensitivity is dependent somewhat on the height of opening of the eyelids. The timing information is, of course, still accurate. 
+      #+END_QUOTE
+
+4. Davson, H. The Eye. Academic
+Press, 1962. Vol. 3, pp. 67-71.
+ 
+
+***** eye-marker camera
+
+      this projects an image at 10fps and adjusts the projection based on inferred eye movements from corneal reflection
+
+      interestingly, could this be one of the earlier practical uses of an augmented reality setup?
+
+**** Investigations with Subject L
+
+     she reads at 3500 wpm on average
+
+***** Evelyn Waugh's /A Handful of Dust/ at 10000 wpm
+
+      #+BEGIN_QUOTE
+      The electro-oculograph showed she wasmaking an average of five fixations scattered over each page
+      #+END_QUOTE
+
+***** analysis of recall by idea units
+
+      #+BEGIN_QUOTE
+      The relevant portion of this summary can be analyzed into 24 main points. Miss L recalled a number of details but only six of the main points. She did not mention the most crucial point of all, namely that the heroine was having a love affair      
+      #+END_QUOTE
+
+***** critique of projector use for investigating speed reading
+
+      this may be a historical constraint of technology, but qualifies related research in this area
+
+      #+BEGIN_QUOTE
+      The reason for using the projector was that it obviated parallax errors when using an eye camera mounted on the subject's head. As explained in detail in Professor O'Beirne's technical note, this camera simultaneously photographed both a spot of light reflected from the eye, and the material which the subject was reading. This apparatus appears to have been used only once before to plot the eye movements of a speed reader (8): in that study the subject was found to deal with 10,000 words a minute by moving her eyes down the center of one page and up the center of the next one.
+      #+END_QUOTE
+
+8. Llewellyn-Thomas, Edward. "Eye Movements in Speed Reading," in Russell
+G. Stauffer (Ed.), Speed Reading: Prac-
+ tices and Procedures, Forty-fourth Annual EducationConference at the Universityof Delaware, 1962, pp. 104-114.
+
+
+***** fixation patterns in reading
+
+      #+BEGIN_QUOTE
+      As for Miss L, she typically read a page of 260 words in 14 fixations distributed in a rough zig-zag down the page. Sometimes her gaze moved back up the page to make a flattened loop: she explained that she did this when she wished to see the same area twice. Electro-oculograms show that Miss L made similar eye movements when reading from the printed page. The photographic record shows that most of the fixations lasted 250 milliseconds and appeared steady. 
+      #+END_QUOTE
+
+**** clues toward a theory of parallel processing
+
+***** ~A speed reader's behavior is similar in nearly all respects to that of a normal reader~
+
+      #+BEGIN_QUOTE
+      Both make fixations of similar duration. The reason for this doubtless lies in the fact that the reticular formation appears to act as a gate to the brain: in any case there is a minimum time required to switch attention from one input to another. For auditory stimuli this has been found to be about 168 milliseconds (17). This is fascinatingly close to Spache's figure of 166 milliseconds for the minimum useful fixation in reading
+      #+END_QUOTE
+
+ 17. Reid, Ian E., and Robert M. W.
+Travers. "Time Required to Switch At-
+ tention," American Educational Research
+ Journal, 5 (1968), 203-211.
+
+
+***** "microsaccades"
+
+      there may be some theory about different microsaccadic patterns in different readers
+
+      #+BEGIN_QUOTE
+      Microsaccades are eye movements which occur involuntarily to correct for the slow, tiny drifts of up to five
+      minutes of arc which occur during prolonged fixation. Usually microsaccades do not occur until a fixation has
+      continued for at least 200 milliseconds.  If one did occur during the normal reading fixation this would be
+      disadvantageous because, as several recent quantitative studies have shown (e.g. 26) even the smallest involuntary
+      eye movement is accompanied by a decrement in visual threshold and acuity for 50 milliseconds before and after the
+      start of the movement. Unfortunately, this conjecture cannot yet be tested. The techniques available for measuring
+      the large saccadic movements necessary in reading are still not sufficiently sensitive to detect microsaccades.
+      #+END_QUOTE
+
+      I'm convinced there is strong evidence that will show microsaccades are uninteresting for comprehension.
+
+      #+BEGIN_QUOTE
+      As Edfeldt has shown in a brilliant but too little known monograph (5), subvocalizing occurs whenever a reader, however good, slows down to study a difficult passage: evidently, among efficient readers at least, subvocalization is an effect not the cause of slow reading. 
+      #+END_QUOTE
+
+5. Edfeldt, Ake W. Silent Speech and Silent Reading. Chicago: University of Chicago Press, 1960.
+
+
+***** differences in eye movement patterns
+
+      #+BEGIN_QUOTE
+      The only essential objective difference between speed readers and other people is in their eye movement
+      patterns. A normal reader or skimmer reads along a printed line; a speed reader follows a straight or zig-zag
+      path, often moving from right to left and sometimes even going up the page. It is interesting to note that
+      photographs of the eye movements of an eight-year-old boy prodigy showing just such ragged patterns were published
+      in 1937, long before the current speed reading "fad" arose. The caption is as follows:
+
+      "When his eye movements were photographed, he was in the ninth grade but was carrying tenth-grade mathematics
+      successfully. His eye movements have been photographed thirteen different times, and all the records are somewhat
+      similar to those shown . . . He reads backwards as well as forward, evidencing few of the characteristics usually
+      associated with the . . . reading process. The rate of ... reading has varied from 646.15 words per minute to
+      2,202.53 words per minute. During one period of photography lasting 44.91 seconds he averaged 853.71 words per
+      minute with 100 per cent comprehension. At another time, for 9.8 seconds he average 1,989.79words per minute, with
+      excellent comprehension. He evidently has an unusually large macular area which enables him to read with what has
+      been termed a 'photographic eye'."
+      #+END_QUOTE
+
+***** reading more than one line at once
+
+      #+BEGIN_QUOTE
+      every speed reader I have met claimed to see more than one line at a time. "I read in globs."  "I see a bubble of words." Those are the phrases they use to describe their subjective experience.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      When Miss L looked at a book, not on sale in Canada at the time (20), through the camera shutter, she reported up to seven words or phrases occurring as far as ten lines apart: she could not make sense of these items because she was reporting words scattered within a circular area up to two inches in diameter
+      #+END_QUOTE
+
+ 20. Smith, Lee. The Last Day the
+ Dogbushes Bloomed. Harper and Row,
+ 1968.
+
+
+      McLaughlin reasons that Miss L essentially had a large visual range, per fixation, but was unable to make sense
+      of the large visual range over text, due to ~the notorious fact that the human immediate memory cannot retain more
+      than seven plus or minus two disconnected items (13)~
+
+      This would probably be happily consumed by modern science journalists, but is very likely wrong, even on an
+      intuitive level. (i.e. it's interesting to note that the norms are different now). This quote is of historical
+      rather than scientific interest.
+
+13. Miller, George A. "The Magical
+ Number Seven, Plus or Minus Two:
+ Some Limits on Our Capacity for Proc-
+ essing Information," Psychological Re-
+ view, 63 (1956),81-97.
+ 
+
+**** stipulations of the theory of parallel processing
+
+     #+BEGIN_QUOTE
+     it suggests that seven or so different sentences can be built up at the same time in a reader's mind, just as parallel electric circuits within a single computer can perform different tasks simultaneously
+     #+END_QUOTE
+
+     again, possibly a reasonable speculation given historical context, but also wrong.
+
+     #+BEGIN_QUOTE
+     It is probably fruitless to try to make a speed reader of someone who lacks high verbal intelligence. On the other hand it would seem to call for little more visual skill than the ability to relax so that the span of apprehension is not narrowed, just as the skilled driver relaxes and uses his peripheral vision, whereas a learner is so tense that he sees only what is straight ahead
+     #+END_QUOTE
+
+     
+
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
