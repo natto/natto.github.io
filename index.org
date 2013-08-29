@@ -4223,6 +4223,105 @@ And tbrady's website: http://timbrady.org/research.html
 
 [fn:olsonetal2005] Olson, I. R., Jiang, Y., & Sledge, K. (2005). Associative Learning Improves Visual Working Memory Performance. Journal of Experimental Psychology: Human Perception and Performance, 31, 889-900
 
+*** Brain Activity in Valuation Regions while Thinking about the Future Predicts Individual Discount Rates
+    
+    Cooper et al 2013
+
+    #+BEGIN_QUOTE
+    Steep discounters tended to have larger neural responses [in VMPFC and striatum] when judging short delays than when judging long delays, while shallow discounters tended to have the opposite pattern. Our results show that prompting someone to think about the future, in a fairly minimal manner with no mention of outcomes, elicits brain activity that predicts discount rates.
+    #+END_QUOTE
+
+    this actually confounds the interpretation
+
+    #+BEGIN_QUOTE
+    Here we show that the delay sensitivity of VS and VMPFC BOLD responses when individuals make simple value-free judgments about the subjective length of future time intervals predicts behavioral discount rates measured 10 d later. This suggests that the association between neural activity and discounting arises from a basic process involved in thinking about the future, such as judging temporal distance.
+    #+END_QUOTE
+
+    the problem is that thinking about a future time is itself a complex process. the resulting difference in brain activity is satisfactorily demonstrated but we cannot claim anything about the comparability of "thinking about the future" and "discounting", merely the resultant activity is similar in these regions.
+
+    #+BEGIN_QUOTE
+    In this context, the 15% of the variance in discount rates that can be accounted for by neural delay sensitivities is a sizable and important effect.
+    #+END_QUOTE
+
+    And so one could expect a greater variance explainable when we tease apart what is going on during thinking about the future. It may even turn out to be the exact same kind of valuation process. This point is mentioned in the discussion.
+
+**** discounting
+
+     #+BEGIN_QUOTE
+     Neuroimaging studies of discounting have found that BOLD activity in ventral striatum (VS) and ventromedial prefrontal cortex (VMPFC) scales with the subjective value of the options being considered (Kable and Glimcher, 2007, 2010; Ballard and Knutson, 2009; Peters and Büchel, 2009; Pine et al., 2009).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     In high discounters, there is much greater activity in these regions for immediate compared with equally sized delayed rewards, while this difference is smaller in low discounters.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Hariri et al. (2006) have shown that higher discounters exhibit a greater VS response to unpredicted rewards. Others have shown that higher discounters exhibit a greater difference in BOLD activity between judgments of oneself in the present compared with the future (Ersner-Hershfield et al., 2009; Mitchell et al., 2011).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Previous work has shown that discount rates vary widely across individuals, and that these differences are relatively stable across time (Ohmura et al., 2006; Kirby, 2009; Senecal et al., 2012).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     there are surprisingly few reliable predictors of discount rates. Perhaps the strongest is cognitive ability, which is reliably associated with discount rates with an effect size of approximately r = -0.20 (Shamosh and Gray, 2008; Burks et al., 2009).
+     #+END_QUOTE
+
+**** methods
+
+     prepaid debit cards is a good payment method
+
+     #+BEGIN_QUOTE
+     All payments were made using prepaid debit cards, as described previously (Kable and Glimcher, 2007, 2010). These cards have the advantage of making receipt of the delayed payment easy and reliable, minimizing the effects of greater uncertainty about and effort needed for the future reward.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     In the time discounting task, we characterized the relationship between the objective delay (OT) and the participant's evaluation of $75 received after that delay (BID). We fit this relationship with the following function: BID = 75/(1 + k x OT); Mazur, 1987).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     The first model for the temporal judgments task included 15 covariates of interest. These covariates modeled activity at the following three different time points in the trial: (1) the time at which a trial began and participants saw the delay to be judged (Qon); (2) the time at which the response bar appeared and the participant could begin entering the response (Ron); and (3) the time at which the participant submitted the response (Roff).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     All of these covariates were constructed by convolving a delta function at the time of each event (i.e., only the first 100 ms of each event is modeled) with an empirically estimated hemodynamic response function. This hemodynamic response function is distributed with the VoxBo software package and was empirically estimated by Aguirre et al. (1998) from motor cortex responses during a motor performance task.
+     #+END_QUOTE
+     
+**** results
+
+     the finding is essentially the tagline in the abstract. The relationship is not going to be linear in reality (since one could project to arbitrarily longer future delays), but the directional relationship is clear enough.
+
+     #+BEGIN_QUOTE
+     on the delay being judged (delays were divided into 13 bins). High discounters showed a higher response in both ventral striatum and ventromedial prefrontal cortex to short delay periods that decreased as delay lengths increased (Fig. 2). Low discounters showed the opposite pattern, with responses increasing from short delays to long delays (Fig. 2).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     Using the AUC estimation of discount rates, which allows us to include all participants, this relationship is just as strong (ventral striatum: r(38) = 0.44, p = 0.0049; ventromedial prefrontal cortex: r(38) = 0.34, p = 0.0314; note that larger AUC corresponds to less discounting). Higher discounters showed an increasingly negative relationship between BOLD activity and objective durations, while lower discounters had an  increasingly positive relationship.
+     #+END_QUOTE
+
+     
+**** interpretation
+
+     #+BEGIN_QUOTE
+     People might directly use their evaluation of future reward as a cue for judging the length of a future duration. Or, they might imagine a specific future event when judging duration. Cues in the simulated future event might be used to judge temporal distance, and the same simulated event might also be automatically evaluated.
+     #+END_QUOTE
+
+     while that helps qualify the ensuing interpretations, this was still a stretch
+
+     #+BEGIN_QUOTE
+     the correlations between BOLD activity and individual differences in behavior can be comparable to or even outperform those of standard psychometric variables.
+     #+END_QUOTE
+     
+     They unfortunately didn't probe or didn't report on what the subjects generally think about when self-projecting into the future. If the activity is driven by the /type/ of thought, then the striatal activation should be downstream of the actual region responsible for the observed impatience. If this were a downstream effect, i.e. we are seeing the result of valuation, presumably the psychometrics would be targeting something more upstream. They provide a more precise measure, but localizing on valuation regions would be like catching a rat by placing a trap in its tracks, instead of following its scent to its nest.
+
+     If on the other hand the future valuation /is/ done in these regions, that's a different story, but it seems highly unlikely that gravity of the /planning/ process resides in these regions.
+
+     #+BEGIN_QUOTE
+     Given that ventromedial prefrontal cortex has been linked to a "prospective brain network" that simulates the future (Buckner and Carroll, 2007; Gilbert and Wilson, 2007; Schacter et al., 2007) and to predicting the subjective value of different possible actions during decision making (Kable and Glimcher, 2009; Rangel and Hare, 2010)
+     #+END_QUOTE
+
+     so if we're seeing a downstream effect, then the "novel psychologicla interventions" would probably work in aggregate but come with a lot of noise.
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
