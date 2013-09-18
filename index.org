@@ -3984,26 +3984,26 @@ Travers. "Time Required to Switch At-
 
      
 
-** The Impact of the Spacing Effect and Overlearning on Student Performance in Calculus
+*** The Impact of the Spacing Effect and Overlearning on Student Performance in Calculus
 
-   PhD dissertation by Nicholas Gorgievski
+    PhD dissertation by Nicholas Gorgievski
 
-   compares massed (which carries an implication of overlearning in this paper) and cumulative (each new concept learned requires and builds upon a previous concept) practice and TA differences.
+    compares massed (which carries an implication of overlearning in this paper) and cumulative (each new concept learned requires and builds upon a previous concept) practice and TA differences.
 
-   The dissertation devotes a section to discussing the spacing effect, but this was, it seems, not actually manipulated, but like in the massed group, carries an assumption, in this case it is that "cumulative" is connected to "spacing". It's not a terrible assumption, but still does not connect cleanly to the concept that the title makes central.
+    The dissertation devotes a section to discussing the spacing effect, but this was, it seems, not actually manipulated, but like in the massed group, carries an assumption, in this case it is that "cumulative" is connected to "spacing". It's not a terrible assumption, but still does not connect cleanly to the concept that the title makes central.
 
-   the paper shows a set delivery service used by the university called /WebAssign/, and it looks like a horrible way of learning high level math.
+    the paper shows a set delivery service used by the university called /WebAssign/, and it looks like a horrible way of learning high level math.
 
-   The paper is summed up in the abstract, largely because it's a report on a series of null results:
+    The paper is summed up in the abstract, largely because it's a report on a series of null results:
 
-   #+BEGIN_QUOTE
-   The findings showed that there were no statistical differences on final exam scores between the participants in the massed and cumulative groups. Additionally, the 50% increase in the number of homework problems per set did not show statistical differences in student performance as measured on final exam scores.
-   #+END_QUOTE
+    #+BEGIN_QUOTE
+    The findings showed that there were no statistical differences on final exam scores between the participants in the massed and cumulative groups. Additionally, the 50% increase in the number of homework problems per set did not show statistical differences in student performance as measured on final exam scores.
+    #+END_QUOTE
 
-   One important thing is the subjects were mostly students in STEM fields and had to pass a calculus test to be in the class that was used as the subject pool. So it's likely that they're all pretty /smart/ already. I couldn't find anything about ratings on teaching assistants or other information about the specific differences between then, except that they were different, but the SDs are high enough that it's probably not going to account for much in this cohort.
+    One important thing is the subjects were mostly students in STEM fields and had to pass a calculus test to be in the class that was used as the subject pool. So it's likely that they're all pretty /smart/ already. I couldn't find anything about ratings on teaching assistants or other information about the specific differences between then, except that they were different, but the SDs are high enough that it's probably not going to account for much in this cohort.
 
-   So consequently this paper, regardless of the final test scores, is basically explainable with "gold in, gold out", and does not illuminate anything about a possible lead-to-gold transformation process of any degree or any different efficiency.
-   
+    So consequently this paper, regardless of the final test scores, is basically explainable with "gold in, gold out", and does not illuminate anything about a possible lead-to-gold transformation process of any degree or any different efficiency.
+    
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
