@@ -4342,6 +4342,14 @@ And tbrady's website: http://timbrady.org/research.html
 
      so if we're seeing a downstream effect, then the "novel psychologicla interventions" would probably work in aggregate but come with a lot of noise.
 
+** mental crutch
+
+   in a complex operation, like reading a dense text with many abstract relationships, over-reliance on mental crutches will probably give adequate surface comprehension (i.e. all words are properly decoded into the correct concepts) but it's likely the use of crutches imposes a significant cost.
+
+   the most obvious cost is retrieval time. in an extreme case, if retrieval time is 3 seconds, then the reader without crutches has 3 seconds to muse over the same concept. all equal, there is benefit there.
+
+   the true difference is probably both more subtle and more profound. if a flash of insight relies on coactivation of crucial concepts, then the mental crutch mediated pathway will basically block off that possibility!
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
