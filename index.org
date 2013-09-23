@@ -4026,7 +4026,7 @@ Travers. "Time Required to Switch At-
 
 [fn:underwood1965] Underwood, B.J. False recognition produced by implicit verbal responses. J. Exp. Psychol. 70, 122−129 (1965).
 
-***** true recognition-related sensory reactivation of 
+***** true recognition-related sensory reactivation
 
       true recognition-related sensory reactivation of the same cortical
       regions involved in processing stimulus materials during encoding,
@@ -4038,13 +4038,13 @@ Travers. "Time Required to Switch At-
 
 [fn:nybergetal2001] Nyberg, L. et al. Reactivation of motor brain areas during explicit memory for actions. Neuroimage 14, 521−528 (2001).
 
-[fn:wheeleretal2003] Wheeler, M.E. & Buckner, R.L. Functional dissociation among components of remembering: control, perceived oldness, and content. J. Neurosci. 23, 3869−3880 (2003).
+[fn:wheeleretal2003] Wheeler, M.E. & Buckner, R.L. Functional dissociation among components of remembering: control, perceived oldness, and content. J. Neurosci. 23, 3869−3880 (2003). http://www.jneurosci.org/content/23/9/3869
 
-[fn:wheeleretal2000] Wheeler, M.E., Petersen, S.E. & Buckner, R.L. Memory's echo: vivid remembering reactivates sensory-specific cortex. Proc. Natl. Acad. Sci. USA 97, 11125−11129 (2000).
+[fn:wheeleretal2000] Wheeler, M.E., Petersen, S.E. & Buckner, R.L. Memory's echo: vivid remembering reactivates sensory-specific cortex. Proc. Natl. Acad. Sci. USA 97, 11125−11129 (2000). http://www.pnas.org/content/97/20/11125.full
 
-[fn:vaidyaetal2002] Vaidya, C.J., Zhao, M., Desmond, J.E. & Gabrieli, J.D.E. Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 40, 2136−2143 (2002).PubMed | ISI |
+[fn:vaidyaetal2002] Vaidya, C.J., Zhao, M., Desmond, J.E. & Gabrieli, J.D.E. Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 40, 2136−2143 (2002). http://www.sciencedirect.com/science/article/pii/S0028393202000532
 
-[fn:wheeleretal2004] Wheeler, M.E. & Buckner, R.L. Functional-anatomic correlates of remembering and knowing. Neuroimage 21, 1337−1349 (2004).
+[fn:wheeleretal2004] Wheeler, M.E. & Buckner, R.L. Functional-anatomic correlates of remembering and knowing. Neuroimage 21, 1337−1349 (2004). http://www.sciencedirect.com/science/article/pii/S1053811903007213
 
 
 **** findings
