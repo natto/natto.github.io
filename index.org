@@ -4004,6 +4004,162 @@ Travers. "Time Required to Switch At-
 
     So consequently this paper, regardless of the final test scores, is basically explainable with "gold in, gold out", and does not illuminate anything about a possible lead-to-gold transformation process of any degree or any different efficiency.
     
+*** A sensory signature that distinguishes true from false memories
+
+    Scott D Slotnick & Daniel L Schacter, Nat Neuro 2004
+
+**** background
+
+***** memories are prone to various distortions
+
+      [fn:schacteretal1999] [fn:roediger1996] [fn:bartlett1932]
+
+[fn:schacteretal1999] Schacter, D.L. The seven sins of memory. Insights from psychology and cognitive neuroscience. Am. Psychol. 54, 182−203 (1999).
+
+[fn:roediger1996] Roediger, H.L. Memory illusions. J. Mem. Lang. 35, 76−100 (1996).
+
+[fn:bartlett1932] Bartlett, F.C. Remembering: A Study in Experimental and Social Psychology (Cambridge Univ. Press, London, 1932).
+
+***** false recognition for objects or events
+
+      [fn:underwood1965]
+
+[fn:underwood1965] Underwood, B.J. False recognition produced by implicit verbal responses. J. Exp. Psychol. 70, 122−129 (1965).
+
+***** true recognition-related sensory reactivation of 
+
+      true recognition-related sensory reactivation of the same cortical
+      regions involved in processing stimulus materials during encoding,
+      including reactivation of motor processing regions during memory for
+      motor sequences [fn:nybergetal2001], reactivation of auditory processing
+      regions during memory for sounds [fn:nybergetal2001] [fn:wheeleretal2003] and
+      reactivation of visual processing regions during memory for pictorial
+      stimuli [fn:wheeleretal2003] [fn:wheeleretal2000] [fn:vaidyaetal2002] [fn:wheeleretal2004]
+
+[fn:nybergetal2001] Nyberg, L. et al. Reactivation of motor brain areas during explicit memory for actions. Neuroimage 14, 521−528 (2001).
+
+[fn:wheeleretal2003] Wheeler, M.E. & Buckner, R.L. Functional dissociation among components of remembering: control, perceived oldness, and content. J. Neurosci. 23, 3869−3880 (2003).
+
+[fn:wheeleretal2000] Wheeler, M.E., Petersen, S.E. & Buckner, R.L. Memory's echo: vivid remembering reactivates sensory-specific cortex. Proc. Natl. Acad. Sci. USA 97, 11125−11129 (2000).
+
+[fn:vaidyaetal2002] Vaidya, C.J., Zhao, M., Desmond, J.E. & Gabrieli, J.D.E. Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 40, 2136−2143 (2002).PubMed | ISI |
+
+[fn:wheeleretal2004] Wheeler, M.E. & Buckner, R.L. Functional-anatomic correlates of remembering and knowing. Neuroimage 21, 1337−1349 (2004).
+
+
+**** findings
+
+    late visual processing regions supported conscious recognition
+    (and were associated with both true and false recognition),
+    whereas early visual processing regions supported implicit memory
+    (and were preferentially associated with true recognition, as
+    compared to false recognition).
+
+    the previously reported true-greater-than-false activity assumed
+    to reflect sensory or contextual
+    memory [fn:schacteretal1996] [fn:cabezaetal2001] is largely
+    inaccessible to conscious recognition.
+
+    early visual processing regions (BA17, BA18) showed greater
+    activity during true recognition, as compared to false
+    recognition.
+
+
+    In addition to these critical regions, preferential true
+recognition-related activity was observed in prefrontal regions (BA10,
+BA46), parietal regions (BA7, BA40) and motor processing
+regions [fn:hensonetal2002]. The parietal finding replicated a
+previously reported effect of greater activity for true than for false
+recognition [fn:cabezaetal2001].
+
+
+[fn:schacteretal1996] Schacter, D.L. et al. Neuroanatomical correlates of veridical and illusory recognition memory: evidence from positron emission tomography. Neuron 17, 267−274 (1996).
+
+[fn:hensonetal2002] Henson, R.N.A., Shallice, T., Gorno-Tempini, M.L. & Dolan, R.J. Face repetition effects in implicit and explicit memory tests as measured by fMRI. Cereb. Cortex 12, 178−186 (2002).
+
+[fn:cabezaetal2001] Cabeza, R., Rao, S.M., Wagner, A.D., Mayer, A.R. & Schacter, D.L. Can medial temporal lobe regions distinguish true from false? An event-related functional MRI study of veridical and illusory recognition memory. Proc. Natl. Acad. Sci. USA 98, 4805−4810 (2001).
+
+In addition, false recognition was associated with insular cortex
+activity (BA13) and left temporal cortex activity (BA21, BA22, BA39),
+the latter finding being consistent with a previously reported
+temporal cortex false > true recognition effect [fn:cabezaetal2001].
+
+The commonly active regions parietal cortex were also distinct -- in
+left precuneus (BA7), the true recognition coordinates (-10, -69, 42)
+were 1.8 cm from the false recognition coordinates (-4, -54, 33),
+supporting the view that relatively more posterior medial parietal
+cortex is associated with veridical memory [fn:buckneretal1996], and
+in left BA40, the true recognition coordinates (-55, -33, 48) were 3.2
+cm from the false recognition coordinates (-55, -60, 30). These
+results are consistent with the possibility that distinct sub-regions
+within BA10, BA7 and BA40, may be preferentially associated with true
+and false recognition.
+
+[fn:buckneretal1996] Buckner, R.L., Raichle, M.E., Miezin, F.M. & Petersen, S.E. Functional anatomic studies of memory retrieval for auditory words. J. Neurosci. 16, 6219−6235 (1996).
+
+early visual regions are more active during true as compared to false
+recognition, whereas late visual regions are similarly active during
+true and false recognition. It is possible that late visual processing
+regions (BA19, BA37) contribute to the conscious experience of
+remembering, thus supporting "old" responses during both true and
+false recognition. This possibility is consistent with a recent
+finding that late visual processing regions are associated with
+"remember" responses (memory with specific details) but not "know"
+responses (memory without specific details) during old-new
+recognition [fn:wheeleretal2004].
+
+the hippocampus was, in fact, associated to some extent with both true
+and false recognition in the present study, consistent with previous
+results [fn:cabezaetal2001].
+
+true recognition and false recognition were similarly active in late
+visual processing regions (BA19, BA37), also in line with previous
+results [fn:wheeleretal2003] [fn:wheeleretal2000] [fn:vaidyaetal2002] [fn:wheeleretal2004].
+
+Of note, false > true recognition-related activity was greater in the
+left temporal cortex, including Wernicke's area (BA22); this language
+processing-related activity [fn:priceetal2000] may represent a
+previously reported bias toward verbal retrieval strategies associated
+with false memory, as compared to true
+memory [fn:schooleretal1986]. Of greatest importance, and in support
+of our sensory reactivation hypothesis, true > false
+recognition-related activity was observed in early visual processing
+regions (BA17, BA18).
+
+[fn:priceetal2000] Price, C.J. The anatomy of language: contributions from functional neuroimaging. J. Anat. 197, 335−359 (2000).
+
+[fn:schooleretal1986] Schooler, J.W., Gerhard, D. & Loftus, E.F. Qualities of the unreal. J. Exp. Psychol. Learn. Mem. Cogn. 12, 171−181 (1986).
+
+these findings suggest that activation within these early visual
+processing regions reflect a nonconscious or implicit form of memory
+retrieval.
+
+We propose that the old-hit and oldmiss-related increases in activity
+within these regions reflect the operation of a particular type of
+implicit memory: repetition priming [fn:tulvingetal1990].
+
+[fn:tulvingetal1990] Tulving, E. & Schacter, D.L. Priming and human memory systems. Science 247, 301−306 (1990).
+
+old item-related (i.e., priming-related) increases in activity have
+been reported during implicit memory tasks that have employed
+unfamiliar faces or novel objects as
+stimuli [fn:hensonetal2000] [fn:schacteretal1995] [fn:ueckeretal1997].
+
+novel object studies [fn:schacteretal1995] [fn:ueckeretal1997]
+
+[fn:hensonetal2000] Henson, R., Shallice, T. & Dolan, R. Neuroimaging evidence for dissociable forms of repetition priming. Science 287, 1269−1272 (2000).
+
+[fn:schacteretal1995] Schacter, D.L. et al. Brain regions associated with retrieval of structurally coherent visual information. Nature 376, 587−590 (1995).
+
+[fn:ueckeretal1997] Uecker, A. et al. Neuroanatomical correlates of implicit and explicit memory for structurally possible and impossible visual objects. Learn. Mem. 4, 337−355 (1997).
+
+It should also be noted that previous studies in which participants
+studied pictures of common objects have not reported early visual
+cortical reactivation during memory retrieval [fn:wheeleretal2003] [fn:wheeleretal2000] [fn:vaidyaetal2002] [fn:wheeleretal2004]. These
+findings are also consistent with our priming hypothesis, as those
+studies presented word cues during the test phase. This mismatch
+between study
+
 ** "brain training"
 
    Kawashima vs "Super Mario"! Should a game be serious in order to stimulate cognitive aptitudes?
