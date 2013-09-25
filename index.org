@@ -1092,7 +1092,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      how can we convince people that experts perform additions using an imaginary abacus rather than other usual direct ways?
      #+END_QUOTE
      
-*** Dynamic Spread of Happiness in a Large Social Network: Longitudinal Analysis Over 20 Years
+*** Dynamic Spread of Happiness in a Large Social Network: Longitudinal Analysis Over 20 Years :stub:
 
     J. H Fowler & Nicholas A Christakis
 
@@ -4549,6 +4549,1318 @@ And tbrady's website: http://timbrady.org/research.html
 
 [[file:probability-matching.org]]
 
+
+** priming
+
+*** Nonconscious Priming After 17 Years Invulnerable Implicit Memory :nonconscious:priming:
+
+    D. B. Mitchell
+
+  - [2011-09-26 11:52]
+
+word-fragment-completion priming revealed virtually no decline over a 1-week interval. Following suit, other researchers found preserved priming over 6 weeks (Mitchell & Brown, 1988), 3 months (Drummey & Newcombe, 1995), 48 weeks (Cave, 1997), 16 months (Sloman, Hayman, Ohta, Law, & Tulving, 1988), and 22 months (Maylor, 1998).
+
+  - [2011-09-26 11:54]
+
+Schacter, 1990). Specifically, because priming is preserved in amnesia, as well as for memories forgotten normally, it is now accepted as fact that the neurological systems serving implicit memory are separate from those involved in conscious recollection (Budson & Price, 2005; Roediger, Marsh, & Lee, 2002).
+
+  - [2011-09-26 12:02]
+
+Priming in perceptual tasks is theorized to be mediated by a perceptual representation system (Tulving & Schacter, 1990), and priming that is mediated by this system appears to be less affected by long retention intervals than is priming based on conceptual processes (Roediger & Geraci, 2005). Thus, picture-fragment identification - an unequivocally
+
+  - [2011-09-26 12:08]
+
+  Picture fragments corresponding to previously named pictures were identified at a mean rate of 56.0%, and new fragments were identified at a mean rate of 43.5%, t(11) 5 3.927, prep 5 .986, g 5 1.59. The control group--who had seen none of the stimuli previously-identified the two types of fragments at similar levels, 58.1% for targets and 56.5% for foils, t(20) 5 0.476.
+
+  - [2011-09-26 12:10]
+
+  This second control group was closer in age (32--51, M 5 42.8) to the longitudinal subjects than the first control group was, and their unprimed identification rate (45.1%) was closer as well (cf. 43.5%). Like the younger control group, they did not identify target fragments (49.4%) at a significantly higher rate than foils,
+
+  - [2011-09-26 12:13]
+
+As underscored by Roediger and Srinivas, anyone who has seen R.C. James's famous black-and-white scene once will forever see the camouflaged Dalmatian (see p. 18 in Roediger & Srinivas, 1993).
+
+** financial decision making
+
+*** The neural basis of financial risk taking
+    Camelia M Kuhnen
+
+  - [2011-09-29 13:14]
+
+  Nucleus accumbens activation preceded risky choices as well as risk-seeking mistakes, while anterior insula activation preceded riskless choices as well as risk-aversion mistakes.
+
+  excessive activation of these circuits may lead to investing mistakes.
+
+-----
+
+
+  - [2011-09-29 13:19]
+
+  Multiple regression of VOI data (hemodynamic lag = 4 s) verified that, after prior stock choice, gain outcomes were associated with increased NAcc and MPFC activation (all p values < 0.05; see Table S1 in the Supplemental Data available online).
+
+-----
+
+
+  - [2011-09-29 13:20]
+
+  In analyses of the market period, relative gain outcomes (i.e., larger difference between the outcome of the chosen versus unchosen stock) were also associated with MPFC activation at the small volume-corrected and global thresholds
+
+-----
+
+**** ROI table -- activation foci for choice outcome: contrast of gain vs. loss following stock choice
+
+talairach 
+| region       | z score |   x |   y |  z |
+|--------------+---------+-----+-----+----|
+| L MPFC       |    5.34 |  -3 |  56 |  4 |
+| L MPFC       |    5.47 |  -3 |  49 |  0 |
+| R OFC        |    3.89 |  22 |  36 | -8 |
+| R NAcc       |    6.41 |  11 |  12 | -3 |
+| L NAcc       |    5.82 | -13 |   8 | -4 |
+| L Ant. Cing  |    4.07 |  -1 |  -1 | 34 |
+| L Precuneus  |    4.71 |  -1 | -33 | 43 |
+| L Post. Cing |    5.11 |  -3 | -34 | 27 |
+
+  - [2011-09-29 13:23]
+
+  uncertainty correlated maximally and negatively with bilateral anterior cingulate foci, easily exceeding the global threshold (TC = +4 16, 45; Z = −5.37; TC = −4, 16, 45; Z = −6.99).
+
+-----
+
+
+  - [2011-09-29 13:24]
+
+  Further analysis of anticipatory activation extracted from these foci revealed that activation was not greatest with maximal uncertainty (i.e., uncertainty = 0.5, corresponding to minimal information about which stock to choose), but rather with maximal conflict (i.e., uncertainty = 0.3, corresponding to minimal information about whether to choose the stock or the bond).
+
+-----
+
+
+  - [2011-09-29 13:24]
+
+  Additionally, anterior cingulate anticipatory activation robustly predicted subjects' subsequent reaction time [t(3718) = 7.92, R2 = 0.15 in a linear regression model that included subject fixed effects]. Thus, anticipatory anterior cingulate activation correlated most robustly not with uncertainty, which was greatest when it was unclear which stock to choose, but rather with conflict, which was greatest when it was unclear whether to choose a stock or the bond. However, anticipatory anterior cingulate activation did not correlate with subsequent choice
+
+-----
+
+
+  - [2011-09-29 13:25]
+
+  In prediction analyses, we included anticipatory NAcc, MPFC, and anterior insula activation (lag = 4 s) in logistic regression models of subsequent choice, after incorporating relevant behavioral variables
+
+-----
+
+
+  - [2011-09-29 13:25]
+
+  Adding activation from control regions (i.e., bilateral anterior cingulate, orbitofrontal cortex, medial caudate, and amygdala) did not increase explanatory power, and so, data from these regions were not included in subsequent prediction analyses.
+
+-----
+
+
+  - [2011-09-29 13:26]
+
+  Logistic regressions indicated that anticipatory NAcc and anterior insula activation were correlated with subsequent choice and that these associations critically depended upon prior choice. For all choices, anticipatory NAcc activation increased the likelihood of choosing a stock only when the prior choice was a bond (a 0.1% increase in NAcc activation led to a 0.06% increase in the odds of choosing a stock; p < 0.05). When the prior choice was a stock, anticipatory anterior insula activation increased the likelihood of choosing the bond (a 0.1% increase in anterior insula activation led to a 0.08% increase in the odds of choosing a bond; p < 0.05; see Table 3 and Figure 3). MPFC activation did not correlate with subsequent choice. Thus, high NAcc activation preceded switching to risk-seeking choices, while high anterior insula activation preceded switching to risk-averse choices.
+
+-----
+
+**** ROI -- foci for market outcome: contrast of chosen stock vs. unchosen stock value
+
+talairach
+
+| region      | z score |   x |  y |  z |
+|-------------+---------+-----+----+----|
+| L MFC       |    3.93 |  -3 | 56 |  8 |
+| L MPFC      |    4.26 |  -3 | 49 | -5 |
+| L Caudate   |    4.46 |  -7 | 19 |  8 |
+| R Caudate   |    4.59 |   7 | 19 |  8 |
+| L Putamen   |    4.14 | -20 |  9 | -2 |
+| DM Thalamus |    5.00 |  -1 | -7 | 12 |
+
+
+  - [2011-09-29 13:31]
+
+  While NAcc activation preceded both risky choices and risk-seeking mistakes, anterior insula activation preceded both riskless choices and risk-aversion mistakes. These findings are consistent with the hypothesis that NAcc represents gain prediction (Knutson et al., 2001), while anterior insula represents loss prediction (Paulus et al., 2003)
+
+-----
+
+
+  - [2011-09-29 13:32]
+
+  a behavioral switching account predicts that NAcc activation will increase prior to any switch from a repeated behavior to a novel behavior (Robbins et al., 1986).
+
+-----
+
+
+  - [2011-09-29 13:33]
+
+  While the influence of the NAcc in biasing choice was most pronounced when subjects switched from risk-averse to risk-seeking choices, NAcc activation did not predict switches in the opposite direction (from risk-seeking to risk-averse choices). The same arguments apply in reverse to the anterior insula predicting risk-averse choices.
+
+-----
+
+
+  - [2011-09-29 13:36]
+
+  experts and nonexperts who differed in terms of prior coursework in finance and statistics did not significantly differ in behavior in this experiment
+
+-----
+
+
+  - [2011-09-29 13:38]
+
+  A 2 (expert versus nonexpert-between) × 20 (block-within) analysis of variance revealed a main effect of block [F(19,323) = 2.35, p < 0.005], indicating that subjects chose the bond more often as the experiment progressed. However, experts and nonexperts did not significantly differ in choice of stocks versus bonds, either overall (54% ± 6% versus 53% ± 6%) or across blocks.
+
+-----
+
+
+  - [2011-09-29 13:43]
+
+  Thresholds for statistical significance within the predicted volumes of interest (i.e., NAcc, anterior insula, and MPFC) were determined by a local small volume correction (3 4 mm radius spheres or 12.56 4 mm3 voxels corrected at p < 0.05 yields a threshold Z of 2.88, p < 0.004, uncorrected) and required a minimum cluster of four contiguous voxels. Thresholds for statistical significance outside the predicted volumes of interest were set using a global family-wise error rate that corrected for gray matter volume in subcortical and mesial prefrontal cortical regions (approximately 500 4 mm3 voxels corrected at p < 0.05 yields a threshold Z of 3.88, p < 0.0001, uncorrected; Knutson et al., 2000) and required a minimum cluster of four contiguous voxels.
+
+-----
+
+
+  - [2011-09-29 13:44]
+
+  As indicated by behavioral analyses, all fMRI analyses included covariate regressors representing cumulative earnings (defined as current wealth earned during the task, updated at each outcome period) and uncertainty (updated at each market period).
+
+-----
+
+
+  - [2011-09-29 13:45]
+
+  Volumes of interest (VOIs) were specified as 8 mm diameter spheres centered on foci identified in the outcome analysis in the NAcc, MPFC, and insula (see Table 1), thereby ensuring that equal amounts of data were extracted for each subject in each region. Visual inspection confirmed that VOIs encompassed only gray matter for each individual subject (Knutson et al., 2004). Additional control volumes of interest of the same size and shape were specified in the bilateral anterior cingulate at foci correlated with uncertainty (TC = ±4, 16, 45), in the bilateral orbitofrontal cortex at foci correlated with outcome (TC = ±26, 36, −8), and in the bilateral amygdala (TC = ±22, −10, −26), and bilateral medial caudate (TC = ±10, 7, 10), based on the Talairach atlas, in order to verify local specificity of predicted effects.
+
+-----
+
+
+  - [2011-09-29 13:46]
+
+  Individual differences analyses were conducted by first using logistic regressions to determine whether subject fixed effects alone had a significant influence on VOI activation during anticipation. Given sufficient variability across subjects in activation during anticipation (e.g., fixed effects were significant in over 25% of the subjects), logistic regressions were conducted that examined the effects of individual differences in average VOI activation during anticipation on the frequency of choosing the stock versus the bond, as well as on the frequency of making risk-seeking or risk-aversion mistakes.
+
+-----
+
+
+
+
+** choice
+
+*** Anticipatory affect - neural correlates and consequences for choice
+
+    Brian Knutson
+    
+  - [2012-04-11 15:55]
+
+  Speciﬁcally, an activation likelihood estimate meta-analysis of cued response studies indicates that nucleus accumbens (NAcc) activation increases during gain anticipation relative to loss anticipation, while anterior insula activation increases during both loss and gain anticipation. Additionally, anticipatory NAcc activation correlates with self-reported positive arousal, whereas anterior insula activation correlates with both self-reported negative and positive arousal. Finally, NAcc activation precedes the purchase of desirable products and choice of high-risk gambles, whereas anterior insula activation precedes the rejection of overpriced products and choice of low-risk gambles. Together, these ﬁndings support a neurally plausible framework for understanding how anticipatory affect can influence choice.
+
+-----
+
+
+
+
+** face perception
+
+*** Unconscious affective reactions to masked happy versus angry faces influence consumption behavior an
+
+    Piotr Winkielman
+
+  - [2011-09-28 13:56]
+
+  perception of beverage value (Study 2), and reports of conscious feelings (both studies). Consistent with incentive motivation theory, the impact of affective primes on beverage value and consumption was strongest for thirsty participants. Subliminal smiles caused thirsty participants to pour and consume more beverage (Study 1) and increased their willingness to pay and their wanting more beverage (Study 2). Subliminal frowns had the opposite effect. No feeling changes were observed, even in thirsty participants.
+
+-----
+
+  - [2011-09-28 18:34]
+
+  Niedenthal (1990) documented that subliminal expressions influenced preference ratings for cartoon drawings. Murphy and Zajonc (1993) exposed participants to subliminal or supraliminal expressions that varied in either valence (happy vs. angry) or gender (male vs. female). Under subliminal presentations, valence of the expression influenced judgments of subsequent ideographs, but under supraliminal presentations only gender information influenced judgments.
+
+-----
+
+  - [2011-09-28 18:35]
+
+  preceded by angry than happy faces, but only after subliminal, not supraliminal, presentations. Neuroimaging studies suggest that subliminal angry and fearful faces activate the amygdala and related limbic structures, presumably via a direct pathway from the visual thalamus to the amygdala (Morris, Öhman, & Dolan, 1999; Whalen et al., 1998). Interestingly, supraliminal expressions activate limbic structures more under implicit processing conditions, when participants classify faces on gender, rather than explicit processing conditions, when participants classify faces on expression (Critchley et al., 2000).
+
+-----
+
+  - [2011-09-28 18:37]
+
+  subliminal cognitive stimuli can influence relatively complex behaviors, such as selection of a game strategy (Neuberg, 1988) or decision to interrupt a conversation (Bargh, Chen, & Burrows, 1996).
+
+-----
+
+  - [2011-09-28 18:39]
+
+  modern theories combine affect and motivation in the same explanatory framework (Toates, 1986). Motivational states, such as thirst, are still important, but they work by directly influencing affective and motivational responses to the relevant features of the stimulus. This influence can be observed in a phenomenon known as alliesthesia-change in incentive value as a function of a relevant motivational state (Cabanac, 1971). For example, people perceive taste of water more favorably and want it more when they are thirsty, but not when they are hungry (Rolls, Rolls, & Rowe, 1983).
+
+-----
+
+  - [2011-09-28 18:41]
+
+  An unconscious affect, in the stronger sense, would be a reaction caused by valenced stimuli and with valenced behavioral consequences, which nonetheless is not subjectively felt, even upon introspection.
+
+-----
+
+  - [2011-09-28 18:42]
+
+  study that found modulation of participants' preference ratings by subliminal happy or angry expressions (Winkielman, Zajonc, & Schwarz, 1997).
+
+-----
+
+  - [2011-09-28 18:44]
+
+  The PANAS scale has good reliability, is sensitive to changes over time, and is considered one of the best measures of current mood (Watson, Clark, & Tellegen, 1988).
+
+-----
+
+  - [2011-09-29 11:18]
+
+  Each trial started with a forward mask (50-ms cross), followed by a subliminal prime (16-ms expression), which was immediately replaced by a backward mask (400-ms neutral male or female face).
+
+-----
+
+  - [2011-09-29 11:19]
+
+  We chose eight trials per each priming sequence because this number of subliminal expressions appears sufficient for a transient activation of the low-level affective circuitry, whereas more trials lead to habituation (Whalen et al., 1998).
+
+-----
+
+  - [2011-09-29 12:15]
+
+At the high thirst level (1 SD above the sample mean for thirst), pouring increased as a function of priming, going up 21 ml between angry (37 ml), neutral (58 ml), and happy (79 ml) primes, B = 21.31, t(34) = 3.53, p < .01.
+
+-----
+
+  - [2011-09-29 12:15]
+
+In summary, thirsty participants poured more than twice the amount of the beverage after happy primes than angry primes, but priming did not influence pouring of nonthirsty participants.
+
+
+-----
+
+  - [2011-09-29 12:30]
+
+  we found that the strongest priming effect required high thirst
+
+-----
+
+  - [2011-09-29 12:33]
+
+  Test of simple effects revealed that participants who rated the beverage first were willing to pay 37 cents after happy primes and 19 cents after angry primes, F(1, 28) = 4.72, p < .04. For participants who rated mood first, priming had no influence on willingness to pay (33 vs. 34 cents, p = .44). In short, affective priming nearly doubled the drink's monetary value, but this effect was short-lived and only occurred when participants responded immediately after priming.
+
+-----
+
+  - [2011-09-29 12:39]
+
+  Thus, we propose a model of the current results according to which subliminal affective primes act via mechanisms that normally modulate the incentive value of targets under relevant appetite states. Specifically, we propose that thirst enhanced the initial incentive value of the drink via physiological alliesthesia, as reflected in thirsty participants' higher baseline ratings of the drink (Cabanac, 1971). This elevated baseline value was then transiently multiplied up or down by subliminal happy and angry expressions.
+
+-----
+
+  - [2011-09-29 12:41]
+
+  Thus, our studies replicate earlier demonstrations of implicit affective perception and contribute the novel demonstration of implicit affective reaction, which can influence behavior without being consciously accessible.
+
+-----
+
+  - [2011-09-29 12:45]
+
+  in Study 2, significant effects occurred only in ratings related to the beverage's incentive value (willingness to pay and wanting for more) and not in other applicable ratings (sweetness, deliciousness).
+
+-----
+
+*** First impressions making up your mind after a 100-ms exposure to a face
+
+    Janine Willis
+
+#+begin_quote
+Judgments made after a 100-ms exposure correlated highly with judgments made in the absence of time constraints, suggesting that this exposure time was sufficient for participants to form an impression
+#+end_quote
+
+#+begin_quote
+we have argued that trait inferences from faces can be characterized as fast, intuitive, unreflective System 1 processes that contrast with slow, effortful, and deliberate System 2 processes (Todorov et al., 2005)
+#+end_quote
+
+highest correlations for judgments of trustworthiness
+
+#+begin_quote
+The difference in the explained variance suggests that judgments made after 100-ms exposure were more correlated than judgments made after 500-ms exposure
+#+end_quote
+
+
+*** Facial resemblance increases the attractiveness of same-sex faces more than other-sex faces
+
+    L. M. DeBruine
+    
+  - [2012-04-17 16:46]
+
+  Each participant's preference for self-resemblance was computed as the difference between the above-described attractiveness scores (i.e. own-preference minus other-preference). If participants judged their own transforms on the same criteria that others judged those faces, this difference score should average zero.
+Difference scores greater than zero will support the prediction that
+self-resemblance positively affects judgements of attractiveness.
+
+-----
+
+  - [2012-04-17 16:49]
+
+  both men and women preferred self-resembling transforms over non-self transforms to a greater extent with same-sex faces than with other-sex faces.
+
+-----
+
+  - [2012-04-17 16:51]
+
+  Both male and female participants chose male and female composites as the more average or typical face in a pair more often than chance (all p < 0:01), demonstrating that they could indeed detect averageness. Participants also chose composite faces and more often than they chose selftransforms (F 1, 76 ¼ 8:0, p ¼ 0:006).
+
+-----
+
+
+
+*** A longitudinal study of adolescents' judgments of the attractiveness of facial symmetry, averageness and sexual dimorphism
+
+  - [2012-04-17 17:10]
+
+  Consistent with previous findings, we find that adolescents (often particularly females) judged faces with increased averageness, symmetry and femininity to be more attractive than original, asymmetric and masculine faces, respectively.
+  
+However, we do not find longitudinal changes in face preference judgments across the course of a year, leading us to question the extent to which some of the previously reported differences in facial attractiveness judgments between younger and older adolescents were due to age-linked changes.
+
+-----
+
+  - [2012-04-17 17:31]
+
+  Here, asymmetric and symmetric versions of six images from each of the four age and sex categories were manufactured by adding or substracting 50% of the shape differences between orginal and perfectly symmetric versions of an individual to the original face images.
+
+-----
+
+  - [2012-04-17 17:34]
+
+  facial stimuli comprised 72 pairs of faces from 24 Caucasian individuals aged 11-15. Twenty-four pairs consisted of one face that had been manipulated to increase symmetry paired with one face manipulated to decrease symmetry. Twenty-four pairs consisted of one face manipulated to increase averageness paired with one original (i.e. less average) face. Twenty-four pairs consisted of one face manipulated to increase femininity paired with one face manipulated to increase masculinity. Within each of these groups of 24 pairs, half were female; half were aged 11-13 and half were aged 13--15.
+
+-----
+
+  - [2012-04-17 17:36]
+
+replicated findings that adolescents prefer facial symmetry, averageness and femininity
+
+-----
+
+  - [2012-04-17 17:41]
+
+  More masculine male and more feminine female adolescent faces are perceived as more healthy (RHODES et al. 2003). Facial symmetry is associated with greater perceived honesty (ZEBROWITZ, VOINESCU and COLLINS 1996), and both facial symmetry and facial averageness are positively related to perceived intelligence (ZEBROWITZ et al. 2002) and perceived health (RHODES et al. 2001b).
+
+-----
+
+  - [2012-04-17 17:43]
+
+  findings of LITTLE et al. (2010), who found in a cross-sectional design that female preference for male facial masculinity increased significantly as females reached approximate reproductive age (i.e. from 15-25).
+
+-----
+
+  - [2012-04-17 17:55]
+
+  Research has shown that preference differences in adults can be traced back retrospectively to differences in adolescent pubertal development: individuals who first experienced coitus at a younger age are those who have stronger preferences for opposite-sex facial sexual dimorphism (CORNWELL et al. 2006), and age at menarche has been found to be negatively associated with women's preferences for masculinised voices in adulthood (JONES et al. 2010).
+
+-----
+
+
+
+*** Relative faces - Encoding of family resemblance relative to gender means in face space
+
+    H. J. Griffin
+    
+  - [2012-01-09 15:49]
+
+  In face space, the identity trajectory of a face is the line that extends through that face from the mean. Faces on this trajectory have speciﬁc perceptual relationships to the original face. Faces between the mean (identity strength = 0) and the original face (identity strength = +1) are attenuated
+
+-----
+
+  - [2012-01-09 15:50]
+
+  (anti-caricatured) versions of the original face. Faces beyond the original face (identity strength 9 +1) are exaggerations (caricatures) of the original face. Projecting the original face through the mean generates an anti-face (identity strength = j1), which is perceptually opposite to the original face.
+  
+The face space model has provided explanations for why observers are faster at recognizing distinctive than typical faces but slower at classifying them in a face/non-face task (Johnston, Milne, & Williams, 1997). Groups of faces with different characteristics are thought to form distinct clusters in face space. This clustering has been used to explain the other-race effect (also known as the own-race bias or cross-race effect), that is, faces from the observer's own race are recognized more accurately than those from another race (Byatt & Rhodes, 2004; Chance, Turner, & Goldstein, 1982).
+
+-----
+
+
+
+*** Understanding evaluation of faces on social dimensions
+
+  - [2012-04-12 20:40]
+
+  According to this model, when speciﬁc decision context is not provided (Box 5), faces are automatically evaluated along the dimensions of valence/trustworthiness and power/dominance. These dimensions deﬁne a 2D space within which speciﬁc social judgments can be represented [20]. The facial cues used for face evaluation along these dimensions indicate that evaluation of emotionally neutral faces is an overgeneralization of adaptive mechanisms for inferring emotional states with their corresponding behavioral intentions and the ability to implement these intentions.
+
+-----
+
+
+*** Oxytocin shapes the neural circuitry of trust and trust adaptation in humans
+
+    Thomas Baumgartner
+
+  - [2012-04-17 19:26]
+
+  OT's effect on trust was not due to a general increase in the readiness to bear risks. Instead, OT speciﬁcally affected individuals' willingness to take social risks arising through interpersonal interactions.
+
+-----
+
+  - [2012-04-17 19:30]
+
+  OT has been shown to increase trust but not nonsocial risk taking, suggesting the conjecture that OT reduces the special fears that are associated with social betrayal (Kosfeld et al., 2005).
+
+-----
+
+  - [2012-04-17 19:33]
+
+  during the processing of fearful stimuli, subjects receiving OT have reduced amygdala activation and reduced connectivity of the amygdala with brainstem regions involved in automatic fear re-activity (Domes et al., 2007a; Kirsch et al., 2005).
+
+-----
+
+  - [2012-04-17 19:36]
+
+  the striatum could play a role in our experiment; it is thought to be part of a neural circuit that guides and adjusts future behavior on the basis of reward feedback (O'Doherty et al., 2004; Tricomi et al., 2004).
+
+-----
+
+  - [2012-04-17 19:37]
+
+  Over time, as the partner's response became more predictable, the activity in the dorsal striatum decreased in this game (King-Casas et al., 2005).
+
+-----
+
+  - [2012-04-17 19:38]
+
+  prior social and moral information can diminish reliance on brain structures such as the dorsal striatum that are important for behavioral adaptations to feedback information.
+
+-----
+
+  - [2012-04-17 19:41]
+
+  Subjects receiving the placebo decreased their trusting behavior after they were informed that their interaction partner did not pay back in about 50% of the cases, whereas subjects receiving OT demonstrated no change in their trusting behavior in the postfeedback phase (see Figure 3 and see Table S1 available online) despite having received the same information. In the risk game, however, both groups showed no behavioral adaptation to the feedback information. Thus, it seems that OT only affects the behavioral adaptation to the feedback information if social risks are involved, but not if nonsocial risks are involved.
+
+-----
+
+  - [2012-04-17 19:52]
+
+  For all brain regions showing differing group activation either prefeedback or postfeedback (see Tables 1 and 2), we created combined functional and structural (based on the anatomic atlas by Tzourio-Mazoyer et al. [2002]) ROIs and calculated repeated-measures ANOVAs using participants' beta weights
+
+-----
+
+  - [2012-04-17 19:54]
+
+  Subjects in the OT group need signiﬁcantly less time to make a trusting decision, consistent with the view that it is easier for them to overcome the trust-inhibiting force of betrayal aversion.
+
+-----
+
+  - [2012-04-17 19:55]
+
+  the dorsal ACC is the only brain region showing increased activation in the placebo compared to the OT group during the prefeedback periods of the trust game which strengthens our interpretation of the behavioral ﬁnding (of exploration).
+
+-----
+
+  - [2012-04-17 19:57]
+
+  these ﬁndings are consistent with the view that OT reduces fear responses during the trust game by reducing activation in the amygdala and connected brainstem effector sites, which in turn enhances subjects' ability to trust in situations characterized by the risk of betrayal.
+
+-----
+
+  - [2012-04-17 19:58]
+
+  caudate activation is reduced as learning progresses and rewards can be more reliably predicted.
+
+-----
+
+  - [2012-04-17 19:59]
+
+  subjects with OT behave as if they implicitly ''know'' that they can trust their partners, and this may be the reason why the brain structure that is critical for learning the contingency between actions and outcomes -- the caudate nucleus -- shows diminished activation.
+
+-----
+
+  - [2012-04-17 20:05]
+
+  ROIs for amygdala and striatum were deﬁned by a combined functional and anatomical criterion by selecting all voxels in the anatomical brain regions (according to the anatomical atlas of Tzourio-Mazoyer et al. [2002]) that were signiﬁcantly (p < 0.01) activated in the corresponding serial subtraction term (please see Table 2). In addition, we created functional ROIs for all other brain regions by selecting all voxels that were signiﬁcantly activated at p < 0.005 in the corresponding serial subtraction terms (please see Tables 1 and 2). Using these ROIs and the software package SPSS (version 13), we conducted repeated-measures ANOVAs using participants' mean beta weights to further investigate lateralization patterns and time effects. In addition, we calculated repeated-measures and univariate ANOVAs to control for potentially confounding variables that we used in the analysis of investors' choices and response times.
+
+-----
+
+
+*** Personally familiar faces are perceived categorically in face-selective regions other than the fusiform
+
+    Meike Ramon
+    
+  - [2012-06-12 11:18]
+
+  It has been claimed that neural populations within this region are sensitive to subtle differences between individual faces only when they are perceived as distinct identities [P. Rotshtein et al. (2005) Nature Neuroscience, 8, 107--113].
+
+-----
+
+  - [2012-06-12 11:19]
+
+  no evidence for categorical perception within the FFA, which exhibited reliable sensitivity to subtle changes of face identity whether these were perceived as distinct identities, or not. On the contrary, both the posterior superior temporal sulcus and prefrontal cortex exhibited categorical perception, as subtle changes between faces perceived as different identities yielded larger release from adaptation than those perceived as the same identity. These observations suggest that, whereas the FFA discriminates subtle physical changes of personally familiar faces, other regions encode faces in a categorical fashion
+
+-----
+
+  - [2012-06-12 11:35]
+
+  Using morph continua between unfamiliar, real faces, Gilaie-Dotan & Malach (2007) parametrically varied the difference in perceived identity between consecutively presented faces. Faces that differed with respect to as little as 30% of identity information were reported to elicit full release from adaptation. The earlier results of Loffler et al. (2005) with morphed synthetic faces organized around an average face also suggest that subtle changes of facial identity are sufﬁcient to elicit release from adaptation in the FFA, thereby providing converging evidence of the FFA's sensitivity to subtle changes between individual faces in general.
+
+-----
+
+  - [2012-06-12 12:02]
+
+  In STS, we found that only between category changes elicited a signal increase; within category changes were associated with signal changes similar to those associated with stimulus repetition. In the left PrG, both types of physical changes (within, between) led to equivalent signal changes, which were elevated as compared with that associated with stimulus repetition (same).
+
+-----
+
+  - [2012-06-12 12:07]
+
+  We found that the FFA was sensitive to subtle changes of facial identity of personally familiar faces, irrespective of whether the face stimuli were located on the same or opposite side of a categorical boundary.
+
+-----
+
+  - [2012-06-12 12:09]
+
+  although face familiarity modulates the response to faces in the FFA (e.g. Gobbini et al., 2004; Rossion et al., 2003; for a review see Gobbini & Haxby, 2007), categorical perception in the FFA is not modulated by familiarity, as supported by an increasing body of evidence.
+
+-----
+
+  - [2012-06-12 12:10]
+
+  Goh et al. (2009) find that in the realm of target tasks, repetition suppression is greater than in discrimination tasks.
+
+-----
+
+  - [2012-06-12 12:12]
+
+  Winston et al. (2004) showed repetition suppression for identity in the FFA and right STS, although the effect was modulated by expression repetition in the latter region. Fox et al. (2009) also found sensitivity to identity and expression in both the FFA and posterior STS, with the latter being dependent on the subjects' attention to expression. Thus, it appears that there is evidence for a role of the posterior STS in face identity processing.
+
+-----
+
+  - [2012-06-12 12:16]
+
+  in both humans and primates, similar patterns of up to six distinct face-selective regions can be identiﬁed using both familiar and unfamiliar face stimuli (Tsao et al., 2008a). These include anterior regions of similar location to those found here for within category changes between faces. Both the anterior fusiform cluster and the one located within the medial inferior temporal gyrus may correspond to the anterior face patches AFP1 and AFP2 of Tsao et al. (2008b) identiﬁed in 9 and 2 of 13 human subjects, respectively. An anterior fusiform cluster has also been reported as showing a larger response to unfamiliar than familiar faces in a PET study with morphed faces (Rossion et al., 2001).
+
+-----
+
+*** important: face shape and OFA (occipital face area) (lack or presence)
+
+  - [2012-06-12 12:17]
+
+  In the present study, stimuli were cropped and then carefully selected (same eye color, overall luminosity) to create best matches, so the faces representing the extremes of morph continua were morphologically extremely similar (see Fig. 1). The relatively small degree of changes in properties to which neural populations in this region are predominantly tuned may explain the observed lack of release from adaptation in the OFA.
+
+-----
+
+
+
+
+** identity perception
+
+*** Self-awareness affects vision
+
+    Eric L Smith
+
+  - [2011-09-28 14:09]
+
+  recognition of mirrored self-faces was superior when self-awareness was internally directed, whereas recognition of un-mirrored self-faces was superior when self-awareness was socially directed.
+
+-----
+
+**** ROI table (self > unknown)
+
+TALAIRACH
+
+|                                            |   |     |     |     | n voxel |
+|--------------------------------------------+---+-----+-----+-----+---------|
+| anterior and mid-posterior insula          | R |  49 |  -3 |   4 |      50 |
+|                                            | R |  46 |  -3 |  -2 |      23 |
+| hippocampal region                         | R |  11 | -45 |   4 |       7 |
+|                                            | R |  12 | -36 |  -2 |       6 |
+| anterior cingulate                         | R |   3 |  36 |   4 |      12 |
+|                                            | R |   6 |  42 |  -2 |       8 |
+|                                            |   |   0 |   6 |  37 |      14 |
+| precuneus                                  | R |   6 | -64 |  20 |       9 |
+|                                            | R |   9 | -61 |  26 |       8 |
+| inferior frontal gyrus / DLPFC             | L | -38 |  31 |   4 |      11 |
+|                                            | L | -32 |  31 |  20 |      18 |
+| middle frontal gyrus                       | L | -26 |  31 |  37 |       9 |
+| superior termporal gyrus                   | L | -43 | -14 |   9 |      16 |
+| supramarginal gyrus/inferior parietal lobe | L | -49 | -42 |  31 |      11 |
+| lenticular/subthalamic nucleus             | R |  12 | -11 |  -2 |      23 |
+| cerebellum                                 | R |   9 | -47 | -18 |      18 |
+| fusiform gyrus                             | L | -20 | -83 | -13 |      34 |
+
+*** Mirror, mirror on the wall enhancement in self-recognition
+
+    Nicholas Epley
+  - [2011-10-03 11:52]
+
+  Participants next completed an implicit measure of self-worth (Spalding & Hardin, 1999) in which they were asked to classify words as positive or negative following subliminal (15 ms) presentations of self-relevant (me, myself) or self-irrelevant (two, manner) primes (see also Hetts, Sakuma, & Pelham, 1999). The extent to which self-relevant primes, compared to irrelevant primes,
+
+-----
+
+  - [2011-10-03 11:52]
+
+  speeds the identification of positive words and slows identification of negative words is taken as an index of implicit self-worth. Participants then completed the standard measure of explicit self-esteem -- the Rosenberg (1965) Self-Esteem scale -- and a second measure of implicit self-esteem -- the name-letter effect (Nuttin, 1985). Liking one's own initials more than different initials, compared to others with different initials, is taken as a measure of implicit self-esteem (see Baccus, Baldwin, & Packer, 2004, for a description of the scoring procedure).
+  
+We collected two measures of implicit self-esteem, because of a lack of an accepted standard, to collapse them into a more reliable composite measure of the underlying latent variable (Cunningham, Preacher, & Banaji, 2001).
+
+-----
+
+  - [2011-10-03 11:53]
+
+  participants' self-recognition was significantly correlated with the composite measure of implicit self-esteem, r(25) = .47, p = .01, but neither positively nor significantly correlated with explicit self-esteem, r(25) = --.26, p = .19. The stronger participants' automatic
+
+-----
+
+  - [2011-10-03 11:53]
+
+  positive associations to the self (indexed by implicit self-esteem) was, the more enhanced an image participants recognized as their own.
+
+-----
+
+  - [2011-10-03 11:54]
+
+  Participants indicated that the 20% attractive morph, for instance, was most likely to be their own (M = 65.93%, SD = 20.24),
+
+-----
+
+  - [2011-10-03 11:56]
+
+  Using participants' actual photograph rather than their mirror image does not seem to explain the results of Experiment 1.
+
+-----
+
+  - [2011-10-03 13:08]
+
+  Consistent with other existing research, participants tended to show evidence of enhancement when evaluating their close friends to the same extent as when evaluating themselves (Kenny & Kashy, 1994).
+
+-----
+
+  - [2011-10-03 13:08]
+
+  the relationship between implicit self-esteem and self-recognition clearly suggests that liking is playing a larger role in the effects observed in these experiments than simple familiarity (see also Note 1).
+
+-----
+
+  - [2011-10-03 13:09]
+
+  The self-recognition results from these experiments, and their relation to implicit measures of self-worth, suggest that implicitly disliked targets, for instance, should show evidence of derogation in recognition. Indeed, one recent experiment using a procedure nearly identical to Experiment 2 showed that people who tend to dislike themselves--namely, those with body
+
+-----
+
+  - [2011-10-03 13:10]
+
+  dysmorphic disorder--tend to recognize themselves as being less attractive than they actually are (Clerkin & Teachman, in press).
+
+-----
+
+  - [2011-10-03 13:11]
+
+  Participants recognized their attractive morph most quickly (M = 1,892.09 ms, SD = 442.53), their actual image more slowly (M = 2,068.44 ms, SD = 559.47), and their unattractive morph the most slowly (M = 2,133.12 ms, SD = 460.11).
+
+-----
+
+
+
+*** Morphing Marilyn into Maggie dissociates physical and identity face representations in the brain :morph:
+
+    Pia Rotshtein
+  - [2011-09-30 14:40]
+
+  IOG is sensitive to physical changes between face pairs, regardless of whether these changes cross an identity boundary.
+
+-----
+
+  - [2011-09-30 14:40]
+
+  Right FFG, by contrast, is primarily sensitive to changes that cross an identity boundary, even when the presence of physical change is controlled by comparing a 30% shift within one side of the identity boundary with a 30% shift that crosses it. Finally, anterior and medial temporal regions show effects of changed identity that depend systematically on individual differences in self-rated pre-experimental familiarity with the face set.
+
+-----
+
+  - [2011-09-30 14:47]
+
+  Bilateral IOG showed less activation when physical properties were repeated (Fig. 2a and Table 1a).
+
+-----
+
+  - [2011-09-30 14:49]
+
+  Thus, voxel-based group analysis and a separate functional region of interest (fROI) analysis both suggest that activity in inferior occipital cortex relates primarily to physical change and not to perceived identity. A 30% change along the morph continuum was treated as similar here regardless of its direction.
+
+-----
+
+  - [2011-09-30 14:49]
+
+  Right FFG showed less activation when identity was repeated (Fig. 2b and Table 1b).
+
+-----
+
+  - [2011-09-30 14:50]
+
+  Taken together, these findings suggest that there is a functional dissociation between posterior (occipital) and more anterior (fusiform) face-responsive regions. To test this formally, we carried out an analysis of variance (ANOVA) with region (independently defined OFA and FFA) and condition (within and between) as factors. This confirmed an interaction (F1,6 = 5.8, P = 0.05), owing to the between condition differing from the within condition for FFA but not for OFA.
+
+-----
+
+**** ROI Physical and identity change effects
+
+***** physical change effects: identical versus between plus within conditions
+
+| region | L/R | nvoxel | zscore |   x |   y |   z |
+|--------+-----+--------+--------+-----+-----+-----|
+| IOG    | R   |     11 |   3.72 |  42 | -69 | -18 |
+|        | L   |     12 |   3.68 | -45 | -78 | -15 |
+| IFG    | L   |     30 |   4.76 | -39 |  30 | -15 |
+| mOFC   | L   |      6 |   3.76 |  -9 |  42 | -21 |
+| SFG    | L   |      7 |   3.67 |  -9 |  45 |  48 |
+
+***** identity change effects: within plus identical versus between conditions
+
+| region | L/R | nvoxel | zscore |   x |   y |   z |
+|--------+-----+--------+--------+-----+-----+-----|
+| FFG    | R   |     41 |   4.35 |  45 | -57 | -24 |
+|        |     |      6 |   3.26 |  33 | -45 | -27 |
+| LOS    | R   |      8 |   3.39 |  33 | -87 |   0 |
+|        | L   |      5 |   3.35 | -36 | -90 |  -9 |
+|        |     |      8 |   3.28 | -36 | -78 |  -3 |
+| aSTS   | R   |     16 |   4.25 |  48 |  -6 | -21 |
+| IFG    | R   |     10 |   3.97 |  48 |  36 |   3 |
+|        | L   |      7 |   3.52 | -33 |  36 |  -3 |
+| IFS    | R   |     42 |   3.91 |  42 |  15 |  24 |
+
+**** ROI effects related to pre-experimental familiarity
+
+***** Familiarity and identity change effects: between versus within conditions
+
+| region                 | L/R | nvoxel | zscore |   x |   y |   z |
+|------------------------+-----+--------+--------+-----+-----+-----|
+| anterior temporal pole | L   |     26 |  5.27* | -45 |   0 | -39 |
+|                        | R   |      1 |   3.09 |  63 |  -6 | -33 |
+| anterior hippocampus   | R   |     34 |   4.14 |  24 | -12 | -27 |
+| SFG                    | L   |     28 |   4.16 |  -6 |  18 |  69 |
+
+***** Familiarity and physical change effects: within versus identical conditions
+
+| region           | nvoxel | zscore |  x |   y |  z |
+|------------------+--------+--------+----+-----+----|
+| Calcarine sulcus |     46 |   4.47 | 18 | -87 | 15 |
+| CG               |      8 |   3.77 | 12 |  18 | 48 |
+
+  - [2011-09-30 15:01]
+
+  We found less activity in IOG (and right OFA) when the physical
+properties of a face were repeated (identical) than when they were changed (within or between; Fig. 2a,c). This
+observation suggests that bilateral IOG and the right OFA are pri-
+marily sensitive to sensory attributes of faces, consistent with previ-
+ous suggestions that these regions have a role in relatively early face
+processing5,26. Self-rated pre-experimental familiarity had no affect
+on these brain areas (Table 2).
+
+-----
+
+  - [2011-09-30 15:03]
+
+  FFG may encode relatively invariant aspects of a face and provide a
+possible anatomical substrate for face recognition units27. These units
+are considered to provide codes of known faces that are matched to
+input from an earlier structural encoding phase to achieve recognition.
+Here we found that right FFG and FFA were differentially affected by
+changing or repeating identity, even while controlling for a shift along
+the morph continuum, consistent with a role for face recognition units.
+By contrast, we found no evidence that the effects of identity change in
+right FFG, unlike those in more anterior temporal regions, were modu-
+lated by the extent of self-rated pre-experimental familiarity with the
+famous faces.
+
+-----
+
+
+
+
+*** Recognizing one's own face
+
+    Tilo T.J Kircher
+
+  - [2011-09-28 14:39]
+
+  When subjects viewed themselves (minus activation for viewing an unknown face), increased blood oxygenation was detected in right limbic (hippocampal formation, insula, anterior cingulate), left prefrontal cortex and superior temporal cortex.
+
+-----
+
+
+  - [2011-09-28 14:43]
+
+  The fMRI data revealed a marked difference in activation for the self compared with the partner experiment (see Table 2). In the self versus novel condition, a large cortical and sub-cortical network was revealed. This included right limbic areas: hippocampal formation (Brodman area, BA 27/30), insula, anterior cingulate (BA 24/32), as well as left superior temporal (BA 42), left inferior parietal (BA 40) and left prefrontal cortex (BA 8/9 and 45/46; Fig. 2 row A). In contrast, there was relatively little activation in the partner versus novel condition which was
+
+-----
+
+  - [2011-09-28 14:45]
+
+   In summary, one's own face is not processed differently on a behavioural level when compared with another overlearned, emotionally salient face, the partner's. In two fMRI experiments, we demonstrated that recognition of the own face activated right limbic and left prefrontal regions, whereas recognition of the partner involved only the right insula.
+
+-----
+
+  - [2011-09-28 14:47]
+
+  We interpret the activation of the right limbic system in our study as a unique, strong emotional response to seeing our own face. This emotional response seems to be present both for morphed, as in our experiment, and for unmorphed faces (Preilowski, 1979). The left prefrontal cortex, which was only activated by self faces, is thought to have an important role in executive processes such as the integration of information to form a coherent `whole' from multi-modal inputs (Miller, 1992; Vandenberghe, Price, Wise, Josephs, & Frackowiak, 1996).
+
+-----
+
+
+
+
+
+
+*** Here I am the cortical correlates of visual self-recognition
+
+    Christel Devue
+
+  - [2011-09-28 14:15]
+
+  of the stimulus domain, i.e., regardless of whether a face or a body was processed. A comparison of the processing of self-related pictures with the processing of pictures related to another highly familiar person revealed an implication of the right anterior insula and of the right dorsal anterior cingulate.
+
+-----
+
+
+  - [2011-09-28 14:15]
+
+  findings of a recent study by Platek et al. (2005). They showed that this region is at play during processing of self facial resemblance. Since this region is also implicated during the processing of face familiarity or self-referent information, they suggested that this region might be generally involved when making decisions about self-referential information.
+
+-----
+
+
+  - [2011-09-28 14:16]
+
+  making decisions about self-referential information. Our findings are also consistent with Northoff and Bermpohl (2004)'s thesis that the cingulate gyrus could play a role in abstract self-processing, that is, independent of the stimulus domain or of the sensorial modality. The activity found in the right anterior insula is also in line with previous studies investigating different aspects of self-processing and indicating that this structure is implicated in self-agency (Farrer and Frith, 2002), autobiographical episodic memory retrieval (Fink et al., 1996) and self-face recognition or self-descriptive judgments (Kircher et al., 2000, 2001). The specific role of this structure remains to be investigated but present results as well as those of previous studies suggest that, like the anterior cingulate, the right anterior insula could play a general role in making decisions about oneself.
+
+-----
+
+
+  - [2011-09-28 14:24]
+
+  headless body). The fusiform gyrus could then perform a more detailed structural encoding of stimuli (i.e., here the different body parts) and give a first assessment of the seen person's familiarity (see Rossion et al., 2003) before further processing.
+
+-----
+
+
+  - [2011-09-28 14:24]
+
+  the anterior insula and the anterior cingulate cortex would permit to distinguish oneself from others and give rise to an abstract representation of oneself that could possibly participate in maintaining a sense of self.
+
+-----
+
+
+  - [2011-09-28 14:25]
+
+  this study showed that specific cortical regions, mainly the right frontal cortex and the insula, are implicated in visual self-recognition compared with visual processing of highly familiar and personally known persons. These results support the view (Keenan et al., 2000c, 2001; Platek et al., 2004a) that the right frontal cortex is preferentially recruited during self-recognition.
+
+-----
+
+
+  - [2011-09-28 14:29]
+
+  (40 occurrences) during the session. The participants were instructed to press a key with their index finger if the picture was intact and another key with their middle finger if the picture was altered. Performing such an 'intact-altered' judgment implied that participants had first to identify the owner of the face/body to be able to give their response. They were allowed 2000 ms to respond. The picture stimulus disappeared
+
+-----
+
+
+  - [2011-09-28 14:29]
+
+  control: The participants' task was to attend to this fixation cross and to report an infrequent color change (the cross was yellow in 12.5% of the cases) by pressing a key. This procedure was used to maintain the participants' attention while they passively viewed the stimuli of interest. 
+
+-----
+
+
+  - [2011-09-28 14:32]
+
+  Regarding the general self-processing, independently of the Stimulus domain, these regions concerned mainly the medial/right prefrontal cortex, the right anterior cingulate, the bilateral insula and the bilateral precuneus. As for self-face recognition, the a priori locations of interest were chosen from literature using contrasts as comparable to ours as possible (own face minus other highly familiar face and conversely for the reversed contrast). These regions concerned primarily the right inferior frontal cortex and the left fusiform gyrus.
+
+-----
+
+
+  - [2011-09-28 14:33]
+
+  4.6.1. General effect of self-processing
+Right/medial prefrontal cortex [10, 50, 20; 10, 53, 5] (Fossati et al., 2003; Kelley et al., 2002), right anterior cingulate gyrus [6, 35, 6] (Craik et al., 1999), anterior insula [−36, −2, 2; 40, 8, 3] (Farrer and Frith, 2002), precuneus [−4, − 56, 34; 6,−3, 36] (Kircher et al., 2000, 2002; Ruby and Decety, 2001), left inferior frontal gyrus [−39, 9, 16] (Craik et al., 1999; Kircher et al., 2002), left superior frontal gyrus [−11, 21, 59] (Ruby and Decety, 2001; Seger et al., 2004).
+
+-----
+
+
+  - [2011-09-28 14:33]
+
+  4.6.2. Effect of self-face recognition (self-face minus other familiar face processing)
+Right inferior frontal gyrus [45, 25, 14] (Platek et al., 2004a; Uddin et al., 2005a), left inferior frontal gyrus [−38, 25, 23] (Kircher et al., 2000), right superior frontal gyrus [26, 34, 34; 20, 16, 56] (Platek et al., 2006), right middle frontal gyrus [26, −12, 46] (Platek et al., 2006), right medial frontal gyrus [6, 48, −12] (Platek et al., 2006), left middle temporal gyrus [−52, 4, −16; −58,
+
+-----
+
+
+  - [2011-09-28 14:33]
+
+left fusiform gyrus [−14, −83, − 18] (Kircher et al., 2001), right inferior parietal lobule [50, −62, 40; 64, −24, 50; 42, −34, 38] (Platek et al., 2006; Uddin et al., 2005a).
+
+-----
+
+
+  - [2011-09-28 14:35]
+
+  The right frontal cortex and the insula Familiar face were found to be the main regions specifically implicated in visual self-recognition Functional magnetic resonance compared with visual processing of other highly familiar persons. Moreover, the right imagery anterior insula along with the right anterior cingulate seemed to play a role in the Self-processing integration of information about oneself independently of the stimulus domain.
+
+-----
+
+
+*** Steven M Platek -- Is family special to the brain_ An event-related fMRI study of familiar, familial, and self-face rec (455)
+  - [2011-10-03 23:52]
+
+  Thus far, the majority of the functional neuroimaging studies (fMRI and PET) report medial and right hemisphere substrate association with self-related processing (Craik, Caine, & Coltheart, 1999; Devue et al., 2007; Keenan, Wheeler, et al., 2000; Keenan, Wheeler, Platek, Lardi, & Lassonde, 2003; Platek, 2004; Platek et al., 2006; Sugiura et al., 2000, 2005) but see also (Kircher et al., 2000, 2001; Turk et al., 2002; Platek, Wathne, Tierney, & Thomson, 2008) when contrasting self-face with other types of facial stimuli.
+
+-----
+
+  - [2011-10-03 23:53]
+
+  Platek et al. (2006) contrasted fMRI response to self-face with famous and personally familiar faces, and found activation in the right superior frontal and medial frontal gyri (see also Devue et al., 2007; Sugiura et al., 2000, 2005).
+
+-----
+
+  - [2011-10-03 23:54]
+
+  We found activation in a right frontal parietal network that is consistent with the findings of Platek et al. (2006) and Uddin et al. (2005). Interestingly, activation to self-face is subject to localization changes depending upon the face used as a contrast face (e.g., unknown vs. friend vs. family member).
+
+-----
+
+  - [2011-10-03 23:54]
+
+  First, the degree of activation in regions of the face centres (FFA, fusiform face area/fusiform gyrus and inferior and middle occipital gyrus; e.g., Kanwisher, McDermott, & Chun, 1997) is reduced when viewing familiar faces. Second, amygdala activation is associated more often with novel face detection than familiar face detection (e.g., amygdala activation is attenuated when viewing familiar faces).
+
+-----
+
+  - [2011-10-03 23:55]
+
+  Gobbini and Haxby (2007) and Gobbini (2004, 2006) studied activation to faces of family members and friends and showed significant activation in anterior paracingulate gyrus, middle frontal gyrus, and fusiform gyrus, which have also been associated with activation to self-referential stimuli (e.g., Platek, 2004). Data also show that facial familiarity activates regions of the extended face-processing system (Gobbini & Haxby, 2007).
+
+-----
+
+  - [2011-10-03 23:55]
+
+  self-resembling morphed faces and have demonstrated consistent activation of medial cortical structures (Platek, Keenan, et al., 2004; Platek et al., 2005, 2009; Platek, Krill, & Kemp, 2008; Platek, Raines, et al., 2004).
+
+-----
+
+  - [2011-10-03 23:56]
+
+  We also conducted region of interest (ROI) analyses in three substrates of the extended face-processing network (Gobbini & Haxby, 2007) that have also been previously associated with processing facial resemblance (Platek, Keenan, et al., 2004; Platek et al., 2005; Platek, Raines, et al., 2004), familiar face recognition (Gobbini & Haxby, 2006; Hart et al., 2000; Schwarz et al., 2003) and/or self-face recognition (Devue et al., 2007; Sugiura et al., 2000, 2005; Uddin et al., 2005). These substrates were the anterior cingulate cortex, precuneus, and bilateral amygdala.
+
+-----
+
+  - [2011-10-03 23:59]
+
+  self > family contrast -- conscious identification of self/familiar/unknown Pairwise contrasts between self-face and family face revealed significant activation clusters in right superior parietal lobule, precuneus, supramarginal gyrus, left cingulate gyrus and left medial frontal gyrus.
+
+-----
+
+  - [2011-10-04 00:01]
+
+  Fig. 2. Activation maps for the contrasts (a) self-face vs. unknown face and (b) family face vs. unknown face showing similar activation in the right parietal lobe/temporal parietal junction. (c) Percent signal change in posterior parietal lobe is not different between the two contrasts suggesting that the two face classes activate this region similarly and that this may be a region specific to detection self-reference in facial stimuli (images rendered in neurological convention; right = right).
+
+-----
+
+  - [2011-10-04 00:01]
+
+  ROI analysis of the precuneus revealed increased activation to family and friend face (Fig. 4b). An ROI in bilateral amygdala showed a decrease in percent signal change to self-face (Fig. 4c and d) and increase in percent signal change to family face
+
+-----
+
+  - [2011-10-04 00:02]
+
+  There was a significant relationship between altruism ratings and right amygdala ROI when viewing the friend's face (r(11) = −0.580, p < 0.05, Fig. 5c). This showed that as altruism ratings moved in the direction of favoring friends, right amygdala activation increased.
+
+-----
+
+  - [2011-10-04 00:02]
+
+  This means that as ratings of feelings of closeness toward family increased, activation in left amygdala decreased to family faces (see Fig. 5 for further explana-
+
+-----
+
+  - [2011-10-04 00:02]
+
+  The posterior cingulate/precuneus has been implicated in episodic/autobiographical memory and thus this activation might represent a simple discrimination based on past experience with each of the individuals depicted, i.e., a facial identity (family/not family)
+
+-----
+
+  - [2011-10-04 00:08]
+
+  ACC responded greatest to self-morph and only moderately to sibling morph. On the other hand, the precuneus responded greatest to self-morph and sibling morph, relative to friend morph. Family morph activated bilateral amygdala, while left amygdala also showed activation to self-morph and friend morph (Fig. 7).
+
+-----
+
+  - [2011-10-04 00:09]
+
+  When a face shares characteristics that would be probabilistically associated with representations of kin (e.g., self-resembling) and cannot be otherwise identified, the brain needs to recruit anterior substrates, namely the anterior cingulate gyrus and medial frontal gyrus, to resolve the uncertainty about the degree of self-referent matching.
+
+-----
+
+  - [2011-10-04 00:10]
+
+  should investigate the role of this anterior--posterior network in generating differential behavioral responses toward kin and non-kin during actual social interaction.
+
+-----
+
+  - [2011-10-04 00:10]
+
+  the amygdala showed decreased activation to the undistorted self-face image
+
+-----
+
+  - [2011-10-04 00:11]
+
+  The ACC, precuneus, and left amygdala show corresponding activation to similar classes of stimuli; that is, activation to the sibling face and the 50% morph face are similar.
+
+-----
+
+**** ROI
+
+| Contrast                           | Substrate                            | Hemisphere |         | Coordinates |     |     |
+|------------------------------------+--------------------------------------+------------+---------+-------------+-----+-----|
+|                                    |                                      | L/R        | z-score |           x | y   |   z |
+| Main effect all faces vs. baseline | Fusiform                             | L          |    2.63 |         −16 | −70 | −16 |
+|                                    |                                      |            |         |             |     |     |
+| Self-face vs. sibling face         | Sup Par                              | L          |    3.19 |         −20 | −60 |  50 |
+|                                    | Precuneus                            | L          |    2.94 |          −8 | −68 |  50 |
+|                                    | Supramarginal gyrus                  | L          |     2.9 |         −44 | −52 |  36 |
+|                                    | Sup. frontal gyrus                   | R          |    3.26 |          22 | −4  |  44 |
+|                                    | Medial frontal gyrus                 | L          |    3.02 |           0 | −6  |  60 |
+|                                    |                                      |            |         |             |     |     |
+| Self-face vs. friend face          | ACC                                  | L          |    2.84 |          −2 | 38  |  12 |
+|                                    | ACC/paracingulate                    | R          |    2.62 |           8 | 38  |  34 |
+|                                    | Parahippocampal gyrus                | R          |     3.1 |          26 | −22 | −10 |
+|                                    | Sup. temporal gyrus                  | R          |    2.94 |          56 | −2  |  −8 |
+|                                    |                                      |            |         |             |     |     |
+| Self-face vs. distractor face      | Supramarginal gyrus                  | R          |    2.83 |          44 | −50 |  38 |
+|                                    | Middle frontal gyrus                 | R          |     2.8 |          28 | 28  |  36 |
+|                                    | Medial frontal gyrus                 | R          |    2.94 |           2 | 0   |  54 |
+|                                    |                                      |            |         |             |     |     |
+| Sibling face vs. self-face         | Insula                               | R          |    3.23 |         −38 | −10 |   8 |
+|                                    | Medial frontal gyrus                 | L          |    2.97 |          −1 | 50  |  34 |
+|                                    |                                      |            |         |             |     |     |
+| Sibling face vs. friend face       | Posterior cingulate                  | R/L        |    3.03 |          10 | −52 |  18 |
+|                                    |                                      |            |    2.73 |          −2 | −44 |  18 |
+|                                    | Cuneus                               | R/L        |     2.8 |           2 | −70 |  20 |
+|                                    |                                      |            |         |             |     |     |
+| Sibling face vs. distractor face   | Sup par                              | R          |    2.81 |          20 | −70 |  44 |
+|                                    | Supramarginal gyrus                  | R          |     3.1 |          44 | −54 |  36 |
+|                                    | Middle frontal gyrus                 | L          |    2.56 |         −24 | 32  |  26 |
+|                                    | Inferior frontal gyrus               | L          |    2.87 |         −34 | 34  |  14 |
+|                                    |                                      |            |         |             |     |     |
+| Friend face vs. self-face          | Parahippocampal gyrus/fusiform gyrus | R          |    2.88 |         −38 | −36 | −28 |
+|                                    |                                      |            |         |             |     |     |
+| Friend face vs. sibling face       | Precuneus                            | R          |    2.97 |           6 | −66 |  50 |
+|                                    |                                      |            |     3.3 |          20 | −72 |  44 |
+|                                    | Cingulate                            | L          |     2.6 |         −12 | −8  |  54 |
+|                                    |                                      |            |         |             |     |     |
+| Friend face vs. distractor face    | Parahippocampal gyrus                | R          |    2.61 |          38 | −20 | −22 |
+
+
+
+
+
+** honesty
+
+*** Honesty requires time (and lack of justifications)
+
+    Shalvi et al
+
+  - [2012-04-10 13:09]
+
+  Results of two experiments support our prediction, revealing that the dark side of people's automatic self-serving tendency may be overcome when time to decide is ample and private justifications for dishonesty are not available.
+
+-----
+
+*** Why Don't Moral People Act Morally? Motivational Considerations
+
+    C. Daniel Batson
+    
+  - [2011-10-05 18:11]
+
+  Orders from a higher authority (Milgram, 1974) and pressure to conform (Asch, 1956) can lead one to set aside or disengage moral standards (Bandura, 1999).
+
+-----
+
+  - [2011-10-05 18:13]
+
+  Most research participants faced with this simple situation assign themselves the positive-consequences task (70% to 80%, depending on the specific study), even though in retrospect very few (less than 10%) say that this was the moral thing to do. Their actions fail to fit their moral principles (Batson, Kobrynowicz, Dinnerstein, Kampf, & Wilson, 1997).
+
+-----
+
+  - [2011-10-05 18:20]
+
+  A coin is provided for participants to flip if they wish. Under these conditions, virtually all participants say in retrospect that either assigning the other participant the positive-consequences task or using a fair method such as the coin flip is the most moral thing to do. Yet only about half choose to flip the coin.
+
+-----
+
+  - [2011-10-05 18:21]
+
+  of those who flip the coin, most (85% to 90%) assign themselves the positive consequences.
+
+-----
+
+  - [2011-10-05 18:22]
+
+  In front of the mirror, those who wish to appear moral must be moral (Batson et al., 1999).
+
+-----
+
+  - [2011-10-05 18:24]
+
+  Of participants who were faced with this situation (no mirror present) and used a coin flip, 80% chose to have the assignment determined by the experimenter's flip rather than their own. This pattern suggested that many participants' initial motive was moral integrity, not moral hypocrisy (Batson, Tsang, & Thompson, 2000).
+
+-----
+
+  - [2011-10-05 18:26]
+
+  Faced with the prospect of receiving shocks, only one fourth of the participants were willing to let the experimenter's flip determine the task assignment. Another fourth flipped the coin themselves; of these, 91% assigned themselves the positive-consequences task, indicating once again a biased coin flip.
+
+-----
+
+** trust
+
+   
+*** Trust in the brain
+
+    R. Adolphs
+
+  - [2011-09-28 14:00]
+
+  saw the faces while in the scanner and pushed a button to indicate how each face should be categorized (trustworthy/ untrustworthy or high school/college, depending on the task). After the scanning session, the subject saw the faces again and rated trustworthiness on a numerical scale.
+
+Because these judgments were presumed to closely correlate with those made (explicitly or implicitly) in the scanner, only the post-scan ratings were used for analysis. The event-related design permitted the fMRI signal recorded for each face in the scanning session to be correlated with the subsequent rating given to that face (which was somewhat idiosyncratic for each subject). This analysis revealed that the amygdala was significantly more activated when subjects viewed faces that they later rated as most untrustworthy than when they viewed those rated as trustworthy, irrespective of whether an explicit judgment was required during the scan. A similar pattern of activation was observed for the right
+
+-----
+
+
+  - [2011-09-28 14:00]
+
+  insula and the fusiform gyrus. The reported amygdala activation fits neatly with a lesion study that found impaired judgment of untrustworthiness from faces following bilateral amygdala damage5, and it is also in line with prior findings demonstrating amygdala activation in response to face stimuli (expressions of fear) regardless of the task6, even when shown subliminally7. This suggests that the amygdala participates in relatively automatic, obligatory processing of certain categories of stimuli.
+
+-----
+
+
+  - [2011-09-28 14:01]
+
+  ing of certain categories of stimuli. To analyze the brain regions that would be activated by explicit rather than implicit trustworthiness judgments, the authors contrasted the fMRI signal between the two tasks. Right superior temporal sulcus was activated more when subjects performed the trustworthy/untrustworthy categorization in the scanner than when they performed the high school/college categorization, irrespective of the subject's later ratings of trustworthiness. This activation fits well with prior demonstrations that attention to eye contact and other social information in a face stimulus leads to preferential activation of this region8,9. A more complicated pattern was observed in orbitofrontal cortex: its activation depended both on the rated trustworthiness of the face and on the task performed in the scanner.
+
+The findings provide support for a model of social cognition in which regions of extrastriate visual cortex process perceptual information about socially relevant visual stimuli, and the amygdala and orbitofrontal cortex then orchestrate emotional reactions to such stimuli. The observed patterns of activation suggest that the amygdala contributes to rapid and automatic emotional responses, whereas the orbitofrontal cortex contributes to emotional responses only in the context of a particular conscious evaluation.
+
+-----
+
+
+  - [2011-09-28 14:02]
+
+A model of how the brain processes socially relevant stimuli. Some of the regions activated in the study by Winston and colleagues are indicated, along with arrows showing the major routes of information processing. The fusiform gyrus (FG, green) and superior temporal sulcus (STS, red) process features of the face stimulus. The amygdala (AM, blue) associates perception of the face with an emotional response to the face. The insula (INS, purple) participates in representing this emotional response as a feeling about the person whose face we view. Activation in STS can also be modulated by the task, demonstrating top-down influences and suggesting that most information flows in both directions along this circuit.
+
+-----
+
+
+  - [2011-09-28 14:02]
+
+   Indeed, expressions of anger or sadness were negatively correlated with trustworthiness ratings, and happiness was positively correlated.
+
+-----
+
+  - [2011-09-28 14:02]
+
+However, when this effect was taken into account, there still remained a significant activation in the right amygdala that could be attributed to the trustworthiness ratings of the stimuli independent of their emotion ratings.
+
+-----
+
+
+
+*** Trust and trustworthiness
+
+    Iris Bohnet
+
+  - [2011-09-28 14:05]
+
+  and trust. Eckel and Wilson measure risk preferences, in both a risky choice task and a survey, and find no evidence that risky choices and trusting behavior are related. Rather, they suggest that trust is a problem of judgment where people try to guess their counterpart's trustworthiness.
+
+-----
+
+
+  - [2011-09-28 14:05]
+
+  The second paper, by Bohnet and Zeckhauser, identifies an additional cost of trusting another party: the risk of betrayal. The authors estimate the psychological costs of this risk by eliciting people's willingness to trust another person as compared to their willingness to take a gamble in a structurally identical situation. The results indicate that betrayal costs are indeed present and significantly impact trusting behavior. Betrayal aversion strongly decreases people's willingness to trust.
+
+-----
+
+
+  - [2011-09-28 14:06]
+
+Gächter, Herrmann and Thöni, combines the General Social Survey (GSS) and experimental evidence to examine how trust affects willingness to cooperate in a social dilemma in rural and urban Russia. The authors find that socioeconomic measures affect trust attitudes, but do not affect decisions in the game. They conclude with warnings for researchers about reliance on survey measures that may not predict behavior in real-world situations.
+
+-----
+
+
+  - [2011-09-28 14:07]
+
+Carpenter, Daniere, and Takahashi, As in the previous paper, the authors do not find a positive relationship between responses to the GSS questions and behavior in the experimen
+
+-----
+
+
+
+*** Neural correlates of trust
+
+    Frank Krueger
+
+  - [2011-09-30 13:30]
+
+  Decisions to trust contrasted with the control condition activated the paracingulate cortex (PcC) [peak voxel (x, y, z,): 5, 39, 22] and the septal area (SA) (together with the adjoining hypothalamus) (peak voxel: -4, 4, -3) (Fig. 2 a and b and SI Table 1).
+
+    - [2011-09-30 13:31]
+
+  we arbitrarily divided the experiment into two stages under the assumption that ongoing participation in games during stage I represented partnership building and during stage II, partnership maintenance (SI Fig. 6).
+
+-----
+
+  - [2011-09-30 13:32]
+
+  Decision times for trust games became faster for the nondefector group across stages (F1,21 = 5.86, P < 0.025), and decision times accelerated by 20% for first movers (t21 = 5.15, P < 0.001) and by 10% for second movers (t21 = 2.71, P < 0.013) (Fig. 3b).
+
+-----
+  - [2011-09-30 14:27]
+
+  Decisions to trust contrasted with decisions to reciprocate revealed a higher activation in the SA (peak voxel: 1, 2, -4) in the nondefector group compared with the defector group. Pairs who showed the highest trust-reciprocate history (frequency) in their decisions also showed the highest activation (parameter estimates) in the SA (r = 0.59, P < 0.004) (Fig. 4a and SI Table 2).
+  
+In contrast, decisions to trust contrasted with decisions to reciprocate revealed a higher activation in the ventral tegmental  area (VTA) (peak voxel: 2, -20, -13) in the defector group compared with the nondefector group. Pairs who showed the lowest trust-reciprocate history (frequency) in their decisions also showed the highest activation (parameter estimates) in the VTA (r = -0.63, P < 0.002) (Fig. 4b and SI Table 2).
+
+-----
+
+  - [2011-09-30 14:32]
+
+Functional analyses were performed at the whole-brain level and within predefined a priori regions of interest: PcC, SA, VTA, and striatum. The Talairach coordinates (x, y, z) for the centers of those regions (left and right side) were based on the most significant voxel of the clusters activated in previous fMRI studies. The coordinates for the PcC (1, 46, 20) were based on a metaanalysis that mapped medial frontal cortex activations during mentalizing (23). The coordinates for the SA (6, 11, 4) and the striatum (17, 4, 11) were based on our previous study on decision-making about charitable donations (33). The coordinates for the VTA (0, -10, -10) were based on a study that reviewed fMRI studies that investigated reward such as cocaine injection and receipt of money (35). A priori regions hypothesized to be active were tested for activity by using a small-volume correction of a sphere of 10 mm and a false-discovery rate (FDR) (43) with a threshold of q(FDR) <0.05 (small volume-corrected) and a cluster size threshold of 100 mm3. Because of a lack of a priori hypotheses for other brain areas, non-a priori regions that were activated were reported in a whole-brain analysis by using a FDR with a threshold of q(FDR) <0.005 (corrected) and a cluster size threshold of 100 mm3.
+
+-----
+
+
+*** Trustworthy - The brain knows - Implicit neural responses to faces that vary in Dark Triad Personality
+    
+    David S. Gordon
+
+    this paper is junk. no cite?
+
+  - [2012-06-12 14:25]
+
+  The STS result is especially interesting as it seems to be involved with high level visual processing (Ioncaboi &Dapretto, 2001), the identification of socially salient information (Singer et al., 2004) and in theory of mind tasks requiring the understanding of others' emotions and intentions (Castelli et al., 2000).
+
+-----
+
+  - [2012-06-12 14:26]
+
+  This suggests the implicit decisions of trustworthiness may not be 'trustworthiness' per se, but a proxy effect of the direct threat Psychopathy poses (Oosterhof & Todorov, 2008).
+
+-----
+
+**** ofc function
+  - [2012-06-12 14:30]
+
+  associated with executive functioning (Burgess et al., 2006; Posner et al., 2006), attention to emotional salience (Gallagher & Firth, 2003) and social or emotional response (Goldberg et al., 2006) and this pattern of activation suggests attention might have been shifted as a function of the social importance of traits expressed reliably in faces.
+
+-----
+
+**** summary
+
+     - trusting behavior :: bilateral amygdala
+     - machiavellianism :: bilateral amygdala
 
 * assorted
 
