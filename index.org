@@ -3744,17 +3744,17 @@ Travers. "Time Required to Switch At-
       regions involved in processing stimulus materials during encoding,
       including reactivation of motor processing regions during memory for
       motor sequences [fn:nybergetal2001], reactivation of auditory processing
-      regions during memory for sounds [fn:nybergetal2001] [fn:wheeleretal2003] and
+      regions during memory for sounds [fn:nybergetal2001] [fn:wheeleretal2003functional] and
       reactivation of visual processing regions during memory for pictorial
-      stimuli [fn:wheeleretal2003] [fn:wheeleretal2000] [fn:vaidyaetal2002] [fn:wheeleretal2004functional]
+      stimuli [fn:wheeleretal2003functional] [fn:wheeleretal2000memory] [fn:vaidyaetal2002evidence] [fn:wheeleretal2004functional]
 
 [fn:nybergetal2001] Nyberg, L. et al. Reactivation of motor brain areas during explicit memory for actions. Neuroimage 14, 521−528 (2001).
 
-[fn:wheeleretal2003] Wheeler, M.E. & Buckner, R.L. Functional dissociation among components of remembering: control, perceived oldness, and content. J. Neurosci. 23, 3869−3880 (2003). http://www.jneurosci.org/content/23/9/3869
+[fn:wheeleretal2003functional] Wheeler, M.E. & Buckner, R.L. Functional dissociation among components of remembering: control, perceived oldness, and content. J. Neurosci. 23, 3869−3880 (2003). http://www.jneurosci.org/content/23/9/3869
 
-[fn:wheeleretal2000] Wheeler, M.E., Petersen, S.E. & Buckner, R.L. Memory's echo: vivid remembering reactivates sensory-specific cortex. Proc. Natl. Acad. Sci. USA 97, 11125−11129 (2000). http://www.pnas.org/content/97/20/11125.full
+[fn:wheeleretal2000memory] Wheeler, M.E., Petersen, S.E. & Buckner, R.L. Memory's echo: vivid remembering reactivates sensory-specific cortex. Proc. Natl. Acad. Sci. USA 97, 11125−11129 (2000). http://www.pnas.org/content/97/20/11125.full
 
-[fn:vaidyaetal2002] Vaidya, C.J., Zhao, M., Desmond, J.E. & Gabrieli, J.D.E. Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 40, 2136−2143 (2002). http://www.sciencedirect.com/science/article/pii/S0028393202000532
+[fn:vaidyaetal2002evidence] Vaidya, C.J., Zhao, M., Desmond, J.E. & Gabrieli, J.D.E. Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 40, 2136−2143 (2002). http://www.sciencedirect.com/science/article/pii/S0028393202000532
 
 [fn:wheeleretal2004functional] Wheeler, M.E. & Buckner, R.L. Functional-anatomic correlates of remembering and knowing. Neuroimage 21, 1337−1349 (2004). http://www.sciencedirect.com/science/article/pii/S1053811903007213
 
@@ -3826,7 +3826,7 @@ results [fn:cabezaetal2001].
 
 true recognition and false recognition were similarly active in late
 visual processing regions (BA19, BA37), also in line with previous
-results [fn:wheeleretal2003] [fn:wheeleretal2000] [fn:vaidyaetal2002] [fn:wheeleretal2004functional].
+results [fn:wheeleretal2003functional] [fn:wheeleretal2000memory] [fn:vaidyaetal2002evidence] [fn:wheeleretal2004functional].
 
 Of note, false > true recognition-related activity was greater in the
 left temporal cortex, including Wernicke's area (BA22); this language
@@ -3867,7 +3867,7 @@ novel object studies [fn:schacteretal1995] [fn:ueckeretal1997]
 
 It should also be noted that previous studies in which participants
 studied pictures of common objects have not reported early visual
-cortical reactivation during memory retrieval [fn:wheeleretal2003] [fn:wheeleretal2000] [fn:vaidyaetal2002] [fn:wheeleretal2004functional]. These
+cortical reactivation during memory retrieval [fn:wheeleretal2003functional] [fn:wheeleretal2000memory] [fn:vaidyaetal2002evidence] [fn:wheeleretal2004functional]. These
 findings are also consistent with our priming hypothesis, as those
 studies presented word cues during the test phase. This mismatch
 between study
