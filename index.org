@@ -187,7 +187,7 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      Cranberg and Albert hypothesized that chess ability is specialized in the right hemisphere, partly because they found high rates of left-handedness among serious players.     
      #+END_QUOTE
 
-     - L.D. Cranberg, M.L. Albert, The chess mind, in: L. Kober, D. Fein (Eds.), The Exceptional Brain: Neuropsychology of Talent and Special Abilities, The Guilford Press, New York, 1988, pp. 156– 190.     
+     - doi:10.1212/wnl.38.12.1900-a The Exceptional Brain: Neuropsychology of Talent and Special Abilities
 
 **** methods
 
@@ -199,7 +199,7 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
       Middlegame positions were selected from De Firmian and Korn by an experienced player who judged them to be of approximately equal complexity. The total number of pieces per board ranged from 25 to 30 with an average of 27.1 pieces per presentation. The total number of pieces was equal for each contemporaneous pair of game and random presentations. Subjects were asked to determine the next best move for White.
       #+END_QUOTE
 
-      - N. De Firmian, W. Korn (Eds.), Modern Chess Openings: MCO-13, 13th Edition, David McKay, New York, 1990.      
+      - isbn:0812917308 /Modern chess openings/
 
 ***** random condition
 
@@ -220,12 +220,11 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
       areas of the parietal lobes are involved in numeric comparison [fn:pineletal2001] and approximation [fn:dehaeneetal1999], as well as complex spatial tasks such as mental rotation [fn:richteretal1997].
       #+END_QUOTE
 
-[fn:dehaeneetal1999] S. Dehaene, E. Spelke, P. Pinel, R. Stanescu, S. Tsivkin, Sources of mathematical thinking: behavioral and brain-imaging evidence, Science 284 (1999) 970–974.
+[fn:dehaeneetal1999] doi:10.1126/science.284.5416.970 /Sources of Mathematical Thinking: Behavioral and Brain-Imaging Evidence/
 
-[fn:pineletal2001] P. Pinel, S. Dehaene, D. Riviere, D. LeBihan, Modulation of parietal activation by semantic distance in a number comparison task, NeuroImage 14 (2001) 1013–1026.
+[fn:pineletal2001] doi:10.1006/nimg.2001.0913 /Modulation of Parietal Activation by Semantic Distance in a Number Comparison Task/
 
-[fn:richteretal1997] W. Richter, K. Ugurbil, A. Georgopoulos, S. Kim, Time-resolved fMRI of mental rotation, NeuroReport 8 (1997) 3697–3702.
-
+[fn:richteretal1997] doi:10.1097/00001756-199712010-00008 /Time-resolved fMRI of mental rotation/
 
 ***** spearman's g
 
@@ -270,15 +269,15 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      (1) the storage component of spatial working memory is biased in the right parietal areas [fn:smithetal1997] [fn:ungerleideretal1998]
      #+END_QUOTE
 
-[fn:smithetal1997] E.E. Smith, J. Jonides, Working memory: A view from neuroimaging, Cogn. Psychol. 33 (1997) 5–42.
+[fn:smithetal1997] doi:10.1006/cogp.1997.0658 /Working Memory: A View from Neuroimaging/
 
-[fn:ungerleideretal1998] L.G. Ungerleider, S.M. Courtney, J.V. Haxby, A neural system for human visual working memory, Proc. Natl. Acad. Sci. USA 95 (1998) 883–890.
+[fn:ungerleideretal1998] doi:10.1073/pnas.95.3.883 /A neural system for human visual working memory/
 
      #+BEGIN_QUOTE
      left BA44 / 45 is usually involved in language functions [fn:cabezaetal2000]
      #+END_QUOTE
      
-[fn:cabezaetal2000] R. Cabeza, L. Nyberg, Imaging cognition II: An empirical review of 275 PET and fMRI studies, J. Cogn. Neurosci. 12 (1) (2000) 1–47.
+[fn:cabezaetal2000] doi:10.1162/08989290051137585 /Imaging Cognition II: An Empirical Review of 275 PET and fMRI Studies/
 
      #+BEGIN_QUOTE
      BA30 / 31, important for episodic memory retrieval [fn:cabezaetal2000], was active in the GO task.
@@ -288,13 +287,13 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      The second issue is the involvement in GO playing of the so-called general intelligence ('g') areas recently roposed by Duncan and colleagues [fn:duncanetal2000].
      #+END_QUOTE
 
-[fn:duncanetal2000] J. Duncan, R.J. Seitz, J. Kolodny et al., A neural basis for general intelligence, Science 289 (2000) 457–460.
+[fn:duncanetal2000neural] doi:10.1126/science.289.5478.457 /A Neural Basis for General Intelligence/
 
      #+BEGIN_QUOTE
      more intelligent people often show less frontal activation when they are performing analytical tasks [fn:sternbergetal2000].
      #+END_QUOTE
        
-[fn:sternbergetal2000] R.J. Sternberg, Cognition: The holey grail of general intelligence, Science 289 (2000) 399–401.
+[fn:sternbergetal2000] doi:10.1126/science.289.5478.399 /COGNITION: The Holey Grail of General Intelligence/
 
 **** results
 
@@ -505,13 +504,13 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Words have been shown to produce highly specific neural effects that depend on specific configurations, such as the presence of vowels versus consonants [fn:carreirasetal2009].
      #+END_QUOTE
 
-[fn:carreirasetal2009] M. Carreiras, J.A. Du˜nabeitia, N. Molinaro, Consonants and vowels contribute differently to visual word recognition: ERPs of relative position priming, Cereb. Cortex 19 (2009) 2659–2670.
+[fn:carreirasetal2009] doi:10.1093/cercor/bhp019 /Consonants and Vowels Contribute Differently to Visual Word Recognition: ERPs of Relative Position Priming/
      
      #+BEGIN_QUOTE
      Dehaene et al. [fn:dehaeneetal2010] recently reported that reading experience shows evidence of domain general effects in V1, temporal, and fusiform cortex, as literacy increased overall neural responses in these areas.
      #+END_QUOTE
 
-[fn:dehaeneetal2010] S. Dehaene, F. Pegado, L.W. Braga, P. Ventura, G.N. Filho, A. Jobert, G. Dehaene-Lambertz, R. Kolinsky, J. Morais, L. Cohen, How learning to read changes the cortical networks for vision and language, Science 330 (2010) 1359–1364
+[fn:dehaeneetal2010] doi:10.1126/science.1194140 /How Learning to Read Changes the Cortical Networks for Vision and Language/
 
 **** methods
 
@@ -555,8 +554,8 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      we did not observe clear reductions in FFA activation either in chess experts or in chess novices. Such a finding would be consistent with neural plasticity dedifferentiating standard face expertise responses [8,] [fn:roissonetal2004].
      #+END_QUOTE
 
-[fn:roissonetal2004] B. Rossion, C.C. Kung, M.J. Tarr, Visual expertise with nonface objects leads to competition with the early perceptual processing of faces in the human occipitotemporal cortex, Proc. Natl. Acad. Sci. U.S.A. 101 (2004) 14521-14526.
-     
+[fn:roissonetal2004] doi:10.1073/pnas.0405613101 /Visual expertise with nonface objects leads to competition with the early perceptual processing of faces in the human occipitotemporal cortex/
+
 **** conclusion
 
      #+BEGIN_QUOTE
@@ -567,8 +566,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      There was some differential activation of the left parietal cortex in novices over experts associated with real game chess processing. The parietal lobes have been associated with spatial processing previously [fn:campitelli2007], suggesting that this activation may have been related to a greater level of visual location search than occurred for the expert group. The left temporo-parietal junction showed evidence of chess modulation in experts. This is an area that has been associated with integration of visual features, thus providing the clearest evidence of a perceptually driven neural change related to chess expertise.
      #+END_QUOTE
 
-[fn:campitelli2007] G. Campitelli, F. Gobet, K. Head, M. Buckley, A. Parker, Brain localization of memory chunks in chess players, Int. J. Neurosci. 117 (2007) 1641–1659
-
+[fn:campitelli2007] doi:10.1080/00207450601041955 /Brain localization of memory chunks in chess players/
 
 *** Frontal Lobe Function in Chess Players
 
@@ -585,15 +583,15 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The WCST is a neuropsychological test assumed to be sensitive to frontal lobe damage, [fn:heatonetal1993] especially dorsolateral prefrontal cortex dysfunction [fn:demakisetal2007]
      #+END_QUOTE
 
-[fn:heatonetal1993] Heaton RK, Chelune GJ, Talley JL, Kay GG, Curtiss G. Resources; 1993.
+[fn:heatonetal1993] Heaton RK, Chelune GJ, Talley JL, Kay GG, Curtiss G. Resources; 1993. (Wisconsin Card Sorting Task)
      
-[fn:demakisetal2007] Demakis GJ. A meta-analytic review of the sensitivity of the Wisconsin Card Sorting Test to frontal and lateralized frontal brain damage. Neuropsychology 2003;17(2):255-64.
-
+[fn:demakisetal2007] doi:10.1037/0894-4105.17.2.255 /A meta-analytic review of the sensitivity of the Wisconsin Card Sorting Test to frontal and lateralized frontal brain damage/
+     
      #+BEGIN_QUOTE
      [the total numbers of perseveration and the number of completed categories] on the WCST are generally the most sensitive to bilateral dorsolateral prefrontal cortex damage (16,) [fn:stussetal2000]
      #+END_QUOTE
 
-[fn:stussetal2000] Stuss DT, Levine B, Alexander MP, Hong J, Palumbo C, Hamer L, Murphy KJ, Izukawa D. Wisconsin Card Sorting Test performance in patients with focal frontal and posterior brain damage: effects of lesion location and test structure on separable cognitive processes. Neuropsychologia 2000;38(4):388-402.
+[fn:stussetal2000] doi:10.1016/s0028-3932(99)00093-7 /Wisconsin Card Sorting Test performance in patients with focal frontal and posterior brain damage: effects of lesion location and test structure on separable cognitive processes/
 
 **** methods
 
@@ -615,33 +613,33 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Waters et al. found no association between chess skill and the Shape Memory test, as a measure of visual memory ability [fn:watersetal2002].
      #+END_QUOTE
 
-[fn:watersetal2002] Waters AJ, Gobet F, Leyden G. Visuospatial abilities of chess players. Br J Psychol 2002;93(Pt 4):557-65
+[fn:watersetal2002] doi:10.1348/000712602761381402 /Visuospatial abilities of chess players/
 
      #+BEGIN_QUOTE
      Grabner et al. found no association between chess rating and intelligence [fn:grabneretal2007]. In another study [fn:unterraineretal2006], found no association between chess skill and the scores on the Raven's Progressive Matrices, Digit Span, and Corsi block-tapping test in chess players. 
      #+END_QUOTE
 
-[fn:grabneretal2007] Grabner RH, Stern E, Neubauer AC. Individual differences in chess expertise: a psychometric investigation. Acta Psychol (Amst) 2007;124(3):398-420.
+[fn:grabneretal2007] doi:10.1016/j.actpsy.2006.07.008 /Individual differences in chess expertise: a psychometric investigation/
 
-[fn:unterraineretal2006] Unterrainer JM, Kaller CP, Halsband U, Rahm B. Planning abilities and chess: a comparison of chess and non-chess players on the Tower of London task. Br J Psychol 2006;97(Pt 3):299-311
+[fn:unterraineretal2006] doi:10.1348/000712605x71407 /Planning abilities and chess: a comparison of chess and non-chess players on the Tower of London task/
 
      #+BEGIN_QUOTE
      Gobet et al.stated in their article that they were not aware of a single study that has shown that more skilled chess players outperform less-skilled chess players on any psychometric test [fn:gobetetal2001]
      #+END_QUOTE
 
-[fn:gobetetal2001] Gobet F. Cognitive psychology of chess expertise. In: Smelser NJ, Baltes PB, editors. International Encyclopedia of Social and Behavioral Sciences. New York: Elsevier Science; 2001.
+[fn:gobetetal2001] doi:10.1016/b0-08-043076-7/01604-1 /Chess Expertise, Cognitive Psychology of/
 
      #+BEGIN_QUOTE
      Frydman and Lynn tested 33 child tournament players with the Wechsler Intelligence Scale for Children (WISC), and reported that scores significantly above average for general intelligence (mean IQ=121) and the performance IQ (mean IQ=129) but not for verbal intelligence (mean IQ=109), and concluded that high-level chess playing requires a good general intelligence and strong visuospatial abilities [fn:frydmanetal1992]
      #+END_QUOTE
 
-[fn:frydmanetal1992] Frydman M, Lynn R. The general intelligence and spatial abilities of gifted young Belgian chess players. Br J Psychol 1992;83 (Pt 2):233-5.
+[fn:frydmanetal1992] doi:10.1111/j.2044-8295.1992.tb02437.x /The general intelligence and spatial abilities of gifted young Belgian chess players/
 
      #+BEGIN_QUOTE
      Bilalic et al. highlights this unambiguous association between intelligence and chess skill [fn:bilalićetal2007]
      #+END_QUOTE
 
-[fn:bilalićetal2007] Bilalić M, McLeod P, Gobet F. Does chess need intelligence? A study with young chess players. Intelligence 2007;35(5):457-70. 
+[fn:bilalićetal2007] doi:10.1016/j.intell.2006.09.005 /Does chess need intelligence? A study with young chess players/
 
 *** Chess Masters Show a Hallmark of Face Processing With Chess
 
@@ -689,11 +687,11 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      neural substrates of cognitive processes involved in professional thinking [fn:hanakawaetal2003] [fn:pesentietal2001] [fn:maguireetal1997]. In these studies, the contribution of the prefrontal and parietal cortices was reported to be of great importance. Specifically, the precuneus was remarkably activated during the execution of precise topographical memory recall for professional taxi drivers [fn:maguireetal1997] and in visuospatial processing for abacus experts [fn:hanakawaetal2003]
      #+END_QUOTE
 
-[fn:hanakawaetal2003] T. Hanakawa, M. Honda, T. Okada, et al., Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study, Neuroimage 19 (2003) 296–307
+[fn:hanakawaetal2003] doi:10.1016/s1053-8119(03)00050-8 /Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study/
 
-[fn:maguireetal1997] E.A. Maguire, R.S. Frackowiak, C.D. Frith, Recalling routes around London: activation of the right hippocampus in taxi drivers, J. Neurosci. 17 (1997) 7103–7110.
+[fn:maguireetal1997] doi:10.1002/hipo.20233 /Recalling routes around London: activation of the right hippocampus in taxi drivers/
 
-[fn:pesentietal2001] M. Pesenti, L. Zago, F. Crivello, et al., Mental calculation in a prodigy is sustained by right prefrontal and medial temporal areas, Nat. Neurosci. 4 (2001) 103–107.
+[fn:pesentietal2001mental] doi:10.1038/82831 /Mental calculation in a prodigy is sustained by right prefrontal and medial temporal areas/
 
 **** methods
 
@@ -1000,20 +998,17 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Hatano and Osawa demonstrated that abacus experts can remember sequences of 16 digits forward and 14 digits backward [fn:hatanoetal1983]. From evidence showing that their digit memory was disrupted more by concurrent visuo-spatial tasks than verbal tasks, the authors suggested that abacus experts utilize a visuo-spatial mental representation of the abacus in working memory [fn:hatanoetal1983] [3–4]
      #+END_QUOTE
 
-[fn:hatanoetal1983] Hatano G and Osawa K. Cognition 15, 95–110 (1983)
+[fn:hatanoetal1983] doi:10.1016/0010-0277(83)90035-5 /Digit memory of grand experts in abacus-derived mental calculation/
 
      #+BEGIN_QUOTE
      In [fn:hatanoetal1987], five groups of abacus operators differing in expertise were compared using a digit span task. The authors found that a concurrent verbal task had a greater confounding effect on the memory performance in less skilled subjects than in experts, while a concurrent visuo-spatial task had a greater confounding effect in experts than in less skilled subjects.
      #+END_QUOTE
 
-[fn:hatanoetal1987] Hatano G, Amaiwa S and Shimizu K. Dev Psychol 23, 832–838 (1987)
+[fn:hatanoetal1987] doi:10.1037/0012-1649.23.6.832 /Formation of a mental abacus for computation and its use as a memory device for digits: A developmental study./
 
      #+BEGIN_QUOTE
-     Pesenti et al. studied a calculating prodigy using positron emission tomography and reported that his calculation ability involves brain areas related to long-term memory, such as the right prefrontal and medial temporal areas [fn:pesentietal2001]
+     Pesenti et al. studied a calculating prodigy using positron emission tomography and reported that his calculation ability involves brain areas related to long-term memory, such as the right prefrontal and medial temporal areas [fn:pesentietal2001mental]
      #+END_QUOTE
-
-[fn:pesentietal2001] Pesenti M, Zago L, Crivello F et al. Nature Neurosci 4, 103–107 (2001).
-
 
 **** digit span task
 
@@ -1026,10 +1021,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+BEGIN_QUOTE
      In controls, activity was observed in the left inferior frontal cortex (Broca's area: BA44, 45), medial frontal cortex (BA32), and insula (BA13); bilaterally in the ventral prefrontal cortex (BA47) and inferior parietal lobule (BA40); and more predominately in the right cerebellum. The active region including Broca's area extended to the precentral gyrus (BA6). In contrast, in experts, activity was observed bilaterally in the superior frontal sulcus (BA6), inferior parietal lobule (BA40), superior parietal lobule (BA7), and cingulate gyrus (BA24)
      #+END_QUOTE
-
      
-
-
 *** Neural Correlates of Serial Abacus Mental Calculation in Children
 
     Feiyan Chen et al
@@ -1271,23 +1263,23 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The additional task-irrelevant networks engaged by novices imply an inability to inhibit (filter) that which is not relevant to the task at hand. In this regard, activations seen in components of the emotion system during PPR in novices infer decreased emotion regulatory capabilities [fn:davidsonetal2004].
      #+END_QUOTE
 
-[fn:davidsonetal2004] R.J. Davidson, What does the prefrontal cortex "do" in affect: perspectives on frontal EEG asymmetry research, Biol. Psychol. 67 (2004) 219-233.
+[fn:davidsonetal2004] doi:10.1016/j.biopsycho.2004.03.008 /What does the prefrontal cortex "do" in affect: perspectives on frontal EEG asymmetry research/
 
      #+BEGIN_QUOTE
      Ross et al. [fn:rossetal2003] reported decreased supplementary motor area (SMA) and cerebellar activa-tion with increasing skill level (more practice) in golfers. Jäncke et al.[fn:jäncke2000]revealed increased skill level in pianists was accompanied by decreased activations in both primary and secondary motor regions, along with increased activation in local processing areas, specific to fine motor control of the hands; and Tracy et al.[fn:tracyetal2003] showed increased activation in components of the limbic system (posterior cingulate) in novice vs. expert suggesting an undevel-oped ability to filter out task irrelevant stimuli in service of a more efficient information search strategy/process. 
      #+END_QUOTE
 
-[fn:rossetal2003] J.S. Ross, J. Tkach, P.M. Ruggieri, M. Lieber, E. Lapresto, The mind's eye: functional MR imaging evaluation of golf motor imagery, Am. J. Neuroradiol. 25 (2003) 1036-1044.
+[fn:rossetal2003minds] pmid:12812924 /The mind's eye: functional MR imaging evaluation of golf motor imagery/
      
-[fn:jäncke2000] L. Jäncke, N.J. Shah, M. Peters, Cortical activation in primary and secondary motor areas for complex bimanual movements in professional pianists, Cognit. Brain Res. 10 (2000) 177-183.
+[fn:jäncke2000] doi:10.1016/s0926-6410(00)00028-8 /Cortical activation in primary and secondary motor areas for complex bimanual movements in professional pianists/
 
-[fn:tracyetal2003] J. Tracy, A. Flanders, S. Madi, J. Laskas, E. Stoddard, A. Pyrros, P. Natale, N. DelVecchio, Regional brain activation associated with different performance patterns during learning of a complex motor skill, Cereb. Cortex. 13 (2003) 904-910.
+[fn:tracyetal2003] doi:10.1093/cercor/13.9.904 /Regional brain activation associated with different performance patterns during learning of a complex motor skill/
 
      #+BEGIN_QUOTE
      anterior cingulate cor-tex (ACC), as an indicator of focused attention, would be activated in the expert archers and not in the novices [fn:doppelmayretal2008].
      #+END_QUOTE
 
-[fn:doppelmayretal2008] M. Doppelmayr, T. Finkenzeller, P. Sauseng, Frontalmidline theta in the pre-shot phase of rifle shooting: differences between experts and novices, Neuropsychologia 46 (2008) 1463–1467.
+[fn:doppelmayretal2008] doi:10.1016/j.neuropsychologia.2007.12.026 /Frontal midline theta in the pre-shot phase of rifle shooting: differences between experts and novices/
 
 **** methods
 
@@ -1324,11 +1316,11 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      patients with musical disturbances associated with word and/or number disturbances [fn:fasanaroetal1990] [fn:horikoshietal1997] [fn:kawamuraetal2000]. Musicians with alexia for words but not for music have also been described [8-11], and the reverse pattern (preserved language reading with impaired music reading) has been reported recently [ 12]. Interestingly, Cappelletti et al. [ 12] described a patient who, following a left posterior–temporal lobe lesion and a small right occipito-temporal lesion, showed selective impairments in reading, writing and understanding musical notation, without major disturbances in reading or writing letters, words or numbers. 
      #+END_QUOTE
 
-[fn:fasanaroetal1990] Dissociation in Musical Reading: A Musician Affected by Alexia without Agraphia
+[fn:fasanaroetal1990] doi:10.2307/40285464 /Dissociation in Musical Reading: A Musician Affected by Alexia without Agraphia/
 
-[fn:horikoshietal1997] Music alexia in a patient with mild pure alexia: disturbed visual perception of nonverbal meaningful figures
+[fn:horikoshietal1997] doi:10.1093/neucas/6.4.281 /Music alexia in a patient with mild pure alexia: disturbed visual perception of nonverbal meaningful figures/
 
-[fn:kawamuraetal2000] Cerebral Localization of the Center for Reading and Writing Music.
+[fn:kawamuraetal2000] doi:10.1097/00001756-200009280-00050 /Cerebral localization of the center for reading and writing music/
 
 **** right occipital temporal junction
 
@@ -1338,9 +1330,9 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
      oddly enough, 2 of the 3 authors in the Sergent paper have misspelt last names in the references section.
 
-[fn:sergentetal1992] Distributed Neural Network Underlying Musical Sight-Reading and Keyboard Performance
+[fn:sergentetal1992] doi:10.1126/science.1621084 /Distributed Neural Network Underlying Musical Sight-Reading and Keyboard Performance/
 
-[fn:nakadaetal1998] 'Musical brain' revealed by high-field (3 Tesla) functional MRI
+[fn:nakadaetal1998] /'Musical brain' revealed by high-field (3 Tesla) functional MRI/
 
 **** intraparietal sulcus (IPS)
 
@@ -1348,15 +1340,15 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      IPS has been found to mediate the processing of sensorimotor integration of precisely tuned finger movements in humans [fn:binkofskietal1998] and to control for the endogenous allocation and maintenance of visuospatial attention [fn:corbettaetal2002].
      #+END_QUOTE
 
-[fn:binkofskietal1998] Human anterior intraparietal area subserves prehension: A combined lesion and functional MRI activation study
+[fn:binkofskietal1998] doi:10.1212/wnl.50.5.1253 /Human anterior intraparietal area subserves prehension: A combined lesion and functional MRI activation study/
 
-[fn:corbettaetal2002] Neural Systems for Visual Orienting and Their Relationships to Spatial Working Memory
+[fn:corbettaetal2002] doi:10.1162/089892902317362029 /Neural Systems for Visual Orienting and Their Relationships to Spatial Working Memory/
      
      #+BEGIN_QUOTE
      right-sided lateralization of the foci described in the occipito-temporal and parietal cortex might be linked to the right lateralization often described for auditory music processing [fn:zatorreetal2002].
      #+END_QUOTE
 
-[fn:zatorreetal2002] Structure and function of auditory cortex: music and speech
+[fn:zatorreetal2002] doi:10.1016/s1364-6613(00)01816-7 /Structure and function of auditory cortex: music and speech/
 
 *** Predictors of Music Sight-Reading Ability in High School Wind Players
     
@@ -5761,3 +5753,10 @@ Functional analyses were performed at the whole-brain level and within predefine
    
    
 * TODO fix footnote citation key format (author duplicates)
+
+
+* interesting
+
+** Anger is More Influential Than Joy: Sentiment Correlation in Weibo
+
+   http://arxiv.org/abs/1309.2402
