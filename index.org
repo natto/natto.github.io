@@ -175,7 +175,7 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
 
 *** Atherton et al -- A Functional MRI Study of High-Level Cognition. I. The Game of Chess
 
-    [[doi:10.1016/S0926-6410(02)00207-0]]
+    doi:10.1016/S0926-6410%2802%2900207-0
 
     this paper is interesting in that its cites the same group's GO paper in its dicsussion. it's an amusing cycle in the reference.
 
@@ -496,7 +496,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      A recent documentary film showed a neuroimaging clip with a chess expert and suggested that the face-selective fusiform can be "hijacked" to process chess patterns [fn:scottetal2007].
      #+END_QUOTE
 
-[fn:scottetal2007] K. Scott, (Producer/Director) My Brilliant Brain: Make Me a Genius [Television series episode]. London, 2007, Windfall Films
+[fn:scottetal2007] /My Brilliant Brain: Make Me a Genius [Television series episode]/ K. Scott, (Producer/Director). London, 2007, Windfall Films
 
      This is the show where they scanned Susan Polgar's brain
 
@@ -591,7 +591,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      [the total numbers of perseveration and the number of completed categories] on the WCST are generally the most sensitive to bilateral dorsolateral prefrontal cortex damage (16,) [fn:stussetal2000]
      #+END_QUOTE
 
-[fn:stussetal2000] doi:10.1016/s0028-3932(99)00093-7 /Wisconsin Card Sorting Test performance in patients with focal frontal and posterior brain damage: effects of lesion location and test structure on separable cognitive processes/
+[fn:stussetal2000] doi:10.1016/s0028-3932%2899%2900093-7 /Wisconsin Card Sorting Test performance in patients with focal frontal and posterior brain damage: effects of lesion location and test structure on separable cognitive processes/
 
 **** methods
 
@@ -687,7 +687,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      neural substrates of cognitive processes involved in professional thinking [fn:hanakawaetal2003] [fn:pesentietal2001] [fn:maguireetal1997]. In these studies, the contribution of the prefrontal and parietal cortices was reported to be of great importance. Specifically, the precuneus was remarkably activated during the execution of precise topographical memory recall for professional taxi drivers [fn:maguireetal1997] and in visuospatial processing for abacus experts [fn:hanakawaetal2003]
      #+END_QUOTE
 
-[fn:hanakawaetal2003] doi:10.1016/s1053-8119(03)00050-8 /Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study/
+[fn:hanakawaetal2003] doi:10.1016/s1053-8119%2803%2900050-8 /Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study/
 
 [fn:maguireetal1997] doi:10.1002/hipo.20233 /Recalling routes around London: activation of the right hippocampus in taxi drivers/
 
@@ -998,7 +998,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Hatano and Osawa demonstrated that abacus experts can remember sequences of 16 digits forward and 14 digits backward [fn:hatanoetal1983]. From evidence showing that their digit memory was disrupted more by concurrent visuo-spatial tasks than verbal tasks, the authors suggested that abacus experts utilize a visuo-spatial mental representation of the abacus in working memory [fn:hatanoetal1983] [3–4]
      #+END_QUOTE
 
-[fn:hatanoetal1983] doi:10.1016/0010-0277(83)90035-5 /Digit memory of grand experts in abacus-derived mental calculation/
+[fn:hatanoetal1983] doi:10.1016/0010-0277%2883%2990035-5 /Digit memory of grand experts in abacus-derived mental calculation/
 
      #+BEGIN_QUOTE
      In [fn:hatanoetal1987], five groups of abacus operators differing in expertise were compared using a digit span task. The authors found that a concurrent verbal task had a greater confounding effect on the memory performance in less skilled subjects than in experts, while a concurrent visuo-spatial task had a greater confounding effect in experts than in less skilled subjects.
@@ -1271,7 +1271,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 [fn:rossetal2003minds] pmid:12812924 /The mind's eye: functional MR imaging evaluation of golf motor imagery/
      
-[fn:jäncke2000] doi:10.1016/s0926-6410(00)00028-8 /Cortical activation in primary and secondary motor areas for complex bimanual movements in professional pianists/
+[fn:jäncke2000] doi:10.1016/s0926-6410%2800%2900028-8 /Cortical activation in primary and secondary motor areas for complex bimanual movements in professional pianists/
 
 [fn:tracyetal2003] doi:10.1093/cercor/13.9.904 /Regional brain activation associated with different performance patterns during learning of a complex motor skill/
 
@@ -1348,7 +1348,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      right-sided lateralization of the foci described in the occipito-temporal and parietal cortex might be linked to the right lateralization often described for auditory music processing [fn:zatorreetal2002].
      #+END_QUOTE
 
-[fn:zatorreetal2002] doi:10.1016/s1364-6613(00)01816-7 /Structure and function of auditory cortex: music and speech/
+[fn:zatorreetal2002] doi:10.1016/s1364-6613%2800%2901816-7 /Structure and function of auditory cortex: music and speech/
 
 *** Predictors of Music Sight-Reading Ability in High School Wind Players
     
@@ -1476,28 +1476,27 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      both the DLPFC and ACC activate when participants are required to hold increasingly long sequences of items in working memory or when two tasks are performed at once, compared to when they are performed one at a time [fn:cohenetal1997] [fn:courtneyetal1997] [fn:despositoetal1995]. 
      #+END_QUOTE
 
-[fn:cohenetal1997] J. D. Cohen et al., Nature 386, 604 (1997)
+[fn:cohenetal1997] doi:10.1038/386604a0 /Temporal dynamics of brain activation during a working memory task/
 
-[fn:courtneyetal1997] S. M. Courtney, L. Petit, J. Ma. Maisog, L. G. Ungerleider, J. V. Haxby, Science 279, 1347 (1997)
+[fn:courtneyetal1997] doi:10.1126/science.279.5355.1347 /An Area Specialized for Spatial Working Memory in Human Frontal Cortex/
 
-[fn:despositoetal1995] M. D'Esposito, J. A. Detra, D. C. Alsop, R. K. Shin, Nature 378, 279 (1995).
+[fn:despositoetal1995] doi:10.1038/378279a0 /The neural basis of the central executive system of working memory/
 
      #+BEGIN_QUOTE
      DLPFC activity in the absence of ACC activity has been found for tasks that require maintenance and manipulation of information in working memory [fn:bakeretal1996] [fn:fletcheretal1998]. For example, the DLPFC is active when a simple cue has to be maintained over a delay [fn:barchetal1997]. ACC activity has been more consistently observed than DLPFC activity when tasks require divided attention, novel or open-ended responses, or the overcoming of a prepotent response [fn:dehaeneetal1994] [fn:devinsky1995] [fn:carteretal1998].
      #+END_QUOTE
 
-[fn:bakeretal1996] S. C. Baker, C. D. Frith, R. S. Frackowiak, Cereb. Cortex 6, 612 (1996)
+[fn:bakeretal1996] doi:10.1093/cercor/6.4.612 /Active Representation of Shape and Spatial Location in Man/
 
-[fn:fletcheretal1998] P. C. Fletcher, T. Shallice, R. J. Dolan, Brain 121, 1239 (1998).
+[fn:fletcheretal1998] doi:10.1093/brain/121.7.1239 /The functional roles of prefrontal cortex in episodic memory. I. Encoding/
 
-[fn:barchetal1997] D. M. Barch et al., Neuropsychologia 35, 1373 (1997).
-     
-[fn:dehaeneetal1994] S. Dehaene, M. I. Posner, D. M. Tucker, Psychol. Sci. 5, 303 (1994)
+[fn:barchetal1997] doi:10.1016/s0028-3932%2897%2900072-9 /Dissociating working memory from task difficulty in human prefrontal cortex/
 
-[fn:devinsky1995] O. Devinsky, M. J. Morrell, B. A. Vogt, Brain 118, 279 (1995)
+[fn:dehaeneetal1994] doi:10.1111/j.1467-9280.1994.tb00630.x /Localization of a Neural System for Error Detection and Compensation/
 
-[fn:carteretal1998] C. S. Carter et al., Science 280, 747 (1998).
+[fn:devinsky1995] doi:10.1093/brain/118.1.279 /REVIEW ARTICLE - Contributions of anterior cingulate cortex to behaviour/ 
 
+[fn:carteretal1998] doi:10.1126/science.280.5364.747 /Anterior Cingulate Cortex, Error Detection, and the Online Monitoring of Performance/
 
 **** ACC activity in stroop task
 
@@ -1505,7 +1504,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      slower to name the color in the incongruent condition, which is also when greater ACC activation is observed [fn:pardoetal1990]
      #+END_QUOTE
 
-[fn:pardoetal1990] J. V. Pardo, P. J. Pardo, K. W. Janer, Proc. Natl. Acad. Sci. U.S.A. 87, 256 (1990).
+[fn:pardoetal1990] doi:10.1073/pnas.87.1.256 /The anterior cingulate cortex mediates processing selection in the Stroop attentional conflict paradigm./
 
 **** results
 
@@ -1549,10 +1548,9 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      lesions to this region result in an inability to use complex information stored in working memory [fn:goldmanrakicetal1993] [fn:petrides1993]
      #+END_QUOTE
 
-[fn:goldmanrakicetal1993] P. S. Goldman-Rakic, in Psychopathology and the Brain, B. J. Carrol and J. E. Barrett, Eds. (Raven, New York, 1991), pp. 1–23
+[fn:goldmanrakicetal1993] doi:10.1017/s0033291700030610 /Psychopathology and the Brain/
 
-[fn:petrides1993] M. Petrides, J. Neurosci. 15, 359 (1993).
-
+[fn:petrides1993] pmid:7823141 /Impairments on nonspatial self-ordered and externally ordered working memory tasks after lesions of the mid-dorsal part of the lateral frontal cortex in the monkey/
 
 **** why the ACC is supposed to be distinct in this study
 
@@ -1576,9 +1574,9 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      ACC activity increases when top-down control is low, whether control is reduced from trial to trial or across a number of trials [fn:botvinicketal1999] [fn:carteretal2000]
      #+END_QUOTE
      
-[fn:botvinicketal1999] M. Botvinick, L. E. Nystrom, K. Fissell, C. S. Carter, J. D. Cohen, Nature 402, 179 (1999)
+[fn:botvinicketal1999] doi:10.1038/46035 /Conflict monitoring versus selection-for-action in anterior cingulate cortex/
 
-[fn:carteretal2000] C. S. Carter et al., Proc. Natl. Acad. Sci. U.S.A. 97, 1944 (2000).
+[fn:carteretal2000] doi:10.1073/pnas.97.4.1944 /Parsing executive processes: Strategic vs. evaluative functions of the anterior cingulate cortex/
 
      this is better support for the dissociation in this case
 
@@ -1594,16 +1592,15 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      When subjects perform two competing tasks simultaneously, the subjective duration of stimulus presentation is increasingly shortened the more subjects attend to nontemporal stimulus features, such as form, color [fn:hicksetal1976], or semantic meaning [fn:macaretal1994].
      #+END_QUOTE
 
-[fn:hicksetal1976] R. E. Hicks, G. W. Miller, G. Gaes, K. Bierman, Am. J. Psychol. 89, 719 (1976).
+[fn:hicksetal1976] doi:10.2307/1421874 /Concurrent Processing Demands and the Experience of Time-in-Passing/
 
-[fn:macaretal1994] 2. F. Macar, S. Grondin, L. Casini, Mem. Cognit. 22, 673 (1994).
-
+[fn:macaretal1994] doi:10.3758/bf03209252 /Controlled attention sharing influences time estimation/
 
      #+BEGIN_QUOTE
      Areas most consistently implicated in timing thus far have been the supplementary motor area (SMA), premotor cortex, frontal operculum, basal ganglia, and cerebellum [fn:macaretal2002]
      #+END_QUOTE
 
-[fn:macaretal2002] F. Macar et al., Exp. Brain Res. 142, 475 (2002).
+[fn:macaretal2002] doi:10.1007/s00221-001-0953-0 /Activation of the supplementary motor area and of attentional networks during temporal processing/
 
 **** in this task: shortening of time perception
 
@@ -1611,7 +1608,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Errors in time trials were more likely to be underestimates rather than overestimates (i.e., subjects perceived durations as shorter, not longer, than actual) [t(39) = 4.27, P < 0.001], in accordance with previous dual-task data [fn:hicksetal1976]. 
      #+END_QUOTE
 
-[fn:brownetal1997] S. W. Brown, Percept. Psychophys. 59, 1118 (1997)
+[fn:brownetal1997] doi:10.3758/bf03205526 /Attentional resources in timing: Interference effects in concurrent temporal and nontemporal working memory tasks/
 
 ***** TODO tasks that lengthen subjective duration
 
@@ -1637,12 +1634,11 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      these data demonstrate that attentional modulation of area V4 is not a simple on/off mechanism [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988]. Rather, activity in this area varies paramet- rically with increasingly greater attentional demands. 
      #+END_QUOTE
 
-[fn:corbettaetal1990] M. Corbetta, F. M. Miezin, S. Dobmeyer, G. L. Shulman, S. E. Petersen, Science 248, 1556 (1990).
+[fn:corbettaetal1990] doi:10.1126/science.2360050 /Attentional modulation of neural processing of shape, color, and velocity in humans/
 
-[fn:chawlaetal1999] D. Chawla, G. Rees, K. J. Friston, Nature Neurosci. 2, 671 (1999).
+[fn:chawlaetal1999] doi:10.1038/10230 /The physiological basis of attentional modulation in extrastriate visual areas/
 
-[fn:spitzeretal1988] H. Spitzer, R. Desimone, J. Moran, Science 240, 338 (1988).
-
+[fn:spitzeretal1988] doi:10.1126/science.3353728 /Increased attention enhances both behavioral and neuronal performance/
 
 **** conclusions
 
@@ -1660,21 +1656,19 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       Frontal operculum has previously been implicated in perceptual sequencing of auditory [fn:plateletal1997] stimuli, as well as being involved in selective attention to time [fn:coulletal2000] [fn:coulletal2003] and in time estimation itself [fn:schubotzetal2001] [fn:lewisetal2003]. Activation of right frontal operculum in the present study confirms the latter reports.
       #+END_QUOTE
 
-[fn:plateletal1997] H. Platel et al., Brain 120, 229 (1997).
+[fn:plateletal1997] doi:10.1093/brain/120.2.229 /The structural components of music perception. A functional anatomical study/
 
-[fn:coulletal2000] J. T. Coull, C. D. Frith, C. Büchel, A. C. Nobre, Neuropsychologia 38, 808 (2000).
+[fn:coulletal2000] doi:10.1016/s0028-3932%2899%2900132-3 /Orienting attention in time: behavioural and neuroanatomical distinction between exogenous and endogenous shifts/
 
-[fn:coulletal2003] J. T. Coull, V. Walsh, C. D. Frith, A. C. Nobre, Cognit. Brain Res. 17, 368 (2003).
+[fn:coulletal2003] doi:10.1016/s0926-6410%2803%2900138-1 /Distinct neural substrates for visual search amongst spatial versus temporal distractors/
 
-[fn:schubotzetal2001] R. I. Schubotz, D. Y. von Cramon, Cognit. Brain Res. 11, 97 (2001).
+[fn:schubotzetal2001] doi:10.1016/s0926-6410%2800%2900069-0 /Functional organization of the lateral premotor cortex: fMRI reveals different regions activated by anticipation of object properties, location and speed/
 
-[fn:lewisetal2003] P. A. Lewis, R. C. Miall, Neuropsychologia 41, 1583 (2003).
+[fn:lewisetal2003] doi:10.1016/s0028-3932%2803%2900118-0 /Brain activation patterns during measurement of sub- and supra-second intervals/
 
       #+BEGIN_QUOTE
       In addition, simultaneous activation of dorsal premotor cortex and basal ganglia in both our own and the aforementioned fMRI study of sequencing [fn:schubotzetal2001] suggests that these areas constitute a frontostriatal functional loop for invoking a relative time scale for duration estimation in either the motor or sensory domain.
       #+END_QUOTE
-
-[fn:schubotzetal2001] R. I. Schubotz, D. Y. von Cramon, Cereb. Cortex 11, 210 (2001).
 
 ***** striatum
 
@@ -1682,14 +1676,14 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       The striatum, and the putamen in particular, have been consistently activated in functional imaging studies of timing, including those using nonmotor perceptual tasks (e.g., [fn:raoetal2001] [fn:aletal2003]). Recently, the striatum has been proposed as the neural substrate for the "beat frequency" model of timing [fn:matelletal2000] [fn:mialletal1989]. Each duration is thought to have a unique neural "time stamp," which the striatum detects. We suggest that the role of the putamen within the aforementioned frontostriatal functional loop is to detect the target duration within the invoked time scale.
       #+END_QUOTE
 
-[fn:raoetal2001] S. M. Rao, A. R. Mayer, D. L. Harrington, Nature Neurosci. 4, 317 (2001).
+[fn:raoetal2001] doi:10.1038/85191 /The evolution of brain activation during temporal processing/
 
-[fn:aletal2003] I. Nenadic et al., Exp. Brain Res. 148, 238 (2003).
+[fn:aletal2003] doi:10.1007/s00221-002-1188-4 /Processing of temporal information and the basal ganglia: new evidence from fMRI/
 
-[fn:matelletal2000] M. S. Matell, W. H. Meck, Bioessays 22, 94 (2000).
+[fn:matelletal2000] doi:10.1002%2F%28sici%291521-1878%28200001%2922%3A1%3C94%3A%3Aaid-bies14%3E3.0.co%3B2-e /Neuropsychological mechanisms of interval timing behavior/
 
-[fn:mialletal1989] C. Miall, Neural Comput. 1, 359 (1989).
 
+[fn:mialletal1989] doi:10.1162/neco.1989.1.3.359 /The Storage of Time Intervals Using Oscillating Neurons/
 
 ***** left parietal cortex
 
@@ -1697,10 +1691,9 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       activation of left parietal cortex in our perceptual timing task complements earlier studies demonstrating its role in orienting attention to timed motor responses ([fn:coulletal2000], [fn:coulletal1998]) or to motor acts ([fn:rushworthetal1997]), suggesting that this region is involved in the tim- ing, as well as the motor, aspects of temporal attentional orienting.
       #+END_QUOTE
 
-[fn:coulletal1998] J. T. Coull, A. C. Nobre, J. Neurosci. 18, 7426 (1998).
+[fn:coulletal1998] pmid:9736662 /Where and when to pay attention: the neural systems for directing attention to spatial locations and to time intervals as revealed by both PET and fMRI./
 
-[fn:rushworthetal1997] M. F. Rushworth, P. D. Nixon, S. Renowden, D. T. Wade, R. E. Passingham, Neuropsychologia 35, 1261 (1997).
-
+[fn:rushworthetal1997] doi:10.1016/S0028-3932%2897%2900050-X /The left parietal cortex and motor attention/
 
 *** Effects of bizarre and interacting imagery on learning and retrieval of the aged
     
@@ -1849,17 +1842,17 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      A recent theory claims that the processing of L2 acquired late in life depends upon different cognitive mechanisms and cerebral structures from L1 [fn:ullman2001]. Following this view, grammatical knowledge for L2 is declarative rather than implicit, as is the case for L1 grammar. By contrast, lexical knowledge is represented in the declarative memory system for both L1 and L2. Because implicit and declarative knowledge are mediated by distinct neural systems (a left frontal-basal ganglia circuit for implicit knowledge and left temporal language areas for declarative knowledge), Ullman's differential hypothesis claims that L2 acquisition in adulthood could not depend on the same brain mechanisms that are used to process the native language [fn:ullman2001].
      #+END_QUOTE
 
-[fn:ullman2001] Ullman MT: A neurocognitive perspective on language: the declarative/procedural model. Nat Rev Neurosci 2001, 2:717-726
-
+[fn:ullman2001] doi:10.1038/35094573 /A neurocognitive perspective on language: The declarative/procedural model/
+     
      #+BEGIN_QUOTE
      The results have so far contradicted Ullman's hypothesis [fn:wartenburgeretal2003] [fn:briellmannetal2004] [fn:sakaietal2004]
      #+END_QUOTE
 
-[fn:wartenburgeretal2003] Wartenburger I, Heekeren HR, Abutalebi J, Cappa SF, Villringer A, Perani D: Early Setting of Grammatical Processing in the Bilingual Brain. Neuron 2003, 37:159-170.
+[fn:wartenburgeretal2003] doi:10.1016/s0896-6273%2802%2901150-9 /Early Setting of Grammatical Processing in the Bilingual Brain/
 
-[fn:briellmannetal2004] Briellmann RS, Saling MM, Connell AB, Waites AB, Abbott DF, Jackson GD: A high-field functional MRI study of quadrilingual subjects. Brain Lang 2004, 89:531-542.
+[fn:briellmannetal2004] doi:10.1016/j.bandl.2004.01.008 /A high-field functional MRI study of quadri-lingual subjects/
 
-[fn:sakaietal2004] Sakai KL, Miura K, Narafu N, Muraishi Y: Correlated functional changes of the prefrontal cortex in twins induced by classroom education of second language. Cereb Cortex 2004, 14:1233-1239.
+[fn:sakaietal2004] doi:10.1093/cercor/bhh084 /Correlated functional changes of the prefrontal cortex in twins induced by classroom education of second language/
 
 **** late acquisition L2
 
@@ -1867,13 +1860,13 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      grammatical processing is particularly deficient when L2 is learned later in life [fn:johnsonetal1989].
      #+END_QUOTE
 
-[fn:johnsonetal1989] Johnson JS, Newport EL: Critical period effects in second language learning: the influence of maturational state on the acquisition of English as a second language. Cognit Psychol 1989, 21:60-99
+[fn:johnsonetal1989] doi:10.1016/0010-0285%2889%2990003-0 /Critical period effects in second language learning: the influence of maturational state on the acquisition of English as a second language/
 
      #+BEGIN_QUOTE
      The dependence of grammatical processing upon these age effects was confirmed by early ERP studies [fn:weberfoxetal1996] and by recent functional brain imaging studies [fn:wartenburgeretal2003]. In particular, Wartenburger et al. [fn:wartenburgeretal2003] observed no differences in brain activations for grammar in L1 and L2 in very early (from birth) proficient bilinguals. Conversely, late (L2 acquisition after age 6) but highly proficient bilinguals were in need of additional neural resources to achieve a comparable native-like performance in grammatical tasks (Figure 1). The same did not apply to lexical–semantic processing, for which the only difference in the pattern of brain activity in bilinguals appeared to depend upon the level of attained proficiency [fn:wartenburgeretal2003]
      #+END_QUOTE
 
-[fn:weberfoxetal1996] Weber-Fox CM, Neville HJ: Maturational constraints on functional specialization for language processing: ERP and behavioral evidence in bilingual speakers. J Cogn Neurosci 1996, 8:231-256.
+[fn:weberfoxetal1996] doi:10.1162/jocn.1996.8.3.231 /Maturational Constraints on Functional Specializations for Language Processing: ERP and Behavioral Evidence in Bilingual Speakers/
 
      #+BEGIN_QUOTE
      Notably, the additional brain activity during grammatical processing in these late bilinguals (as compared with the very early bilinguals) was only found in language-related regions, such as Broca's area.
@@ -1885,7 +1878,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Musso et al. [fn:mussoetal2003] highlighted Broca's area as a crucial structure in the acquisition of rules from a foreign language, but not for rules that are inconsistent with natural languages. 
      #+END_QUOTE
 
-[fn:mussoetal2003] Musso M, Moro A, Glauche V, Rijntjes M, Reichenbach J, Buechel C, Weiller C: 'Broca's area and the language instinct'. Nat Neurosci 2003, 6:774-781.
+[fn:mussoetal2003] doi:10.1038/nn1077 /Broca's area and the language instinct/
 
 **** dependency on L1 neural substrates and its disappearance  :mental_crutch:
 
@@ -1893,7 +1886,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      According to psycholinguistics, during the early stages of L2 acquisition there might be a dependency on L1 to mediate access to meaning for L2 lexical items [fn:krolletal1994]. As L2 proficiency grows, this dependency disappears.
      #+END_QUOTE
 
-[fn:krolletal1994] Kroll JF, Stewart E: Category interference in translation and picture naming: evidence for asymmetric connections between bilingual memory representations. Journal of Language and Memory 1994, 33:149-174.
+[fn:krolletal1994] doi:10.1006/jmla.1994.1008 /Category interference in translation and picture naming: evidence for asymmetric connections between bilingual memory representations/
 
      in a more general sense, what we really want to know is how the disappearance of such "mental crutches" happens
 
@@ -1907,7 +1900,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The convergence hypothesis claims that the acquisition of L2 arises in the context of an already specified, or partially specified, system, and that L2 will receive convergent neural representation within the representations of the language learned as L1
      #+END_QUOTE
 
-[fn:greenetal2003] Green DW: The neural basis of the lexicon and the grammar in L2 acquisition. In The Interface Between Syntax and the Lexicon in Second Language Acquisition. Edited by van Hout R, Hulk A, Kuiken F, Towell R. John Benjamins; 2003:197-208.
+[fn:greenetal2003] isbn:9789027224996 _Neural basis of the lexicon and the grammar in L2 acquisition._ /The Lexicon in Second Language Acquisition/
 
 ***** shared activation in L2 and L1 processing
 
@@ -1915,11 +1908,11 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       Whether word or sentence production, or word completion, were used as experimental tasks, neuroimaging studies reported common activation in the left hemisphere when the degree of L2 proficiency was comparable with that for L1 [fn:cheeetal1999] [fn:kleinetal1999]. This happened irrespective of the differences in orthography, phonology and syntax among languages [fn:cheeetal1999]. Conversely, bilinguals with low proficiency in L2 engaged additional brain activity, mostly in prefrontal areas [fn:briellmannetal2004] [fn:debleseretal2003].
       #+END_QUOTE
 
-[fn:cheeetal1999] Chee MWL, Tan EWL, Thiel T: Mandarin and English single word processing studied with functional magnetic resonance imaging. J Neurosci 1999, 19:3050-3056.
+[fn:cheeetal1999] http://www.jneurosci.org/content/19/8/3050.short /Mandarin and English Single Word Processing Studied with Functional Magnetic Resonance Imaging/
 
-[fn:kleinetal1999] Klein D, Milner B, Zatorre RJ, Zhao V, Nikelski J: Cerebral organization in bilinguals: a PET study of Chinese–English verb generation. Neuroreport 1999, 10:2841-2846.
+[fn:kleinetal1999] doi:10.1097/00001756-199909090-00026 /Cerebral organization in bilinguals: a PET study of Chinese–English verb generation/
 
-[fn:debleseretal2003] De Bleser R, Dupont P, Postler J, Bormans G, Speelman D, Mortelmans L, Debrock M: The organisation of the bilingual lexicon: a PET study. J of Neurolinguistics 2003, 16:439-456.
+[fn:debleseretal2003] doi:10.1016/s0911-6044%2803%2900022-8 /The organisation of the bilingual lexicon: a PET study/
 
 ***** L2 activation in prefrontal cortex
 
@@ -1927,7 +1920,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       experience and practice on language task performance might result in decreased neural activity within the left prefrontal cortex [fn:thompsonschilletal1999].
       #+END_QUOTE
 
-[fn:thompsonschilletal1999] Thompson-Schill SL, D’Esposito M, Kan IP: Effects of repetition and competition on activity in left prefrontal cortex during word generation. Neuron 1999, 23:513-522.
+[fn:thompsonschilletal1999] doi:10.1016/s0896-6273%2800%2980804-1 /Effects of repetition and competition on activity in left prefrontal cortex during word generation/
 
 ***** can L2 replace L1
 
@@ -1935,8 +1928,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       Pallier et al. [fn:pallieretal2003] addressed the question of whether or not L2 can replace L1 in Korean subjects adopted during childhood. These subjects had not been exposed to their L1 from infancy; behavioral and fMRI findings in a speech perception task suggested that indeed L2 might replace L1.
       #+END_QUOTE
 
-[fn:pallieretal2003] Pallier C, Dehaene S, Poline JB, LeBihan D, Argenti AM, Dupoux E, Mehler J: Brain imaging of language plasticity in adopted adults: can a second language replace the first? Cereb Cortex 2003, 13:155-161.
-
+[fn:pallieretal2003] doi:10.1093/cercor/13.2.155 /Brain imaging of language plasticity in adopted adults: can a second language replace the first?/
 
 *** Mnemonic Strategies and Classroom Learning: A Twenty-Year Report Card 
 
@@ -2116,11 +2108,11 @@ Looks like affect was measured after every choice, thus there are =4 * 29 = 116=
     findings for depressed or anxious humans, who also have reduced expectation of positive events [fn:macleodetal1996] [fn:wrightetal1992] and interpret ambiguous stimuli negatively [fn:eysencketal1991].
     #+END_QUOTE
 
-[fn:macleodetal1996] MacLeod, A. K. & Byrne, A. J. Abnorm. Psychol. 105, 286–289 (1996)
+[fn:macleodetal1996] doi:10.1037/0021-843X.105.2.286 /Anxiety, depression, and the anticipation of future positive and negative experiences./
 
-[fn:eysencketal1991] Eysenck, M. W. et al. J. Abnorm. Psychol. 100, 144–150 (1991).
+[fn:eysencketal1991] doi:10.1037/0021-843X.100.2.144 /Bias in interpretation of ambiguous sentences related to threat in anxiety./
 
-[fn:wrightetal1992] Wright, W. F. & Bower, G. H. Organiz. Behav. Hum. Decis. Process 62, 276–291 (1992).
+[fn:wrightetal1992] doi:10.1016/0749-5978%2892%2990039-A /Mood effects on subjective probability assessment/
 
     It seems like this would have interesting effects on perceptions of rewarded likelihoods in general, i.e., affective state should affect probability matching behavior.
 
@@ -2731,7 +2723,7 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
      Tolman, Hall and Bretnall recently claimed [fn:tolmanetal1932] to have found, among other things, that the addition of electric shock to a bell signal for the wrong response is less effective (not more) than the bell signal alone; and that the addition of electric shock to a bell signal for the right response is neither more nor less effective than the bell signal alone.
      #+END_QUOTE
 
-[fn:tolmanetal1932] Tolman, E. C., Hall, C. S. and Bretnall, E. P., A disproof of the law of effect and a substitution of the laws of emphasis, motivation and disruption, J. Exper. Psychol., 1932, 15, 601-614.
+[fn:tolmanetal1932] doi:10.1037/h0073609 /A disproof of the law of effect and a substitution of the laws of emphasis, motivation and disruption./
 
 **** experiment with rats
 
@@ -2745,8 +2737,7 @@ vocabulary word, (2) a more detailed definition of the word than the subjects ac
      we trained three groups of white rats to learn a black-white discrimination habit. One group was given food for the correct response. The second group was rewarded in the same way and shocked for the wrong response. These two control groups showed the usual differences, the first group acquiring the habit much more slowly than the group that was shocked for the wrong response. The critical ratio for the difference between the means of the errors for the first 100 trials was 14.8.
      #+END_QUOTE
 
-[fn:muenzinger1934] Muenzinger, K. F., Motivation in learning: I. Electric shock for correct response in the visual
-discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
+[fn:muenzinger1934] doi:10.1037/h0070139 /Motivation in learning. I. Electric shock for correct response in the visual discrimination habit./
 
 **** The Colorado Experiment (this paper)
 
@@ -2835,7 +2826,7 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
     Both the pseudohomophone effect and the physical versus name match difference came through strongly in our data, but neither of these effects was predictive of reading comprehension. In this respect, our data do not support the suggestion of Hunt et al. [fn:huntetal1973] that the physical/name match difference will be a powerful predictor of speed of access to verbal memory, and as such a predictor of reading skill. Our results are more consistent with the view that all these tasks have some common component, possibly simply information processing speed, a component that overlaps to some extent with reading comprehension, but is not the principal determinant.
     #+END_QUOTE
 
-[fn:huntetal1973] Hunt, Earl, Nancy Frost, and Clifford Lunneborg. "Individual differences in cognition: A new approach to intelligence." The psychology of learning and motivation 7 (1973): 87-122.
+[fn:huntetal1973] doi:10.1016/s0079-7421%2808%2960066-3 /Individual differences in cognition: A new approach to intelligence./
 
     from experiment 2: ~the analyses suggest that both vocabulary and the sentence span measure of working memory contribute quite substantially and separately to the prediction of reading comprehension. Counting span contributes much more weakly; furthermore, the variance accounted for by counting span can equally well be accounted for by the sentence span measure.~
 
@@ -2848,7 +2839,7 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
      digit or word span is only weakly correlated with reading ability [fn:perfettietal1977]
      #+END_QUOTE
 
-[fn:perfettietal1977] Perfetti, C. A., & Lesgold, A. M. (1977). Discourse comprehension and sources of individual differences. In M.A. Just & P. A. Carpenter (eds.), Cognitive processes in Comprehension. Hillsdate, N.J.; Erlbaum
+[fn:perfettietal1977] isbn:9781317757795 _Discourse comprehension and sources of individual differences_ /Cognitive processes in Comprehension/
 
      #+BEGIN_QUOTE
      Daneman and Carpenter observed correlations ranging from .72 to .90 between working memory span and a task involving reading prose paragraph  and answering subsequent questions
@@ -2862,7 +2853,7 @@ discrimination habit, J. Compar. Psychol., 1934, 17, 267-277.
     good and poor readers were found not to differ on purely sensory tests. The faster readers did, however, have faster reaction times on the various categorization tests, the size of their advantage roughly increasing with the complexity of the task. [fn:jacksonetal1979]
     #+END_QUOTE
 
-[fn:jacksonetal1979] Jackson, M. D., & McClelland, J. J. (1979). Processing determinants of reading speed. Journal of Experimental Psychology: General, 108, 151-181.
+[fn:jacksonetal1979] doi:10.1037/0096-3445.108.2.151 /Processing determinants of reading speed./
 
 **** An early recorded use of the "reading efficiency" measure
      
@@ -2914,10 +2905,9 @@ half were absurd, an example being /The girl sang the water/. Hence, a test sequ
 his car/ (sensible) followed by the cue, for example, "objects," to which the subject should respond /idea/ and /car/.
         #+END_QUOTE
 
-[fn:posneretal1967] Posner, Michael I., and Ronald F. Mitchell. "Chronometric analysis of classification." Psychological Review 74.5 (1967): 392.
+[fn:posneretal1967] doi:10.1037/h0024913 /Chronometric analysis of classification/
 
-[fn:rubinsteinetal1971] Rubenstein, Herbert, Spafford S. Lewis, and Mollie A. Rubenstein. "Homographic entries in the internal lexicon: Effects of systematicity and relative frequency of meanings." Journal of Verbal Learning and Verbal Behavior 10.1 (1971): 57-62.
-
+[fn:rubinsteinetal1971] doi:10.1016/s0022-5371%2871%2980094-4 /Homographic entries in the internal lexicon: Effects of systematicity and relative frequency of meanings/
 
 **** experiment 1 results
 
@@ -2932,7 +2922,7 @@ his car/ (sensible) followed by the cue, for example, "objects," to which the su
 
      - ~difference between time to make a physical letter match and to make a match based on a name code is not a good predictor of reading comprehension (r -.015).~
 
-[fn:danemanetal1980] Daneman, Meredyth, and Patricia A. Carpenter. "Individual differences in working memory and reading." Journal of verbal learning and verbal behavior 19.4 (1980): 450-466.
+[fn:danemanetal1980] doi:10.1016/s0022-5371%2880%2990312-6 /Individual differences in working memory and reading./
 
 ***** differences in lexical decision task correlations
 
@@ -3012,20 +3002,19 @@ lexical material], but give little support to the attempt to relate comprehensio
      and responses related to monitoring or evaluation of a previously executed action [fn:cohenetal2000] [fn:gehringetal2000] [fn:kernsetal2004]
      #+END_QUOTE
 
-[fn:plattetal1999] Platt ML, Glimcher PW (1999) Nature 400:233-238.
+[fn:plattetal1999] doi:10.1038/22268 /Neural correlates of decision variables in parietal space/
 
-[fn:sugrueetal2004] Sugrue LP, Corrado GS, Newsome WT (2004) Science 304:1782-1787.
+[fn:sugrueetal2004] doi:10.1126/science.1094765 /Matching Behavior and the Representation of Value in the Parietal Cortex/
 
-[fn:schultzetal1997] Schultz W, Dayan P, Montague PR (1997) Science 275:1593-1599.
+[fn:schultzetal1997] doi:10.1126/science.275.5306.1593 /A Neural Substrate of Prediction and Reward/
 
-[fn:odohertyetal2001] O'Doherty J, Kringelbach ML, Rolls ET, Hornak J, Andrews C (2001) Nat Neurosci 4:95-102.
+[fn:odohertyetal2001] doi:10.1038/82959 /Abstract reward and punishment representations in the human orbitofrontal cortex/
 
-[fn:cohenetal2000] Cohen JD, Botvinick M, Carter CS (2000) Nat Neurosci 3:421-423.
+[fn:cohenetal2000] doi:10.1038/74783 /Anterior cingulate and prefrontal cortex: who's in control?
 
-[fn:gehringetal2000] Gehring WJ, Knight RT (2000) Nat Neurosci 3:516-520.
+[fn:gehringetal2000] doi:10.1038/74899 /Prefrontal−cingulate interactions in action monitoring/
 
-[fn:kernsetal2004] Kerns JG, Cohen JD, MacDonald AW, III, Cho RY, Stenger VA, Carter CS (2004) Science 303:1023-1026.
-
+[fn:kernsetal2004] doi:10.1126/science.1089910 /Anterior Cingulate Conflict Monitoring and Adjustments in Control/
 
 **** MVPA benefits when global signal cannot differentiate
 
@@ -3033,17 +3022,16 @@ lexical material], but give little support to the attempt to relate comprehensio
      previous studies have used locally distributed variations in activity to decode visual percepts, under situations where the global mean signals in a given region may show no significant differences between conditions. [fn:haxbyetal2001] [fn:kamitanietal2005] [fn:haynesetal2005] [fn:polynetal2005] [fn:pessoaetal2005]
      #+END_QUOTE
 
-[fn:haxbyetal2001] Haxby JV, Gobbini MI, Furey ML, Ishai A, Schouten JL, Pietrini P (2001) Science 293:2425-2430.
+[fn:haxbyetal2001] doi:10.1126/science.1063736 /Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex/
 
-[fn:kamitanietal2005] Kamitani Y, Tong F (2005) Nat Neurosci 8:679-685.
+[fn:kamitanietal2005] doi:10.1038/nn1444 /Decoding the visual and subjective contents of the human brain/
 
-[fn:haynesetal2005] Haynes JD, Rees G (2005) Nat Neurosci 8:686-691.
+[fn:haynesetal2005] doi:10.1038/nn1445 /Predicting the orientation of invisible stimuli from activity in human primary visual cortex/
 
-[fn:polynetal2005] Polyn SM, Natu VS, Cohen JD, Norman KA (2005) Science 310:1963-1966.
+[fn:polynetal2005] doi:10.1126/science.1117645 /Category-Specific Cortical Activity Precedes Retrieval During Memory Search/
 
-[fn:pessoaetal2005] Pessoa L, Padmala S (2005) Proc Natl Acad Sci USA 102:5612-5617.
+[fn:pessoaetal2005] doi:10.1073/pnas.0500566102 /Quantitative prediction of perceptual decisions during near-threshold fear detection/
      
-
      #+BEGIN_QUOTE
      Local signals (Fig. 2 A Right) defined [independently and voxelwise within a region] do not survive classical fMRI analysis (Fig. 2B) and can only be studied by using signal analysis techniques sensitive to spatially distributed signals
      #+END_QUOTE
@@ -3084,30 +3072,28 @@ lexical material], but give little support to the attempt to relate comprehensio
 
      #+BEGIN_QUOTE
      These regions have been shown to encode expected reward values, as well as the reward value of outcomes [fn:odohertyetal2001] [fn:knutsonetal2005] [fn:hamptonetal2006].
-     Moreover, signals in these regions have been found to relate to behavioral choice, whereby activity increases in mPFC on trials when subjects maintain their current choices on subsequent trials compared with when they switch [fn:odohertyetal2003]
+     Moreover, signals in these regions have been found to relate to behavioral choice, whereby activity increases in mPFC on trials when subjects maintain their current choices on subsequent trials compared with when they switch [fn:odohertyetal2003temporal]
      #+END_QUOTE
 
-[fn:knutsonetal2005] Knutson B, Taylor J, Kaufman M, Peterson R, Glover G (2005) J Neurosci 25:4806-4812.
+[fn:knutsonetal2005] doi:10.1523/JNEUROSCI.0642-05.2005 /Distributed Neural Representation of Expected Value/
 
-[fn:hamptonetal2006] Hampton AN, Bossaerts P, O'Doherty JP (2006) J Neurosci 26:8360-8367.
-
-[fn:odohertyetal2003] O'Doherty J, Critchley H, Deichmann R, Dolan RJ (2003) J Neurosci 23:7931-7939.
+[fn:hamptonetal2006] doi:10.1523/JNEUROSCI.1010-06.2006 /The Role of the Ventromedial Prefrontal Cortex in Abstract State-Based Inference during Decision Making in Humans/
 
 ***** ACC
 
-      - ~engaged when subjects switch their choice of stimulus on reversal learning tasks~ [fn:bushetal2002] [fn:odohertyetal2003]
+      - ~engaged when subjects switch their choice of stimulus on reversal learning tasks~ [fn:bushetal2002] [fn:odohertyetal2003temporal]
       - ~monitoring action-outcome associations~ [fn:waltonetal2004]
       - ~mediate action selection under situations involving conflict between competing responses~ [fn:kernsetal2004]
       - mediate ~action selection between responses with different reward contingencies~ [fn:williamsetal2004]
       - ~suggested to play a role in monitoring errors in behavioral responding or even in decoding when these errors might occur~ [fn:brownetal2005]
-        
-[fn:bushetal2002] Bush G, Vogt BA, Holmes J, Dale AM, Greve D, Jenike MA, Rosen BR (2002) Proc Natl Acad Sci USA 99:523-528.
 
-[fn:waltonetal2004] Walton ME, Devlin JT, Rushworth MFS (2004) Nat Neurosci 7:1259-1265.
+[fn:bushetal2002] doi:10.1073/pnas.012470999 //Dorsal anterior cingulate cortex: A role in reward-based decision making/
 
-[fn:williamsetal2004] Williams ZM, Bush G, Rauch SL, Cosgrove GR, Eskandar EN (2004) Nat Neurosci 7:1370-1375.
+[fn:waltonetal2004] doi:10.1038/nn1339 /Interactions between decision making and performance monitoring within prefrontal cortex/
 
-[fn:brownetal2005] Brown JW, Braver TS (2005) Science 307:1118-1121.
+[fn:williamsetal2004] doi:10.1038/nn1354 /Human anterior cingulate neurons and the integration of monetary reward with motor responses/
+
+[fn:brownetal2005] doi:10.1126/science.1105783 /Learned Predictions of Error Likelihood in the Anterior Cingulate Cortex/
 
 ***** insular cortex
 
@@ -3117,39 +3103,37 @@ lexical material], but give little support to the attempt to relate comprehensio
       - ~neural activity in this region on a previous trial correlated with whether subjects will make a risk-seeking or
         risk-averse choice in a risky decision-making paradigm~ [fn:kuhnenetal2005]
 
+[fn:critchleyetal2001] doi:10.1016/s0896-6273%2801%2900225-2 /Neural Activity in the Human Brain Relating to Uncertainty and Arousal during Anticipation/
 
+[fn:hsuetal2005] doi:10.1126/science.1115327 /Neural Systems Responding to Degrees of Uncertainty in Human Decision-Making/
 
-[fn:critchleyetal2001] Critchley HD, Mathias CJ, Dolan RJ (2001) Neuron 29:537-545.
+[fn:huetteletal2006] doi:10.1016/j.neuron.2006.01.024 /Neural Signatures of Economic Preferences for Risk and Ambiguity/
 
-[fn:hsuetal2005] Hsu M, Bhatt M, Adolphs R, Tranel D, Camerer CF (2005) Science 310:1680-1683.
-
-[fn:huetteletal2006] Huettel SA, Stowe CJ, Gordon EM, Warner BT, Platt ML (2006) Neuron 49:765-775.
-
-[fn:kuhnenetal2005] Kuhnen CM, Knutson B (2005) Neuron 47:763--770. 
+[fn:kuhnenetal2005] doi:10.1016/j.neuron.2005.08.008 /The Neural Basis of Financial Risk Taking/
 
 ***** striatum
 
       #+BEGIN_QUOTE
-      ventral striatum, where activity is linked to errors in prediction of future reward, and dorsal striatum, which is argued to mediate stimulus-response learning and goal-directed action selection [fn:delgadoetal2003] [fn:odohertyetal2003] [fn:odohertyetal2004] [fn:yinetal2005]
+      ventral striatum, where activity is linked to errors in prediction of future reward, and dorsal striatum, which is argued to mediate stimulus-response learning and goal-directed action selection [fn:delgadoetal2003] [fn:odohertyetal2003temporal] [fn:odohertyetal2004] [fn:yinetal2005]
       #+END_QUOTE
 
-[fn:delgadoetal2003] Delgado MR, Locke HM, Stenger VA, Fiez JA (2003) Cognit Affect Behav Neurosci 3:27. 
+[fn:delgadoetal2003] doi:10.3758/CABN.3.1.27 /Dorsal striatum responses to reward and punishment: Effects of valence and magnitude manipulations/
 
-[fn:odohertyetal2003] O'Doherty JP, Dayan P, Friston K, Critchley H, Dolan RJ (2003) Neuron 38:329--337. 
+[fn:odohertyetal2003temporal] doi:10.1016/S0896-6273%2803%2900169-7 /Temporal Difference Models and Reward-Related Learning in the Human Brain/
 
-[fn:odohertyetal2004] O'Doherty JP, Dayan P, Schultz J, Deichmann R, Friston K, Dolan RJ (2004) Science 304:452--454. 
+[fn:odohertyetal2004] doi:10.1126/science.1094285 /Dissociable Roles of Ventral and Dorsal Striatum in Instrumental Conditioning/
 
-[fn:yinetal2005] Yin HH, Ostlund SB, Knowlton BJ, Balleine BW (2005) Eur J Neurosci 22:513--523. 
+[fn:yinetal2005] doi:10.1111/j.1460-9568.2005.04218.x /The role of the dorsomedial striatum in instrumental conditioning/
 
 ***** amygdala
 
       - ~which has been implicated in learning of stimulus-reward or stimulus-punisher associations~ [fn:gottfriedetal2003] [fn:schoenbaumetal2003] [fn:hollandetal2004]
 
-[fn:gottfriedetal2003] Gottfried JA, O'Doherty J, Dolan RJ (2003) Science 301:1104--1107. 
+[fn:gottfriedetal2003] doi:10.1126/science.1087919 /Encoding Predictive Reward Value in Human Amygdala and Orbitofrontal Cortex/
 
-[fn:schoenbaumetal2003] Schoenbaum G, Setlow B, Saddoris MP, Gallagher M (2003) Neuron 39:855--867. 
+[fn:schoenbaumetal2003] doi:10.1016/s0896-6273%2803%2900474-4 /Encoding Predicted Outcome and Acquired Value in Orbitofrontal Cortex during Cue Sampling Depends upon Input from Basolateral Amygdala/
 
-[fn:hollandetal2004] Holland PC, Gallagher M (2004) Curr Opin Neurobiol 14:148--155. 
+[fn:hollandetal2004] doi:10.1016/j.conb.2004.03.007 /Amygdala–frontal interactions and reward expectancy/
 
 **** separating global & local spatial signals relevant to behavioral choice
 
@@ -3244,11 +3228,11 @@ lexical material], but give little support to the attempt to relate comprehensio
       Some of the regions [e.g.] DLPFC may contribute to task or cognitive-set switching more generally [fn:macdonaldetal2000] [fn:brassetal2004] [fn:diasetal1996] and are unlikely to be uniquely involved in reward-related decision making.
       #+END_QUOTE
 
-[fn:macdonaldetal2000] MacDonald AW, Cohen JD, Stenger VA, Carter CS (2000) Science 288:1835-1838.
+[fn:macdonaldetal2000] doi:10.1126/science.288.5472.1835 /Dissociating the Role of the Dorsolateral Prefrontal and Anterior Cingulate Cortex in Cognitive Control/
 
-[fn:brassetal2004] Brass M, von Cramon DY (2004) J Neurosci 24:8847-8852.
+[fn:brassetal2004] doi:10.1523/JNEUROSCI.2513-04.2004 /Selection for Cognitive Control: A Functional Magnetic Resonance Imaging Study on the Selection of Task-Relevant Information/
 
-[fn:diasetal1996] Dias R, Robbins TW, Roberts AC (1996) Nature 380:69-72.
+[fn:diasetal1996] doi:10.1038/380069a0 /Dissociation in prefrontal cortex of affective and attentional shifts/
 
 *** What Relationships Do the Efficiencies of Phonological Coding and Lexical Access Have with Reading Comprehension for Japanese Learners of English?
 
@@ -3262,10 +3246,9 @@ lexical material], but give little support to the attempt to relate comprehensio
     matters to the processing of written information.
     #+END_QUOTE
 
-[fn:baddeley2000] Baddeley, A. D. (2000). The episodic buffer: a new component of working memory? Trends in Cognitive
-Science, 4, 417-423.
+[fn:baddeley2000] doi:10.1016/s1364-6613%2800%2901538-2 /The episodic buffer: a new component of working memory?/
 
-[fn:baddeleyetal1998] Baddeley, A. D., Gathercole, R. & Papagno, C. (1998). The phonological loop as a language learning device. Psychological Review, 105, 158-173.
+[fn:baddeleyetal1998] doi:10.1037/0033-295x.105.1.158 /The phonological loop as a language learning device./
 
     #+BEGIN_QUOTE
     Lexical access means retrieving the meaning of written information through phonological coding or directly from the
@@ -3274,13 +3257,13 @@ meanings though automatic phonological coding, it has been consented that non-fl
 lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal1993] [fn:stanovich2000].
     #+END_QUOTE
 
-[fn:grabeetal1999] Grabe, W. (1999). Developments in reading research and their implications for computer-adaptive reading assessment. Issues in computer-adaptive testing of reading proficiency, 10, 11-47.
+[fn:grabeetal1999] isbn:9780521653008 _Developments in reading research and their implications for computer-adaptive reading assessment_ /Issues in Computer-Adaptive Testing of Reading Proficiency/
 
-[fn:stanovich2000] Stanovich, K. E. (2000). Progress in understanding reading: Scientific foundations and new frontiers. Guilford Publications, Inc., Dept. 3R, 72 Spring St., New York, NY 10012 (Catalog no. 0565: $38).
+[fn:stanovich2000] isbn:1572305657 /Progress in Understanding Reading: Scientific Foundations and New Frontiers/
 
-[fn:carver1998] Carver, R. P. (1998). Predicting reading level in grades 1 to 6 from listening level and decoding level: Testing theory relevant to the simple view of reading. Reading and Writing, 10(2), 121-154.
+[fn:carver1998] doi:10.1023/A:1007923124312 /Predicting reading level in grades 1 to 6 from listening level and decoding level: Testing theory relevant to the simple view of reading/
 
-[fn:gathercoleetal1993] Gathercole, S. E., & Baddeley, A. D. (1993). Working memory and language. Lawrence Erlbaum Associates, Inc.
+[fn:gathercoleetal1993] isbn:9780863772894 /Working memory and language/
 
     #+BEGIN_QUOTE
     the efficiency of phonological coding, measured as the speed of oral reading, can be improved by oral reading
@@ -3289,8 +3272,7 @@ lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal199
 
 [fn:miyasako2002] 宮迫靖靜 (2002). 高校生の音読と英語力は関係があるか？STEP Bulletin, 14, 14-25.
 
-[fn:suzuki1998] 鈴木寿一 (1998). 音声教材中のポーズがリーディングスピードに及ぼす影響に関する実証的研究. 「ことばの心理
-と学習」, 311-326. ことばの科学研究会.
+[fn:suzuki1998] 鈴木寿一 (1998). 音声教材中のポーズがリーディングスピードに及ぼす影響に関する実証的研究. 「ことばの心理と学習」, 311-326. ことばの科学研究会.
 
 [fn:watanabe1990] 渡辺浩行. (1990) 音読再考―黙読の速度化を促す音読指導の意義と在り方. Leo, 19, 101-130．東京学芸大学大学院英語研究会
 
@@ -3313,7 +3295,7 @@ lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal199
 
       ~The gap in time between the participants' visual accessing of the colors and their lexical accessing of the words was measured as Stroop interference~ [fn:dyer1971]
 
-[fn:dyer1971] Dyer, F. N. (1971). Color-naming interference in monolinguals and bilinguals. Journal of Verbal Learning and Verbal Behavior, 10(3), 297-302.
+[fn:dyer1971] doi:10.1016/s0022-5371%2871%2980057-9 /Color-naming interference in monolinguals and bilinguals/
 
       ~the kinds of stimuli were color patches (red, blue, yellow and green), Kanji words ("赤", "青", "黄", "緑"), Kana words ("あか", "あお", "き", "みどり") and English words ("red", "blue", "yellow" and " green")~
 
@@ -3359,7 +3341,7 @@ lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal199
      efficiency of phonological coding means not only better processing of written information but also sparing processing resources in the working memory for higher-level processing like comprehension [fn:nicholson1999] [fn:stanovich2000].
      #+END_QUOTE
 
-[fn:nicholson1999] Nicholson, T. (1999). Reading comprehension processes.
+[fn:nicholson1999] isbn:9780807737910 _Reading comprehension processes_ /Learning to Read: Beyond Phonics and Whole Language (Language and Literacy Series)/
 
      And more suitably on the lack of Stroop interference,
 
@@ -3440,13 +3422,13 @@ Halloween, restaurant, however, tomorrow, breakfast, overseas, understand, Decem
     Spache insisted: "It is impossible to read faster than 800 to 900 words per minute" [fn:spache1962].
     #+END_QUOTE
 
-[fn:spache1962] Spache, George D. "Is This a Break-throughin Reading?" The Reading Teacher, 15 (January 1962), 258-263. 
+[fn:spache1962] http://www.jstor.org/stable/20197510 _Is This a Breakthrough in Reading?_ /The Reading Teacher_
 
     #+BEGIN_QUOTE
     Neisser ([fn:neisser1967], p. 137) is surely correct when he remarks, "Rapid reading represents an achievement as impossible in theory as it is commonplace in practice."
     #+END_QUOTE
 
-[fn:neisser1967] Neisser, Ulric. Cognitive Psychology. Appleton-Century-Crofts,  1967.
+[fn:neisser1967] isbn:9780131396678 /Cognitive Psychology/
 
     #+BEGIN_QUOTE
     Spache simply quoted other researchers' data on the time required for the shortest effective fixation in reading (166
@@ -3464,7 +3446,7 @@ word's meaning to determine whether it belonged to the target class. Yet, even w
 exceeded five words per second, i.e. 5 x 60 = 300 words per minute.
     #+END_QUOTE
     
-[fn:neisseretal1965] Neisser, Ulric, and H. K. Beller. "Searching through Word Lists," British Journal of Psychology, 56 (1965), 349-358
+[fn:neisseretal1965] doi:10.1111/j.2044-8295.1965.tb00977.x /SEARCHING THROUGH WORD LISTS/
     
     #+BEGIN_QUOTE
     "at reading distance only words within a span of one inch (2.5 or 3 words) are seen with greater than 50 percent acuity"
@@ -3474,29 +3456,27 @@ exceeded five words per second, i.e. 5 x 60 = 300 words per minute.
     letters presented in the far periphery can be resolved [fn:saugstadetal1964]
     #+END_QUOTE
     
-[fn:saugstadetal1964] Saugstad, P., and I. Lie. "Training of Peripheral Visual Acuity," Scandinavian Journal of Psychology, 5 (1964), 218-224.
+[fn:saugstadetal1964] doi:10.1111/j.1467-9450.1964.tb01427.x /Training of Peripheral Visual Acuity/
 
     #+BEGIN_QUOTE
     when a nonsense word is fixated at the center, letters in the periphery are often recognized more easily than the central ones [fn:legrand1967]
     #+END_QUOTE
     
-[fn:legrand1967] leGrand, Yves. Form and Space Vision. Bloomington: Indiana University Press, 1967.
+[fn:legrand1967] oclc:01457957 /Form and Space Vision/ isbn:9780253323811 1969 edition
  
     #+BEGIN_QUOTE
     any reduction of the number of words visible in peripheral vision increases errors in word recognition [fn:poulton1962].
     #+END_QUOTE
 
-[fn:poulton1962] Poulton, E. L. "Peripheral Vision, Refractorinessand Eye Movements in Fast Oral Reading,"British Journal of Psychology, 53 (1962), 409-419.
-
+[fn:poulton1962] doi:10.1111/j.2044-8295.1962.tb00846.x /PERIPHERAL VISION, REFRACTORINESS AND EYE MOVEMENTS IN FAST ORAL READING/
     
     #+BEGIN_QUOTE
     Yarbus [fn:yarbus1967], show that when people inspect pictures their saccadic movementsare nearly alwaysmade to points of maximum information value, and that the points fixated are much more often than not those which were in the extreme periphery of vision during the previous fixation, yet saccadic movement is so swift and accurate that the position of each fixation must have been decided (unconsciously of course) with great exactness during the preceding fixation. [fn:llewellynthomasetal1967].
     #+END_QUOTE
 
-[fn:yarbus1967] Yarbus, Alfred L. Eye Movements and Vision. New York: Plenum, 1967.
+[fn:yarbus1967] isbn:9780306302985 _Eye Movements and Vision_
 
-[fn:llewellynthomasetal1967] Llewellyn-Thomas,Edward, and Henry O'Beirne. "Curvaturein the Saccadic Movement," Archives of Ophthalmology, 11 (January 1967), 105-109.
-
+[fn:llewellynthomasetal1967] doi:10.1001/archopht.1967.00980020107023 /Curvature in the Saccadic Movement/
 
 **** candidates investigated
 
@@ -3718,17 +3698,17 @@ Travers. "Time Required to Switch At-
 
       [fn:schacteretal1999] [fn:roediger1996] [fn:bartlett1932]
 
-[fn:schacteretal1999] Schacter, D.L. The seven sins of memory. Insights from psychology and cognitive neuroscience. Am. Psychol. 54, 182−203 (1999).
+[fn:schacteretal1999] doi:10.1037/0003-066x.54.3.182 /The seven sins of memory: Insights from psychology and cognitive neuroscience./
+      
+[fn:roediger1996] doi:10.1006/jmla.1996.0005 /Memory illusions/
 
-[fn:roediger1996] Roediger, H.L. Memory illusions. J. Mem. Lang. 35, 76−100 (1996).
-
-[fn:bartlett1932] Bartlett, F.C. Remembering: A Study in Experimental and Social Psychology (Cambridge Univ. Press, London, 1932).
+[fn:bartlett1932] isbn:9780521483568 /Remembering: A Study in Experimental and Social Psychology (1932)/
 
 ***** false recognition for objects or events
 
       [fn:underwood1965]
 
-[fn:underwood1965] Underwood, B.J. False recognition produced by implicit verbal responses. J. Exp. Psychol. 70, 122−129 (1965).
+[fn:underwood1965] doi:10.1037/h0022014 /False recognition produced by implicit verbal responses./
 
 ***** true recognition-related sensory reactivation
 
@@ -3740,16 +3720,15 @@ Travers. "Time Required to Switch At-
       reactivation of visual processing regions during memory for pictorial
       stimuli [fn:wheeleretal2003functional] [fn:wheeleretal2000memory] [fn:vaidyaetal2002evidence] [fn:wheeleretal2004functional]
 
-[fn:nybergetal2001] Nyberg, L. et al. Reactivation of motor brain areas during explicit memory for actions. Neuroimage 14, 521−528 (2001).
+[fn:nybergetal2001] doi:10.1006/nimg.2001.0801 /Reactivation of Motor Brain Areas during Explicit Memory for Actions/
 
-[fn:wheeleretal2003functional] Wheeler, M.E. & Buckner, R.L. Functional dissociation among components of remembering: control, perceived oldness, and content. J. Neurosci. 23, 3869−3880 (2003). http://www.jneurosci.org/content/23/9/3869
+[fn:wheeleretal2003functional] http://www.jneurosci.org/content/23/9/3869 /Functional Dissociation among Components of Remembering: Control, Perceived Oldness, and Content/
 
-[fn:wheeleretal2000memory] Wheeler, M.E., Petersen, S.E. & Buckner, R.L. Memory's echo: vivid remembering reactivates sensory-specific cortex. Proc. Natl. Acad. Sci. USA 97, 11125−11129 (2000). http://www.pnas.org/content/97/20/11125.full
+[fn:wheeleretal2000memory] doi:10.1073/pnas.97.20.11125 /Memory's echo: Vivid remembering reactivates sensory-specific cortex/
 
-[fn:vaidyaetal2002evidence] Vaidya, C.J., Zhao, M., Desmond, J.E. & Gabrieli, J.D.E. Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas. Neuropsychologia 40, 2136−2143 (2002). http://www.sciencedirect.com/science/article/pii/S0028393202000532
+[fn:vaidyaetal2002evidence] doi:10.1016/s0028-3932%2802%2900053-2 /Evidence for cortical encoding specificity in episodic memory: memory-induced re-activation of picture processing areas/
 
-[fn:wheeleretal2004functional] Wheeler, M.E. & Buckner, R.L. Functional-anatomic correlates of remembering and knowing. Neuroimage 21, 1337−1349 (2004). http://www.sciencedirect.com/science/article/pii/S1053811903007213
-
+[fn:wheeleretal2004functional] doi:10.1016/j.neuroimage.2003.11.001 /Functional-anatomic correlates of remembering and knowing/
 
 **** findings
 
@@ -3777,11 +3756,11 @@ previously reported effect of greater activity for true than for false
 recognition [fn:cabezaetal2001].
 
 
-[fn:schacteretal1996] Schacter, D.L. et al. Neuroanatomical correlates of veridical and illusory recognition memory: evidence from positron emission tomography. Neuron 17, 267−274 (1996).
+[fn:schacteretal1996] doi:10.1016/s0896-6273%2800%2980158-0 /Neuroanatomical Correlates of Veridical and Illusory Recognition Memory Evidence from Positron Emission Tomography/
 
-[fn:hensonetal2002] Henson, R.N.A., Shallice, T., Gorno-Tempini, M.L. & Dolan, R.J. Face repetition effects in implicit and explicit memory tests as measured by fMRI. Cereb. Cortex 12, 178−186 (2002).
+[fn:hensonetal2002] doi:10.1093/cercor/12.2.178 /Face Repetition Effects in Implicit and Explicit Memory Tests as Measured by fMRI/
 
-[fn:cabezaetal2001] Cabeza, R., Rao, S.M., Wagner, A.D., Mayer, A.R. & Schacter, D.L. Can medial temporal lobe regions distinguish true from false? An event-related functional MRI study of veridical and illusory recognition memory. Proc. Natl. Acad. Sci. USA 98, 4805−4810 (2001).
+[fn:cabezaetal2001] doi:10.1073/pnas.081082698 /Can medial temporal lobe regions distinguish true from false? An event-related functional MRI study of veridical and illusory recognition memory/
 
 In addition, false recognition was associated with insular cortex
 activity (BA13) and left temporal cortex activity (BA21, BA22, BA39),
@@ -3799,7 +3778,7 @@ results are consistent with the possibility that distinct sub-regions
 within BA10, BA7 and BA40, may be preferentially associated with true
 and false recognition.
 
-[fn:buckneretal1996] Buckner, R.L., Raichle, M.E., Miezin, F.M. & Petersen, S.E. Functional anatomic studies of memory retrieval for auditory words. J. Neurosci. 16, 6219−6235 (1996).
+[fn:buckneretal1996] http://www.jneurosci.org/content/16/19/6219.short Functional Anatomic Studies of Memory Retrieval for Auditory Words and Visual Pictures
 
 early visual regions are more active during true as compared to false
 recognition, whereas late visual regions are similarly active during
@@ -3830,9 +3809,9 @@ of our sensory reactivation hypothesis, true > false
 recognition-related activity was observed in early visual processing
 regions (BA17, BA18).
 
-[fn:priceetal2000] Price, C.J. The anatomy of language: contributions from functional neuroimaging. J. Anat. 197, 335−359 (2000).
+[fn:priceetal2000] doi:10.1046/j.1469-7580.2000.19730335.x /The anatomy of language: contributions from functional neuroimaging/
 
-[fn:schooleretal1986] Schooler, J.W., Gerhard, D. & Loftus, E.F. Qualities of the unreal. J. Exp. Psychol. Learn. Mem. Cogn. 12, 171−181 (1986).
+[fn:schooleretal1986] doi:10.1037/0278-7393.12.2.171 /Qualities of the unreal./
 
 these findings suggest that activation within these early visual
 processing regions reflect a nonconscious or implicit form of memory
@@ -3842,7 +3821,7 @@ We propose that the old-hit and oldmiss-related increases in activity
 within these regions reflect the operation of a particular type of
 implicit memory: repetition priming [fn:tulvingetal1990].
 
-[fn:tulvingetal1990] Tulving, E. & Schacter, D.L. Priming and human memory systems. Science 247, 301−306 (1990).
+[fn:tulvingetal1990] doi:10.1126/science.2296719 /Priming and human memory systems/
 
 old item-related (i.e., priming-related) increases in activity have
 been reported during implicit memory tasks that have employed
@@ -3851,11 +3830,11 @@ stimuli [fn:hensonetal2000] [fn:schacteretal1995] [fn:ueckeretal1997].
 
 novel object studies [fn:schacteretal1995] [fn:ueckeretal1997]
 
-[fn:hensonetal2000] Henson, R., Shallice, T. & Dolan, R. Neuroimaging evidence for dissociable forms of repetition priming. Science 287, 1269−1272 (2000).
+[fn:hensonetal2000] doi:10.1126/science.287.5456.1269 /Neuroimaging Evidence for Dissociable Forms of Repetition Priming/
 
-[fn:schacteretal1995] Schacter, D.L. et al. Brain regions associated with retrieval of structurally coherent visual information. Nature 376, 587−590 (1995).
+[fn:schacteretal1995] doi:10.1038/376587a0 /Brain regions associated with retrieval of structurally coherent visual information/
 
-[fn:ueckeretal1997] Uecker, A. et al. Neuroanatomical correlates of implicit and explicit memory for structurally possible and impossible visual objects. Learn. Mem. 4, 337−355 (1997).
+[fn:ueckeretal1997] doi:10.1101/lm.4.4.337 /Neuroanatomical correlates of implicit and explicit memory for structurally possible and impossible visual objects./
 
 It should also be noted that previous studies in which participants
 studied pictures of common objects have not reported early visual
@@ -3882,8 +3861,7 @@ between study
     age-related decline in a wide variety of cognitive measures begins at the ages of 20s or 30s [fn:salthouse2006], but most people become aware of losses in cognitive functions when they are in their 60s (Fillit et al. 2002; Ritchie et al. 2001). The exception to this pattern is for variables with a large knowledge component, such as measures of vocabulary [fn:salthouse2006].
     #+END_QUOTE
 
-[fn:salthouse2006] Timothy A. Salthouse. Mental Exercise and Mental Aging. Evaluating the Validity of the "Use It or
-Lose It" Hypothesis, Perspectives on Psychological Science (2006)
+[fn:salthouse2006] doi:10.1111/j.1745-6916.2006.00005.x /Mental Exercise and Mental Aging. Evaluating the Validity of the "Use It or Lose It" Hypothesis/
 
 **** prior effects of training on aged populations
 
@@ -3981,37 +3959,35 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
      another [fn:boretal2001] [fn:jiangetal2000] [fn:santa1977].
      #+END_QUOTE
 
-[fn:lucketal1997] Luck, S. J., & Vogel, E. K. (1997). The capacity of visual working memory for features and conjunctions. Nature, 309, 279-281.
+[fn:lucketal1997] doi:10.1038/36846 /The capacity of visual working memory for features and conjunctions/
 
-[fn:raffoneetal2001] Raffone, A., & Wolters, G. (2001). A cortical mechanism for binding in visual working memory. Journal of Cognitive Neuroscience, 13, 766-785.
+[fn:raffoneetal2001] doi:10.1162/08989290152541430 /A Cortical Mechanism for Binding in Visual Working Memory/
 
-[fn:pashler1988] Pashler, H. (1988). Familiarity and visual change detection. Perception & Psychophysics, 44, 369-378.
+[fn:pashler1988] doi:10.3758/bf03210419 /Familiarity and visual change detection/
 
-[fn:irwin1992] Irwin, D. (1992). Memory for position and identity across eye movements. Journal of Experimental Psychology: Learning, Memory, & Cognition, 18, 307-317.
+[fn:irwin1992] doi:10.1037/0278-7393.18.2.307 /Memory for position and identity across eye movements/
 
-[fn:boretal2001] Bor, D., Duncan, J., & Owen, A. M. (2001). The role of spatial configuration in tests of working memory explored by functional neuroimaging. Scandinavian Journal of Psychology, 42, 217-224.
+[fn:boretal2001] doi:10.1111/1467-9450.00232 /The role of spatial configuration in tests of working memory explored by functional neuroimaging/
 
-[fn:santa1977] Santa, J. L. (1977). Spatial transformations of words and pictures. Journal of Experimental Psychology: Human Learning & Memory, 3, 418-427. 
+[fn:santa1977] doi:10.1037/0278-7393.3.4.418 /Spatial transformations of words and pictures./
 
      #+BEGIN_QUOTE
      Whether or not the items are familiar has little effect (e.g., for faces; [fn:buttleetal2003]) or none at all (e.g., for letters; [fn:pashler1988]).
      #+END_QUOTE
 
-[fn:buttleetal2003] Buttle, H., & Raymond, J. E. (2003). High familiarity enhances visual change detection for face stimuli. Perception & Psychophysics, 65, 1296-1306.
-
+[fn:buttleetal2003] doi:10.3758/bf03194853 /High familiarity enhances visual change detection for face stimuli/
 
      #+BEGIN_QUOTE
      the memory capacity of approximately 3-4 for distinct objects is observed for infants as young as 12 months [fn:roseetal2001] and is also seen in adults [fn:lucketal1997]
      #+END_QUOTE
 
-[fn:roseetal2001] Rose, S. A., Feldman, J. F., & Jankowski, J. J. (2001). Visual short-term memory in the first year of life: Capacity and recency effects. Developmental Psychology, 37, 539-549.
+[fn:roseetal2001] doi:10.1037/0012-1649.37.4.539 /Visual short-term memory in the first year of life: Capacity and recency effects./
 
      #+BEGIN_QUOTE
      VSTM capacity is lower for shapes than for locations [fn:jiangetal2000].
      #+END_QUOTE
 
-[fn:jiangetal2000] Jiang, Y., Olson, I. R., & Chun, M. M. (2000). Organization of visual short-term memory. Journal of Experimental Psychology: Learning, Memory, & Cognition, 26, 683-702.
-
+[fn:jiangetal2000] doi:10.1037/0278-7393.26.3.683 /Organization of visual short-term memory./
 
 **** VLTM
 
@@ -4022,9 +3998,9 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
       high accuracy [fn:nickerson1968] [fn:standingetal1970].
       #+END_QUOTE
 
-[fn:nickerson1968] Nickerson, R. S. (1968). A note on long-term recognition memory for pictorial material. Psychonomic Science, 11, 58.
+[fn:nickerson1968] doi:10.3758/bf03330991 /A note on long-term recognition memory for pictorial material/
 
-[fn:standingetal1970] Standing, L., Conezio, J., & Haber, R. N. (1970). Perception and memory for pictures: Single-trial learning of 2500 visual stimuli. Psychonomic Science, 19, 73-74. 
+[fn:standingetal1970] doi:10.3758/bf03337426 /Perception and memory for pictures: Single-trial learning of 2500 visual stimuli/
 
 ***** is rapidly formed even outside awareness
 
@@ -4033,7 +4009,7 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
       been shown to create an LTM trace that is accessible to implicit measures [fn:chunetal1998].
       #+END_QUOTE
 
-[fn:chunetal1998] Chun, M. M. (2000). Contextual cueing of visual attention. Trends in Cognitive Sciences, 4, 170-178.
+[fn:chunetal1998] doi:10.1016/s1364-6613%2800%2901476-5 /Contextual cueing of visual attention/
 
 ***** is highly detailed
 
@@ -4049,12 +4025,11 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
       objects [fn:hollingworth2004].
       #+END_QUOTE
 
-[fn:magnussenetal1996] Magnussen, S., Greenlee, M. W., & Thomas, J. P. (1996). Parallel processing in visual short-term memory. Journal of Experimental Psychology: Human Perception & Performance, 22, 202-212.
+[fn:magnussenetal1996] doi:10.1037/0096-1523.22.1.202 /Parallel processing in visual short-term memory./
 
-[fn:hollingworthetal2002] Hollingworth, A., & Henderson, J. M. (2002). Accurate visual memory for previously attended objects in natural scenes. Journal of Experimental Psychology: Human Perception & Performance, 28, 113-136. 
+[fn:hollingworthetal2002] doi:10.1037/0096-1523.28.1.113 /Accurate visual memory for previously attended objects in natural scenes./
 
-[fn:hollingworth2004] Hollingworth, A. (2004). Constructing visual representations of natural scenes: The roles of short- and long-term memory. Journal of Experimental Psychology: Human Perception & Performance, 30, 519-537.
-
+[fn:hollingworth2004] doi:10.1037/0096-1523.30.3.519 /Constructing visual representations of natural scenes: The roles of short- and long-term memory./
 
 ***** may have different decay characteristics for different stimulus types
 
@@ -4065,8 +4040,7 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
       of memory representations are stimulus dependent.
       #+END_QUOTE
 
-[fn:sakaietal2002] Sakai, K., & Inui, T. (2002). A feature-segmentation model of shortterm visual memory. Perception, 31, 579-589. 
-
+[fn:sakaietal2002] doi:10.1068/p3320 /A feature-segmentation model of short-term visual memory/
 
 also see: Brady, T. F., Konkle, T., Alvarez, G. A. and Oliva, A. (2008). /Visual long-term memory has a massive storage
 capacity for object details/. Proceedings of the National Academy of Sciences, USA, 105 (38),
@@ -4105,7 +4079,7 @@ And tbrady's website: http://timbrady.org/research.html
      that guides attention to the potential change, enhancing VSTM performance (Olson et al., 2005)
      #+END_QUOTE
 
-[fn:olsonetal2005] Olson, I. R., Jiang, Y., & Sledge, K. (2005). Associative Learning Improves Visual Working Memory Performance. Journal of Experimental Psychology: Human Perception and Performance, 31, 889-900
+[fn:olsonetal2005] doi:10.1037/0096-1523.31.5.889 /Associative Learning Improves Visual Working Memory Performance./
 
 *** Brain Activity in Valuation Regions while Thinking about the Future Predicts Individual Discount Rates
     
