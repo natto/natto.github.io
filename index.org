@@ -284,7 +284,7 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      #+END_QUOTE
 
      #+BEGIN_QUOTE
-     The second issue is the involvement in GO playing of the so-called general intelligence ('g') areas recently roposed by Duncan and colleagues [fn:duncanetal2000].
+     The second issue is the involvement in GO playing of the so-called general intelligence ('g') areas recently roposed by Duncan and colleagues [fn:duncanetal2000neural].
      #+END_QUOTE
 
 [fn:duncanetal2000neural] doi:10.1126/science.289.5478.457 /A Neural Basis for General Intelligence/
@@ -684,7 +684,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 **** background
 
      #+BEGIN_QUOTE
-     neural substrates of cognitive processes involved in professional thinking [fn:hanakawaetal2003] [fn:pesentietal2001] [fn:maguireetal1997]. In these studies, the contribution of the prefrontal and parietal cortices was reported to be of great importance. Specifically, the precuneus was remarkably activated during the execution of precise topographical memory recall for professional taxi drivers [fn:maguireetal1997] and in visuospatial processing for abacus experts [fn:hanakawaetal2003]
+     neural substrates of cognitive processes involved in professional thinking [fn:hanakawaetal2003] [fn:pesentietal2001mental] [fn:maguireetal1997]. In these studies, the contribution of the prefrontal and parietal cortices was reported to be of great importance. Specifically, the precuneus was remarkably activated during the execution of precise topographical memory recall for professional taxi drivers [fn:maguireetal1997] and in visuospatial processing for abacus experts [fn:hanakawaetal2003]
      #+END_QUOTE
 
 [fn:hanakawaetal2003] doi:10.1016/s1053-8119%2803%2900050-8 /Neural correlates underlying mental calculation in abacus experts: a functional magnetic resonance imaging study/
@@ -1266,7 +1266,7 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 [fn:davidsonetal2004] doi:10.1016/j.biopsycho.2004.03.008 /What does the prefrontal cortex "do" in affect: perspectives on frontal EEG asymmetry research/
 
      #+BEGIN_QUOTE
-     Ross et al. [fn:rossetal2003] reported decreased supplementary motor area (SMA) and cerebellar activa-tion with increasing skill level (more practice) in golfers. Jäncke et al.[fn:jäncke2000]revealed increased skill level in pianists was accompanied by decreased activations in both primary and secondary motor regions, along with increased activation in local processing areas, specific to fine motor control of the hands; and Tracy et al.[fn:tracyetal2003] showed increased activation in components of the limbic system (posterior cingulate) in novice vs. expert suggesting an undevel-oped ability to filter out task irrelevant stimuli in service of a more efficient information search strategy/process. 
+     Ross et al. [fn:rossetal2003minds] reported decreased supplementary motor area (SMA) and cerebellar activa-tion with increasing skill level (more practice) in golfers. Jäncke et al.[fn:jäncke2000]revealed increased skill level in pianists was accompanied by decreased activations in both primary and secondary motor regions, along with increased activation in local processing areas, specific to fine motor control of the hands; and Tracy et al.[fn:tracyetal2003] showed increased activation in components of the limbic system (posterior cingulate) in novice vs. expert suggesting an undevel-oped ability to filter out task irrelevant stimuli in service of a more efficient information search strategy/process. 
      #+END_QUOTE
 
 [fn:rossetal2003minds] pmid:12812924 /The mind's eye: functional MR imaging evaluation of golf motor imagery/
@@ -4664,7 +4664,9 @@ The face space model has provided explanations for why observers are faster at r
 
   - [2012-04-12 20:40]
 
-  According to this model, when speciﬁc decision context is not provided (Box 5), faces are automatically evaluated along the dimensions of valence/trustworthiness and power/dominance. These dimensions deﬁne a 2D space within which speciﬁc social judgments can be represented [20]. The facial cues used for face evaluation along these dimensions indicate that evaluation of emotionally neutral faces is an overgeneralization of adaptive mechanisms for inferring emotional states with their corresponding behavioral intentions and the ability to implement these intentions.
+  According to this model, when speciﬁc decision context is not provided (Box 5), faces are automatically evaluated along the dimensions of valence/trustworthiness and power/dominance. These dimensions deﬁne a 2D space within which speciﬁc social judgments can be represented [fn:oosterhofetal2008functional]. The facial cues used for face evaluation along these dimensions indicate that evaluation of emotionally neutral faces is an overgeneralization of adaptive mechanisms for inferring emotional states with their corresponding behavioral intentions and the ability to implement these intentions.
+
+[fn:oosterhofetal2008functional] doi:10.1073/pnas.0805664105 /The functional basis of face evaluation/
 
 -----
 
@@ -4717,7 +4719,7 @@ The face space model has provided explanations for why observers are faster at r
 
   - [2012-04-17 19:52]
 
-  For all brain regions showing differing group activation either prefeedback or postfeedback (see Tables 1 and 2), we created combined functional and structural (based on the anatomic atlas by Tzourio-Mazoyer et al. [2002]) ROIs and calculated repeated-measures ANOVAs using participants' beta weights
+  For all brain regions showing differing group activation either prefeedback or postfeedback (see Tables 1 and 2), we created combined functional and structural (based on the anatomic atlas by Tzourio-Mazoyer et al. [fn:tzouriomazoyeretal2002automated]) ROIs and calculated repeated-measures ANOVAs using participants' beta weights
 
 -----
 
@@ -4753,10 +4755,11 @@ The face space model has provided explanations for why observers are faster at r
 
   - [2012-04-17 20:05]
 
-  ROIs for amygdala and striatum were deﬁned by a combined functional and anatomical criterion by selecting all voxels in the anatomical brain regions (according to the anatomical atlas of Tzourio-Mazoyer et al. [2002]) that were signiﬁcantly (p < 0.01) activated in the corresponding serial subtraction term (please see Table 2). In addition, we created functional ROIs for all other brain regions by selecting all voxels that were signiﬁcantly activated at p < 0.005 in the corresponding serial subtraction terms (please see Tables 1 and 2). Using these ROIs and the software package SPSS (version 13), we conducted repeated-measures ANOVAs using participants' mean beta weights to further investigate lateralization patterns and time effects. In addition, we calculated repeated-measures and univariate ANOVAs to control for potentially confounding variables that we used in the analysis of investors' choices and response times.
+  ROIs for amygdala and striatum were deﬁned by a combined functional and anatomical criterion by selecting all voxels in the anatomical brain regions (according to the anatomical atlas of Tzourio-Mazoyer et al. [fn:tzouriomazoyeretal2002automated]) that were signiﬁcantly (p < 0.01) activated in the corresponding serial subtraction term (please see Table 2). In addition, we created functional ROIs for all other brain regions by selecting all voxels that were signiﬁcantly activated at p < 0.005 in the corresponding serial subtraction terms (please see Tables 1 and 2). Using these ROIs and the software package SPSS (version 13), we conducted repeated-measures ANOVAs using participants' mean beta weights to further investigate lateralization patterns and time effects. In addition, we calculated repeated-measures and univariate ANOVAs to control for potentially confounding variables that we used in the analysis of investors' choices and response times.
 
 -----
 
+[fn:tzouriomazoyeretal2002automated] doi:10.1006/nimg.2001.0978 /Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain/
 
 *** Personally familiar faces are perceived categorically in face-selective regions other than the fusiform
 
