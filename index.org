@@ -5783,14 +5783,6 @@ so they've both essentailly developed new systems while retaining a focus on wha
    path sentence, where each word is deciphered, but the sentence has little meaning until it is fully deciphered, THEN
    we have a modality. So modality is a higher level process, but it probably has the greatest variance.
 
-   
-
-   
-   
-   
-* TODO fix footnote citation key format (author duplicates)
-
-
 * interesting
 
 ** Anger is More Influential Than Joy: Sentiment Correlation in Weibo
