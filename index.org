@@ -5796,3 +5796,15 @@ so they've both essentailly developed new systems while retaining a focus on wha
 ** Anger is More Influential Than Joy: Sentiment Correlation in Weibo
 
    http://arxiv.org/abs/1309.2402
+
+** TODO the phenomenon of breaking a long-standing barrier leads a swarm of follow ups
+   
+   and what's the term for this
+
+   - chess
+   - tennis
+   - rubik's cube
+
+** TODO cross modal expressions
+   - reading this leaves a bad taste
+   - 
