@@ -5801,7 +5801,28 @@ so they've both essentailly developed new systems while retaining a focus on wha
 
    - chess
    - tennis
-   - rubik's cube
+
+*** rubik's cube: feliks zemdeg's 7-second barrier broken in 2010
+
+    #+BEGIN_QUOTE
+    It's a weird thing in cubing - it seems like once someone breaks a time barrier, then everyone else is suddenly able to do so.
+    #+END_QUOTE
+    http://www.reddit.com/r/IAmA/comments/15v3av/i_am_feliks_zemdegs_rubiks_cube_world_record/c7q47df
+
+*** skateboarding: tony hawk's 900 barrier broken in 1999
+
+    #+BEGIN_QUOTE
+    It is easier to achieve something when you know it's been accomplished before. I would have made a 900 years earlier if someone else had already done it.
+    #+END_QUOTE
+    http://www.reddit.com/r/IAmA/comments/10vx7o/iam_tony_hawk_professional_skateboarder_videogame/c6h4spc
+
+*** figure skating: ando miki's quadruple jump in 2002
+
+    has not been replicated by others
+
+**** TODO examine the physics of this move and ando's condition
+
+     
 
 ** TODO cross modal expressions
    - reading this leaves a bad taste
