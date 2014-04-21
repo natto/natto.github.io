@@ -5850,3 +5850,12 @@ so they've both essentailly developed new systems while retaining a focus on wha
 
   
 
+* handoff process
+
+  this happens when an especially productive (say) programmer who leads a project largely out of their own effort
+
+  then a following gathers around, which accelerates the evolution of that project.
+
+  suppose the same first programmer decides to stop. what is lost is possibly not just the main output, and the ship's rudder,
+  but also, when nobody is able to fill the old shoes, the handoff process fails. we want to observe these instances and
+  study them.
