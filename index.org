@@ -4211,7 +4211,9 @@ And tbrady's website: http://timbrady.org/research.html
       to this variable", scroll somewhere else, write a comment (without
       a comment expander template in the editor, so you're writing raw
       comment), and return from typing var X.
-   4. other stuff...
+   
+      need a task that systematically varies the cognitive distance and see
+      how that affects goal tracking
 
 
 ** paper topics
