@@ -4188,6 +4188,32 @@ And tbrady's website: http://timbrady.org/research.html
 
    the true difference is probably both more subtle and more profound. if a flash of insight relies on coactivation of crucial concepts, then the mental crutch mediated pathway will basically block off that possibility!
 
+** cognitive distance
+
+   inspired by programming. there are several examples
+
+   1. dependency (hell) resolution
+      if you've decided to do some task, but face a bunch of barriers in
+      between (be it dependency related or bug fixing one by one due to the
+         compiler not being able to catch them at compile time, like in
+      python), how many onion layers can you go through while keeping the
+      original goal clearly in mind.
+   2. video game quests
+      load times, intervening events, say in skyrim, and you have battles
+      and minions battling you in between. same, onion layers
+   3. code and documentation
+      take a look at
+      https://developers.google.com/closure/compiler/docs/js-for-compiler
+      where the type hinting for variables is in comments.
+      this increases cognitive distance between the intention of adding
+      a type to a variable, and the actual variable. if for example you
+      were writing some code, created var X, thought "I need to add a type
+      to this variable", scroll somewhere else, write a comment (without
+      a comment expander template in the editor, so you're writing raw
+      comment), and return from typing var X.
+   4. other stuff...
+
+
 ** paper topics
 
 *** TODO what's the state of colored sheets and dyslexia?
@@ -5859,3 +5885,18 @@ so they've both essentailly developed new systems while retaining a focus on wha
   suppose the same first programmer decides to stop. what is lost is possibly not just the main output, and the ship's rudder,
   but also, when nobody is able to fill the old shoes, the handoff process fails. we want to observe these instances and
   study them.
+
+* embodiment through skill
+
+  dawkins & tyson talk about this phenomenon (mathematics, pilots, surgeons, astronomers)
+  https://www.youtube.com/watch?v=9RExQFZzHXQ#t=1060
+
+
+  
+* shower and creativity and related phenomena
+
+** seymour cray's visits from elves during tunnel digging
+
+   http://en.wikipedia.org/wiki/Seymour_Cray#Technical_approaches
+
+
