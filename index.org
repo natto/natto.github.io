@@ -4215,6 +4215,15 @@ And tbrady's website: http://timbrady.org/research.html
       need a task that systematically varies the cognitive distance and see
       how that affects goal tracking
 
+** cunningham's law
+
+   http://meta.wikimedia.org/wiki/Cunningham%27s_Law
+
+   #+BEGIN_QUOTE
+   the best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer.
+   #+END_QUOTE
+
+   this is intuitively true when thought in terms of ego. should design an experiment for it
 
 ** paper topics
 
