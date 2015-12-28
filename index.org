@@ -220,9 +220,9 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
       areas of the parietal lobes are involved in numeric comparison [fn:pineletal2001] and approximation [fn:dehaeneetal1999], as well as complex spatial tasks such as mental rotation [fn:richteretal1997].
       #+END_QUOTE
 
-[fn:dehaeneetal1999] doi:10.1126/science.284.5416.970 /Sources of Mathematical Thinking: Behavioral and Brain-Imaging Evidence/
-
 [fn:pineletal2001] doi:10.1006/nimg.2001.0913 /Modulation of Parietal Activation by Semantic Distance in a Number Comparison Task/
+
+[fn:dehaeneetal1999] doi:10.1126/science.284.5416.970 /Sources of Mathematical Thinking: Behavioral and Brain-Imaging Evidence/
 
 [fn:richteretal1997] doi:10.1097/00001756-199712010-00008 /Time-resolved fMRI of mental rotation/
 
@@ -277,8 +277,6 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      left BA44 / 45 is usually involved in language functions [fn:cabezaetal2000]
      #+END_QUOTE
      
-[fn:cabezaetal2000] doi:10.1162/08989290051137585 /Imaging Cognition II: An Empirical Review of 275 PET and fMRI Studies/
-
      #+BEGIN_QUOTE
      BA30 / 31, important for episodic memory retrieval [fn:cabezaetal2000], was active in the GO task.
      #+END_QUOTE
@@ -286,6 +284,8 @@ For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It
      #+BEGIN_QUOTE
      The second issue is the involvement in GO playing of the so-called general intelligence ('g') areas recently roposed by Duncan and colleagues [fn:duncanetal2000neural].
      #+END_QUOTE
+
+[fn:cabezaetal2000] doi:10.1162/08989290051137585 /Imaging Cognition II: An Empirical Review of 275 PET and fMRI Studies/
 
 [fn:duncanetal2000neural] doi:10.1126/science.289.5478.457 /A Neural Basis for General Intelligence/
 
@@ -1000,11 +1000,11 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 [fn:hatanoetal1983] doi:10.1016/0010-0277%2883%2990035-5 /Digit memory of grand experts in abacus-derived mental calculation/
 
+[fn:hatanoetal1987] doi:10.1037/0012-1649.23.6.832 /Formation of a mental abacus for computation and its use as a memory device for digits: A developmental study./
+
      #+BEGIN_QUOTE
      In [fn:hatanoetal1987], five groups of abacus operators differing in expertise were compared using a digit span task. The authors found that a concurrent verbal task had a greater confounding effect on the memory performance in less skilled subjects than in experts, while a concurrent visuo-spatial task had a greater confounding effect in experts than in less skilled subjects.
      #+END_QUOTE
-
-[fn:hatanoetal1987] doi:10.1037/0012-1649.23.6.832 /Formation of a mental abacus for computation and its use as a memory device for digits: A developmental study./
 
      #+BEGIN_QUOTE
      Pesenti et al. studied a calculating prodigy using positron emission tomography and reported that his calculation ability involves brain areas related to long-term memory, such as the right prefrontal and medial temporal areas [fn:pesentietal2001mental]
@@ -1622,24 +1622,6 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 ***** TODO how does this relate to the color perception mechanism, neuroanatomy, and maybe relate to the study about language and color perception?
 
-**** V4 activity modulation by attention
-
-     #+BEGIN_QUOTE
-     Activity in area V4 increased as attention to color increased [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988] (Fig. 2A). 
-     #+END_QUOTE
-
-     and later,
-
-     #+BEGIN_QUOTE
-     these data demonstrate that attentional modulation of area V4 is not a simple on/off mechanism [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988]. Rather, activity in this area varies paramet- rically with increasingly greater attentional demands. 
-     #+END_QUOTE
-
-[fn:corbettaetal1990] doi:10.1126/science.2360050 /Attentional modulation of neural processing of shape, color, and velocity in humans/
-
-[fn:chawlaetal1999] doi:10.1038/10230 /The physiological basis of attentional modulation in extrastriate visual areas/
-
-[fn:spitzeretal1988] doi:10.1126/science.3353728 /Increased attention enhances both behavioral and neuronal performance/
-
 **** conclusions
 
      they're trying to find the mental metronome here
@@ -1656,16 +1638,6 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       Frontal operculum has previously been implicated in perceptual sequencing of auditory [fn:plateletal1997] stimuli, as well as being involved in selective attention to time [fn:coulletal2000] [fn:coulletal2003] and in time estimation itself [fn:schubotzetal2001] [fn:lewisetal2003]. Activation of right frontal operculum in the present study confirms the latter reports.
       #+END_QUOTE
 
-[fn:plateletal1997] doi:10.1093/brain/120.2.229 /The structural components of music perception. A functional anatomical study/
-
-[fn:coulletal2000] doi:10.1016/s0028-3932%2899%2900132-3 /Orienting attention in time: behavioural and neuroanatomical distinction between exogenous and endogenous shifts/
-
-[fn:coulletal2003] doi:10.1016/s0926-6410%2803%2900138-1 /Distinct neural substrates for visual search amongst spatial versus temporal distractors/
-
-[fn:schubotzetal2001] doi:10.1016/s0926-6410%2800%2900069-0 /Functional organization of the lateral premotor cortex: fMRI reveals different regions activated by anticipation of object properties, location and speed/
-
-[fn:lewisetal2003] doi:10.1016/s0028-3932%2803%2900118-0 /Brain activation patterns during measurement of sub- and supra-second intervals/
-
       #+BEGIN_QUOTE
       In addition, simultaneous activation of dorsal premotor cortex and basal ganglia in both our own and the aforementioned fMRI study of sequencing [fn:schubotzetal2001] suggests that these areas constitute a frontostriatal functional loop for invoking a relative time scale for duration estimation in either the motor or sensory domain.
       #+END_QUOTE
@@ -1676,20 +1648,32 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
       The striatum, and the putamen in particular, have been consistently activated in functional imaging studies of timing, including those using nonmotor perceptual tasks (e.g., [fn:raoetal2001] [fn:aletal2003]). Recently, the striatum has been proposed as the neural substrate for the "beat frequency" model of timing [fn:matelletal2000] [fn:mialletal1989]. Each duration is thought to have a unique neural "time stamp," which the striatum detects. We suggest that the role of the putamen within the aforementioned frontostriatal functional loop is to detect the target duration within the invoked time scale.
       #+END_QUOTE
 
+***** left parietal cortex
+
+      #+BEGIN_QUOTE
+      activation of left parietal cortex in our perceptual timing task complements earlier studies demonstrating its role in orienting attention to timed motor responses ([fn:coulletal2000], [fn:coulletal1998]) or to motor acts ([fn:rushworthetal1997]), suggesting that this region is involved in the tim- ing, as well as the motor, aspects of temporal attentional orienting.
+      #+END_QUOTE
+
+
+[fn:plateletal1997] doi:10.1093/brain/120.2.229 /The structural components of music perception. A functional anatomical study/
+
+[fn:coulletal2000] doi:10.1016/s0028-3932%2899%2900132-3 /Orienting attention in time: behavioural and neuroanatomical distinction between exogenous and endogenous shifts/
+
+[fn:coulletal2003] doi:10.1016/s0926-6410%2803%2900138-1 /Distinct neural substrates for visual search amongst spatial versus temporal distractors/
+
+[fn:schubotzetal2001] doi:10.1016/s0926-6410%2800%2900069-0 /Functional organization of the lateral premotor cortex: fMRI reveals different regions activated by anticipation of object properties, location and speed/
+
+[fn:lewisetal2003] doi:10.1016/s0028-3932%2803%2900118-0 /Brain activation patterns during measurement of sub- and supra-second intervals/
+
+
 [fn:raoetal2001] doi:10.1038/85191 /The evolution of brain activation during temporal processing/
 
 [fn:aletal2003] doi:10.1007/s00221-002-1188-4 /Processing of temporal information and the basal ganglia: new evidence from fMRI/
 
 [fn:matelletal2000] doi:10.1002%2F%28sici%291521-1878%28200001%2922%3A1%3C94%3A%3Aaid-bies14%3E3.0.co%3B2-e /Neuropsychological mechanisms of interval timing behavior/
 
-
 [fn:mialletal1989] doi:10.1162/neco.1989.1.3.359 /The Storage of Time Intervals Using Oscillating Neurons/
 
-***** left parietal cortex
-
-      #+BEGIN_QUOTE
-      activation of left parietal cortex in our perceptual timing task complements earlier studies demonstrating its role in orienting attention to timed motor responses ([fn:coulletal2000], [fn:coulletal1998]) or to motor acts ([fn:rushworthetal1997]), suggesting that this region is involved in the tim- ing, as well as the motor, aspects of temporal attentional orienting.
-      #+END_QUOTE
 
 [fn:coulletal1998] pmid:9736662 /Where and when to pay attention: the neural systems for directing attention to spatial locations and to time intervals as revealed by both PET and fMRI./
 
@@ -1866,8 +1850,6 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      The dependence of grammatical processing upon these age effects was confirmed by early ERP studies [fn:weberfoxetal1996] and by recent functional brain imaging studies [fn:wartenburgeretal2003]. In particular, Wartenburger et al. [fn:wartenburgeretal2003] observed no differences in brain activations for grammar in L1 and L2 in very early (from birth) proficient bilinguals. Conversely, late (L2 acquisition after age 6) but highly proficient bilinguals were in need of additional neural resources to achieve a comparable native-like performance in grammatical tasks (Figure 1). The same did not apply to lexical–semantic processing, for which the only difference in the pattern of brain activity in bilinguals appeared to depend upon the level of attained proficiency [fn:wartenburgeretal2003]
      #+END_QUOTE
 
-[fn:weberfoxetal1996] doi:10.1162/jocn.1996.8.3.231 /Maturational Constraints on Functional Specializations for Language Processing: ERP and Behavioral Evidence in Bilingual Speakers/
-
      #+BEGIN_QUOTE
      Notably, the additional brain activity during grammatical processing in these late bilinguals (as compared with the very early bilinguals) was only found in language-related regions, such as Broca's area.
      #+END_QUOTE
@@ -1878,15 +1860,11 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      Musso et al. [fn:mussoetal2003] highlighted Broca's area as a crucial structure in the acquisition of rules from a foreign language, but not for rules that are inconsistent with natural languages. 
      #+END_QUOTE
 
-[fn:mussoetal2003] doi:10.1038/nn1077 /Broca's area and the language instinct/
-
 **** dependency on L1 neural substrates and its disappearance  :mental_crutch:
 
      #+BEGIN_QUOTE
      According to psycholinguistics, during the early stages of L2 acquisition there might be a dependency on L1 to mediate access to meaning for L2 lexical items [fn:krolletal1994]. As L2 proficiency grows, this dependency disappears.
      #+END_QUOTE
-
-[fn:krolletal1994] doi:10.1006/jmla.1994.1008 /Category interference in translation and picture naming: evidence for asymmetric connections between bilingual memory representations/
 
      in a more general sense, what we really want to know is how the disappearance of such "mental crutches" happens
 
@@ -1899,6 +1877,12 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
      #+BEGIN_QUOTE
      The convergence hypothesis claims that the acquisition of L2 arises in the context of an already specified, or partially specified, system, and that L2 will receive convergent neural representation within the representations of the language learned as L1
      #+END_QUOTE
+
+[fn:weberfoxetal1996] doi:10.1162/jocn.1996.8.3.231 /Maturational Constraints on Functional Specializations for Language Processing: ERP and Behavioral Evidence in Bilingual Speakers/
+
+[fn:mussoetal2003] doi:10.1038/nn1077 /Broca's area and the language instinct/
+
+[fn:krolletal1994] doi:10.1006/jmla.1994.1008 /Category interference in translation and picture naming: evidence for asymmetric connections between bilingual memory representations/
 
 [fn:greenetal2003] isbn:9789027224996 _Neural basis of the lexicon and the grammar in L2 acquisition._ /The Lexicon in Second Language Acquisition/
 
@@ -3246,16 +3230,21 @@ lexical material], but give little support to the attempt to relate comprehensio
     matters to the processing of written information.
     #+END_QUOTE
 
-[fn:baddeley2000] doi:10.1016/s1364-6613%2800%2901538-2 /The episodic buffer: a new component of working memory?/
-
-[fn:baddeleyetal1998] doi:10.1037/0033-295x.105.1.158 /The phonological loop as a language learning device./
-
     #+BEGIN_QUOTE
     Lexical access means retrieving the meaning of written information through phonological coding or directly from the
 visual information [fn:grabeetal1999] [fn:stanovich2000]. Whether fluent readers may take the direct route or may access
 meanings though automatic phonological coding, it has been consented that non-fluent readers usually depend on the
 lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal1993] [fn:stanovich2000].
     #+END_QUOTE
+
+    #+BEGIN_QUOTE
+    the efficiency of phonological coding, measured as the speed of oral reading, can be improved by oral reading
+    practice for senior high school students. [fn:miyasako2002] [fn:suzuki1998] [fn:watanabe1990]
+    #+END_QUOTE
+
+[fn:baddeley2000] doi:10.1016/s1364-6613%2800%2901538-2 /The episodic buffer: a new component of working memory?/
+
+[fn:baddeleyetal1998] doi:10.1037/0033-295x.105.1.158 /The phonological loop as a language learning device./
 
 [fn:grabeetal1999] isbn:9780521653008 _Developments in reading research and their implications for computer-adaptive reading assessment_ /Issues in Computer-Adaptive Testing of Reading Proficiency/
 
@@ -3264,11 +3253,6 @@ lexical access through phonological coding [fn:carver1998] [fn:gathercoleetal199
 [fn:carver1998] doi:10.1023/A:1007923124312 /Predicting reading level in grades 1 to 6 from listening level and decoding level: Testing theory relevant to the simple view of reading/
 
 [fn:gathercoleetal1993] isbn:9780863772894 /Working memory and language/
-
-    #+BEGIN_QUOTE
-    the efficiency of phonological coding, measured as the speed of oral reading, can be improved by oral reading
-    practice for senior high school students. [fn:miyasako2002] [fn:suzuki1998] [fn:watanabe1990]
-    #+END_QUOTE
 
 [fn:miyasako2002] 宮迫靖靜 (2002). 高校生の音読と英語力は関係があるか？STEP Bulletin, 14, 14-25.
 
@@ -3755,13 +3739,6 @@ regions [fn:hensonetal2002]. The parietal finding replicated a
 previously reported effect of greater activity for true than for false
 recognition [fn:cabezaetal2001].
 
-
-[fn:schacteretal1996] doi:10.1016/s0896-6273%2800%2980158-0 /Neuroanatomical Correlates of Veridical and Illusory Recognition Memory Evidence from Positron Emission Tomography/
-
-[fn:hensonetal2002] doi:10.1093/cercor/12.2.178 /Face Repetition Effects in Implicit and Explicit Memory Tests as Measured by fMRI/
-
-[fn:cabezaetal2001] doi:10.1073/pnas.081082698 /Can medial temporal lobe regions distinguish true from false? An event-related functional MRI study of veridical and illusory recognition memory/
-
 In addition, false recognition was associated with insular cortex
 activity (BA13) and left temporal cortex activity (BA21, BA22, BA39),
 the latter finding being consistent with a previously reported
@@ -3777,8 +3754,6 @@ cm from the false recognition coordinates (-55, -60, 30). These
 results are consistent with the possibility that distinct sub-regions
 within BA10, BA7 and BA40, may be preferentially associated with true
 and false recognition.
-
-[fn:buckneretal1996] http://www.jneurosci.org/content/16/19/6219.short Functional Anatomic Studies of Memory Retrieval for Auditory Words and Visual Pictures
 
 early visual regions are more active during true as compared to false
 recognition, whereas late visual regions are similarly active during
@@ -3809,10 +3784,6 @@ of our sensory reactivation hypothesis, true > false
 recognition-related activity was observed in early visual processing
 regions (BA17, BA18).
 
-[fn:priceetal2000] doi:10.1046/j.1469-7580.2000.19730335.x /The anatomy of language: contributions from functional neuroimaging/
-
-[fn:schooleretal1986] doi:10.1037/0278-7393.12.2.171 /Qualities of the unreal./
-
 these findings suggest that activation within these early visual
 processing regions reflect a nonconscious or implicit form of memory
 retrieval.
@@ -3821,8 +3792,6 @@ We propose that the old-hit and oldmiss-related increases in activity
 within these regions reflect the operation of a particular type of
 implicit memory: repetition priming [fn:tulvingetal1990].
 
-[fn:tulvingetal1990] doi:10.1126/science.2296719 /Priming and human memory systems/
-
 old item-related (i.e., priming-related) increases in activity have
 been reported during implicit memory tasks that have employed
 unfamiliar faces or novel objects as
@@ -3830,18 +3799,33 @@ stimuli [fn:hensonetal2000] [fn:schacteretal1995] [fn:ueckeretal1997].
 
 novel object studies [fn:schacteretal1995] [fn:ueckeretal1997]
 
-[fn:hensonetal2000] doi:10.1126/science.287.5456.1269 /Neuroimaging Evidence for Dissociable Forms of Repetition Priming/
-
-[fn:schacteretal1995] doi:10.1038/376587a0 /Brain regions associated with retrieval of structurally coherent visual information/
-
-[fn:ueckeretal1997] doi:10.1101/lm.4.4.337 /Neuroanatomical correlates of implicit and explicit memory for structurally possible and impossible visual objects./
-
 It should also be noted that previous studies in which participants
 studied pictures of common objects have not reported early visual
 cortical reactivation during memory retrieval [fn:wheeleretal2003functional] [fn:wheeleretal2000memory] [fn:vaidyaetal2002evidence] [fn:wheeleretal2004functional]. These
 findings are also consistent with our priming hypothesis, as those
 studies presented word cues during the test phase. This mismatch
 between study
+
+
+[fn:schacteretal1996] doi:10.1016/s0896-6273%2800%2980158-0 /Neuroanatomical Correlates of Veridical and Illusory Recognition Memory Evidence from Positron Emission Tomography/
+
+[fn:hensonetal2002] doi:10.1093/cercor/12.2.178 /Face Repetition Effects in Implicit and Explicit Memory Tests as Measured by fMRI/
+
+[fn:cabezaetal2001] doi:10.1073/pnas.081082698 /Can medial temporal lobe regions distinguish true from false? An event-related functional MRI study of veridical and illusory recognition memory/
+
+[fn:buckneretal1996] http://www.jneurosci.org/content/16/19/6219.short Functional Anatomic Studies of Memory Retrieval for Auditory Words and Visual Pictures
+
+[fn:priceetal2000] doi:10.1046/j.1469-7580.2000.19730335.x /The anatomy of language: contributions from functional neuroimaging/
+
+[fn:schooleretal1986] doi:10.1037/0278-7393.12.2.171 /Qualities of the unreal./
+
+[fn:tulvingetal1990] doi:10.1126/science.2296719 /Priming and human memory systems/
+
+[fn:hensonetal2000] doi:10.1126/science.287.5456.1269 /Neuroimaging Evidence for Dissociable Forms of Repetition Priming/
+
+[fn:schacteretal1995] doi:10.1038/376587a0 /Brain regions associated with retrieval of structurally coherent visual information/
+
+[fn:ueckeretal1997] doi:10.1101/lm.4.4.337 /Neuroanatomical correlates of implicit and explicit memory for structurally possible and impossible visual objects./
 
 *** Functional-Anatomic Correlates of Remembering and Knowing [fn:wheeleretal2004functional]
 
@@ -3959,6 +3943,18 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
      another [fn:boretal2001] [fn:jiangetal2000] [fn:santa1977].
      #+END_QUOTE
 
+     #+BEGIN_QUOTE
+     Whether or not the items are familiar has little effect (e.g., for faces; [fn:buttleetal2003]) or none at all (e.g., for letters; [fn:pashler1988]).
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     the memory capacity of approximately 3-4 for distinct objects is observed for infants as young as 12 months [fn:roseetal2001] and is also seen in adults [fn:lucketal1997]
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     VSTM capacity is lower for shapes than for locations [fn:jiangetal2000].
+     #+END_QUOTE
+
 [fn:lucketal1997] doi:10.1038/36846 /The capacity of visual working memory for features and conjunctions/
 
 [fn:raffoneetal2001] doi:10.1162/08989290152541430 /A Cortical Mechanism for Binding in Visual Working Memory/
@@ -3971,21 +3967,9 @@ We prepared two tasks in arithmetic and Japanese language, which were systematiz
 
 [fn:santa1977] doi:10.1037/0278-7393.3.4.418 /Spatial transformations of words and pictures./
 
-     #+BEGIN_QUOTE
-     Whether or not the items are familiar has little effect (e.g., for faces; [fn:buttleetal2003]) or none at all (e.g., for letters; [fn:pashler1988]).
-     #+END_QUOTE
-
 [fn:buttleetal2003] doi:10.3758/bf03194853 /High familiarity enhances visual change detection for face stimuli/
 
-     #+BEGIN_QUOTE
-     the memory capacity of approximately 3-4 for distinct objects is observed for infants as young as 12 months [fn:roseetal2001] and is also seen in adults [fn:lucketal1997]
-     #+END_QUOTE
-
 [fn:roseetal2001] doi:10.1037/0012-1649.37.4.539 /Visual short-term memory in the first year of life: Capacity and recency effects./
-
-     #+BEGIN_QUOTE
-     VSTM capacity is lower for shapes than for locations [fn:jiangetal2000].
-     #+END_QUOTE
 
 [fn:jiangetal2000] doi:10.1037/0278-7393.26.3.683 /Organization of visual short-term memory./
 
