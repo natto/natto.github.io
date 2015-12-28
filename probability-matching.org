@@ -121,3 +121,101 @@ The smart potential behind probability matching
     it is thus possible that LH simply did not perceive facial hair as facial hair
     
 
+* temp
+
+** Applying Herrnstein's Matching Law to Influence Students' Choice to Complete Difficult Academic Tasks
+
+basically claims that some kind of reinforcement (defined as an easy math problem) interspersed by some reinforcement schedule (in this case, it looks like fixed interval reinforcement) increases the probability of completion, as well as the completion quality.
+
+this makes intuitive sense, but it is not clear whether this is actually an application of the Matching Law.
+
+the more interesting aspect of this study is the idea of the "rest period", i.e. the relaxation of the mind from an intensive task. In other words, ego repletion. I don't know now whether is generally construed as a reinforcement (i.e. whether ego depletion and repletion is reward-mediated).
+
+* Decision-making behavior in two-choice uncertain outcome situations
+
+  75/25 ratio, 100 trials, light bulbs
+
+  test the hypothesis that the asymptotic probability of SV predicting the occurrence of the more frequent event in a two-choice uncertain outcome situation is a function of the level of reinforcement present in the situation, such that the probability of predicting the more frequent event will tend toward unity as the rewards (positive utility) and costs (negative utility) of correct and incorrect predictions are increased.
+
+** two theoretical models of interest
+
+   - One is Estes' (1950, 1954; Estes & Burke, 1953) statistical learningmodel which yields the prediction that Ss will learn to match their response ratios... same prediction is yielded by the Bush-Mosteller (1955) model when certain restrictions are applied to the parameters of that model.
+   - The second model, formalized by Von Neumann and Morgenstern (1947), is a game-theoretic model. According to some interpreters, one prediction consistent with this model is that a person will learn to maximize the expected frequency of correct predictions.
+
+** designs
+
+   constraints
+   1. there was no run of more than six successive occurrences of the more frequent event,
+   2. within every 20-trial block the 3:1 proportion was maintained.
+
+*** no-payoff design
+
+*** reward design
+
+    5c if correct, 0 else
+
+*** risk design
+
+    5c if correct, -5c if incorrect
+
+** results
+
+   The mean proportion of times that the more frequent light was predicted during the final trials of the first 100-trial series under the No Payoff condition was
+   - No payoff :: .70
+   - Reward :: .77
+   - Risk :: .93
+
+   data were tested by the Jonckheere (1954) test, a nonparametric k-sample test against ordered alternatives; in short, differences were significant
+
+** interesting points
+
+   - "it may be monotonous to make the same prediction on trial after trial over a long series, and predicting the rarer event may therefore satisfy S's utility of relieving boredom."
+   - "It would seem that Ss learn most rapidly under a condition of Risk (increased reinforcement)."
+
+*** table 1
+
+   number of Ss predicting more frequent event at various proportions during
+   final 20 trials of first 100-trial series
+
+| prob. predict probable event | no payoff | reward | risk |
+|------------------------------+-----------+--------+------|
+|                          .60 |         2 |        |      |
+|                          .65 |         3 |        |      |
+|                          .70 |         3 |      3 |      |
+|                          .75 |         2 |      4 |      |
+|                          .80 |         2 |      3 |      |
+|                          .85 |           |      1 |    3 |
+|                          .90 |           |      1 |    1 |
+|                          .95 |           |        |    5 |
+|                         1.00 |           |        |    5 |
+|------------------------------+-----------+--------+------|
+|                        total |        12 |     12 |   12 |
+
+*** table 2
+
+    followup study on 4 randomly selected S from each of the 12 in exp 1, for 200 more trials
+    
+    mean proportion of times the more frequent event was predicted by a subgroup of four Ss, randomly selected from each payoff group, during final 20 trials of each 100-trial series
+
+|  series | no payoff | reward | risk |
+|---------+-----------+--------+------|
+|   1-100 |       .69 |    .78 |  .95 |
+| 101-200 |       .74 |    .85 |  .95 |
+| 201-300 |       .75 |    .86 |  .95 |
+
+* anderson & whalen 1960
+
+54 nursing students
+350 trials
+by signal lamp
+50:50, 65:35, 80:20
+
+usage of holes with a center hole should also attract responses (shift to mean)
+
+increases salience of rationality mindset
+
+interesting for its use of P(outcome) /plus/ estimate of likelihood of outcome
+
+essentially establishes gambler's fallacy. also makes a point that theories at the time don't adequately explain sequential behaviors and switches. also finds that "equally likely" is unusually sparse.
+
+
