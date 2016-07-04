@@ -1622,6 +1622,24 @@ Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (
 
 ***** TODO how does this relate to the color perception mechanism, neuroanatomy, and maybe relate to the study about language and color perception?
 
+**** V4 activity modulation by attention
+
+     #+BEGIN_QUOTE
+     Activity in area V4 increased as attention to color increased [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988] (Fig. 2A). 
+     #+END_QUOTE
+
+     and later,
+
+     #+BEGIN_QUOTE
+     these data demonstrate that attentional modulation of area V4 is not a simple on/off mechanism [fn:corbettaetal1990] [fn:chawlaetal1999] [fn:spitzeretal1988]. Rather, activity in this area varies paramet- rically with increasingly greater attentional demands. 
+     #+END_QUOTE
+
+[fn:corbettaetal1990] doi:10.1126/science.2360050 /Attentional modulation of neural processing of shape, color, and velocity in humans/
+
+[fn:chawlaetal1999] doi:10.1038/10230 /The physiological basis of attentional modulation in extrastriate visual areas/
+
+[fn:spitzeretal1988] doi:10.1126/science.3353728 /Increased attention enhances both behavioral and neuronal performance/
+
 **** conclusions
 
      they're trying to find the mental metronome here
@@ -5861,6 +5879,10 @@ so they've both essentailly developed new systems while retaining a focus on wha
   
   https://www.youtube.com/watch?v=OKY6BGcx37k#t=195
 
+** Kevin Hart & Louis CK -- the audience doesn't know if you did poorly. Every show is either really good, or great
+
+   you are your toughest critic, you are in competition with yourself
+   https://youtu.be/HCtlZmCH8Q0?t=198
 
 
 * coaches and masters
@@ -5894,4 +5916,16 @@ so they've both essentailly developed new systems while retaining a focus on wha
 
    http://en.wikipedia.org/wiki/Seymour_Cray#Technical_approaches
 
+* competing on the basis of speed
 
+  https://www.youtube.com/watch?v=ZSdsjpCcpFw
+
+* net promoter score
+
+  richter /the ultimate question/
+
+* Mullainathan -- Scarcity: a talk for people too busy to attend talks
+
+  https://www.youtube.com/watch?v=u6_scuce5TA&feature=youtu.be&t=4876
+
+  
