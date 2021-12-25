@@ -4,6 +4,7 @@
 
 if a flipped coin comes up heads eight or nine times in a row, S is likely to decide that tails is "due" and so predict or bet on it on the next toss. This and similar sequential effects have been called the gambler's fallacy 
 
+... blah blah blah ...
 
 
 * early
