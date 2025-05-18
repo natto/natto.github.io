@@ -1,0 +1,1033 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="UTF-8"/><title>Jen-Hsun Huang - Stanford student and Entrepreneur</title><link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/github.min.css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Alex+Brush&amp;family=Raleway:wght@200&amp;family=Gruppo&amp;family=Julius+Sans+One&amp;family=Asul&amp;family=Concert+One&amp;family=Neuton&amp;family=Space+Mono&amp;family=Tillana&amp;family=Work+Sans&amp;display=swap" rel="stylesheet"/><style>@charset "UTF-8";
+@import "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/github.min.css";
+/* <in-line details/summary> */
+@import "https://fonts.googleapis.com/css2?family=Alex+Brush&family=Raleway:wght@200&family=Gruppo&family=Julius+Sans+One&family=Asul&family=Concert+One&family=Neuton&family=Space+Mono&family=Tillana&family=Work+Sans&display=swap";
+details[open] summary ~ * {
+  animation: sweep 0.3s ease-in-out;
+}
+
+@keyframes sweep {
+  0% {
+    opacity: 0;
+    margin-left: -0.5em;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    margin-left: 0;
+    width: none;
+  }
+}
+details {
+  display: inline;
+}
+
+details summary::after {
+  content: "⬎";
+  line-height: 1em;
+  margin: 0 0.5em 0 0.5em;
+}
+
+details summary {
+  list-style: none;
+  border-radius: 0.2em;
+  margin: 0 0.5em 0 0.5em;
+  padding: 0 0.5em 0 0;
+  cursor: pointer;
+  text-decoration: dashed underline #ccc 2px;
+}
+
+details summary:hover {
+  background: #eee;
+}
+
+details[open] > summary {
+  font-size: small;
+  display: inline;
+  margin: 0 0.5em 0 0.5em;
+  padding: 0 2px 0 2px;
+  line-height: 1em;
+  border: 1px solid gray;
+  border-radius: 0.5em;
+  opacity: 0.3;
+}
+
+details[open] > summary::after {
+  content: "⬑";
+}
+
+details[open] > :last-child {
+  margin-right: 0.5em;
+}
+
+details > p {
+  background: #ccc;
+  display: inline;
+}
+
+/* </in-line details/summary> */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  font-variant-ligatures: none;
+}
+
+/* theme stuff */
+/*
+  see https://fonts.google.com/featured/Perfect+Pairings
+  font-family: 'Asul', sans-serif;
+  font-family: 'Concert One', cursive;
+  font-family: 'Neuton', serif;
+  font-family: 'Space Mono', monospace;
+  font-family: 'Tillana', cursive;
+  font-family: 'Work Sans', sans-serif;
+*/
+.default {
+  font-size: 16pt;
+  color: #282d3a;
+}
+.default h1,
+.default h2,
+.default h3,
+.default h4,
+.default h5,
+.default h6 {
+  font-family: "Asul", sans-serif;
+  margin-top: 1rem;
+}
+.default h1 {
+  font-size: 28pt;
+}
+.default section {
+  font-family: "EB Garamond", serif;
+  font-size: 12pt;
+}
+.default code {
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  word-break: break-all;
+}
+.default code.hash-tag {
+  font-size: 48pt;
+  background: orange;
+}
+.default table {
+  font-family: "Work Sans", sans-serif;
+}
+.default a {
+  font-family: "Work Sans", sans-serif;
+  color: #4da2ba;
+}
+.default a:hover {
+  text-decoration: underline;
+}
+.default main {
+  width: 100%;
+}
+.default img {
+  max-width: 600px;
+}
+.default img.user-avatar-icon {
+  width: 3rem;
+  border: 1px solid #ccc;
+  border-radius: 1.5rem;
+  vertical-align: middle;
+  margin: -0.2rem 0.2rem 0 0.5rem;
+}
+.default div.diff-inserted-section {
+  opacity: 0.7;
+  padding: 2px;
+  display: block;
+  border: 1px solid green;
+  background: lime;
+}
+.default div.diff-deleted-section {
+  display: block;
+  opacity: 0.3;
+  padding: 2px;
+  border: 1px solid red;
+  background: pink;
+  text-decoration: line-through;
+}
+.default section {
+  transition: background 0.3s ease-in-out;
+  border-top-right-radius: 1em;
+}
+.default .collapsed {
+  display: none;
+}
+.default section.collapsed {
+  background: #f3f3f3;
+}
+.default section.collapsed h1,
+.default section.collapsed h2,
+.default section.collapsed h3,
+.default section.collapsed h4,
+.default section.collapsed h5,
+.default section.collapsed h6 {
+  opacity: 0.3;
+}
+.default section.collapsed h1:after,
+.default section.collapsed h2:after,
+.default section.collapsed h3:after,
+.default section.collapsed h4:after,
+.default section.collapsed h5:after,
+.default section.collapsed h6:after {
+  content: " …";
+}
+.default label.collapser {
+  position: absolute;
+  margin-top: -0.5rem;
+  z-index: 9;
+  cursor: pointer;
+  transition: opacity 0.2s ease-in-out;
+  opacity: 0.1;
+}
+.default label.collapser:hover {
+  opacity: 0.9;
+}
+.default label.collapser input {
+  display: none;
+}
+.default label.collapser input + .collapser-marker {
+  display: inline-block;
+  transition: transform 0.1s ease-out;
+}
+.default label.collapser input + .collapser-marker:before {
+  content: "▶";
+  height: 1em;
+  line-height: 1em;
+  vertical-align: 0.1em;
+}
+.default label.collapser input:checked + .collapser-marker {
+  transform: rotate(90deg);
+}
+.default .revision-info {
+  font-size: smaller;
+  overflow: hidden;
+}
+.default .revision-info .commit-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+.default .revision-info .commit-info div {
+  display: flex;
+}
+.default .revision-info .commit-info .revision-index {
+  min-width: 30rem;
+}
+.default .revision-info .commit-info .commit-message {
+  flex: 1;
+  margin-left: 1em;
+  padding-left: 0 0.5em 0 0.5em;
+  color: #aaa;
+  font-family: Raleway;
+  font-weight: bold;
+  min-width: 30rem;
+}
+.default .article-title {
+  text-align: center;
+  padding: 1em;
+}
+.default nav.table-of-contents {
+  border-top: 1px solid #ebeff1;
+  border-bottom: 1px solid #ebeff1;
+  width: 18rem;
+  padding: 0.8rem;
+  max-height: 60vh;
+  overflow: auto;
+}
+.default nav.table-of-contents ul {
+  list-style: none;
+  padding-left: 0.8em;
+  transition: border-left 0.3s ease-in-out;
+  border-left: 0.2em solid white;
+  margin: 0;
+}
+.default nav.table-of-contents ul li {
+  padding: 0.1em;
+  cursor: pointer;
+}
+.default nav.table-of-contents a {
+  font-family: "Asul", sans-serif;
+  color: #96a2a2;
+}
+.default nav.table-of-contents a:hover {
+  background: #f3f1f2;
+}
+.default .article-display-section .article-left-sidebar > .section-heading {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  text-align: center;
+  height: 1.5em;
+  color: #96a2a2;
+  font-family: "Work Sans", sans-serif;
+}
+.default .article-display-section .article-left-sidebar > .links-section {
+  padding-left: 1em;
+}
+.default .article-display-section .article-content h1 {
+  border-bottom: 3px double #776963;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 26pt;
+}
+.default .article-display-section .article-content h1:hover a.in-page-link {
+  display: block;
+}
+.default .article-display-section .article-content h1 a.in-page-link {
+  font-size: 14pt;
+  display: none;
+  position: absolute;
+  margin-left: -1em;
+}
+.default .article-display-section .article-content h2 {
+  font-size: 22pt;
+}
+.default .article-display-section .article-content h2:hover a.in-page-link {
+  display: block;
+}
+.default .article-display-section .article-content h2 a.in-page-link {
+  font-size: 14pt;
+  display: none;
+  position: absolute;
+  margin-left: -1em;
+}
+.default .article-display-section .article-content h3:hover a.in-page-link {
+  display: block;
+}
+.default .article-display-section .article-content h3 a.in-page-link {
+  font-size: 14pt;
+  display: none;
+  position: absolute;
+  margin-left: -1em;
+}
+.default .article-display-section .article-content li {
+  line-height: 1.2em;
+}
+.default .article-display-section .article-content a,
+.default .article-display-section .article-content code,
+.default .article-display-section .article-content table {
+  background: none;
+}
+.default .article-display-section .article-content table {
+  margin: 0.5em;
+  border: 1px solid #ebeff1;
+}
+.default .article-display-section .article-content thead th {
+  padding: 0.2rem;
+  border-bottom: 2px solid #96a2a2;
+}
+.default .article-display-section .article-content tbody tr:nth-child(2n+1) {
+  background: #ebeff1;
+}
+.default .article-display-section .article-content blockquote {
+  font-family: Tillana;
+  font-weight: bold;
+  font-size: large;
+  border: 1px solid #ccc;
+  background: #f3f1f2;
+  border-radius: 0.5em;
+  color: #776963;
+  padding: 0.1em 1.5em 0.1em 1.5em;
+}
+.default .article-display-section .article-content pre {
+  background: #ebeff1;
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+  margin: 1em;
+  padding: 0 0.5em 0 0.5em;
+  position: relative;
+}
+.default .article-display-section .article-content p > code,
+.default .article-display-section .article-content li > code {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0 0.3em 0 0.3em;
+  margin: 0 0.3em 0 0.3em;
+  font-size: small;
+}
+.default .hljs::before {
+  position: absolute;
+  right: 0.3rem;
+  padding: 0.1em 0.3em 0.1em 0.3em;
+  margin: 0;
+  margin-top: -1rem;
+  font-weight: bold;
+  border-radius: 3px;
+}
+.default .language-javascript::before {
+  content: "js";
+  color: #000;
+  background: #f7df1e;
+  font-size: small;
+}
+.default .language-json::before {
+  content: "json";
+  color: #f7df1e;
+  background: black;
+  font-size: small;
+}
+.default .language-sh::before {
+  content: "sh";
+  color: white;
+  background: black;
+  font-size: small;
+}
+.default .language-bash::before {
+  content: "bash";
+  color: white;
+  background: black;
+  font-size: small;
+}
+.default .language-makefile::before {
+  content: "make";
+  color: white;
+  background: black;
+  font-size: small;
+}
+.default .language-python::before {
+  content: "py";
+  color: #ffd438;
+  background: #306998;
+  font-size: small;
+}
+.default .language-nix::before {
+  content: "nix";
+  color: #7ab4dd;
+  background: #4f73bd;
+  font-size: small;
+}
+.default .language-html::before {
+  content: "html";
+  color: white;
+  background: #e96228;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #dd4b25;
+}
+.default .language-css::before {
+  content: "css";
+  color: white;
+  background: #2862e9;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #204ade;
+}
+.default .language-jsx::before {
+  content: "jsx";
+  color: #000;
+  background: #f7df1e;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #8650a1;
+}
+.default .language-xml::before {
+  content: "xml";
+  color: #cd0000;
+  background: white;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #0000f7;
+}
+.default .language-clojure::before {
+  content: "clj";
+  color: #60ab30;
+  background: white;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #557dd1;
+}
+.default .language-jsonnet::before {
+  content: "jsonnet";
+  color: #f7f7f7;
+  background: #0062b7;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #7c7c7c;
+}
+.default .comments-section {
+  padding-top: 2rem;
+}
+.default .comments-section h2 {
+  text-transform: uppercase;
+}
+.default h1#header-line-footnotes {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: larger;
+  padding: 1rem;
+  font-family: "Work Sans", sans-serif;
+}
+.default .footnotes {
+  font-size: smaller;
+}
+.default footer {
+  font-size: smaller;
+}
+.default footer img.powered-by {
+  margin: -0.5rem 0 0 0.5rem;
+}
+
+@media screen and (min-width: 901px) {
+  .centerizer {
+    width: 100%;
+  }
+
+  .article-display-section {
+    min-width: 900px;
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+  }
+  .article-display-section .article-left-sidebar {
+    width: 18rem;
+    display: block;
+    position: fixed;
+  }
+  .article-display-section .article-content {
+    padding-left: 20rem;
+  }
+
+  nav.table-of-contents {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    font-size: smaller;
+  }
+
+  .article-left-sidebar {
+    display: flex;
+    width: 18rem;
+  }
+  .article-left-sidebar .section-heading {
+    position: relative;
+    margin: 1rem 0 1rem 0;
+  }
+
+  .article-content {
+    width: 100%;
+    padding-right: 1em;
+    padding-left: 1em;
+  }
+
+  .comments-section {
+    min-width: 900px;
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    padding-left: 20rem;
+    margin: auto;
+    width: h2;
+    width-color: #96a2a2;
+    width-text-transform: uppercase;
+    width-letter-spacing: 0.2em;
+    width-font-size: smaller;
+    width-padding: 1rem;
+    width-font-family: "Work Sans", sans-serif;
+  }
+}
+@media screen and (max-width: 900px) {
+  label.collapser input + .collapser-marker:before {
+    font-size: 22pt;
+  }
+
+  .default .article-display-section {
+    flex-direction: column;
+  }
+  .default .article-display-section .section-label {
+    position: relative;
+  }
+  .default .article-left-sidebar {
+    z-index: 99;
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    height: 2rem;
+  }
+  .default .article-left-sidebar .section-heading {
+    background: white;
+  }
+  .default .article-left-sidebar nav {
+    background: white;
+    box-shadow: 0 0.5rem 1rem black;
+    font-size: large;
+    border: 2px solid #ebeff1;
+    border-radius: 5px;
+    margin: 0;
+    width: 100%;
+  }
+  .default pre {
+    overflow: hidden;
+  }
+  .default .revision-info {
+    padding: 0 0.5em 0 0.5em;
+    font-size: smaller;
+  }
+  .default .article-content {
+    padding: 0 0.5em 0 0.5em;
+    width: 100%;
+  }
+  .default .comments-section {
+    padding: 0 0.5em 0 0.5em;
+  }
+
+  main img {
+    width: 100%;
+  }
+
+  .revision-info {
+    margin-top: 2rem;
+  }
+  .revision-info .commit-info {
+    font-size: smaller;
+  }
+}
+/* component stuff */
+.slider-ticks {
+  position: relative;
+}
+
+.slider-tracks div {
+  position: absolute;
+  transform: translate(0%, -50%);
+  height: 14px;
+  z-index: 1;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.slider-handles {
+  background: black;
+}
+.slider-handles button {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 5;
+  width: 28px;
+  height: 42px;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+.slider-handles div[role=slider] {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.3);
+  background: #96a2a2;
+}
+
+/* <ruuri>
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+:root {
+  --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  // background-color: #f7f7f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  margin: 30px auto;
+  width: 350px;
+}
+
+h1 {
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+h3 {
+  border-bottom: 1px solid #bbb;
+  padding-bottom: 10px;
+  margin: 40px 0 10px;
+}
+
+h4 {
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.inc-exp-container {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.inc-exp-container > div {
+  flex: 1;
+  text-align: center;
+}
+
+.inc-exp-container > div:first-of-type {
+  border-right: 1px solid #dedede;
+}
+
+.money {
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.money.plus {
+  color: #2ecc71;
+}
+
+.money.minus {
+  color: #c0392b;
+}
+
+label {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+input[type="text"],
+input[type="number"] {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: #9c88ff;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 16px;
+  margin: 10px 0 30px;
+  padding: 10px;
+  width: 100%;
+}
+
+.btn:focus,
+.delete-btn:focus {
+  outline: 0;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+.list li {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.list li.plus {
+  border-right: 5px solid #2ecc71;
+}
+
+.list li.minus {
+  border-right: 5px solid #c0392b;
+}
+
+.delete-btn {
+  cursor: pointer;
+  background-color: #e74c3c;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20px;
+  padding: 2px 5px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-100%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.list li:hover .delete-btn {
+  opacity: 1;
+}
+
+/* </ruuri> */
+/*
+
+svg[id^="m"][width][height][viewBox] {
+  min-width: 900px;
+  max-width: 1800px;
+  width: 100%;
+  height: auto;
+}
+
+svg[id^="m"][width][height][viewBox] {
+  min-width: 500px;
+  max-width: 1000px;
+  width: 100%;
+  height: auto;
+}
+*/
+svg[id^=m][width][height][viewBox] {
+  height: auto;
+}
+svg[id^=m][width][height][viewBox]:hover {
+  box-shadow: 0 0 0.2rem 0.2rem #999;
+}
+
+.modal-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background-color: #33333399;
+}
+.modal-view svg,
+.modal-view img {
+  border: 1px solid black;
+  height: auto;
+  vertical-align: middle;
+}
+
+/* new stuff */
+h1 {
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin: 2rem 0 1.5rem;
+  color: #282d3a;
+  line-height: 1.2;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 2rem 0 1rem;
+  color: #282d3a;
+  line-height: 1.3;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin: 1.5rem 0 1rem;
+  color: #776963;
+  line-height: 1.4;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 1.5rem 0 0.75rem;
+  color: #776963;
+  line-height: 1.4;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.75rem;
+  color: #776963;
+  line-height: 1.4;
+}
+
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 1rem 0 0.5rem;
+  color: #776963;
+  line-height: 1.4;
+}</style><style>.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 80vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+h1.title {
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  color: #333;
+  text-transform: uppercase;
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+.title,
+.description {
+  text-align: center;
+}
+
+.description {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
+.card {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  max-width: 300px;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: #0070f3;
+  border-color: #0070f3;
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}</style></head><body class="bg-gray-50 p-8"><div class="max-w-3xl mx-auto"><nav class="mb-4"><a href="../../../index.html" class="text-blue-600 hover:underline">← Back to Index</a></nav><article><div class="prose prose-lg"><h1 id="header-line-0" class="header-depth-1">Jen-Hsun Huang - Stanford student and Entrepreneur</h1><p>  this talk is FANTASTIC
+</p><p>  <iframe width="600" height="400" src="https://www.youtube.com/embed/Xn1EsFe7snQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><h2 id="header-line-0" class="header-depth-2">perspective, vision matters</h2><p>   16:28
+</p><p>   We were in 1993 the only consumer 3D graphics company in the world.
+</p><p>   Silicon Graphics up the street was the professional -- if you will -- 3D graphics company. By the end of a couple of years or so -- 1995 -- there were probably 50, 70 startups doing exactly the same thing that we were trying to do. And over time, we competed without about 200 companies. NVidia today is the only surviving computer graphics company in the world. And so the question is then, what happened?
+</p><p>   Competition is intense. Everybody has smart people. Everybody has money.
+</p><p>   ...
+</p><p>   I would argue that 300 companies, armed with exactly the same technology, armed with exactly the same people, the company that wins... and lets say the all execute. And they did. With 300 companies, 50% of them were gonna execute at any given point in time. And so the question is, why does one survive.
+</p><p>   Well, I think it matters to have perspective.
+</p><p>   ...
+</p><p>   I always believed that you need to understand the reason why your business works. What is the essence of your business? Why does it work?
+</p><h2 id="header-line-0" class="header-depth-2">Moore's law</h2><p>   "is a law of setting pace"
+</p><h2 id="header-line-0" class="header-depth-2">when your customers all tell you not to do something... what do you do?</h2><p>   because we had this unique perspective that 3D graphics was insatiable, and Moore's Law was our friend, therefore, we should make our graphics processesors twice as good every year.
+</p><p>   "we're going to ignore customers"
+</p><p>   -- the customers don't know the nature of the business. there's no common sense
+</p><h2 id="header-line-0" class="header-depth-2">what happens when your product becomes "good enough"</h2><p>   22:03
+</p><p>   "The programmable shader"
+</p><p>   3d graphics was not going to be sustainable as a accelerator, or fixed function device, that renders texture maps and polygons on the screen.
+</p><p>   we had to change the company to make the 3d graphics processors programmable to be an artistic medium of expression
+</p><p>   24:00
+</p><p>   the crossing from one generation of technology to the next generation almost killed the company
+</p><h2 id="header-line-0" class="header-depth-2">dying at the rate of Moore's Law</h2><p>   when you're in a technology industry, when the technology moves this fast, the if you're not reinventing yourself, you're just slowly dying, unfortunately, at the rate of Moore's Law.
+</p><h2 id="header-line-0" class="header-depth-2">cannibalizing your own products</h2><p>   so we have a product that's generating a lot of money, and it's very successful, how do you cannibalize it?
+</p><h2 id="header-line-0" class="header-depth-2">developing a tolerance for failure</h2><p>   I don't believe you can fundamentally say that you want, as a CEO, to nurture the spirit of innovation, to encourage innovation, unless you have a culture of risk taking
+</p><p>   we have to encourage our engineers, our marketing people, all of our employees, to take calculated risks. In order to encourage them to take calculated risks, first of all you have to teach them. that's a skill. a matter of skill. then the second part is a matter of courage.
+</p><h2 id="header-line-0" class="header-depth-2">you must keep reinventing the company</h2><p>   the biggest challenge with building a company is the reinvention of the company.
+</p><p>   every successful thing needs to be torn down at some point and be rebuilt. it
+   is unfortunate but true. and the reason for that is because the technology
+   either gets good enough, and therefore you have to reinvent. and sometimes the
+   invention process is disruptive. sometimes it is in fact destructive. it could
+   destroy what you have built in the past.
+</p><h2 id="header-line-0" class="header-depth-2">as the ceo</h2><p>   you're either making money, saving money, or raising money
+</p><h2 id="header-line-0" class="header-depth-2">the definition of a startup</h2><p>   as a startup you're always going out of business. that's the definition of a startup! an enterprise that is nearly out of business all the time.</p></div></article><footer class="mt-8 text-sm text-gray-500"><p>Last updated: 2013-06-04T04:14:33.000Z</p><p>Commit: c81d72b</p></footer></div></body></html>

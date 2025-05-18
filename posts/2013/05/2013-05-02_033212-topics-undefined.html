@@ -1,0 +1,1125 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="UTF-8"/><title>topics</title><link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/github.min.css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Alex+Brush&amp;family=Raleway:wght@200&amp;family=Gruppo&amp;family=Julius+Sans+One&amp;family=Asul&amp;family=Concert+One&amp;family=Neuton&amp;family=Space+Mono&amp;family=Tillana&amp;family=Work+Sans&amp;display=swap" rel="stylesheet"/><style>@charset "UTF-8";
+@import "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/github.min.css";
+/* <in-line details/summary> */
+@import "https://fonts.googleapis.com/css2?family=Alex+Brush&family=Raleway:wght@200&family=Gruppo&family=Julius+Sans+One&family=Asul&family=Concert+One&family=Neuton&family=Space+Mono&family=Tillana&family=Work+Sans&display=swap";
+details[open] summary ~ * {
+  animation: sweep 0.3s ease-in-out;
+}
+
+@keyframes sweep {
+  0% {
+    opacity: 0;
+    margin-left: -0.5em;
+    width: 0;
+  }
+  100% {
+    opacity: 1;
+    margin-left: 0;
+    width: none;
+  }
+}
+details {
+  display: inline;
+}
+
+details summary::after {
+  content: "⬎";
+  line-height: 1em;
+  margin: 0 0.5em 0 0.5em;
+}
+
+details summary {
+  list-style: none;
+  border-radius: 0.2em;
+  margin: 0 0.5em 0 0.5em;
+  padding: 0 0.5em 0 0;
+  cursor: pointer;
+  text-decoration: dashed underline #ccc 2px;
+}
+
+details summary:hover {
+  background: #eee;
+}
+
+details[open] > summary {
+  font-size: small;
+  display: inline;
+  margin: 0 0.5em 0 0.5em;
+  padding: 0 2px 0 2px;
+  line-height: 1em;
+  border: 1px solid gray;
+  border-radius: 0.5em;
+  opacity: 0.3;
+}
+
+details[open] > summary::after {
+  content: "⬑";
+}
+
+details[open] > :last-child {
+  margin-right: 0.5em;
+}
+
+details > p {
+  background: #ccc;
+  display: inline;
+}
+
+/* </in-line details/summary> */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  font-variant-ligatures: none;
+}
+
+/* theme stuff */
+/*
+  see https://fonts.google.com/featured/Perfect+Pairings
+  font-family: 'Asul', sans-serif;
+  font-family: 'Concert One', cursive;
+  font-family: 'Neuton', serif;
+  font-family: 'Space Mono', monospace;
+  font-family: 'Tillana', cursive;
+  font-family: 'Work Sans', sans-serif;
+*/
+.default {
+  font-size: 16pt;
+  color: #282d3a;
+}
+.default h1,
+.default h2,
+.default h3,
+.default h4,
+.default h5,
+.default h6 {
+  font-family: "Asul", sans-serif;
+  margin-top: 1rem;
+}
+.default h1 {
+  font-size: 28pt;
+}
+.default section {
+  font-family: "EB Garamond", serif;
+  font-size: 12pt;
+}
+.default code {
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  word-break: break-all;
+}
+.default code.hash-tag {
+  font-size: 48pt;
+  background: orange;
+}
+.default table {
+  font-family: "Work Sans", sans-serif;
+}
+.default a {
+  font-family: "Work Sans", sans-serif;
+  color: #4da2ba;
+}
+.default a:hover {
+  text-decoration: underline;
+}
+.default main {
+  width: 100%;
+}
+.default img {
+  max-width: 600px;
+}
+.default img.user-avatar-icon {
+  width: 3rem;
+  border: 1px solid #ccc;
+  border-radius: 1.5rem;
+  vertical-align: middle;
+  margin: -0.2rem 0.2rem 0 0.5rem;
+}
+.default div.diff-inserted-section {
+  opacity: 0.7;
+  padding: 2px;
+  display: block;
+  border: 1px solid green;
+  background: lime;
+}
+.default div.diff-deleted-section {
+  display: block;
+  opacity: 0.3;
+  padding: 2px;
+  border: 1px solid red;
+  background: pink;
+  text-decoration: line-through;
+}
+.default section {
+  transition: background 0.3s ease-in-out;
+  border-top-right-radius: 1em;
+}
+.default .collapsed {
+  display: none;
+}
+.default section.collapsed {
+  background: #f3f3f3;
+}
+.default section.collapsed h1,
+.default section.collapsed h2,
+.default section.collapsed h3,
+.default section.collapsed h4,
+.default section.collapsed h5,
+.default section.collapsed h6 {
+  opacity: 0.3;
+}
+.default section.collapsed h1:after,
+.default section.collapsed h2:after,
+.default section.collapsed h3:after,
+.default section.collapsed h4:after,
+.default section.collapsed h5:after,
+.default section.collapsed h6:after {
+  content: " …";
+}
+.default label.collapser {
+  position: absolute;
+  margin-top: -0.5rem;
+  z-index: 9;
+  cursor: pointer;
+  transition: opacity 0.2s ease-in-out;
+  opacity: 0.1;
+}
+.default label.collapser:hover {
+  opacity: 0.9;
+}
+.default label.collapser input {
+  display: none;
+}
+.default label.collapser input + .collapser-marker {
+  display: inline-block;
+  transition: transform 0.1s ease-out;
+}
+.default label.collapser input + .collapser-marker:before {
+  content: "▶";
+  height: 1em;
+  line-height: 1em;
+  vertical-align: 0.1em;
+}
+.default label.collapser input:checked + .collapser-marker {
+  transform: rotate(90deg);
+}
+.default .revision-info {
+  font-size: smaller;
+  overflow: hidden;
+}
+.default .revision-info .commit-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+.default .revision-info .commit-info div {
+  display: flex;
+}
+.default .revision-info .commit-info .revision-index {
+  min-width: 30rem;
+}
+.default .revision-info .commit-info .commit-message {
+  flex: 1;
+  margin-left: 1em;
+  padding-left: 0 0.5em 0 0.5em;
+  color: #aaa;
+  font-family: Raleway;
+  font-weight: bold;
+  min-width: 30rem;
+}
+.default .article-title {
+  text-align: center;
+  padding: 1em;
+}
+.default nav.table-of-contents {
+  border-top: 1px solid #ebeff1;
+  border-bottom: 1px solid #ebeff1;
+  width: 18rem;
+  padding: 0.8rem;
+  max-height: 60vh;
+  overflow: auto;
+}
+.default nav.table-of-contents ul {
+  list-style: none;
+  padding-left: 0.8em;
+  transition: border-left 0.3s ease-in-out;
+  border-left: 0.2em solid white;
+  margin: 0;
+}
+.default nav.table-of-contents ul li {
+  padding: 0.1em;
+  cursor: pointer;
+}
+.default nav.table-of-contents a {
+  font-family: "Asul", sans-serif;
+  color: #96a2a2;
+}
+.default nav.table-of-contents a:hover {
+  background: #f3f1f2;
+}
+.default .article-display-section .article-left-sidebar > .section-heading {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  text-align: center;
+  height: 1.5em;
+  color: #96a2a2;
+  font-family: "Work Sans", sans-serif;
+}
+.default .article-display-section .article-left-sidebar > .links-section {
+  padding-left: 1em;
+}
+.default .article-display-section .article-content h1 {
+  border-bottom: 3px double #776963;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 26pt;
+}
+.default .article-display-section .article-content h1:hover a.in-page-link {
+  display: block;
+}
+.default .article-display-section .article-content h1 a.in-page-link {
+  font-size: 14pt;
+  display: none;
+  position: absolute;
+  margin-left: -1em;
+}
+.default .article-display-section .article-content h2 {
+  font-size: 22pt;
+}
+.default .article-display-section .article-content h2:hover a.in-page-link {
+  display: block;
+}
+.default .article-display-section .article-content h2 a.in-page-link {
+  font-size: 14pt;
+  display: none;
+  position: absolute;
+  margin-left: -1em;
+}
+.default .article-display-section .article-content h3:hover a.in-page-link {
+  display: block;
+}
+.default .article-display-section .article-content h3 a.in-page-link {
+  font-size: 14pt;
+  display: none;
+  position: absolute;
+  margin-left: -1em;
+}
+.default .article-display-section .article-content li {
+  line-height: 1.2em;
+}
+.default .article-display-section .article-content a,
+.default .article-display-section .article-content code,
+.default .article-display-section .article-content table {
+  background: none;
+}
+.default .article-display-section .article-content table {
+  margin: 0.5em;
+  border: 1px solid #ebeff1;
+}
+.default .article-display-section .article-content thead th {
+  padding: 0.2rem;
+  border-bottom: 2px solid #96a2a2;
+}
+.default .article-display-section .article-content tbody tr:nth-child(2n+1) {
+  background: #ebeff1;
+}
+.default .article-display-section .article-content blockquote {
+  font-family: Tillana;
+  font-weight: bold;
+  font-size: large;
+  border: 1px solid #ccc;
+  background: #f3f1f2;
+  border-radius: 0.5em;
+  color: #776963;
+  padding: 0.1em 1.5em 0.1em 1.5em;
+}
+.default .article-display-section .article-content pre {
+  background: #ebeff1;
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+  margin: 1em;
+  padding: 0 0.5em 0 0.5em;
+  position: relative;
+}
+.default .article-display-section .article-content p > code,
+.default .article-display-section .article-content li > code {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0 0.3em 0 0.3em;
+  margin: 0 0.3em 0 0.3em;
+  font-size: small;
+}
+.default .hljs::before {
+  position: absolute;
+  right: 0.3rem;
+  padding: 0.1em 0.3em 0.1em 0.3em;
+  margin: 0;
+  margin-top: -1rem;
+  font-weight: bold;
+  border-radius: 3px;
+}
+.default .language-javascript::before {
+  content: "js";
+  color: #000;
+  background: #f7df1e;
+  font-size: small;
+}
+.default .language-json::before {
+  content: "json";
+  color: #f7df1e;
+  background: black;
+  font-size: small;
+}
+.default .language-sh::before {
+  content: "sh";
+  color: white;
+  background: black;
+  font-size: small;
+}
+.default .language-bash::before {
+  content: "bash";
+  color: white;
+  background: black;
+  font-size: small;
+}
+.default .language-makefile::before {
+  content: "make";
+  color: white;
+  background: black;
+  font-size: small;
+}
+.default .language-python::before {
+  content: "py";
+  color: #ffd438;
+  background: #306998;
+  font-size: small;
+}
+.default .language-nix::before {
+  content: "nix";
+  color: #7ab4dd;
+  background: #4f73bd;
+  font-size: small;
+}
+.default .language-html::before {
+  content: "html";
+  color: white;
+  background: #e96228;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #dd4b25;
+}
+.default .language-css::before {
+  content: "css";
+  color: white;
+  background: #2862e9;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #204ade;
+}
+.default .language-jsx::before {
+  content: "jsx";
+  color: #000;
+  background: #f7df1e;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #8650a1;
+}
+.default .language-xml::before {
+  content: "xml";
+  color: #cd0000;
+  background: white;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #0000f7;
+}
+.default .language-clojure::before {
+  content: "clj";
+  color: #60ab30;
+  background: white;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #557dd1;
+}
+.default .language-jsonnet::before {
+  content: "jsonnet";
+  color: #f7f7f7;
+  background: #0062b7;
+  font-size: small;
+  box-shadow: inset 0 0 0 2px #7c7c7c;
+}
+.default .comments-section {
+  padding-top: 2rem;
+}
+.default .comments-section h2 {
+  text-transform: uppercase;
+}
+.default h1#header-line-footnotes {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: larger;
+  padding: 1rem;
+  font-family: "Work Sans", sans-serif;
+}
+.default .footnotes {
+  font-size: smaller;
+}
+.default footer {
+  font-size: smaller;
+}
+.default footer img.powered-by {
+  margin: -0.5rem 0 0 0.5rem;
+}
+
+@media screen and (min-width: 901px) {
+  .centerizer {
+    width: 100%;
+  }
+
+  .article-display-section {
+    min-width: 900px;
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+  }
+  .article-display-section .article-left-sidebar {
+    width: 18rem;
+    display: block;
+    position: fixed;
+  }
+  .article-display-section .article-content {
+    padding-left: 20rem;
+  }
+
+  nav.table-of-contents {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    font-size: smaller;
+  }
+
+  .article-left-sidebar {
+    display: flex;
+    width: 18rem;
+  }
+  .article-left-sidebar .section-heading {
+    position: relative;
+    margin: 1rem 0 1rem 0;
+  }
+
+  .article-content {
+    width: 100%;
+    padding-right: 1em;
+    padding-left: 1em;
+  }
+
+  .comments-section {
+    min-width: 900px;
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    padding-left: 20rem;
+    margin: auto;
+    width: h2;
+    width-color: #96a2a2;
+    width-text-transform: uppercase;
+    width-letter-spacing: 0.2em;
+    width-font-size: smaller;
+    width-padding: 1rem;
+    width-font-family: "Work Sans", sans-serif;
+  }
+}
+@media screen and (max-width: 900px) {
+  label.collapser input + .collapser-marker:before {
+    font-size: 22pt;
+  }
+
+  .default .article-display-section {
+    flex-direction: column;
+  }
+  .default .article-display-section .section-label {
+    position: relative;
+  }
+  .default .article-left-sidebar {
+    z-index: 99;
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    height: 2rem;
+  }
+  .default .article-left-sidebar .section-heading {
+    background: white;
+  }
+  .default .article-left-sidebar nav {
+    background: white;
+    box-shadow: 0 0.5rem 1rem black;
+    font-size: large;
+    border: 2px solid #ebeff1;
+    border-radius: 5px;
+    margin: 0;
+    width: 100%;
+  }
+  .default pre {
+    overflow: hidden;
+  }
+  .default .revision-info {
+    padding: 0 0.5em 0 0.5em;
+    font-size: smaller;
+  }
+  .default .article-content {
+    padding: 0 0.5em 0 0.5em;
+    width: 100%;
+  }
+  .default .comments-section {
+    padding: 0 0.5em 0 0.5em;
+  }
+
+  main img {
+    width: 100%;
+  }
+
+  .revision-info {
+    margin-top: 2rem;
+  }
+  .revision-info .commit-info {
+    font-size: smaller;
+  }
+}
+/* component stuff */
+.slider-ticks {
+  position: relative;
+}
+
+.slider-tracks div {
+  position: absolute;
+  transform: translate(0%, -50%);
+  height: 14px;
+  z-index: 1;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.slider-handles {
+  background: black;
+}
+.slider-handles button {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 5;
+  width: 28px;
+  height: 42px;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+.slider-handles div[role=slider] {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.3);
+  background: #96a2a2;
+}
+
+/* <ruuri>
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+:root {
+  --box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  // background-color: #f7f7f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  margin: 30px auto;
+  width: 350px;
+}
+
+h1 {
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+h3 {
+  border-bottom: 1px solid #bbb;
+  padding-bottom: 10px;
+  margin: 40px 0 10px;
+}
+
+h4 {
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.inc-exp-container {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.inc-exp-container > div {
+  flex: 1;
+  text-align: center;
+}
+
+.inc-exp-container > div:first-of-type {
+  border-right: 1px solid #dedede;
+}
+
+.money {
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.money.plus {
+  color: #2ecc71;
+}
+
+.money.minus {
+  color: #c0392b;
+}
+
+label {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+input[type="text"],
+input[type="number"] {
+  border: 1px solid #dedede;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: #9c88ff;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 16px;
+  margin: 10px 0 30px;
+  padding: 10px;
+  width: 100%;
+}
+
+.btn:focus,
+.delete-btn:focus {
+  outline: 0;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+.list li {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.list li.plus {
+  border-right: 5px solid #2ecc71;
+}
+
+.list li.minus {
+  border-right: 5px solid #c0392b;
+}
+
+.delete-btn {
+  cursor: pointer;
+  background-color: #e74c3c;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20px;
+  padding: 2px 5px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(-100%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.list li:hover .delete-btn {
+  opacity: 1;
+}
+
+/* </ruuri> */
+/*
+
+svg[id^="m"][width][height][viewBox] {
+  min-width: 900px;
+  max-width: 1800px;
+  width: 100%;
+  height: auto;
+}
+
+svg[id^="m"][width][height][viewBox] {
+  min-width: 500px;
+  max-width: 1000px;
+  width: 100%;
+  height: auto;
+}
+*/
+svg[id^=m][width][height][viewBox] {
+  height: auto;
+}
+svg[id^=m][width][height][viewBox]:hover {
+  box-shadow: 0 0 0.2rem 0.2rem #999;
+}
+
+.modal-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background-color: #33333399;
+}
+.modal-view svg,
+.modal-view img {
+  border: 1px solid black;
+  height: auto;
+  vertical-align: middle;
+}
+
+/* new stuff */
+h1 {
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin: 2rem 0 1.5rem;
+  color: #282d3a;
+  line-height: 1.2;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 2rem 0 1rem;
+  color: #282d3a;
+  line-height: 1.3;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin: 1.5rem 0 1rem;
+  color: #776963;
+  line-height: 1.4;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 1.5rem 0 0.75rem;
+  color: #776963;
+  line-height: 1.4;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.75rem;
+  color: #776963;
+  line-height: 1.4;
+}
+
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 1rem 0 0.5rem;
+  color: #776963;
+  line-height: 1.4;
+}</style><style>.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 80vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+h1.title {
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  color: #333;
+  text-transform: uppercase;
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+.title,
+.description {
+  text-align: center;
+}
+
+.description {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+
+.card {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  max-width: 300px;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+  color: #0070f3;
+  border-color: #0070f3;
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}</style></head><body class="bg-gray-50 p-8"><div class="max-w-3xl mx-auto"><nav class="mb-4"><a href="../../../index.html" class="text-blue-600 hover:underline">← Back to Index</a></nav><article><div class="prose prose-lg"><h1 id="header-line-0" class="header-depth-1">topics</h1><h2 id="header-line-0" class="header-depth-2">papers</h2><h3 id="header-line-0" class="header-depth-3">Similar brain activation patterns for writing logographic and phonetic symbols in Chinese</h3><p>    doi:10.1097/WNR.0b013e3282f0405b
+</p><h3 id="header-line-0" class="header-depth-3">human kin recognition</h3><p>    trying to understand the stats. can we replicate them?
+</p><p>    based on Figure 2:
+</p><table><thead><tr><th>type</th><th>question</th><th>barcolor</th><th>expect</th><th>stderr</th><th># self</th><th>N subjects</th><th>self / N</th></tr></thead><tbody><tr><td>MZ</td><td>sibling</td><td>white</td><td>62</td><td>9</td><td>21</td><td>34.0</td><td>62</td></tr><tr><td>DZ</td><td>sibling</td><td>white</td><td>67</td><td>8</td><td>24</td><td>36.0</td><td>67</td></tr><tr><td>MZ</td><td>emergency</td><td>gray</td><td>68</td><td>8</td><td>23</td><td>34.0</td><td>68</td></tr><tr><td>DZ</td><td>emergency</td><td>gray</td><td>58</td><td>9</td><td>21</td><td>36.0</td><td>58</td></tr></tbody></table><p>with this, we've reproduced the bargraph values
+</p><p>the conclusions are based on t-tests for those values
+</p><p>This gives the first result (t<sub>69</sub> = 2.2, p = 0.030)
+</p><pre class="src-block"><code class="hljs language-R">t.test(<span class="hljs-built_in">c</span>(<span class="hljs-built_in">rep</span>(<span class="hljs-number">1</span>, <span class="hljs-number">44</span>), <span class="hljs-built_in">rep</span>(<span class="hljs-number">0</span>, <span class="hljs-number">26</span>)), mu=<span class="hljs-number">0.5</span>)
+</code></pre><div class="example">
+	One Sample t-test
+
+data:  c(rep(1, 44), rep(0, 26)) 
+t = 2.2103, df = 69, p-value = 0.0304
+alternative hypothesis: true mean is not equal to 0.5 
+95 percent confidence interval:
+ 0.5125278 0.7446151 
+sample estimates:
+mean of x 
+0.6285714
+</div><p>This gives the second result (t<sub>69</sub> = 2.5, p = 0.016)
+</p><pre class="src-block"><code class="hljs language-R">t.test(<span class="hljs-built_in">c</span>(<span class="hljs-built_in">rep</span>(<span class="hljs-number">1</span>, <span class="hljs-number">45</span>), <span class="hljs-built_in">rep</span>(<span class="hljs-number">0</span>, <span class="hljs-number">25</span>)), mu=<span class="hljs-number">0.5</span>)
+</code></pre><div class="example">
+	One Sample t-test
+
+data:  c(rep(1, 45), rep(0, 25)) 
+t = 2.4766, df = 69, p-value = 0.01572
+alternative hypothesis: true mean is not equal to 0.5 
+95 percent confidence interval:
+ 0.5277812 0.7579331 
+sample estimates:
+mean of x 
+0.6428571
+</div><p>I was first wondering whether using a binomial test would be more proper. e.g.,
+</p><pre class="src-block"><code class="hljs language-R">binom.test(<span class="hljs-number">44</span>, n=<span class="hljs-number">70</span>)
+</code></pre><div class="example">
+	Exact binomial test
+
+data:  44 and 70 
+number of successes = 44, number of trials = 70, p-value = 0.04139
+alternative hypothesis: true probability of success is not equal to 0.5 
+95 percent confidence interval:
+ 0.5047659 0.7411302 
+sample estimates:
+probability of success 
+             0.6285714
+</div><p>To replicate the first case. That's fine and all. Then it occured to me that
+</p><p>DZ twins are essentially just identically aged-non-twins. They are actually collapsing across the MZ/DZ groups to get the results. Therefore, at best, we should look at the MZ group only.
+</p><p>The highest detection group (gray = emergency) would be
+</p><pre class="src-block"><code class="hljs language-R">binom.test(<span class="hljs-number">23</span>, n=<span class="hljs-number">34</span>)
+</code></pre><div class="example">
+	Exact binomial test
+
+data:  23 and 34 
+number of successes = 23, number of trials = 34, p-value = 0.05761
+alternative hypothesis: true probability of success is not equal to 0.5 
+95 percent confidence interval:
+ 0.4947347 0.8261166 
+sample estimates:
+probability of success 
+             0.6764706
+</div><p>The graph is visually very impressive. The standard errors can be obtained from the t-test of say <code class="inline-verbatim">t.test(c(rep(1, 21), rep(0, 13)), mu=0.5)</code> via <code class="inline-verbatim">(0.7897572 - 0.4455369) * 100 / 3.92</code>, or 8.78.
+</p><p>For one then, the DZ gray bar is most suspect. The MZ may or may not pan out. It is better considered a group showing borderline significance above chance. Overall, it gives merit to the idea but I can't walk away convinced that this paper alone is enough to show it. Intruiging? Definitely.
+</p><h3 id="header-line-0" class="header-depth-3">Atherton et al -- A Functional MRI Study of High-Level Cognition. I. The Game of Chess</h3><p>    <a href="doi:10.1016/S0926-6410(02)00207-0">doi:10.1016/S0926-6410(02)00207-0</a></p><p>    this paper is interesting in that its cites the same group's GO paper in its dicsussion. it's an amusing cycle in the reference.
+</p><h4 id="header-line-0" class="header-depth-4"><span class="todo-keyword TODO">TODO</span> retrieve images -- the <code class="inline-code">-B</code> comment needs context</h4><h4 id="header-line-0" class="header-depth-4">background quote</h4><blockquote><p>     Cranberg and Albert hypothesized that chess ability is specialized in the right hemisphere, partly because they found high rates of left-handedness among serious players.     
+</p></blockquote><ul><li>L.D. Cranberg, M.L. Albert, The chess mind, in: L. Kober, D. Fein (Eds.), The Exceptional Brain: Neuropsychology of Talent and Special Abilities, The Guilford Press, New York, 1988, pp. 156– 190.     
+</li></ul><h4 id="header-line-0" class="header-depth-4">methods</h4><ul><li>30s per block block-design
+</li></ul><h5 id="header-line-0" class="header-depth-5">game condition</h5><blockquote><p>      Middlegame positions were selected from De Firmian and Korn by an experienced player who judged them to be of approximately equal complexity. The total number of pieces per board ranged from 25 to 30 with an average of 27.1 pieces per presentation. The total number of pieces was equal for each contemporaneous pair of game and random presentations. Subjects were asked to determine the next best move for White.
+</p></blockquote><ul><li>N. De Firmian, W. Korn (Eds.), Modern Chess Openings: MCO-13, 13th Edition, David McKay, New York, 1990.      
+</li></ul><h5 id="header-line-0" class="header-depth-5">random condition</h5><blockquote><p>      The placement of pieces in the middle of squares was avoided, because during pilot testing subjects indicated that such placement initiated thoughts of possible moves.
+</p></blockquote><h4 id="header-line-0" class="header-depth-4">fmri results</h4><p>     surprising lack of hippocampus in -B conditions; but given that block was 30s, may have equalized
+</p><h4 id="header-line-0" class="header-depth-4">discussion</h4><h5 id="header-line-0" class="header-depth-5">parietal lobes</h5><blockquote><p>      areas of the parietal lobes are involved in numeric comparison [16] and approximation [6], as well as complex spatial tasks such as mental rotation [17].
+</p></blockquote><p>[6] S. Dehaene, E. Spelke, P. Pinel, R. Stanescu, S. Tsivkin, Sources of mathematical thinking: behavioral and brain-imaging evidence, Science 284 (1999) 970–974.
+</p><p>[16] P. Pinel, S. Dehaene, D. Riviere, D. LeBihan, Modulation of parietal activation by semantic distance in a number comparison task, NeuroImage 14 (2001) 1013–1026.
+</p><p>[17] W. Richter, K. Ugurbil, A. Georgopoulos, S. Kim, Time-resolved fMRI of mental rotation, NeuroReport 8 (1997) 3697–3702.
+</p><h5 id="header-line-0" class="header-depth-5">spearman's g</h5><blockquote><p>      Spearman's g, which is characterized as a single factor underlying performance on cognitive tasks (rather than drawing on a diverse set of skills)
+</p></blockquote><p>      sounds like an old fashioned view. is there an update?
+</p><h5 id="header-line-0" class="header-depth-5">vs Go study</h5><blockquote><p>      the main difference between the two studies was activation observed in area 44 for some of the Go subjects.
+</p></blockquote><blockquote><p>      Another important result is the lack of significant hemispheric lateralization in the current study
+</p></blockquote><h3 id="header-line-0" class="header-depth-3">M. S. Harre et al -- The Aggregate Complexity of Decisions in the Game of Go</h3><p>    doi:10.1140/epjb/e2011-10905-8
+</p><p>    this paper is interesting in that it cites the Chess paper in its discussion, an amusing cycle in the reference
+</p><h4 id="header-line-0" class="header-depth-4">methods</h4><blockquote><p>     Six male university students, all amateur players of GO with skill levels from level 1K to 1D (nonprofessional ranking) participated in the study.
+</p></blockquote><h5 id="header-line-0" class="header-depth-5">random board condition</h5><blockquote><p>      Subjects were instructed to search for the stones with low contrast dots among the 30 stones (visual search task).
+</p></blockquote><h4 id="header-line-0" class="header-depth-4">background quote</h4><blockquote><p>     (1) the storage component of spatial working memory is biased in the right parietal areas [16,19]
+</p></blockquote><ul><li>[16] E.E. Smith, J. Jonides, Working memory: A view from neuroimaging, Cogn. Psychol. 33 (1997) 5–42.
+</li><li>[19] L.G. Ungerleider, S.M. Courtney, J.V. Haxby, A neural system for human visual working memory, Proc. Natl. Acad. Sci. USA 95 (1998) 883–890.
+</li></ul><blockquote><p>     left BA44 / 45 is usually involved in language functions [2]
+</p></blockquote><ul><li>[2] R. Cabeza, L. Nyberg, Imaging cognition II: An empirical review of 275 PET and fMRI studies, J. Cogn. Neurosci. 12 (1) (2000) 1–47.
+</li></ul><blockquote><p>     BA30 / 31, important for episodic memory retrieval [2], was active in the GO task.
+</p></blockquote><blockquote><p>     The second issue is the involvement in GO playing of the so-called general intelligence ('g') areas recently roposed by Duncan and colleagues [6].
+</p></blockquote><ul><li>[6] J. Duncan, R.J. Seitz, J. Kolodny et al., A neural basis for general intelligence, Science 289 (2000) 457–460.
+</li></ul><blockquote><p>     more intelligent people often show less frontal activation when they are performing analytical tasks [17].
+</p></blockquote><ul><li>[17] R.J. Sternberg, Cognition: The holey grail of general intelligence, Science 289 (2000) 399–401.
+</li></ul><h4 id="header-line-0" class="header-depth-4">results</h4><blockquote><p>     The only noticeable difference between the two games is that playing GO may involve BA44 / 45 but playing chess may not.
+</p></blockquote><h3 id="header-line-0" class="header-depth-3">Recall of rapidly presented random chess positions is a function of skill</h3><h4 id="header-line-0" class="header-depth-4">background</h4><blockquote><p>     A classical result in the study of expertise is that experts
+are better than nonexperts at memorizing meaningful material from their domain of expertise, but lose their superiority when the material is randomized. This result was first obtained in the study of chess memory (Chase &#x26; Simon, 1973b; Jongman &#x26; Lemmens, cited in Vicente &#x26; De Groot, 1990) and has since been widely cited in cognitive psychology textbooks (see, e.g., Anderson, 1990;
+Lesgold, 1988) and hailed as one of the cornerstones of the study of expertise (Saariluoma, 1989).
+</p></blockquote><blockquote><p>     Simon and Chase (1973) have proposed that 10,000h, or about 10 years, of intense practice and study are necessary to reach a high level of expertise.
+</p></blockquote><p>     on the topic of
+</p><blockquote><p>     the general view among students of expert memory has been that there is nodifference in recall with the standard presentation time of 5 sec
+</p></blockquote><blockquote><p>     In all cases, except in Chase and Simon's (1973b) study, recall performance increases monotonically as a function of skill.
+     ...
+     the strongest skill group out performed the weakest in 12 cases out of 13.
+</p></blockquote><h4 id="header-line-0" class="header-depth-4">meta analysis</h4><blockquote><p>     skill difference in recall with random positions is small (roughly one piece per additional 400 ELO points), much less than for the recall of game positions, where an increase of 400 ELO points typically yields an increase of about five pieces.
+</p></blockquote><p>     (there's a plot here)
+</p><h4 id="header-line-0" class="header-depth-4">best candidate explanation</h4><blockquote><p>     a large database of chunks in LTM, occasionally allowing the recognition of stored patterns that occur by chance in random positions
+</p></blockquote><p>     an agreeable explanation
+</p><h3 id="header-line-0" class="header-depth-3">Perception in Chess</h3><p>    their interpretation of the results from de Groot 1965 &#x26; 1966 is nicely stated
+</p><blockquote><p>    Specifically, if a chess master can remember the location of 20 or more pieces on the board, but has space for only about five chunks in short-term memory, then each chunk must be composed of four or five pieces, organized in a single relational structure.
+</p></blockquote><p>    citations on prior studies involving eye movements wrt the chess board
+</p><ul><li>de Groot, Adriaan D. "Perception and memory versus thought: Some old ideas and recent findings." Problem solving (1966): 19-50.
+</li><li>Simon, Herbert A., and Michael Barenfeld. "Information processing analysis of perceptual processes in problem solving." Psychological Review 76.5 (1969): 473-483.
+</li><li>Tikhomirov, O. K., and E. D. Poznyanskaya. "An investigation of visual search as a means of analyzing heuristics." Journal of Russian and East European Psychology 5.2 (1966): 3-15.
+</li><li>Winikoff, Arnold W. Eye movements as an aid to protocol analysis of problem solving behavior. Diss. Carnegie-Mellon University, 1967.
+</li></ul><h4 id="header-line-0" class="header-depth-4">background information</h4><blockquote><p>     Dansereau (1969), studying times of performance of mental arithmetic and related tasks, estimated that about 2 sec was needed to begin processing a chunk whose label was held in short-term memory, and only about 300 msec to transfer to short-term memory each successive element of the chunk. Intervals even shorter than 300 msec intervals are familiar from other experiments on the speed with which subjects can count down familiar lists (Landauer, 1962; Pierce &#x26; Karlin, 1957). 
+</p></blockquote><h4 id="header-line-0" class="header-depth-4">methods</h4><p>     3 subjects!
+</p><p>     motivation
+</p><blockquote><p>     In the perception task, we ask chess players to reconstruct a chess position while it remains in plain view, and we use subjects' successive glances at the board as an index of chunking. The basic assumption is that, under the conditions of the experiment, the subject will encode only one chunk per glance while reconstructing the position.
+</p></blockquote><blockquote><p>     hypothesis that long pauses would correspond to boundaries between successive chunks, while short time intervals between pieces would indicate that the pieces belonged to the same chunk in memory. 
+</p></blockquote><h4 id="header-line-0" class="header-depth-4">results</h4><blockquote><p>     from the within-glance relations, it appears that subjects are noticing the pawn structure, clusters of pieces of the same color, and attack and defense relations over small spatial distances. 
+</p></blockquote><p>     i.e., chunking is facilitated by spatial proximity. Not surprising, but speaks against the notion that if we have a master, they are chunking the board -- though, it could be possible, with a large enough repertoire. The point being that what's observed here is within expectation of skill mastery.
+</p><h5 id="header-line-0" class="header-depth-5">reconstruct the table?</h5><h5 id="header-line-0" class="header-depth-5">interview</h5><blockquote><p>      M, when interviewed after the experiment, reported that he was troubled by positions that looked "unreasonable." He also reported difficulty with positions that were not quiet, complaining that he couldn't get the "sense" of the position when it was in the middle of an exchange. 
+</p></blockquote><blockquote><p>      M recognized four of the nine new positions, and always within the first second of exposure
+</p></blockquote><h2 id="header-line-0" class="header-depth-2">books</h2><p>   Exit, Voice, and Loyalty
+</p><p>   The Economies of Cities
+</p><h2 id="header-line-0" class="header-depth-2">probability matching</h2><p><a href="file:probability-matching.org">file:probability-matching.org</a></p></div></article><footer class="mt-8 text-sm text-gray-500"><p>Last updated: 2013-05-01T19:32:12.000Z</p><p>Commit: </p></footer></div></body></html>
